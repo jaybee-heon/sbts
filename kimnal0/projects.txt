@@ -1,0 +1,17 @@
+Chart 1
+Cli 40
+Closure 107
+Codec 18
+Collections 28
+Compress 47
+Csv 16
+Gson 18
+JacksonCore 26
+JacksonDatabind 112
+JacksonXml 6
+Jsoup 1
+JxPath 22
+Lang 1
+Math 1
+Mockito 3
+Time 1
