@@ -1,6 +1,7 @@
 import subprocess
 import json
 import xml.etree.ElementTree as ET
+from tqdm import tqdm
 
 # 명령어를 실행하는 함수
 def run_command(command):
@@ -35,11 +36,13 @@ def make_coverage_command(pid, vid, test_signature):
 
 if __name__ == "__main__":
     projects = "./projects.txt"
-    output_file = './coverage.json'
-    coverage = dict()
+    
+    # coverage = dict()
     with open(projects) as pf:
         for line in pf:
+            coverage = dict()
             pid, vid = line.split()
+            output_file = f'./{pid}-{vid}_coverage.json'
             coverage[pid+"_"+vid] = dict()
 
             print(f"Doing checkout...")
@@ -56,9 +59,10 @@ if __name__ == "__main__":
             with open(test_file_path) as tf:
                 all_tests = tf.readlines()
             
-            for test in all_tests:
+            for test in tqdm(all_tests):
                 test_method, test_class = test.split('(')
-                test_class = test_class[:-2]
+                test_class = test_class.split(')')[0]
+                print(test_class)
                 test_signature = test_class+"::"+test_method
                 coverage[pid+"_"+vid][test_signature] = dict()
 
@@ -76,10 +80,10 @@ if __name__ == "__main__":
 
                 coverage[pid+"_"+vid][test_signature]={"line_rate": line_rate, "branch_rate": branch_rate}
 
-
-    
-    with open(output_file, 'w') as wf:
-        json.dump(coverage, wf, indent = 4)
+                
+            
+            with open(output_file, 'w') as wf:
+                json.dump(coverage, wf, indent = 4)
 
 
 
