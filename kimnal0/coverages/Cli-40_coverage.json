@@ -1,0 +1,1424 @@
+{
+    "Cli_40": {
+        "org.apache.commons.cli.ApplicationTest::testAnt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ApplicationTest::testMan": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ApplicationTest::testNLT": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ApplicationTest::testLs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ApplicationTest::testGroovy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ArgumentIsOptionTest::testOptionWithArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ArgumentIsOptionTest::testOptionAndOptionWithArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ArgumentIsOptionTest::testOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testSimpleLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testSimpleShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMissingRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testReuseOptionsTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMissingRequiredGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testOptionGroupLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMissingRequiredOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testShortWithUnexpectedArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOverrideValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testStopAtNonOptionLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testNegativeArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testStopAtUnexpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testLongWithoutEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionSingularValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionMultipleValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMissingArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionFlags": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMultipleWithLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testUnrecognizedOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionUnexpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testWithRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testUnlimitedArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testPropertyOptionRequired": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testOptionAndRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testLongWithUnexpectedArgument1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testLongWithUnexpectedArgument2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testStopAtNonOptionShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testMultiple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testArgumentStartingWithHyphen": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testDoubleDash1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.BasicParserTest::testStopAtExpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetParsedOptionValue": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetParsedOptionValueWithOption": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testNullhOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testBuilder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetOptionProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetOptionPropertiesWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.CommandLineTest::testGetParsedOptionValueWithChar": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testSimpleLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testSimpleShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopBursting2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMissingRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testShortWithoutEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testReuseOptionsTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMissingRequiredGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testOptionGroupLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testAmbiguousLongWithoutEqualSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMissingArgWithBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMissingRequiredOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testShortWithUnexpectedArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOverrideValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopAtNonOptionLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testNegativeArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopAtUnexpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPartialLongOptionSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithoutEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithoutEqualSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionSingularValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionMultipleValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMissingArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionFlags": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnrecognizedOptionWithBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMultipleWithLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnrecognizedOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testAmbiguousPartialLongOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testAmbiguousPartialLongOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testAmbiguousPartialLongOption3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testAmbiguousPartialLongOption4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionUnexpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testShortWithEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testWithRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnlimitedArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testNegativeOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertyOptionRequired": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testOptionAndRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithUnexpectedArgument1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithUnexpectedArgument2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopAtNonOptionShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testLongWithEqualSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnambiguousPartialLongOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnambiguousPartialLongOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnambiguousPartialLongOption3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testUnambiguousPartialLongOption4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testMultiple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testArgumentStartingWithHyphen": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertiesOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testPropertiesOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testDoubleDash1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testDoubleDash2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DefaultParserTest::testStopAtExpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DisablePartialMatchingTest::testDisablePartialMatching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.DisablePartialMatchingTest::testRegularPartialMatching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testSimpleLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testSimpleShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMissingRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testShortWithoutEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testReuseOptionsTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMissingRequiredGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testOptionGroupLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMissingRequiredOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOverrideValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testStopAtNonOptionLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testNegativeArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testStopAtUnexpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testLongWithoutEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionSingularValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionMultipleValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMissingArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionFlags": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMultipleWithLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testUnrecognizedOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionUnexpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testShortWithEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testWithRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testUnlimitedArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertyOptionRequired": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testOptionAndRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testLongWithEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testStopAtNonOptionShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testLongWithEqualSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testMultiple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testArgumentStartingWithHyphen": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertiesOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testPropertiesOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testDoubleDash1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.GnuParserTest::testStopAtExpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testUsageWithLongOptSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextSingleLine": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testIndentedHeaderAndFooter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintSortedUsageWithNullComparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testAccessors": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRtrim": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintRequiredOptionGroupUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testHelpWithLongOptSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextSingleLinePadded": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextMultiLine": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintSortedUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintHelpWithEmptySyntax": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testAutomaticUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testDefaultArgName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testHeaderStartingWithLineSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextWordCut": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testOptionWithoutShortFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextMultiLinePadded": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintOptionGroupUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testPrintOptionWithEmptyArgNameUsage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testRenderWrappedTextSingleLinePadded2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testOptionWithoutShortFormat2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.HelpFormatterTest::testFindWrapPos": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testBaseOptionStringOpt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testTwoCompleteOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testBuilderIsResettedAlways": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testCompleteOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testCreateIncompleteOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testOptionArgNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testIllegalOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testSpecialOptChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testBaseOptionCharOpt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromDifferentGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testNoOptionsExtraArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testGetNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoValidOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoValidLongOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleOptionFromGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromGroupWithProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoLongOptionsFromGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleLongOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionGroupTest::testValidLongOnlyOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testGetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testSubclass": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testClear": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testClone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testHasArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testHasArgName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testHashCode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderInsufficientParams1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderInsufficientParams2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testMissingOptionsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testGetMatchingOpts": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testHelpOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testMissingOptionException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testDuplicateSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testGetOptionsGroups": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testDuplicateLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.OptionsTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testSimplePattern": {
+            "line_rate": "0.6222222222222222",
+            "branch_rate": "0.85"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePattern": {
+            "line_rate": "0.2222222222222222",
+            "branch_rate": "0.35"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testURLPattern": {
+            "line_rate": "0.3111111111111111",
+            "branch_rate": "0.45"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testEmptyPattern": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testClassPattern": {
+            "line_rate": "0.2222222222222222",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePatternFileNotExist": {
+            "line_rate": "0.26666666666666666",
+            "branch_rate": "0.35"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testNumberPattern": {
+            "line_rate": "0.2222222222222222",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testUntypedPattern": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testObjectPattern": {
+            "line_rate": "0.24444444444444444",
+            "branch_rate": "0.1"
+        },
+        "org.apache.commons.cli.PosixParserTest::testSimpleLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testSimpleShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopBursting2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testShortWithoutEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testReuseOptionsTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionGroupLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingArgWithBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testShortWithUnexpectedArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOverrideValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtNonOptionLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testNegativeArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtUnexpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPartialLongOptionSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithoutEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionSingularValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionMultipleValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionFlags": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionGroup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnrecognizedOptionWithBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMultipleWithLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnrecognizedOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testBursting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionUnexpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testSingleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testWithRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnlimitedArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionRequired": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionAndRequiredOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithEqualDoubleDash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithUnexpectedArgument2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtNonOptionShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnambiguousPartialLongOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnambiguousPartialLongOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnambiguousPartialLongOption3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testMultiple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testArgumentStartingWithHyphen": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertiesOption1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertiesOption2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testDoubleDash1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtExpectedArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueNumber_Long": {
+            "line_rate": "0.13333333333333333",
+            "branch_rate": "0.2"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueURL": {
+            "line_rate": "0.24444444444444444",
+            "branch_rate": "0.45"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueClass": {
+            "line_rate": "0.15555555555555556",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueFiles": {
+            "line_rate": "0.2222222222222222",
+            "branch_rate": "0.4"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueNumber_noNumber": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.2"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueObject_notInstantiableClass": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.1"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueObject_InstantiableClass": {
+            "line_rate": "0.13333333333333333",
+            "branch_rate": "0.1"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueExistingFile_nonExistingFile": {
+            "line_rate": "0.24444444444444444",
+            "branch_rate": "0.35"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueExistingFile": {
+            "line_rate": "0.2",
+            "branch_rate": "0.35"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueClass_notFound": {
+            "line_rate": "0.2",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueNumber_Double": {
+            "line_rate": "0.13333333333333333",
+            "branch_rate": "0.2"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueString": {
+            "line_rate": "0.044444444444444446",
+            "branch_rate": "0.05"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueObject_unknownClass": {
+            "line_rate": "0.13333333333333333",
+            "branch_rate": "0.1"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueURL_malformed": {
+            "line_rate": "0.28888888888888886",
+            "branch_rate": "0.45"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueDate": {
+            "line_rate": "0.13333333333333333",
+            "branch_rate": "0.2"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueFile": {
+            "line_rate": "0.17777777777777778",
+            "branch_rate": "0.3"
+        },
+        "org.apache.commons.cli.TypeHandlerTest::testCreateValueInteger_failure": {
+            "line_rate": "0.2222222222222222",
+            "branch_rate": "0.45"
+        },
+        "org.apache.commons.cli.UtilTest::testStripLeadingAndTrailingQuotes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.UtilTest::testStripLeadingHyphens": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalArgValuesWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalNArgValuesWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgValuesWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgValueWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalArgValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgNoValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortNoArgWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongWithArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalNArgValuesWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalNArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortWithArgWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortWithArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalArgValueWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalNArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongNoArgWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalNoValueWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongNoArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortNoArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongOptionalNoValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testShortOptionalArgNoValueWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValueTest::testLongWithArgWithOption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testTwoArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testShortArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testCharSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testExtraArgs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testShortArgsWithValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testComplexValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.ValuesTest::testMultipleArgValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI133Test::testOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI13Test::testCLI13": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI148Test::testWorkaround1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI148Test::testWorkaround2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI162Test::testInfiniteLoop": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI162Test::testLongLineChunkingIndentIgnored": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI162Test::testLongLineChunking": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI162Test::testPrintHelpLongLines": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI18Test::testCLI18": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI252Test::testAmbiquousOptionName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI252Test::testExactOptionNameMatch": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI265Test::shouldParseShortOptionWithValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI265Test::shouldParseShortOptionWithoutValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI265Test::shouldParseConcatenatedShortOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI266Test::testOptionComparatorInsertedOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI266Test::testOptionComparatorDefaultOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI71Test::testBasic": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI71Test::testLackOfError": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI71Test::testMistakenArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugCLI71Test::testGetsDefaultIfOptional": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test11456": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test11457": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test11458": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test11680": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test12210": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test13425": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test13666": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test13935": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test14786": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test15046": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test15648": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.cli.bug.BugsTest::test31148": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}
