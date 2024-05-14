@@ -1,0 +1,1176 @@
+{
+    "Csv_16": {
+        "org.apache.commons.csv.AssertionsTest::testNotNullNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.AssertionsTest::testNotNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[0]": {
+            "line_rate": "0.5666666666666667",
+            "branch_rate": "0.4117647058823529"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[0]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[1]": {
+            "line_rate": "0.575",
+            "branch_rate": "0.38235294117647056"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[1]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[2]": {
+            "line_rate": "0.5166666666666667",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[2]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[3]": {
+            "line_rate": "0.5166666666666667",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[3]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[4]": {
+            "line_rate": "0.575",
+            "branch_rate": "0.4117647058823529"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[4]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[5]": {
+            "line_rate": "0.5166666666666667",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[5]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testTDF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testExcel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testMySQL": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testRFC4180": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testPostgreSqlCsv": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testPostgreSqlText": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testOracle": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsIgnoreSurroundingSpaces": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsCommentStart": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithDelimiter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testToStringAndWithCommentMarkerTakingCharacter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuotePolicyNoneWithoutEscapeThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuoteLFThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithFirstRecordAsHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testSerialization": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testNullRecordSeparatorCsv106": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsQuoteChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeaderComments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsSkipHeaderRecord": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsCommentStartThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorCR": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEscapeCRThrowsExceptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithSystemRecordSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithIgnoreEmptyLines": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsNoQuotes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testHashCodeAndWithIgnoreHeaderCase": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsEscape": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsIgnoreEmptyLines": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithCommentStart": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testNewFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithIgnoreSurround": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testRFC4180": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEscapeSameAsCommentStartThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testFormatThrowsNullPointerException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDelimiterSameAsCommentStartThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsDelimiter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsCommentStartThrowsExceptionForWrapperType": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsNullString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuotePolicy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsQuotePolicy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEscapeSameAsCommentStartThrowsExceptionForWrapperType": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsRecordSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithCommentStartCRThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsDelimiterThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithDelimiterLFThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDelimiterSameAsEscapeThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEscape": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testGetHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsLeftNoQuoteRightQuote": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuoteChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEmptyEnum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorCRLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDuplicateHeaderElements": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithNullString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeaderEnum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsWithNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_parseWithReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelHeaderCountLessThanData": {
+            "line_rate": "0.5666666666666667",
+            "branch_rate": "0.4852941176470588"
+        },
+        "org.apache.commons.csv.CSVParserTest::testMultipleIterators": {
+            "line_rate": "0.5083333333333333",
+            "branch_rate": "0.2647058823529412"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderComment": {
+            "line_rate": "0.6333333333333333",
+            "branch_rate": "0.5"
+        },
+        "org.apache.commons.csv.CSVParserTest::testDefaultFormat": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3382352941176471"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordPositionWithCRLF": {
+            "line_rate": "0.43333333333333335",
+            "branch_rate": "0.22058823529411764"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderMissing": {
+            "line_rate": "0.5916666666666667",
+            "branch_rate": "0.47058823529411764"
+        },
+        "org.apache.commons.csv.CSVParserTest::testTrailingDelimiter": {
+            "line_rate": "0.5583333333333333",
+            "branch_rate": "0.36764705882352944"
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_ParserWithInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineCrLf": {
+            "line_rate": "0.4666666666666667",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testProvidedHeaderAuto": {
+            "line_rate": "0.5916666666666667",
+            "branch_rate": "0.45588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordWithMultiLineValues": {
+            "line_rate": "0.44166666666666665",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullStringFormat": {
+            "line_rate": "0.008333333333333333",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipSetAltHeaders": {
+            "line_rate": "0.55",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithCR": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithLF": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testCSV57": {
+            "line_rate": "0.3333333333333333",
+            "branch_rate": "0.10294117647058823"
+        },
+        "org.apache.commons.csv.CSVParserTest::testClose": {
+            "line_rate": "0.625",
+            "branch_rate": "0.4411764705882353"
+        },
+        "org.apache.commons.csv.CSVParserTest::testTrim": {
+            "line_rate": "0.55",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithCR": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithLF": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParserUrlNullCharsetFormat": {
+            "line_rate": "0.016666666666666666",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testForEach": {
+            "line_rate": "0.475",
+            "branch_rate": "0.3235294117647059"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetOneLine": {
+            "line_rate": "0.44166666666666665",
+            "branch_rate": "0.2647058823529412"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithCRLF": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testCarriageReturnLineFeedEndings": {
+            "line_rate": "0.4583333333333333",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithCRLF": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.20588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseUrlCharsetNullFormat": {
+            "line_rate": "0.025",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_ParserWithReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyFile": {
+            "line_rate": "0.30833333333333335",
+            "branch_rate": "0.08823529411764706"
+        },
+        "org.apache.commons.csv.CSVParserTest::testCarriageReturnEndings": {
+            "line_rate": "0.4583333333333333",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLine": {
+            "line_rate": "0.4166666666666667",
+            "branch_rate": "0.2647058823529412"
+        },
+        "org.apache.commons.csv.CSVParserTest::testIgnoreCaseHeaderMapping": {
+            "line_rate": "0.5416666666666666",
+            "branch_rate": "0.36764705882352944"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordPositionWithLF": {
+            "line_rate": "0.43333333333333335",
+            "branch_rate": "0.22058823529411764"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetOneLineOneParser": {
+            "line_rate": "0.38333333333333336",
+            "branch_rate": "0.19117647058823528"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeadersMissingException": {
+            "line_rate": "0.44166666666666665",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testProvidedHeader": {
+            "line_rate": "0.575",
+            "branch_rate": "0.45588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testIteratorSequenceBreaking": {
+            "line_rate": "0.45",
+            "branch_rate": "0.27941176470588236"
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipHeaderOverrideDuplicateHeaders": {
+            "line_rate": "0.55",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullUrlCharsetFormat": {
+            "line_rate": "0.008333333333333333",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testInvalidFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testBackslashEscaping2": {
+            "line_rate": "0.45",
+            "branch_rate": "0.2647058823529412"
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelFormat1": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelFormat2": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testEndOfFileBehaviourExcel": {
+            "line_rate": "0.4583333333333333",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testRoundtrip": {
+            "line_rate": "0.49166666666666664",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testNoHeaderMap": {
+            "line_rate": "0.21666666666666667",
+            "branch_rate": "0.04411764705882353"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseFileNullFormat": {
+            "line_rate": "0.016666666666666666",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetHeaderMap": {
+            "line_rate": "0.6333333333333333",
+            "branch_rate": "0.4852941176470588"
+        },
+        "org.apache.commons.csv.CSVParserTest::testBackslashEscaping": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testLineFeedEndings": {
+            "line_rate": "0.4583333333333333",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testMappedButNotSetAsOutlook2007ContactExport": {
+            "line_rate": "0.6",
+            "branch_rate": "0.45588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyLineBehaviourCSV": {
+            "line_rate": "0.45",
+            "branch_rate": "0.27941176470588236"
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipSetHeader": {
+            "line_rate": "0.55",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderMissingWithNull": {
+            "line_rate": "0.48333333333333334",
+            "branch_rate": "0.38235294117647056"
+        },
+        "org.apache.commons.csv.CSVParserTest::testIgnoreEmptyLines": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testEndOfFileBehaviorCSV": {
+            "line_rate": "0.4583333333333333",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testNewCSVParserNullReaderFormat": {
+            "line_rate": "0.041666666666666664",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseStringNullFormat": {
+            "line_rate": "0.016666666666666666",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyLineBehaviourExcel": {
+            "line_rate": "0.45",
+            "branch_rate": "0.27941176470588236"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeader": {
+            "line_rate": "0.5916666666666667",
+            "branch_rate": "0.45588235294117646"
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecords": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeadersMissing": {
+            "line_rate": "0.48333333333333334",
+            "branch_rate": "0.36764705882352944"
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineCr": {
+            "line_rate": "0.4666666666666667",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineLf": {
+            "line_rate": "0.4666666666666667",
+            "branch_rate": "0.3088235294117647"
+        },
+        "org.apache.commons.csv.CSVParserTest::testDuplicateHeaders": {
+            "line_rate": "0.4666666666666667",
+            "branch_rate": "0.3235294117647059"
+        },
+        "org.apache.commons.csv.CSVParserTest::testIterator": {
+            "line_rate": "0.5083333333333333",
+            "branch_rate": "0.38235294117647056"
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullFileFormat": {
+            "line_rate": "0.008333333333333333",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipAutoHeader": {
+            "line_rate": "0.5583333333333333",
+            "branch_rate": "0.35294117647058826"
+        },
+        "org.apache.commons.csv.CSVParserTest::testNewCSVParserReaderNullFormat": {
+            "line_rate": "0.05",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithEmptyVector": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderCommentTdf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimeterQuoteNONE": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderNotSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomExcel": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomMySql": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllArrayOfLists": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintOnePositiveInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrint": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteNonNumeric": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithResultSetOneRow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithCsvFormatAutoFlushOff": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinterWithResultSetMetaData": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLEscaped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull5": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter5": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter6": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter7": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimiterPlain": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPostgreSQLNullStringDefaultText": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSingleQuoteQuoted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithObjectArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOffOneColumn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDontQuoteEuroFirstChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrailingDelimiterOnTwoColumns": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteAll": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomTdf": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToFileWithCharsetUtf16Be": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLQuoted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToPathWithDefaultCharset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLPlain": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllIterableOfLists": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOnOneColumn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimeterQuoted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSkipHeaderRecordFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainPlain": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSingleLineComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllIterableOfArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testNewCsvPrinterAppendableNullFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testInvalidFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMultiLineComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinterWithResultSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteCommaFirstChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainQuoted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomRfc4180": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllArrayOfArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash5": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSkipHeaderRecordTrue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomDefault": {
+            "line_rate": "0.45",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseBackwardCompatibility": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithCsvFormatAutoFlushOn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOnTwoColumns": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimiterEscaped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPostgreSQLNullStringDefaultCsv": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testParseCustomNullValues": {
+            "line_rate": "0.5083333333333333",
+            "branch_rate": "0.3382352941176471"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintCustomNullValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintNullValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderCommentExcel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrinter1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrinter2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithFlushOn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMySqlNullOutput": {
+            "line_rate": "0.425",
+            "branch_rate": "0.2647058823529412"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMySqlNullStringDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testNewCSVPrinterNullAppendableFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainEscaped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToFileWithDefaultCharset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithFlushOff": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDisabledComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testRemoveAndAddColumns": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testPutInMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsConsistent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsMapped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetStringInconsistentRecord": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMapWithShortRecord": {
+            "line_rate": "0.5916666666666667",
+            "branch_rate": "0.38235294117647056"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetStringNoHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedPositiveInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedNegativeInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedEnum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIterator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMapWithNoHeader": {
+            "line_rate": "0.49166666666666664",
+            "branch_rate": "0.25"
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testEmptyInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLine": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLookahead1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLookahead2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken5": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken6": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testTab": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testSurroundingSpacesAreDeleted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedControlCharacter2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testCommentsAndEmptyLines": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testCR": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testFF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedTab": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testComments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testSurroundingTabsAreDeleted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapingAtEOF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedMySqlNullValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedBackspace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testBackslashWithEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedCharacter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testBackslashWithoutEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testDelimiterIsWhitespace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testIgnoreEmptyLines": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedControlCharacter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedCR": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedFF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.LexerTest::testBackspace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testHasContent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testHasType": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testIsReady": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv164Test::testJiraCsv154_withCommentMarker": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv164Test::testJiraCsv154_withHeaderComments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv167Test::parse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv198Test::test": {
+            "line_rate": "0.6083333333333333",
+            "branch_rate": "0.4852941176470588"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeMinimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithoutQuoteMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeNonNumeric": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeAllNonNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithEmptyValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithoutNullString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeAll": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}

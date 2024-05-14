@@ -1,0 +1,3584 @@
+{
+    "Compress_47": {
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_odc.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_cEf.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_pax.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02768166089965398"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_newc.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_ustar.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_-c.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_crc.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_bin.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD.zip]": {
+            "line_rate": "0.5375302663438256",
+            "branch_rate": "0.28719723183391005"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_cAEf.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_crc.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS.ar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS.zip]": {
+            "line_rate": "0.5375302663438256",
+            "branch_rate": "0.28719723183391005"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD.ar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=SunOS_cf.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveReadTest::testArchive[file=FreeBSD_hpbin.cpio]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testToAsciiBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testToAsciiStringThrowsStringIndexOutOfBoundsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testToStringWithNonNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testCompareBA": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testAsciiConversions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testIsEqualWithNullWithPositive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::sanitizeLeavesShortStringsAlone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::sanitizeShortensString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testCompareAscii": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::sanitizeRemovesUnprintableCharacters": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ArchiveUtilsTest::testIsEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ChainingTestCase::testTarGzip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.ChainingTestCase::testTarBzip2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testDetection": {
+            "line_rate": "0.08716707021791767",
+            "branch_rate": "0.03460207612456748"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testEmptyJarArchive": {
+            "line_rate": "0.1016949152542373",
+            "branch_rate": "0.02768166089965398"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testEmptyZipArchive": {
+            "line_rate": "0.1016949152542373",
+            "branch_rate": "0.02768166089965398"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testDetectionNotArchive": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testCOMPRESS117": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testCOMPRESS335": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.DetectArchiverTestCase::testEmptyCpioArchive": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testWriteJar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testWriteTar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testWriteZip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testWriteCpio": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testReadCpio": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testReadJar": {
+            "line_rate": "0.3341404358353511",
+            "branch_rate": "0.16262975778546712"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testReadTar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testReadZip": {
+            "line_rate": "0.3365617433414044",
+            "branch_rate": "0.16262975778546712"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testWriteAr": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.IOMethodsTest::testReadAr": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArTestCase::testArDelete": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArTestCase::testArUnarchive": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArTestCase::testFileEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArTestCase::testArArchiveCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArTestCase::testExplicitFileEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testCallSequenceAr": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testCallSequenceCpio": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testFinish": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testOptionalFinish": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testCallSequenceJar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testCallSequenceTar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveOutputStreamTest::testCallSequenceZip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveServiceLoaderTest::testInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveServiceLoaderTest::testOutputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::cantRead7zFromStream": {
+            "line_rate": "0.07263922518159806",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::skipsPK00Prefix": {
+            "line_rate": "0.1016949152542373",
+            "branch_rate": "0.03460207612456748"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::cantWrite7zToStream": {
+            "line_rate": "0.07263922518159806",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStream": {
+            "line_rate": "0.08716707021791767",
+            "branch_rate": "0.0034602076124567475"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingInputStreamAutodetect": {
+            "line_rate": "0.1016949152542373",
+            "branch_rate": "0.03806228373702422"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::aiffFilesAreNoTARs": {
+            "line_rate": "0.0847457627118644",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingCtor": {
+            "line_rate": "0.07263922518159806",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::shortTextFilesAreNoTARs": {
+            "line_rate": "0.0847457627118644",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::detectsAndThrowsFor7z": {
+            "line_rate": "0.0847457627118644",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testCOMPRESS209": {
+            "line_rate": "0.0847457627118644",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testDetect": {
+            "line_rate": "0.08958837772397095",
+            "branch_rate": "0.03806228373702422"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingDeprecated": {
+            "line_rate": "0.07263922518159806",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ArchiveStreamFactoryTest::testEncodingOutputStream": {
+            "line_rate": "0.07263922518159806",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testCpioUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testFileEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testDirectoryEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testExplicitDirectoryEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testExplicitFileEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.CpioTestCase::testCpioArchiveCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testArchiveDetection": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testCompressedDumpUnarchiveAll": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testDumpUnarchiveAll": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testCheckArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testCheckCompressedArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.DumpTestCase::testCompressedArchiveDetection": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.ExceptionMessageTest::testMessageWhenArchiverNameIsNull_1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ExceptionMessageTest::testMessageWhenArchiverNameIsNull_2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ExceptionMessageTest::testMessageWhenOutputStreamIsNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ExceptionMessageTest::testMessageWhenInputStreamIsNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.JarTestCase::testJarUnarchive": {
+            "line_rate": "0.44794188861985473",
+            "branch_rate": "0.23183391003460208"
+        },
+        "org.apache.commons.compress.archivers.JarTestCase::testJarArchiveCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.JarTestCase::testJarUnarchiveAll": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.30103806228373703"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur_posix.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=cygwin_oldgnu.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=cygwin_pax.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=cygwin_posix.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=vmgump_ustar.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur-0.jar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=cygwin_ustar.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur_ustar.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=vmgump_gnu.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur_pax.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=hudson-E.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur.ar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur-z.zip]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=vmgump_posix.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=winXP_antgnu.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=vmgump_pax.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur.cpio]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=hudson.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur.zip]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur.jar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur-c.zip]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=cygwin_gnu.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=minotaur-M.jar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongPathTest::testArchive[file=vmgump_oldgnu.tar]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.LongSymLinkTest::testArchive[file=gnu.tar]": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.SevenZTestCase::testSevenZArchiveCreationUsingCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.SevenZTestCase::testSevenZArchiveCreationUsingLZMA": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.SevenZTestCase::testSevenZArchiveCreationUsingBZIP2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.SevenZTestCase::testSevenZArchiveCreationUsingLZMA2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.SevenZTestCase::testSevenZArchiveCreationUsingDeflate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testTarUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testFileEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testDirectoryEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testTarArchiveLongNameCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testTarArchiveCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testExplicitDirectoryEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS114": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testCOMPRESS178": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.TarTestCase::testExplicitFileEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testUnixModeInAddRaw": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testSkipsPK00Prefix": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2906574394463668"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testZipUnarchive": {
+            "line_rate": "0.3559322033898305",
+            "branch_rate": "0.16608996539792387"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testFileEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testDirectoryEntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testCopyRawEntriesFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testZipArchiveCreationInMemory": {
+            "line_rate": "0.5375302663438256",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testCopyRawZip64EntryFromFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testSkipEntryWithUnsupportedCompressionMethod": {
+            "line_rate": "0.4213075060532688",
+            "branch_rate": "0.17993079584775087"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testExplicitDirectoryEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testSupportedCompressionMethod": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testListAllFilesWithNestedArchive": {
+            "line_rate": "0.549636803874092",
+            "branch_rate": "0.30103806228373703"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testExplicitFileEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ZipTestCase::testZipArchiveCreation": {
+            "line_rate": "0.5423728813559322",
+            "branch_rate": "0.2906574394463668"
+        },
+        "org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest::testReadLongNamesBSD": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest::testReadLongNamesGNU": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest::testLongFileNamesCauseExceptionByDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest::testLongFileNamesWorkUsingBSDDialect": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest::testReadingOfAttributesUnixVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest::testArjUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest::testReadingOfAttributesDosVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.arj.CoverageTest::testHostOsInstance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.arj.CoverageTest::testHeaderInstances": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.arj.CoverageTest::testCallLFHToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest::testCpioUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest::testCpioUnarchiveCreatedByRedlineRpm": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStreamTest::testWriteOldBinary": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::oldBinMagic2ByteArraySwapped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::oldBinMagicFromByteArraySwapped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::testLong2byteArrayWithPositiveThrowsUnsupportedOperationException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::oldBinMagicFromByteArrayNotSwapped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::testLong2byteArrayWithZeroThrowsUnsupportedOperationException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::testByteArray2longThrowsUnsupportedOperationException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.cpio.CpioUtilTest::oldBinMagic2ByteArrayNotSwapped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest::publicNameRemovesLeadingDotSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest::publicNameAddsTrailingSlashForDirectories": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest::testNotADumpArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest::testConsumesArchiveCompletely": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest::testNotADumpArchiveButBigEnough": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest::convert16": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest::convert32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest::convert64": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest::testJarMarker": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.jar.JarMarkerTest::testJarMarkerLengthCheck": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.memory.MemoryArchiveTestCase::testReading": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.AES256SHA256DecoderTest::testDecodeWithNonEmptyString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.CoverageTest::testNidInstance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.CoverageTest::testCLIInstance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.FolderTest::testFindBindPairForInStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.FolderTest::testGetUnpackSizeOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.FolderTest::testGetUnpackSizeTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.FolderTest::testGetUnpackSizeForCoderOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest::shouldThrowIfNoCreationDateIsSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest::shouldThrowIfNoAccessDateIsSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest::shouldThrowIfNoLastModifiedDateIsSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testSignatureCheck": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::test7zUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::test7zDeflate64Unarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testHelloWorldHeaderCompressionOffLZMA2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::getEntriesOfUnarchiveTest": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testCompressedHeaderWithNonDefaultDictionarySize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testAllEmptyFilesArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::test7zDecryptUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testRandomlySkippingEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testEncryptedArchiveRequiresPassword": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::getEntriesOfUnarchiveInMemoryTest": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::test7zDeflateUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testReadingBackDeltaDistance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testHelloWorldHeaderCompressionOffCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::readEntriesOfSize0": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZFileTest::testReadingBackLZMA2DictSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowNumberForBzip2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowNumberForLZMA2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowNumberForLZMA": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowLZMA2OptionsForLZMA2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowLZMA2OptionsForLZMA": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldNotAllowStringOptionsForLZMA2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowNumberForDeflate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldNotAllowStringOptionsForLZMA": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest::shouldAllowNullOptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest::testEndDeflaterOnCloseStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest::testEndInflaterOnCloseStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testLzma2WithIntConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testLzmaWithIntConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testLzma2Roundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJX86Roundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJARMThumbRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testLzma2WithOptionsConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testStackOfContentCompressions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightFilesSomeNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJPPCRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testDeltaRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testEightEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSixFilesSomeNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBzip2WithConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testLzmaWithOptionsConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testCantFinishTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJARMRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testTwentyNineEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testNineFilesSomeNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testCopyRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJSparcRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testArchiveWithMixedMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testDeflateWithConfiguration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testDirectoriesOnly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testDeflateRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testTwentyNineFilesSomeNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testStackOfContentCompressionsInMemory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testDirectoriesAndEmptyFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBzip2Roundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testBCJIA64Roundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest::testSevenFilesSomeNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.SparseFilesTest::testOldGNU": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.SparseFilesTest::testPaxGNU": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testTarFileWithFSRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testExtraPaxHeaders": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testLinkFlagConstructorWithPreserve": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testFileSystemRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testLinkFlagConstructorWithFileFlag": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testMaxFileSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveEntryTest::testLinkFlagConstructor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::workaroundForBrokenTimeHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::paxHeaderEntryWithEmptyValueRemovesKey": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldConsumeArchiveCompletely": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::readsArchiveCompletely_COMPRESS245": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::readSimplePaxHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::datePriorToEpochInGNUFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldThrowAnExceptionOnTruncatedEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::secondEntryWinsWhenPaxHeaderContainsDuplicateKey": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesBlankLinesInPaxHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldUseSpecifiedEncodingWhenReadingGNULongNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::skipsDevNumbersWhenEntryIsNoDevice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::testCompress197": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::testGetAndSetOfPaxEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldReadGNULongNameEntryWithWrongName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::datePriorToEpochInPAXFormat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::shouldReadBigGid": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::survivesPaxHeaderWithNameEndingInSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::readPaxHeaderWithEmbeddedNewline": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest::readNonAsciiPaxHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongDirectoryNameGnuMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testPaxHeadersWithLength99": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteSimplePaxHeaders": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongDirectoryNamePosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongLinkNameGnuMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongLinkNameTruncateMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongDirectoryNameTruncateMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongLinkNamePosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiNameWithUnfortunateNamePosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testCount": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongFileNamePosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testBigNumberStarMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testMaxFileSizeError": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testOldEntryStarMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testRecordSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testLongNameMd5Hash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testRoundtripWith67CharFileNameGnu": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testBlockSizes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiDirectoryNamePosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testBigNumberPosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testOldEntryPosixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testOldEntryError": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongDirectoryNameErrorMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testRoundtripWith67CharFileNamePosix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteLongLinkNameErrorMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testPutGlobalPaxHeaderEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiPathNamePaxHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testWriteNonAsciiLinkPathNamePaxHeader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest::testPaxHeadersWithLength101": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testReadNegativeBinary12Byte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testReadNegativeBinary8Byte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testWriteNegativeBinary8Byte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testVerifyHeaderCheckSum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary12": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalCompress330": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testParseOctalInvalid": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundEncoding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testNegative": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testRoundTripOctalOrBinary8_ValueTooBigForBinary": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.tar.TarUtilsTest::testTrailers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.AsiExtraFieldTest::testClone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.AsiExtraFieldTest::testModes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.AsiExtraFieldTest::testContent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.AsiExtraFieldTest::testReparse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BinaryTreeTest::testExceptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BinaryTreeTest::testDecode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BitStreamTest::testNextByteFromEmptyStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BitStreamTest::testEmptyStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BitStreamTest::testReadAlignedBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BitStreamTest::testStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.BitStreamTest::testNextByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.CircularBufferTest::testCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.CircularBufferTest::testPutAndGet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorWhenAddingRawEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.DataDescriptorTest::doesntWriteDataDescriptorForDeflatedEntryOnSeekableOutput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.DataDescriptorTest::writesDataDescriptorForDeflatedEntryOnUnseekableOutput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.EncryptedArchiveTest::testReadPasswordEncryptedEntryViaStream": {
+            "line_rate": "0.2857142857142857",
+            "branch_rate": "0.10034602076124567"
+        },
+        "org.apache.commons.compress.archivers.zip.EncryptedArchiveTest::testReadPasswordEncryptedEntryViaZipFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testArchiveWithImplodeCompression4K2Trees": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testConstructorThrowsExceptions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testZipStreamWithImplodeCompression8K3Trees": {
+            "line_rate": "0.36077481840193704",
+            "branch_rate": "0.16608996539792387"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testTikaTestArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testArchiveWithImplodeCompression8K3Trees": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testZipStreamWithImplodeCompression4K2Trees": {
+            "line_rate": "0.36077481840193704",
+            "branch_rate": "0.16608996539792387"
+        },
+        "org.apache.commons.compress.archivers.zip.ExplodeSupportTest::testTikaTestStream": {
+            "line_rate": "0.36077481840193704",
+            "branch_rate": "0.16608996539792387"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testMergeWithUnparseableData": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testMerge": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testParse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testParseCentral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testParseWithRead": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest::testParseWithSkip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testDataDescriptor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testClone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testParseEdgeCases": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testStrongEncryption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testLanguageEncodingFlag": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testDefaults": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest::testEncryption": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest::testRead7ZipMultiVolumeArchiveForStream": {
+            "line_rate": "0.4092009685230024",
+            "branch_rate": "0.2179930795847751"
+        },
+        "org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest::testRead7ZipMultiVolumeArchiveForFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest::concurrent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest::callableApi": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.PkWareExtraHeaderTest::testHashAlgorithm": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.PkWareExtraHeaderTest::testEncryptionAlgorithm": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ScatterSampleTest::testSample": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamTest::putArchiveEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.StreamCompressorTest::deflatedEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.StreamCompressorTest::storedEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.StreamCompressorTest::testCreateDataOutputCompressor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testZipFileReadsUnicodeFields": {
+            "line_rate": "0.31476997578692495",
+            "branch_rate": "0.12802768166089964"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripImplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripImplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testRead7ZipArchiveForStream": {
+            "line_rate": "0.31476997578692495",
+            "branch_rate": "0.12802768166089964"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testCP437FileRoundtripExplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testRead7ZipArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripExplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripImplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testReadWinZipArchiveForStream": {
+            "line_rate": "0.31476997578692495",
+            "branch_rate": "0.11764705882352941"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSImplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testZipArchiveInputStreamReadsUnicodeFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testASCIIFileRoundtripExplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testReadWinZipArchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8FileRoundtripNoEFSExplicitUnicodeExtra": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testUtf8Interoperability": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testRawNameReadFromZipFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest::testRawNameReadFromStream": {
+            "line_rate": "0.25907990314769974",
+            "branch_rate": "0.07612456747404844"
+        },
+        "org.apache.commons.compress.archivers.zip.X000A_NTFSTest::simpleRountrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGettersSetters": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testMisc": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testBitsAreSetWithTime": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testSampleFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testWriteReadRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testParseReparse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest::testGetHeaderId": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testMisc": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testSampleFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testTrimLeadingZeroesForceMinLength4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testParseReparse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.X7875_NewUnixTest::testGetHeaderId": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadCDSizesAndOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testWriteCDSizeOffsetAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadLFHSizesOnly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testWriteCDOnlySizes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testWriteCDSizeAndOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testWriteCDSizeAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadCDSomethingAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReparseCDSingleEightByteData": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadLFHSizesAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadCDSizesOffsetAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadLFHSizesAndOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest::testReadLFHSizesOffsetAndDisk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testCompressionMethod": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testIsUnixSymlink": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testCopyConstructor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::isUnixSymlinkIsFalseIfMoreThanOneFlagIsSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNullCommentEqualsEmptyComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testExtraFieldMerging": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testExtraFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testUnixMode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testAddAsFirstExtraField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest::testNotEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::readDeflate64CompressedStreamWithDataDescriptor": {
+            "line_rate": "0.3898305084745763",
+            "branch_rate": "0.21107266435986158"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testOffsets": {
+            "line_rate": "0.41404358353510895",
+            "branch_rate": "0.18339100346020762"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceDefaultsToName": {
+            "line_rate": "0.2687651331719128",
+            "branch_rate": "0.07958477508650519"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::shouldConsumeArchiveCompletely": {
+            "line_rate": "0.41404358353510895",
+            "branch_rate": "0.17993079584775087"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::readDeflate64CompressedStream": {
+            "line_rate": "0.3486682808716707",
+            "branch_rate": "0.14878892733564014"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testReadingOfFirstStoredEntry": {
+            "line_rate": "0.3414043583535109",
+            "branch_rate": "0.14186851211072665"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceIsSetToEFS": {
+            "line_rate": "0.324455205811138",
+            "branch_rate": "0.12802768166089964"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::nameSourceIsSetToUnicodeExtraField": {
+            "line_rate": "0.2687651331719128",
+            "branch_rate": "0.07612456747404844"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testUnshrinkEntry": {
+            "line_rate": "0.38498789346246975",
+            "branch_rate": "0.1903114186851211"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properUseOfInflater": {
+            "line_rate": "0.5012106537530266",
+            "branch_rate": "0.2629757785467128"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testMessageWithCorruptFileName": {
+            "line_rate": "0.3026634382566586",
+            "branch_rate": "0.11072664359861592"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::properlyMarksEntriesAsUnreadableIfUncompressedSizeIsUnknown": {
+            "line_rate": "0.09927360774818401",
+            "branch_rate": "0.04498269896193772"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::winzipBackSlashWorkaround": {
+            "line_rate": "0.3220338983050847",
+            "branch_rate": "0.1245674740484429"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testUnzipBZip2CompressedEntry": {
+            "line_rate": "0.3486682808716707",
+            "branch_rate": "0.1522491349480969"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testWithBytesAfterData": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::shouldReadNestedZip": {
+            "line_rate": "0.5375302663438256",
+            "branch_rate": "0.30103806228373703"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest::testThrowOnInvalidEntry": {
+            "line_rate": "0.13559322033898305",
+            "branch_rate": "0.03806228373702422"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipClassCoverageTest::testConstantConstructor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipClassCoverageTest::testMessageException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipClassCoverageTest::testConstructZip64RequiredException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testBIToBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testSign": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testBIFromBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testLongFromBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testLongToBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testNioCp1252Encoding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testNothingToMakeCoverallsHappier": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testSimpleCp437Encoding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testGetNonexistentEncodng": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testSimpleCp850Encoding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testIsUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipEncodingTest::testEbcidic": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testSkipsPK00Prefix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testOffsets": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::nameSourceDefaultsToName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testEntryAlignmentExceed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testReadingOfStoredEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::readDeflate64CompressedStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testDuplicateEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testPhysicalOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testReadingOfFirstStoredEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testExcessDataInZip64ExtraField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testCDOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::nameSourceIsSetToEFS": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testConcurrentReadFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::nameSourceIsSetToUnicodeExtraField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testUnshrinking": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testInvalidAlignment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testUnixSymlinkSampleFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testDelayedOffsetsAndSizes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testWinzipBackSlashWorkaround": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testCDOrderInMemory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testConcurrentReadSeekable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testUnzipBZip2CompressedEntry": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testEntryAlignment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipFileTest::testDoubleClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testToBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testPut": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testClone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testSign": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testFromBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipLongTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testToBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testPut": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testClone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testSign": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testFromBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipShortTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testSignedByteToUnsignedInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testUnsignedIntToSignedByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testOutsideCalendar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testZipLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testMinTime": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testReverse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testLongToBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testInsideCalendar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testBigToLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.archivers.zip.ZipUtilTest::testAdjustToLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFile2": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddDeleteToOneFileArchive": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAndAddToZipUsingZipFilePerform": {
+            "line_rate": "0.5617433414043583",
+            "branch_rate": "0.314878892733564"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddToEmptyArchive": {
+            "line_rate": "0.5617433414043583",
+            "branch_rate": "0.3044982698961938"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testRenameAndDelete": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteAddToOneFileArchive": {
+            "line_rate": "0.559322033898305",
+            "branch_rate": "0.3044982698961938"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddAllreadyExistingWithReplaceFalse": {
+            "line_rate": "0.5617433414043583",
+            "branch_rate": "0.32525951557093424"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testChangeSetResults": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAndAddToAr": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddMoveDelete": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAr": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteAddDelete": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteDir": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddDeleteAdd": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddChangeTwiceWithoutReplace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeletePlusAddSame": {
+            "line_rate": "0.5665859564164649",
+            "branch_rate": "0.33217993079584773"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteDir2": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteDir3": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFile": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddAllreadyExistingWithReplaceTrue": {
+            "line_rate": "0.5665859564164649",
+            "branch_rate": "0.328719723183391"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromJar": {
+            "line_rate": "0.5690072639225182",
+            "branch_rate": "0.33217993079584773"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromTar": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromZip": {
+            "line_rate": "0.6053268765133172",
+            "branch_rate": "0.3737024221453287"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeletePlusAdd": {
+            "line_rate": "0.01937046004842615",
+            "branch_rate": "0.02422145328719723"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAndAddToJar": {
+            "line_rate": "0.5690072639225182",
+            "branch_rate": "0.33217993079584773"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAndAddToTar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testDeleteFromAndAddToZip": {
+            "line_rate": "0.5665859564164649",
+            "branch_rate": "0.328719723183391"
+        },
+        "org.apache.commons.compress.changes.ChangeSetTestCase::testAddChangeTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeTest::testFailsToCreateChangeTakingThreeArgumentsThrowsNullPointerException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeTest::testFailsToCreateChangeTakingFourArgumentsThrowsNullPointerExceptionOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.changes.ChangeTest::testFailsToCreateChangeTakingFourArgumentsThrowsNullPointerExceptionTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2TestCase::testBzip2Unarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2TestCase::testBzipCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2TestCase::testConcatenatedStreamsReadFirstOnly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2TestCase::testConcatenatedStreamsReadFully": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2TestCase::testCOMPRESS131": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2UtilsTestCase::testGetCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2UtilsTestCase::testIsCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.BZip2UtilsTestCase::testGetUncompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.CompressorServiceLoaderTest::testInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.CompressorServiceLoaderTest::testOutputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DeflateTestCase::testRawDeflateUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DeflateTestCase::testRawDeflateCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DeflateTestCase::testDeflateUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DeflateTestCase::testDeflateCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testZMemoryLimit": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testLZMAMemoryLimit": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testDetection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testXZMemoryLimitOnRead": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testXZMemoryLimitOnSkip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testOverride": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testDetect": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.DetectCompressorTestCase::testMutiples": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.FramedSnappyTestCase::testDefaultExtractionViaFactoryAutodetection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.FramedSnappyTestCase::testDefaultExtraction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.FramedSnappyTestCase::testDefaultExtractionViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.FramedSnappyTestCase::testRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.FramedSnappyTestCase::testRoundtripWithOneBigWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testInteroperabilityWithGzipCompressorInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testInteroperabilityWithGZIPInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testMetadataRoundTrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testGzipUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testGzipCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testOverWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testInvalidCompressionLevel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testExtraFlagsFastestCompression": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testConcatenatedStreamsReadFirstOnly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testConcatenatedStreamsReadFully": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testCorruptedInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testExtraFlagsDefaultCompression": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GZipTestCase::testExtraFlagsBestCompression": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GzipUtilsTestCase::testGetCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GzipUtilsTestCase::testIsCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.GzipUtilsTestCase::testGetUncompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.LZMATestCase::testLZMAUnarchiveWithAutodetection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.LZMATestCase::lzmaRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.LZMATestCase::testLZMAUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testInputStreamMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarArchiveCreationTempFile": {
+            "line_rate": "0.5399515738498789",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarUnarchiveAllInMemory": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarArchiveCreationInMemory": {
+            "line_rate": "0.5399515738498789",
+            "branch_rate": "0.29411764705882354"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarUnarchiveAllFileArgInMemory": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testBadSignature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarUnarchiveAllFileTempFile": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testOutputStreamMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testShortSignature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testGoodSignature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.Pack200TestCase::testJarUnarchiveAllTempFile": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.XZTestCase::testXZCreation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.XZTestCase::testConcatenatedStreamsReadFirstOnly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.XZTestCase::testConcatenatedStreamsReadFully": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.XZTestCase::testXZUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.ZTestCase::testZUnarchiveViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.ZTestCase::testZUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.ZTestCase::testZUnarchiveViaAutoDetection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.ZTestCase::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::testTurningOnCachingReEvaluatesAvailability": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::testBrotliUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::testBrotliDecode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::testCanTurnOffCaching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::singleByteReadWorksAsExpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::availableShouldReturnZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::singleByteReadReturnsMinusOneAtEof": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::testCachingIsEnabledByDefaultAndBrotliIsPresent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.brotli.BrotliCompressorInputStreamTest::shouldBeAbleToSkipAByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest::readOfLength0ShouldReturn0": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest::shouldThrowAnIOExceptionWhenAppliedToAZipFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixture2MainSort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixture2FallbackSort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testFallbackSort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixture": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixture2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixtureMainSort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.BlockSortTest::testSortFixtureFallbackSort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test::testPartialReadTruncatedData": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test::testTruncatedData": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest::singleByteReadWorksAsExpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest::singleByteReadReturnsMinusOneAtEof": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest::availableShouldReturnNonZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest::shouldBeAbleToSkipAByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStreamTest::canReadASingleByteFlushAndFinish": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateParametersTest::shouldNotBeAbleToSetCompressionLevelToANegativeValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateParametersTest::shouldNotBeAbleToSetCompressionLevelToADoubleDigitValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate.DeflateParametersTest::shouldBeAbleToSetCompressionLevel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64BugsTest::readBeyondMemoryException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::streamIgnoresExtraBytesAfterDeflatedInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::delegatesAvailable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::uncompressedBlock": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::uncompressedBlockViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::throwsEOFExceptionOnTruncatedStreams": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::uncompressedBlockAvailable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::closeIsDelegatedJustOnce": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::readWhenClosed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::closeCallsDecoder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.Deflate64CompressorInputStreamTest::properSizeWhenClosed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeFixedHuffmanBlockWithMemoryLookupInExactBuffer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeFixedHuffmanBlockWithMemoryLookup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeSimpleFixedHuffmanBlock": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeUncompressedBlock": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeUncompressedBlockWithInvalidLenNLenValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeFixedHuffmanBlockWithMemoryLookupInSmallBuffer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.deflate64.HuffmanDecoderTest::decodeSimpleFixedHuffmanBlockToSmallBuffer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorInputStreamTest::readBlaLz4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::rewritingOfFinalBlockWithTrailingLZ77Literals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::cantWriteBackReferenceIfAccumulatedOffsetIsTooShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::pairAccumulatesLengths": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCompletePair": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::pairSeesBackReferenceWhenSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::canWriteBackReferenceFollowedByLongLiteral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::canWritePairWithoutBackReference": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::rewritingOfFourPairs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::canWritePairWithoutLiterals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::rewritingOfFinalBlockWithoutTrailingLZ77Literals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::cantWriteBackReferenceFollowedByLiteralThatIsTooShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor274ByteLengthBackReference": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::rewritingWithFinalBackreferenceAndOffsetBiggerThan1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor273ByteLengthBackReference": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor19ByteLengthBackReference": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor270ByteLengthLiteral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor269ByteLengthLiteral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorOutputStreamTest::writesCorrectSizeFor15ByteLengthLiteral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::biggerFileRoundtrip[using default]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using default]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::blaTarRoundtrip[using default]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::biggerFileRoundtrip[using tuned for speed]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using tuned for speed]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::blaTarRoundtrip[using tuned for speed]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::biggerFileRoundtrip[using tuned for compression ratio]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using tuned for compression ratio]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.BlockLZ4CompressorRoundtripTest::blaTarRoundtrip[using tuned for compression ratio]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FactoryTest::blockRoundtripViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FactoryTest::frameRoundtripViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsNonLZ4Stream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaDumpLz4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaLz4WithDecompressConcatenated": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4ViaFactoryWithDecompressConcatenatedFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::skipsOverTrailingSkippableFrames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsTrailingBytesAfterValidFrame": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsStreamsWithoutContentChecksum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsBlocksWithoutChecksum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readsUncompressedBlocksUsingSingleByteRead": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4ViaFactoryWithoutExplicitDecompressConcatenated": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsStreamsWithBadContentChecksum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4WithoutExplicitDecompressConcatenated": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::skipsOverSkippableFrames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithWrongVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4WithDecompressConcatenatedFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaLz4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameWithBadSignaturePrefix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithoutHeaderChecksum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithInsufficientContentSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameFollowedByJunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameWithBadSignatureTrailer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaLz4ViaFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readsUncompressedBlocks": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4WithDecompressConcatenatedTrue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameWithPrematureEndInLengthBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readDoubledBlaLz4ViaFactoryWithDecompressConcatenatedTrue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithoutBlockSizeByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameFollowedByTooFewBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsSkippableFrameWithPrematureEnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaLz4ViaFactoryWithDecompressConcatenated": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithoutFrameDescriptor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::readBlaLz4ViaFactoryAutoDetection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorInputStreamTest::rejectsFileWithBadHeaderChecksum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize K256, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize K256, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize K256, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize M1, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M1, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize M1, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum false, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum false, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum false, withBlockChecksum false, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize M4, withContentChecksum true, withBlockChecksum true, withBlockDependency false]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::biggerFileRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency true]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::gzippedLoremIpsumRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency true]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.FramedLZ4CompressorRoundtripTest::blaTarRoundtrip[using LZ4 Parameters with BlockSize K64, withContentChecksum true, withBlockChecksum false, withBlockDependency true]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.XXHash32Test::verifyChecksum[0]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.XXHash32Test::verifyChecksum[1]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz4.XXHash32Test::verifyChecksum[2]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::nonCompressableWithLengthSmallerThanLiteralMax": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::samIAmExampleWithFullArrayAvailableForCompression": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithShorterBackReferenceLength": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithPrefillBiggerThanWindowSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::nonCompressableWithLengthThatForcesWindowSlide": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::cantPrefillAfterCompress": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithFullArrayAvailableForCompression": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleSmallerWindowSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithPrefill": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithShortPrefill": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::nonCompressableSentAsSingleBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::cantPrefillTwice": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::nonCompressableWithLengthGreaterThanLiteralMaxButLessThanTwiceWindowSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.LZ77CompressorTest::blaExampleWithSingleByteWrites": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxLiteralLengthIsWindowSizeIfSetToAValueTooBigToHoldInSlidingWindow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxLiteralLengthIsWindowSizeIfSetTo0": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxLiteralLengthIsWindowSizeIfSetToANegativeValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::minBackReferenceLengthIsAtLeastThree": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::defaultConstructor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::windowSizeMustBeAPowerOfTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxOffsetIsWindowSizeMinus1IfBiggerThanWindowSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxBackReferenceLengthIsMinBackReferenceLengthIfBothAreEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::windowSizeMustNotBeSmallerThanMinBackReferenceLength": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxOffsetIsWindowSizeMinus1IfSetTo0": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::allParametersUsuallyTakeTheirSpecifiedValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxOffsetIsWindowSizeMinus1IfSetToANegativeValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxBackReferenceLengthIsMinBackReferenceLengthWhenSmallerThanMinBackReferenceLength": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lz77support.ParametersTest::maxBackReferenceLengthIsMinBackReferenceLengthWhenSmallerThanMinBackReferenceLengthReversedInvocationOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testTurningOnCachingReEvaluatesAvailability": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testGetCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testCanTurnOffCaching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testIsCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testCachingIsEnabledByDefaultAndLZMAIsPresent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase::testGetUncompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.pack200.Pack200UtilsTest::testNormalizeInPlace": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.pack200.Pack200UtilsTest::testNormalize": {
+            "line_rate": "0.5472154963680388",
+            "branch_rate": "0.2975778546712803"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testRemainingChunkTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testUnskippableChunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testAvailable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testLoremIpsum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::readIWAFile": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::readIWAFileWithBiggerOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest::testChecksumUnmasking": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::biggerFileRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::blaTarRoundtripTunedForCompressionRatio": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::tryReallyLongLiterals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::tryReallyBigOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::gzippedLoremIpsumRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::blaTarRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.snappy.SnappyRoundtripTest::blaTarRoundtripTunedForSpeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZCompressorInputStreamTest::redundantTestOfAlmostDeprecatedMatchesMethod": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZCompressorOutputStreamTest::testWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testTurningOnCachingReEvaluatesAvailability": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testGetCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testCanTurnOffCaching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testIsCompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testCachingIsEnabledByDefaultAndXZIsPresent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.xz.XZUtilsTestCase::testGetUncompressedFilename": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.z.ZCompressorInputStreamTest::testFailsToCreateZCompressorInputStreamAndThrowsIOException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::testTurningOnCachingReEvaluatesAvailability": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::testCanTurnOffCaching": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::singleByteReadWorksAsExpected": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::singleByteReadReturnsMinusOneAtEof": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::testZstdDecode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::testCachingIsEnabledByDefaultAndZstdUtilsPresent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::shouldBeAbleToSkipAByte": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdCompressorInputStreamTest::testZstandardUnarchive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdRoundtripTest::directRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdRoundtripTest::factoryRoundtrip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdUtilsTest::testMatchesSkippableFrame": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.compressors.zstandard.ZstdUtilsTest::testMatchesZstandardFrame": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testClearBitCache": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading30BitsInBigEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testEOF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading30BitsInLittleEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::shouldNotAllowReadingOfANegativeAmountOfBits": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::littleEndianWithOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::shouldNotAllowReadingOfMoreThan63BitsAtATime": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading24BitsInBigEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading24BitsInLittleEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::bigEndianWithOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading17BitsInBigEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading31BitsInBigEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading31BitsInLittleEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.BitInputStreamTest::testReading17BitsInLittleEndian": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromStreamThrowsForLengthTooBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToStreamUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromStreamUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArrayThrowsForLengthTooBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArrayOneArgThrowsForLengthTooBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromDataInputThrowsForLengthTooBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromSupplierThrowsForPrematureEnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromDataInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToByteArrayUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArrayUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToConsumer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArrayOneArg": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromArrayOneArgUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromSupplier": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromStreamThrowsForPrematureEnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromSupplierUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToByteArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromDataInputUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromSupplierThrowsForLengthTooBig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToConsumerUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::fromLittleEndianFromDataInputThrowsForPrematureEnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToDataOutput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ByteUtilsTest::toLittleEndianToDataOutputUnsignedInt32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testUtf16": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testUtf8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testUsAscii": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testUtf16Be": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testUtf16Le": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testToCharset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CharsetsTest::testIso8859_1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testReadTakingByteArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testReadTakingNoArguments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testSkipReturningPositive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testClassInstantiationWithParameterBeingNullThrowsNullPointerExceptionThree": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumCalculatingInputStreamTest::testSkipReturningZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumVerifyingInputStreamTest::testReadTakingNoArgumentsThrowsIOException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumVerifyingInputStreamTest::testSkip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ChecksumVerifyingInputStreamTest::testReadTakingByteArrayThrowsIOException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CountingStreamTest::output": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.CountingStreamTest::input": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testWriteBuf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testPartialWritingThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testWriteFailsAfterFLClosedThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testSmallWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testSmallWriteToStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testWriteSingleBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testWriteFailsAfterDestClosedThrowsException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testMultiWriteBuf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.FixedLengthBlockOutputStreamTest::testWithFileOutputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.IOUtilsTest::skipUsingRead": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.IOUtilsTest::skipUsingSkip": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.IOUtilsTest::readFullyOnChannelThrowsEof": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.IOUtilsTest::readFullyOnChannelReadsFully": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.IOUtilsTest::skipUsingSkipAndRead": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldSetProperPosition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldSignalEOFWhenPositionAtTheEnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldThrowExceptionWhenSettingPositionOnClosedChannel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldThrowExceptionOnWritingToClosedChannel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldWriteDataProperlyAfterPositionSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldThrowExceptionOnReadingClosedChannel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldReadContentsProperly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldThrowExceptionWhenSettingIncorrectPosition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldReadContentsWhenBiggerBufferSupplied": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldWriteDataProperly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldSetProperPositionOnTruncate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldTruncateContentsProperly": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.SeekableInMemoryByteChannelTest::shouldReadDataFromSetPosition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ServiceLoaderIteratorTest::testRemoveThrowsUnsupportedOperationException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ServiceLoaderIteratorTest::testNextThrowsNoSuchElementException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.compress.utils.ServiceLoaderIteratorTest::testHasNextReturnsFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}

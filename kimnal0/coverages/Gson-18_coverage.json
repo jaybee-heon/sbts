@@ -1,0 +1,4144 @@
+{
+    "Gson_18": {
+        "com.google.gson.CommentsTest::testParseComments": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testInvalidDatePattern": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testDateSerialization": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testDatePattern": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testFormattingInEnUs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testDateDeserializationISO8601": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testParsingDatesFormattedWithSystemLocale": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testFormattingInFr": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testUnexpectedToken": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testFormatUsesDefaultTimezone": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testNullValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultDateTypeAdapterTest::testParsingDatesFormattedWithUsLocale": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.DefaultInetAddressTypeAdapterTest::testInetAddressSerializationAndDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.DefaultMapJsonSerializerTest::testNonEmptyMapSerialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.DefaultMapJsonSerializerTest::testEmptyMapSerialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.DefaultMapJsonSerializerTest::testEmptyMapNoTypeSerialization": {
+            "line_rate": "0.24782608695652175",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testSkipNonAnnotatedFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testDifferentSerializeAndDeserializeField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testNeverSkipExposedAnnotatedFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testNeverSkipClasses": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testNeverSkipExplicitlyExposedAnnotatedFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.ExposeAnnotationExclusionStrategyTest::testSkipExplicitlySkippedFields": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.FieldAttributesTest::testModifiers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.FieldAttributesTest::testName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.FieldAttributesTest::testDeclaredTypeAndClass": {
+            "line_rate": "0.1826086956521739",
+            "branch_rate": "0.13636363636363635"
+        },
+        "com.google.gson.FieldAttributesTest::testIsSynthetic": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.FieldAttributesTest::testNullField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.FieldAttributesTest::testDeclaringClass": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.GenericArrayTypeTest::testOurTypeFunctionality": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.GenericArrayTypeTest::testNotEquals": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.15656565656565657"
+        },
+        "com.google.gson.GsonBuilderTest::testTransientFieldExclusion": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.GsonBuilderTest::testExcludeFieldsWithModifiers": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.GsonBuilderTest::testRegisterTypeAdapterForCoreType": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.GsonBuilderTest::testCreatingMoreThanOnce": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.GsonTest::testClonedTypeAdapterFactoryListsAreIndependent": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.GsonTest::testOverridesDefaultExcluder": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.GsonTypeAdapterTest::testDefaultTypeAdapterThrowsParseException": {
+            "line_rate": "0.0391304347826087",
+            "branch_rate": "0.025252525252525252"
+        },
+        "com.google.gson.GsonTypeAdapterTest::testDeserializerForAbstractClass": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.GsonTypeAdapterTest::testTypeAdapterThrowsException": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.GsonTypeAdapterTest::testTypeAdapterProperlyConvertsTypes": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.GsonTypeAdapterTest::testTypeAdapterDoesNotAffectNonAdaptedTypes": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.InnerClassExclusionStrategyTest::testExcludeInnerClassField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.InnerClassExclusionStrategyTest::testIncludeStaticNestedClassObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.InnerClassExclusionStrategyTest::testIncludeStaticNestedClassField": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.InnerClassExclusionStrategyTest::testExcludeInnerClassObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JavaSerializationTest::testNumberIsSerializable": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.JavaSerializationTest::testMapIsSerializable": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.JavaSerializationTest::testListIsSerializable": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.JsonArrayTest::testSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonArrayTest::testEqualsOnEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonArrayTest::testDeepCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonArrayTest::testRemove": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonArrayTest::testEqualsNonEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonNullTest::testDeepCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonNullTest::testEqualsAndHashcode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testReadPropertyWithEmptyStringName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testEqualsOnEmptyObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testPropertyWithQuotes": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.JsonObjectTest::testAddingCharacterProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testAddingNullPropertyValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testEqualsNonEmptyObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testAddingAndRemovingObjectProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testAddingBooleanProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testDeepCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testKeySet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testAddingStringProperties": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonObjectTest::testWritePropertyWithEmptyStringName": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.JsonObjectTest::testAddingNullOrEmptyPropertyName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseUnquotedMultiWordStringFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testReadWriteTwoObjects": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.JsonParserTest::testParseUnquotedSingleWordStringFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseMixedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseEmptyString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseUnquotedStringArrayFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseEmptyWhitespaceInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonParserTest::testParseInvalidJson": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testFloatEqualsBigDecimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testShortEqualsBigInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testByteEqualsLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testEqualsIntegerAndBigInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testDoubleEqualsBigDecimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testBoolean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testShortEqualsLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testValidJsonOnToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testParsingStringAsBoolean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testByteEqualsBigInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testFloatEqualsDouble": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testLongEqualsBigInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testByteEqualsInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testIntegerEqualsLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testIntegerEqualsBigInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testShortEqualsInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testStringsAndChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testEqualsDoesNotEquateStringAndNonStringTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testDeepCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testByteEqualsShort": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testExponential": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testParsingStringAsNumber": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonPrimitiveTest::testEqualsAcrossTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonStreamParserTest::testCallingNextBeyondAvailableInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonStreamParserTest::testParseTwoStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonStreamParserTest::testNoSideEffectForHasNext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.JsonStreamParserTest::testIterator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.LongSerializationPolicyTest::testStringLongSerializationIntegration": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.LongSerializationPolicyTest::testDefaultLongSerializationIntegration": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.LongSerializationPolicyTest::testStringLongSerialization": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.LongSerializationPolicyTest::testDefaultLongSerialization": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.MixedStreamTest::testWriteDoesNotMutateState": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.MixedStreamTest::testReadInvalidState": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.MixedStreamTest::testReadClosed": {
+            "line_rate": "0.1391304347826087",
+            "branch_rate": "0.09090909090909091"
+        },
+        "com.google.gson.MixedStreamTest::testWriteMixedStreamed": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.MixedStreamTest::testWriteNulls": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.MixedStreamTest::testWriteInvalidState": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.MixedStreamTest::testWriteLenient": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.MixedStreamTest::testReadNulls": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.MixedStreamTest::testWriteHtmlSafe": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.MixedStreamTest::testWriteClosed": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.MixedStreamTest::testReadMixedStreamed": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.MixedStreamTest::testReaderDoesNotMutateState": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.ObjectTypeAdapterTest::testSerializeObject": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.ObjectTypeAdapterTest::testSerialize": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.3181818181818182"
+        },
+        "com.google.gson.ObjectTypeAdapterTest::testDeserializeNullValue": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.ObjectTypeAdapterTest::testDeserialize": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.ObjectTypeAdapterTest::testSerializeNullValue": {
+            "line_rate": "0.24782608695652175",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.OverrideCoreTypeAdaptersTest::testOverrideStringAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.OverrideCoreTypeAdaptersTest::testOverridePrimitiveBooleanAdapter": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.OverrideCoreTypeAdaptersTest::testOverrideWrapperBooleanAdapter": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.ParameterizedTypeTest::testOurTypeFunctionality": {
+            "line_rate": "0.18695652173913044",
+            "branch_rate": "0.13636363636363635"
+        },
+        "com.google.gson.ParameterizedTypeTest::testNotEquals": {
+            "line_rate": "0.18695652173913044",
+            "branch_rate": "0.13636363636363635"
+        },
+        "com.google.gson.VersionExclusionStrategyTest::testClassAndFieldAreAheadInVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.VersionExclusionStrategyTest::testClassAndFieldAreAtSameVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.VersionExclusionStrategyTest::testClassAndFieldAreBehindInVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfStringsSerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testMixingTypesInObjectArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.ArrayTest::testInvalidArrayDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfNullSerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testEmptyArraySerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testMultidimenstionalArraysSerialization": {
+            "line_rate": "0.13043478260869565",
+            "branch_rate": "0.09090909090909091"
+        },
+        "com.google.gson.functional.ArrayTest::testSingleStringArraySerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testMultiDimenstionalObjectArraysSerialization": {
+            "line_rate": "0.13478260869565217",
+            "branch_rate": "0.09595959595959595"
+        },
+        "com.google.gson.functional.ArrayTest::testSingleStringArrayDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testEmptyArrayDeserialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayElementsAreArrays": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.ArrayTest::testNullsInArrayWithSerializeNullPropertySetSerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfCollectionSerialization": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.36363636363636365"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfNullDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfCollectionDeserialization": {
+            "line_rate": "0.3391304347826087",
+            "branch_rate": "0.23737373737373738"
+        },
+        "com.google.gson.functional.ArrayTest::testTopLevelArrayOfIntsDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfPrimitivesAsObjectsSerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testNullsInArrayDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testObjectArrayWithNonPrimitivesSerialization": {
+            "line_rate": "0.13043478260869565",
+            "branch_rate": "0.10606060606060606"
+        },
+        "com.google.gson.functional.ArrayTest::testSingleNullInArrayDeserialization": {
+            "line_rate": "0.12608695652173912",
+            "branch_rate": "0.10101010101010101"
+        },
+        "com.google.gson.functional.ArrayTest::testSingleNullInArraySerialization": {
+            "line_rate": "0.12608695652173912",
+            "branch_rate": "0.10101010101010101"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfPrimitivesAsObjectsDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testNullsInArraySerialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.ArrayTest::testMultidimenstionalArraysDeserialization": {
+            "line_rate": "0.13043478260869565",
+            "branch_rate": "0.09090909090909091"
+        },
+        "com.google.gson.functional.ArrayTest::testTopLevelArrayOfIntsSerialization": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.functional.ArrayTest::testArrayOfStringsDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testCircularSerialization": {
+            "line_rate": "0.2608695652173913",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testSelfReferenceCustomHandlerSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testSelfReferenceIgnoredInSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testDirectedAcyclicGraphDeserialization": {
+            "line_rate": "0.2608695652173913",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testSelfReferenceArrayFieldSerialization": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.CircularReferenceTest::testDirectedAcyclicGraphSerialization": {
+            "line_rate": "0.2608695652173913",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.CollectionTest::testWildcardCollectionField": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testCollectionOfObjectWithNullSerialization": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.30303030303030304"
+        },
+        "com.google.gson.functional.CollectionTest::testFieldIsArrayList": {
+            "line_rate": "0.3826086956521739",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testRawCollectionOfIntegersSerialization": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.30808080808080807"
+        },
+        "com.google.gson.functional.CollectionTest::testTopLevelCollectionOfIntegersDeserialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testCollectionOfStringsDeserialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testPriorityQueue": {
+            "line_rate": "0.45217391304347826",
+            "branch_rate": "0.3434343434343434"
+        },
+        "com.google.gson.functional.CollectionTest::testStack": {
+            "line_rate": "0.45217391304347826",
+            "branch_rate": "0.3383838383838384"
+        },
+        "com.google.gson.functional.CollectionTest::testLinkedListDeserialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.25252525252525254"
+        },
+        "com.google.gson.functional.CollectionTest::testQueueSerialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.CollectionTest::testWildcardPrimitiveCollectionSerilaization": {
+            "line_rate": "0.5521739130434783",
+            "branch_rate": "0.41414141414141414"
+        },
+        "com.google.gson.functional.CollectionTest::testCollectionOfStringsSerialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testNullsInListSerialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.CollectionTest::testRawCollectionSerialization": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.3181818181818182"
+        },
+        "com.google.gson.functional.CollectionTest::testWildcardPrimitiveCollectionDeserilaization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.CollectionTest::testTopLevelListOfIntegerCollectionsDeserialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.CollectionTest::testCollectionOfObjectSerialization": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.30303030303030304"
+        },
+        "com.google.gson.functional.CollectionTest::testRawCollectionDeserializationNotAlllowed": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.CollectionTest::testSetDeserialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.CollectionTest::testIssue1107": {
+            "line_rate": "0.5217391304347826",
+            "branch_rate": "0.35858585858585856"
+        },
+        "com.google.gson.functional.CollectionTest::testCollectionOfBagOfPrimitivesSerialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2777777777777778"
+        },
+        "com.google.gson.functional.CollectionTest::testLinkedListSerialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.25252525252525254"
+        },
+        "com.google.gson.functional.CollectionTest::testNullsInListDeserialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.CollectionTest::testSetSerialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2777777777777778"
+        },
+        "com.google.gson.functional.CollectionTest::testTopLevelCollectionOfIntegersSerialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.CollectionTest::testRawCollectionOfBagOfPrimitivesNotAllowed": {
+            "line_rate": "0.09130434782608696",
+            "branch_rate": "0.06565656565656566"
+        },
+        "com.google.gson.functional.CollectionTest::testVector": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.30303030303030304"
+        },
+        "com.google.gson.functional.CollectionTest::testUserCollectionTypeAdapter": {
+            "line_rate": "0.1826086956521739",
+            "branch_rate": "0.13131313131313133"
+        },
+        "com.google.gson.functional.CollectionTest::testQueueDeserialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.ConcurrencyTest::testMultiThreadSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ConcurrencyTest::testSingleThreadDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ConcurrencyTest::testMultiThreadDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ConcurrencyTest::testSingleThreadSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testCustomDeserializerReturnsNullForArrayElements": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testCustomDeserializerReturnsNullForArrayElementsForArrayField": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testDefaultConstructorNotCalledOnField": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testJsonTypeFieldBasedDeserialization": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testDefaultConstructorNotCalledOnObject": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testCustomDeserializerReturnsNullForTopLevelObject": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomDeserializerTest::testCustomDeserializerReturnsNull": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomSerializerTest::testSubClassSerializerInvokedForBaseClassFieldsHoldingArrayOfSubClassInstances": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.CustomSerializerTest::testBaseClassSerializerInvokedForBaseClassFields": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomSerializerTest::testSerializerReturnsNull": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomSerializerTest::testSubClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomSerializerTest::testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForCollectionElementSerialization": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.2777777777777778"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testEnsureCustomDeserializerNotInvokedForNullValues": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForCollectionElementSerializationWithType": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomDeserializers": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForMapElementDeserialization": {
+            "line_rate": "0.27391304347826084",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomNestedDeserializers": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testEnsureCustomSerializerNotInvokedForNullValues": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomTypeAdapterAppliesToSubClassesSerializedAsBaseClass": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomTypeAdapterDoesNotAppliesToSubClasses": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomDeserializerInvokedForPrimitives": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomNestedSerializers": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForMapElementSerialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.19696969696969696"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomByteArraySerializer": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.06565656565656566"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForCollectionElementDeserialization": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomSerializers": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomByteArrayDeserializerAndInstanceCreator": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.06565656565656566"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomSerializerInvokedForPrimitives": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.030303030303030304"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testRegisterHierarchyAdapterForDate": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.CustomTypeAdaptersTest::testCustomAdapterInvokedForMapElementSerializationWithType": {
+            "line_rate": "0.27391304347826084",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultDateDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleSerializationWithLanguageCountryVariant": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testSqlDateSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUrlSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonObjectDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBigIntegerFieldDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBadValueForBigDecimalDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonArraySerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleDeserializationWithLanguage": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlTimeSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonPrimitiveSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testStringBuilderDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDateSerializationInCollection": {
+            "line_rate": "0.4043478260869565",
+            "branch_rate": "0.2828282828282828"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonArrayDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testTimestampSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testStringBuilderSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUrlNullDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUrlDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonObjectSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlTimestampDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testNullSerialization": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.2828282828282828"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUuidDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultDateSerializationUsingBuilder": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBitSetSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlTimestampSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultDateSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testTreeSetSerialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBigDecimalFieldDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUriSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleDeserializationWithLanguageCountryVariant": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUuidSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleSerializationWithLanguage": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testStringBufferDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultGregorianCalendarSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleDeserializationWithLanguageCountry": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonElementTypeMismatch": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBigDecimalFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testOverrideBigIntegerTypeAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultCalendarSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBitSetDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonNullDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlDateSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testTreeSetDeserialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.25252525252525254"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUriDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testOverrideBigDecimalTypeAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testPropertiesDeserialization": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.025252525252525252"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonNullSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testPropertiesSerialization": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.025252525252525252"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testClassDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDateSerializationWithPattern": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testSetSerialization": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2777777777777778"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlTimeDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testUrlNullSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDateDeserializationWithPattern": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testLocaleSerializationWithLanguageCountry": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultDateDeserializationUsingBuilder": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testClassSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testBigIntegerFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultCalendarDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultGregorianCalendarDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDateSerializationWithPatternNotOverridenByTypeAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testNullJsonElementSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testJsonPrimitiveDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testStringBufferSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DefaultTypeAdaptersTest::testDefaultJavaSqlDateDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.DelegateTypeAdapterTest::testDelegateInvokedOnStrings": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.DelegateTypeAdapterTest::testDelegateInvoked": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.30303030303030304"
+        },
+        "com.google.gson.functional.EnumTest::testEnumSet": {
+            "line_rate": "0.4434782608695652",
+            "branch_rate": "0.3383838383838384"
+        },
+        "com.google.gson.functional.EnumTest::testEnumSubclassAsParameterizedType": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.30808080808080807"
+        },
+        "com.google.gson.functional.EnumTest::testEnumSubclassWithRegisteredTypeAdapter": {
+            "line_rate": "0.45217391304347826",
+            "branch_rate": "0.3434343434343434"
+        },
+        "com.google.gson.functional.EnumTest::testEnumSubclass": {
+            "line_rate": "0.45217391304347826",
+            "branch_rate": "0.3434343434343434"
+        },
+        "com.google.gson.functional.EnumTest::testCollectionOfEnumsDeserialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.EnumTest::testTopLevelEnumDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.EnumTest::testClassWithEnumFieldSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.EnumTest::testClassWithEnumFieldDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.EnumTest::testCollectionOfEnumsSerialization": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.EnumTest::testEnumCaseMapping": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.EnumTest::testTopLevelEnumSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.EscapingTest::testGsonAcceptsEscapedAndNonEscapedJsonDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.EscapingTest::testEscapeAllHtmlCharacters": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.EscapingTest::testEscapingQuotesInStringArray": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.EscapingTest::testEscapingObjectFields": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.EscapingTest::testGsonDoubleDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExclusionStrategySerializationDoesNotImpactSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExcludeTopLevelClassSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExclusionStrategyWithMode": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExcludeTopLevelClassDeserializationDoesNotImpactSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExcludeTopLevelClassDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExcludeTopLevelClassSerializationDoesNotImpactDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExclusionStrategySerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExclusionStrategySerializationDoesNotImpactDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExclusionStrategyFunctionalTest::testExclusionStrategyDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testNullExposeFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testNoExposedFieldDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testExposeAnnotationSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testExposedInterfaceFieldDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testNoExposedFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testExposeAnnotationDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testArrayWithOneNullExposeFieldObjectSerialization": {
+            "line_rate": "0.13043478260869565",
+            "branch_rate": "0.10606060606060606"
+        },
+        "com.google.gson.functional.ExposeFieldsTest::testExposedInterfaceFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.FieldExclusionTest::testDefaultInnerClassExclusion": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.FieldExclusionTest::testDefaultNestedStaticClassIncluded": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.FieldExclusionTest::testInnerClassExclusion": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.FieldNamingTest::testUpperCamelCase": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.FieldNamingTest::testLowerCaseWithDashes": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.FieldNamingTest::testLowerCaseWithUnderscores": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.FieldNamingTest::testUpperCamelCaseWithSpaces": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.FieldNamingTest::testIdentity": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsBaseWhenSpecifiedWithExplicitType": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testClassWithBaseCollectionFieldSerialization": {
+            "line_rate": "0.2608695652173913",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsSubWhenSpecifiedWithExplicitType": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsSubWhenSpecifiedWithExplicitTypeForToJsonMethod": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testSubInterfacesOfCollectionSerialization": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsBaseWhenSpecifiedWithExplicitTypeForToJsonMethod": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testClassWithBaseArrayFieldSerialization": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsSub": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testSubInterfacesOfCollectionDeserialization": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.InheritanceTest::testSubClassDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testSubClassSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testBaseSerializedAsSubForToJsonMethod": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InheritanceTest::testClassWithBaseFieldSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InstanceCreatorTest::testInstanceCreatorForCollectionType": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.InstanceCreatorTest::testInstanceCreatorReturnsSubTypeForField": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InstanceCreatorTest::testInstanceCreatorReturnsSubTypeForTopLevelObject": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InstanceCreatorTest::testInstanceCreatorReturnsBaseType": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.InstanceCreatorTest::testInstanceCreatorForParametrizedType": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.29797979797979796"
+        },
+        "com.google.gson.functional.InterfaceTest::testSerializingInterfaceObjectField": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.InterfaceTest::testSerializingObjectImplementingInterface": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.InternationalizationTest::testStringsWithRawChineseCharactersDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.InternationalizationTest::testStringsWithUnicodeChineseCharactersEscapedDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.InternationalizationTest::testStringsWithUnicodeChineseCharactersSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.InternationalizationTest::testStringsWithUnicodeChineseCharactersDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicInteger": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicLong": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicLongArray": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicLongArrayWithStringSerializationPolicy": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicLongWithStringSerializationPolicy": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicBoolean": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilConcurrentAtomicTest::testAtomicIntegerArray": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JavaUtilTest::testProperties": {
+            "line_rate": "0.043478260869565216",
+            "branch_rate": "0.025252525252525252"
+        },
+        "com.google.gson.functional.JavaUtilTest::testCurrency": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testJsonAdapterInvoked": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testRegisteredDeserializerOverridesJsonAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testRegisteredAdapterOverridesJsonAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testRegisteredSerializerOverridesJsonAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testNullSafeObjectFromJson": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testSuperclassTypeAdapterNotInvoked": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testIncorrectJsonAdapterType": {
+            "line_rate": "0.030434782608695653",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testJsonAdapterFactoryInvoked": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnClassesTest::testIncorrectTypeAdapterFails": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testRegisteredTypeAdapterTakesPrecedenceOverClassAnnotationAdapter": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testFieldAnnotationTakesPrecedenceOverClassAnnotation": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testFieldAnnotationTakesPrecedenceOverRegisteredTypeAdapter": {
+            "line_rate": "0.06956521739130435",
+            "branch_rate": "0.06060606060606061"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testJsonAdapterWrappedInNullSafeAsRequested": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testPrimitiveFieldAnnotationTakesPrecedenceOverDefault": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testFieldAnnotationWorksForParameterizedType": {
+            "line_rate": "0.21304347826086956",
+            "branch_rate": "0.16161616161616163"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testNonPrimitiveFieldAnnotationTakesPrecedenceOverDefault": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testClassAnnotationAdapterTakesPrecedenceOverDefault": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testJsonAdapterInvokedOnlyForAnnotatedFields": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonAdapterAnnotationOnFieldsTest::testClassAnnotationAdapterFactoryTakesPrecedenceOverDefault": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterSerializerDeserializerTest::testJsonSerializerDeserializerBasedJsonAdapterOnClass": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonAdapterSerializerDeserializerTest::testDifferentJsonAdaptersForGenericFieldsOfSameRawType": {
+            "line_rate": "0.20434782608695654",
+            "branch_rate": "0.14646464646464646"
+        },
+        "com.google.gson.functional.JsonAdapterSerializerDeserializerTest::testJsonSerializerDeserializerBasedJsonAdapterOnFields": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonArrayTest::testMixedPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testIntegerPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testNullPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testBooleanPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testDoublePrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testStringPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testSameAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonArrayTest::testCharPrimitiveAddition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.functional.JsonParserTest::testBadFieldTypeForDeserializingCustomTree": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonParserTest::testDeserializingCustomTree": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonParserTest::testBadFieldTypeForCustomDeserializerCustomTree": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonParserTest::testChangingCustomTreeAndDeserializing": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonParserTest::testBadTypeForDeserializingCustomTree": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonParserTest::testExtraCommasInMaps": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.JsonParserTest::testExtraCommasInArrays": {
+            "line_rate": "0.4043478260869565",
+            "branch_rate": "0.2828282828282828"
+        },
+        "com.google.gson.functional.JsonParserTest::testParseInvalidJson": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.JsonTreeTest::testToJsonTreeObjectType": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonTreeTest::testJsonTreeToString": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.JsonTreeTest::testJsonTreeNull": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.JsonTreeTest::testToJsonTree": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.LeniencyTest::testLenientFromJson": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.MapAsArrayTypeAdapterTest::testMapWithTypeVariableSerialization": {
+            "line_rate": "0.36086956521739133",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.MapAsArrayTypeAdapterTest::testTwoTypesCollapseToOneDeserialize": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapAsArrayTypeAdapterTest::testMapWithTypeVariableDeserialization": {
+            "line_rate": "0.36086956521739133",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.MapAsArrayTypeAdapterTest::testMultipleEnableComplexKeyRegistrationHasNoEffect": {
+            "line_rate": "0.2956521739130435",
+            "branch_rate": "0.2222222222222222"
+        },
+        "com.google.gson.functional.MapAsArrayTypeAdapterTest::testSerializeComplexMapWithTypeAdapter": {
+            "line_rate": "0.3",
+            "branch_rate": "0.22727272727272727"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationEmpty": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testCustomSerializerForSpecificMapType": {
+            "line_rate": "0.18695652173913044",
+            "branch_rate": "0.13131313131313133"
+        },
+        "com.google.gson.functional.MapTest::testMapSubclassDeserialization": {
+            "line_rate": "0.3565217391304348",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.MapTest::testHashMapDeserialization": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.25252525252525254"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithNullKey": {
+            "line_rate": "0.29130434782608694",
+            "branch_rate": "0.21717171717171718"
+        },
+        "com.google.gson.functional.MapTest::testMapSubclassSerialization": {
+            "line_rate": "0.3565217391304348",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.MapTest::testSerializeMaps": {
+            "line_rate": "0.3173913043478261",
+            "branch_rate": "0.23232323232323232"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithWildcardValues": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.26262626262626265"
+        },
+        "com.google.gson.functional.MapTest::testReadMapsWithEmptyStringKey": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithIntegerKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithDuplicateKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testParameterizedMapSubclassSerialization": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.30808080808080807"
+        },
+        "com.google.gson.functional.MapTest::testConcurrentMap": {
+            "line_rate": "0.4260869565217391",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithUnquotedLongKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithNullValuesSerialized": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testConcurrentHashMap": {
+            "line_rate": "0.4260869565217391",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.MapTest::testMapStandardSubclassDeserialization": {
+            "line_rate": "0.3826086956521739",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithLongKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testBooleanKeyDeserialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testDeerializeMapOfMaps": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithIntegerKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapWithQuotes": {
+            "line_rate": "0.24782608695652175",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testConcurrentNavigableMap": {
+            "line_rate": "0.4260869565217391",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.MapTest::testMapOfMapSerialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.MapTest::testMapSerialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapOfMapDeserialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.MapTest::testComplexKeysDeserialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithNullValue": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testWriteMapsWithEmptyStringKey": {
+            "line_rate": "0.24782608695652175",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testSortedMap": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.25252525252525254"
+        },
+        "com.google.gson.functional.MapTest::testInterfaceTypeMap": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithWildcardValues": {
+            "line_rate": "0.39565217391304347",
+            "branch_rate": "0.2777777777777778"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithNullValues": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testConcurrentSkipListMap": {
+            "line_rate": "0.4260869565217391",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.MapTest::testGeneralMapField": {
+            "line_rate": "0.32608695652173914",
+            "branch_rate": "0.22727272727272727"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithNullValueButSerializeNulls": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testRawMapSerialization": {
+            "line_rate": "0.24782608695652175",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithNullValue": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testComplexKeysSerialization": {
+            "line_rate": "0.26956521739130435",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationEmpty": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testStringKeyDeserialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.MapTest::testSerializeMapOfMaps": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.MapTest::testMapDeserializationWithUnquotedIntegerKeys": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapNamePromotionWithJsonElementReader": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testNumberKeyDeserialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testMapSerializationWithNullKey": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.MapTest::testInterfaceTypeMapWithSerializer": {
+            "line_rate": "0.27391304347826084",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testListOfParameterizedSubclassFields": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.29797979797979796"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testParameterizedSubclassFields": {
+            "line_rate": "0.29130434782608694",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testSubclassFields": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testListOfSubclassFields": {
+            "line_rate": "0.2826086956521739",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testMapOfParameterizedSubclassFields": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.29797979797979796"
+        },
+        "com.google.gson.functional.MoreSpecificTypeSerializationTest::testMapOfSubclassFields": {
+            "line_rate": "0.2826086956521739",
+            "branch_rate": "0.1919191919191919"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithNonDefaultFieldNamingPolicySerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testComplexFieldNameStrategy": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithLowerCaseUnderscorePolicySerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonDuplicateNameUsingSerializedNameFieldNamingPolicySerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithLowerCaseDashPolicySerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithUpperCamelCaseSpacesPolicySerialiation": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testDeprecatedNamingStrategy": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithUpperCamelCaseSpacesPolicyDeserialiation": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithLowerCaseDashPolicyDeserialiation": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testAtSignInSerializedName": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithSerializedNameFieldNamingPolicyDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithSerializedNameFieldNamingPolicySerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithLowerCaseUnderscorePolicyDeserialiation": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NamingPolicyTest::testGsonWithNonDefaultFieldNamingPolicyDeserialiation": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitSerializationOfNullArrayMembers": {
+            "line_rate": "0.34347826086956523",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitDeserializationOfNulls": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testAbsentJsonElementsAreSetToNull": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testPrintPrintingArraysWithNulls": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testCustomTypeAdapterPassesNullDesrialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testCustomTypeAdapterPassesNullSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitSerializationOfNullCollectionMembers": {
+            "line_rate": "0.34347826086956523",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitSerializationOfNullStringMembers": {
+            "line_rate": "0.34347826086956523",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitNullSetsFieldToNullDuringDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testNullWrappedPrimitiveMemberSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testCustomSerializationOfNulls": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testExplicitSerializationOfNulls": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testTopLevelNullObjectSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testTopLevelNullObjectDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testPrintPrintingObjectWithNulls": {
+            "line_rate": "0.34347826086956523",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.NullObjectAndFieldTest::testNullWrappedPrimitiveMemberDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithTransientFieldsSerialization": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testSingletonLists": {
+            "line_rate": "0.3739130434782609",
+            "branch_rate": "0.25757575757575757"
+        },
+        "com.google.gson.functional.ObjectTest::testPrimitiveArrayInAnObjectDeserialization": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testStringFieldWithEmptyValueDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testArrayOfArraysSerialization": {
+            "line_rate": "0.1782608695652174",
+            "branch_rate": "0.13636363636363635"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithTransientFieldsDeserializationTransientFieldsPassedInJsonAreIgnored": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testArrayOfObjectsDeserialization": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithObjectFieldSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testNullPrimitiveFieldsDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testPrivateNoArgConstructorDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testStringFieldWithEmptyValueSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testJsonObjectSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testBagOfPrimitiveWrappersDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testTruncatedDeserialization": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.ObjectTest::testInnerClassSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testBagOfPrimitivesDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testNullSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testArrayOfObjectsAsFields": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.ObjectTest::testEmptyStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testNullArraysDeserialization": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testAnonymousLocalClassesSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithTransientFieldsDeserialization": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ObjectTest::testAnonymousLocalClassesCustomSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testArrayOfObjectsSerialization": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.ObjectTest::testJsonInMixedQuotesDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testPrimitiveArrayFieldSerialization": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.ObjectTest::testNestedSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithNoFieldsSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testObjectFieldNamesWithoutQuotesDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testEmptyCollectionInAnObjectSerialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.ObjectTest::testStringFieldWithNumberValueDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testJsonInSingleQuotesDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testClassWithNoFieldsDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testNullDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ObjectTest::testNullFieldsSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testArrayOfArraysDeserialization": {
+            "line_rate": "0.17391304347826086",
+            "branch_rate": "0.13131313131313133"
+        },
+        "com.google.gson.functional.ObjectTest::testBagOfPrimitiveWrappersSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testDateAsMapObjectField": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.ObjectTest::testNullFieldsDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testBagOfPrimitivesSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testEmptyCollectionInAnObjectDeserialization": {
+            "line_rate": "0.25217391304347825",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.functional.ObjectTest::testNullObjectFieldsDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ObjectTest::testNestedDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ObjectTest::testInnerClassDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testVariableTypeArrayDeserialization": {
+            "line_rate": "0.6478260869565218",
+            "branch_rate": "0.4797979797979798"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testDeepParameterizedTypeDeserialization": {
+            "line_rate": "0.17391304347826086",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeWithCustomSerializer": {
+            "line_rate": "0.18695652173913044",
+            "branch_rate": "0.13131313131313133"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testVariableTypeFieldsAndGenericArraysSerialization": {
+            "line_rate": "0.6739130434782609",
+            "branch_rate": "0.51010101010101"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testVariableTypeDeserialization": {
+            "line_rate": "0.6478260869565218",
+            "branch_rate": "0.4797979797979798"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeGenericArraysSerialization": {
+            "line_rate": "0.6739130434782609",
+            "branch_rate": "0.51010101010101"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testDeepParameterizedTypeSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testTypesWithMultipleParametersSerialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.16666666666666666"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeWithReaderDeserialization": {
+            "line_rate": "0.2956521739130435",
+            "branch_rate": "0.20707070707070707"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testVariableTypeFieldsAndGenericArraysDeserialization": {
+            "line_rate": "0.6739130434782609",
+            "branch_rate": "0.51010101010101"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeGenericArraysDeserialization": {
+            "line_rate": "0.6739130434782609",
+            "branch_rate": "0.51010101010101"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeWithVariableTypeDeserialization": {
+            "line_rate": "0.6478260869565218",
+            "branch_rate": "0.4797979797979798"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypeDeserialization": {
+            "line_rate": "0.2956521739130435",
+            "branch_rate": "0.20707070707070707"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypesSerialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.15656565656565657"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypesWithCustomDeserializer": {
+            "line_rate": "0.1826086956521739",
+            "branch_rate": "0.12626262626262627"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testTypesWithMultipleParametersDeserialization": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.16666666666666666"
+        },
+        "com.google.gson.functional.ParameterizedTypesTest::testParameterizedTypesWithWriterSerialization": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.15656565656565657"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testPrettyPrintArrayOfPrimitiveArrays": {
+            "line_rate": "0.13478260869565217",
+            "branch_rate": "0.09595959595959595"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testMap": {
+            "line_rate": "0.2565217391304348",
+            "branch_rate": "0.18686868686868688"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testEmptyMapField": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testPrettyPrintArrayOfObjects": {
+            "line_rate": "0.14782608695652175",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testMultipleArrays": {
+            "line_rate": "0.13478260869565217",
+            "branch_rate": "0.09595959595959595"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testPrettyPrintArrayOfPrimitives": {
+            "line_rate": "0.10434782608695652",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testPrettyPrintListOfPrimitiveArrays": {
+            "line_rate": "0.4826086956521739",
+            "branch_rate": "0.35858585858585856"
+        },
+        "com.google.gson.functional.PrettyPrintingTest::testPrettyPrintList": {
+            "line_rate": "0.3782608695652174",
+            "branch_rate": "0.2474747474747475"
+        },
+        "com.google.gson.functional.PrimitiveCharacterTest::testPrimitiveCharacterAutoboxedDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveCharacterTest::testPrimitiveCharacterAutoboxedSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsBigDecimal": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigIntegerAsLong": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testLongAsStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalPreservePrecisionSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testSmallValueForBigDecimalDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatNaNSerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsLongWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsShortWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsDoubleWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigDecimalAsFloat": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNumberDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testMoreSpecificSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testUnquotedStringDeserializationFails": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigIntegerAsBigDecimal": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testQuotedStringSerializationAndDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigDecimalAsIntegerFails": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsBigInteger": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalNaNDeserializationNotSupported": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigDecimalAsBigIntegerFails": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsFloatWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsInt": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testReallyLongValuesDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinityFloatSerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNumberAsStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsInteger": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigIntegerAsInteger": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testSmallValueForBigIntegerDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinityFloatDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBadValueForBigIntegerDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testHtmlCharacterSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testLargeDoubleDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleNaNSerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveBooleanAutoboxedInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsFloatPrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testValueVeryCloseToZeroIsZero": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveBooleanAutoboxedSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveLongAutoboxedDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleInfinitySerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinityDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testSmallValueForBigIntegerSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinitySerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalNegativeInfinityDeserializationNotSupported": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsDoublePrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testSmallValueForBigDecimalSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNumberSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalAsStringRepresentationDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsByteWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalInfinityDeserializationNotSupported": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatNaNSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsBooleanPrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testByteDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveIntegerAutoboxedDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsBooleanWrapper": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleNoFractAsStringRepresentationDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingBigDecimalAsDouble": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigIntegerDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalNoFractAsStringRepresentationDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testReallyLongValuesSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsBytePrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveDoubleAutoboxedSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsBigDecimal": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinitySerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatInfinitySerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatNaNDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleNaNDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigIntegerInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveDoubleAutoboxedDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testStringsAsBooleans": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigIntegerSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingDecimalPointValueZeroSucceeds": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testLongAsStringSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleArrayDeserialization": {
+            "line_rate": "0.1",
+            "branch_rate": "0.0707070707070707"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsBigInteger": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializePrimitiveWrapperAsObjectField": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveClassLiteral": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testByteSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testNegativeInfinityFloatSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveIntegerAutoboxedSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testShortSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveIntegerAutoboxedInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatInfinitySerializationNotSupportedByDefault": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleInfinityDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBigDecimalPreservePrecisionDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonArrayAsNumber": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleNaNSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testBooleanDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveLongAutoboxedInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializingNonZeroDecimalPointValuesAsIntegerFails": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testFloatInfinityDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsNumber": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleInfinitySerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveDoubleAutoboxedInASingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsShortPrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testPrimitiveLongAutoboxedSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDoubleAsStringRepresentationDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrimitiveTest::testDeserializeJsonObjectAsLongPrimitive": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrintFormattingTest::testCompactFormattingLeavesNoWhiteSpace": {
+            "line_rate": "0.4652173913043478",
+            "branch_rate": "0.3333333333333333"
+        },
+        "com.google.gson.functional.PrintFormattingTest::testJsonObjectWithNullValuesSerialized": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.PrintFormattingTest::testJsonObjectWithNullValues": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.RawSerializationTest::testThreeLevelParameterizedObject": {
+            "line_rate": "0.3391304347826087",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.RawSerializationTest::testCollectionOfPrimitives": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.30808080808080807"
+        },
+        "com.google.gson.functional.RawSerializationTest::testTwoLevelParameterizedObject": {
+            "line_rate": "0.3391304347826087",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.RawSerializationTest::testCollectionOfObjects": {
+            "line_rate": "0.40869565217391307",
+            "branch_rate": "0.3181818181818182"
+        },
+        "com.google.gson.functional.RawSerializationTest::testParameterizedObject": {
+            "line_rate": "0.3",
+            "branch_rate": "0.20202020202020202"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTypeMismatchThrowsJsonSyntaxExceptionForStrings": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testReadWriteTwoStrings": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testReaderForDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testReadWriteTwoObjects": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTopLevelNullObjectSerializationWithWriter": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTopLevelNullObjectDeserializationWithReaderAndSerializeNulls": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTopLevelNullObjectDeserializationWithReader": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTypeMismatchThrowsJsonSyntaxExceptionForReaders": {
+            "line_rate": "0.26521739130434785",
+            "branch_rate": "0.18181818181818182"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testTopLevelNullObjectSerializationWithWriterAndSerializeNulls": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ReadersWritersTest::testWriterForSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest::testSubclassesAutomaticallySerialized": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.SecurityTest::testJsonWithNonExectuableTokenSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.SecurityTest::testNonExecutableJsonDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.SecurityTest::testJsonWithNonExectuableTokenWithRegularGsonDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.SecurityTest::testNonExecutableJsonSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.SecurityTest::testJsonWithNonExectuableTokenWithConfiguredGsonDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.SerializedNameTest::testMultipleNamesDeserializedCorrectly": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.SerializedNameTest::testMultipleNamesInTheSameString": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.SerializedNameTest::testFirstNameIsChosenForSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerialize2dArray": {
+            "line_rate": "0.49130434782608695",
+            "branch_rate": "0.3333333333333333"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testNullSafe": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerializeWithCustomTypeAdapter": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserialize1dArray": {
+            "line_rate": "0.4608695652173913",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserialize2dArray": {
+            "line_rate": "0.49130434782608695",
+            "branch_rate": "0.3333333333333333"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserializeWithCustomTypeAdapter": {
+            "line_rate": "0.4217391304347826",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerialize": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserializeNullField": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserializeNullObject": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testFromJsonTree": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserializeMap": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testDeserialize": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerialize1dArray": {
+            "line_rate": "0.4608695652173913",
+            "branch_rate": "0.31313131313131315"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerializeNullField": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerializeNullObject": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerializeMap": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StreamingTypeAdaptersTest::testSerializeRecursive": {
+            "line_rate": "0.4",
+            "branch_rate": "0.2676767676767677"
+        },
+        "com.google.gson.functional.StringTest::testStringValueDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapedCtrlNInStringSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testSingleQuoteInStringSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.StringTest::testEscapedCtrlRInStringSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapingQuotesInStringSerialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.StringTest::testJavascriptKeywordsInStringSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testStringWithEscapedSlashDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testSingleQuoteInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testStringValueAsSingleElementArraySerialization": {
+            "line_rate": "0.11739130434782609",
+            "branch_rate": "0.08080808080808081"
+        },
+        "com.google.gson.functional.StringTest::testAssignmentCharDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.StringTest::testEscapedBackslashInStringSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapingQuotesInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapedCtrlRInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testJavascriptKeywordsInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testAssignmentCharSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapedCtrlNInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testEscapedBackslashInStringDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.StringTest::testStringValueSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.ThrowableFunctionalTest::testErrorWithoutCause": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.35353535353535354"
+        },
+        "com.google.gson.functional.ThrowableFunctionalTest::testSerializedNameOnExceptionFields": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.35353535353535354"
+        },
+        "com.google.gson.functional.ThrowableFunctionalTest::testExceptionWithCause": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.35353535353535354"
+        },
+        "com.google.gson.functional.ThrowableFunctionalTest::testExceptionWithoutCause": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.35353535353535354"
+        },
+        "com.google.gson.functional.ThrowableFunctionalTest::testErrornWithCause": {
+            "line_rate": "0.4956521739130435",
+            "branch_rate": "0.35353535353535354"
+        },
+        "com.google.gson.functional.TreeTypeAdaptersTest::testSerializeId": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.TreeTypeAdaptersTest::testDeserializeId": {
+            "line_rate": "0.3869565217391304",
+            "branch_rate": "0.29292929292929293"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testStreamingFollowedByNonstreaming": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testSerializeNonstreamingTypeAdapterFollowedByStreamingTypeAdapter": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testNonstreamingFollowedByNonstreaming": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testStreamingHierarchicalFollowedByNonstreaming": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testStreamingFollowedByStreaming": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testNonstreamingHierarchicalFollowedByNonstreaming": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testStreamingHierarchicalFollowedByNonstreamingHierarchical": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeAdapterPrecedenceTest::testStreamingFollowedByNonstreamingHierarchical": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeHierarchyAdapterTest::testTypeHierarchy": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.1111111111111111"
+        },
+        "com.google.gson.functional.TypeHierarchyAdapterTest::testRegisterSuperTypeFirst": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.TypeHierarchyAdapterTest::testRegisterSubTypeFirstAllowed": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.TypeVariableTest::testBasicTypeVariables": {
+            "line_rate": "0.3",
+            "branch_rate": "0.19696969696969696"
+        },
+        "com.google.gson.functional.TypeVariableTest::testAdvancedTypeVariables": {
+            "line_rate": "0.4",
+            "branch_rate": "0.30303030303030304"
+        },
+        "com.google.gson.functional.TypeVariableTest::testTypeVariablesViaTypeParameter": {
+            "line_rate": "0.43043478260869567",
+            "branch_rate": "0.3434343434343434"
+        },
+        "com.google.gson.functional.UncategorizedTest::testTrailingWhitespace": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.functional.UncategorizedTest::testGsonInstanceReusableForSerializationAndDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.UncategorizedTest::testStaticFieldsAreNotSerialized": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.UncategorizedTest::testReturningDerivedClassesDuringDeserialization": {
+            "line_rate": "0.034782608695652174",
+            "branch_rate": "0.020202020202020204"
+        },
+        "com.google.gson.functional.UncategorizedTest::testObjectEqualButNotSameSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.UncategorizedTest::testInvalidJsonDeserializationFails": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testIgnoreLaterVersionClassSerialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedGsonMixingSinceAndUntilSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedGsonMixingSinceAndUntilDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedClassesDeserialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedGsonWithUnversionedClassesSerialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedClassesSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedUntilDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedGsonWithUnversionedClassesDeserialization": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.functional.VersioningTest::testVersionedUntilSerialization": {
+            "line_rate": "0.06086956521739131",
+            "branch_rate": "0.050505050505050504"
+        },
+        "com.google.gson.functional.VersioningTest::testIgnoreLaterVersionClassDeserialization": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.internal.GsonTypesTest::testGetFirstTypeArgument": {
+            "line_rate": "0.09130434782608696",
+            "branch_rate": "0.05555555555555555"
+        },
+        "com.google.gson.internal.GsonTypesTest::testNewParameterizedTypeWithoutOwner": {
+            "line_rate": "0.09130434782608696",
+            "branch_rate": "0.07575757575757576"
+        },
+        "com.google.gson.internal.LazilyParsedNumberTest::testHashCode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LazilyParsedNumberTest::testEquals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testDoubleCapacityAllNodesOnLeft": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testForceDoublingAndRehash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testPutOverrides": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testPutNullKeyFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testClear": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testContainsNonComparableKeyReturnsFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testEmptyStringValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testIterationOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testPutNonComparableKeyFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testAvlBuilder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testAvlWalker": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testContainsNullKeyIsAlwaysFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testEqualsAndHashCode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testDoubleCapacity": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedHashTreeMapTest::testRemoveRootDoesNotDoubleUnlink": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testPutOverrides": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testPutNullKeyFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testClear": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testLargeSetOfRandomKeys": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testContainsNonComparableKeyReturnsFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testEmptyStringValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testIterationOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testPutNonComparableKeyFails": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testContainsNullKeyIsAlwaysFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testEqualsAndHashCode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.LinkedTreeMapTest::testRemoveRootDoesNotDoubleUnlink": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.UnsafeAllocatorInstantiationTest::testConcreteClassInstantiation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.UnsafeAllocatorInstantiationTest::testInterfaceInstantiation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.UnsafeAllocatorInstantiationTest::testAbstractClassInstantiation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testNestedObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testLenientNansAndInfinities": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testNulls": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testEarlyClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testStrictNansAndInfinities": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testWrongType": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testEmptyObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testNumbersFromStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testStringsFromNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testNestedArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonElementReaderTest::testStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeReaderTest::testSkipValue_filledJsonObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeReaderTest::testSkipValue_emptyJsonObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testPrematureClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testSerializeNullsFalse": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testLenientNansAndInfinities": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testStrictNansAndInfinities": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testEmptyWriter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testStrictBoxedNansAndInfinities": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testWriteAfterClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testNestedObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testNestedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.JsonTreeWriterTest::testSerializeNullsTrue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testDoubleSupertype": {
+            "line_rate": "0.1391304347826087",
+            "branch_rate": "0.10606060606060606"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testIssue440WeakReference": {
+            "line_rate": "0.6347826086956522",
+            "branch_rate": "0.5"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testSubSupertype": {
+            "line_rate": "0.16956521739130434",
+            "branch_rate": "0.11616161616161616"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testDoubleSubtype": {
+            "line_rate": "0.13478260869565217",
+            "branch_rate": "0.10101010101010101"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveTypeVariablesResolve12": {
+            "line_rate": "0.5260869565217391",
+            "branch_rate": "0.3787878787878788"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveTypeVariablesResolve1": {
+            "line_rate": "0.5260869565217391",
+            "branch_rate": "0.37373737373737376"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testIssue603PrintStream": {
+            "line_rate": "0.7608695652173914",
+            "branch_rate": "0.5757575757575758"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testSuperSubtype": {
+            "line_rate": "0.14347826086956522",
+            "branch_rate": "0.10101010101010101"
+        },
+        "com.google.gson.internal.bind.RecursiveTypesResolveTest::testRecursiveResolveSimple": {
+            "line_rate": "0.5782608695652174",
+            "branch_rate": "0.4292929292929293"
+        },
+        "com.google.gson.metrics.PerformanceTest::testDummy": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testIsAssignableFromWithNestedWildcards": {
+            "line_rate": "0.2826086956521739",
+            "branch_rate": "0.24242424242424243"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testArrayFactory": {
+            "line_rate": "0.2608695652173913",
+            "branch_rate": "0.17676767676767677"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testIsAssignableFromWithTypeParameters": {
+            "line_rate": "0.1826086956521739",
+            "branch_rate": "0.15151515151515152"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testIsAssignableFromWithBasicWildcards": {
+            "line_rate": "0.2826086956521739",
+            "branch_rate": "0.23737373737373738"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testParameterizedFactory": {
+            "line_rate": "0.18695652173913044",
+            "branch_rate": "0.1414141414141414"
+        },
+        "com.google.gson.reflect.TypeTokenTest::testIsAssignableFromRawTypes": {
+            "line_rate": "0.02608695652173913",
+            "branch_rate": "0.015151515151515152"
+        },
+        "com.google.gson.regression.JsonAdapterNullSafeTest::testNullSafeBugDeserialize": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.regression.JsonAdapterNullSafeTest::testNullSafeBugSerialize": {
+            "line_rate": "0.05217391304347826",
+            "branch_rate": "0.045454545454545456"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::multipleTopLevelValuesInOneDocument[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipObjectValues[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayPath[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::path[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipObjectNames[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipArrayElements[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayOfObjects[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::objectPath[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayOfArrays[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipNestedStructures[STRING_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::multipleTopLevelValuesInOneDocument[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipObjectValues[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayPath[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::path[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipObjectNames[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipArrayElements[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayOfObjects[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::objectPath[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::arrayOfArrays[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderPathTest::skipNestedStructures[OBJECT_READER]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testIntegerMismatchFailuresDoNotAdvance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testTopLevelValueTypeWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testVeryLongUnquotedLiteral": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictCommentsWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictVeryLongNumber": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictMultipleTopLevelValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testUnescapingTruncatedSequence": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientMultipleTopLevelValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSemicolonDelimitedNameValuePairWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipVeryLongUnquotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientSingleQuotedStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testBomIgnoredAsFirstCharacterOfDocument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testUnterminatedStringFailure": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testDeeplyNestedArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testBomForbiddenAsOtherCharacterInDocument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testReadEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNonFiniteDoublesWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testReadObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPrematureEndOfInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testNullLiteralIsNotAString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLongs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testNulls": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPeekingUnquotedStringsPrefixedWithBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testMixedCaseLiterals": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientNonExecutePrefixWithLeadingWhitespace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLongLargerThanMaxLongThatWrapsAround": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPosition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnquotedStringsWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNameValueSeparatorWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictMultipleTopLevelValuesWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientSemicolonDelimitedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipDouble": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientUnquotedNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testMalformedNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientSingleQuotedNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientExtraCommasInMaps": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testTopLevelValueTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPeekLongMinValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringWithLeadingSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testUnescapingInvalidCharacters": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPeekMuchLargerThanLongMinValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringNullIsNotNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testCommentsInStringValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringAsNumberWithDigitAndNonDigitExponent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipObjectAfterPeek": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testEmptyStringName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testReadArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionOverUnquotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientPartialNonExecutePrefix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionOverSlashSlashEndOfLineComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringAsNumberWithNonDigitExponent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnnecessaryArraySeparatorsWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringAsNumberWithTruncatedExponent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSemicolonDelimitedArrayWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionGreaterThanBufferSize": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipTopLevelQuotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testMissingValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testUnterminatedObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testVeryLongQuotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionDeepPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSingleQuotedNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientUnquotedStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSingleQuotedNamesWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnnecessaryArraySeparators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testVeryLongUnquotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictExtraCommasInMaps": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipArrayAfterPeek": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testDeeplyNestedObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientNonExecutePrefix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientUnnecessaryArraySeparators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testCharacterUnescaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testNextFailuresDoNotAdvance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLongLargerThanMinLongThatWrapsAround": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testReadEmptyObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testMalformedDocuments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testUnescapingTruncatedCharacters": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientSemicolonDelimitedNameValuePair": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipTopLevelObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testEmptyString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSemicolonDelimitedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSemicolonDelimitedNameValuePair": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSingleQuotedStringsWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testDocumentWithCommentEndingInSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testIntegersWithFractionalPartSpecified": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNonExecutePrefixWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientNonFiniteDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnquotedStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithEscapedNewlineCharacter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipVeryLongQuotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientVeryLongNumber": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPeekLongMaxValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictComments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStringEndingInSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnquotedNamesWithSkipValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testQuotedNumberWithEscape": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPrematurelyClosed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testSkipTopLevelUnquotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNonExecutePrefix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testInvalidJsonInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testVeryLongUnterminatedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testNegativeZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNameValueSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionOverQuotedString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictUnquotedNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientComments": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testPeekingUnquotedStringsPrefixedWithIntegers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionOverCStyleComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictSingleQuotedStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionOverHashEndOfLineComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictQuotedNonFiniteDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientQuotedNonFiniteDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testFailWithPositionIsOffsetByBom": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testHelloWorld": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testLenientNameValueSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonReaderTest::testStrictNonFiniteDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testTwoNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNameWithoutValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testBoxedBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testInvalidTopLevelTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNullStringValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testDeepNestingArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testLongs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNulls": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNullName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testArraysInObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNonFiniteDoublesWhenLenient": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testRepeatedName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testTopLevelValueTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testClosedWriterThrowsOnStructure": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testObjectsInArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testStrictWriterDoesNotPermitMultipleTopLevelValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testJsonValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testWriterCloseIsIdempotent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testLenientWriterPermitsMultipleTopLevelValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testBadNestingObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testPrettyPrintArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testPrettyPrintObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testValueWithoutName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testDeepNestingObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testEmptyObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testBadNestingArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testMultipleTopLevelValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNonFiniteDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNonFiniteBoxedDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testClosedWriterThrowsOnFlush": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testClosedWriterThrowsOnValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testDoubles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNonFiniteBoxedDoublesWhenLenient": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testClosedWriterThrowsOnName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.google.gson.stream.JsonWriterTest::testUnicodeLineBreaksEscaped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}

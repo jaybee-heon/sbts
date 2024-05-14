@@ -1,0 +1,560 @@
+{
+    "Jsoup_1": {
+        "org.jsoup.integration.ParseTest::testYahooJp": {
+            "line_rate": "0.45652173913043476",
+            "branch_rate": "0.5555555555555556"
+        },
+        "org.jsoup.integration.ParseTest::testGoogleSearchIpod": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.4444444444444444"
+        },
+        "org.jsoup.integration.ParseTest::testSmhBizArticle": {
+            "line_rate": "0.45652173913043476",
+            "branch_rate": "0.5555555555555556"
+        },
+        "org.jsoup.integration.ParseTest::testBinary": {
+            "line_rate": "0.5869565217391305",
+            "branch_rate": "0.5555555555555556"
+        },
+        "org.jsoup.integration.ParseTest::testNewsHomepage": {
+            "line_rate": "0.45652173913043476",
+            "branch_rate": "0.5555555555555556"
+        },
+        "org.jsoup.integration.UrlConnectTest::noop": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.nodes.DocumentTest::setTextPreservesDocumentStructure": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.DocumentTest::testTitles": {
+            "line_rate": "0.5434782608695652",
+            "branch_rate": "0.6111111111111112"
+        },
+        "org.jsoup.nodes.ElementTest::testPrependElement": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testOuterHtml": {
+            "line_rate": "0.391304347826087",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testAddNewHtml": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testAddNewText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetElementById": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testClassDomMethods": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testWrap": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testElementSiblingIndex": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetElementsWithAttribute": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetElementsWithClass": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testWrapWithRemainder": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testKeepsPreTextInCode": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::getElementsByTagName": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testFormatHtml": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetElementsWithAttributeValue": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testInnerHtml": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testHasText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testNormalisesText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testClassUpdates": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testAddNewElement": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testPrependText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testGetSiblings": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testSetHtml": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testSetText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testPrependNewHtml": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.ElementTest::testKeepsPreText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.NodeTest::handlesBaseUri": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.nodes.NodeTest::testReplace": {
+            "line_rate": "0.391304347826087",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.NodeTest::handlesAbsPrefix": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.NodeTest::testRemove": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.nodes.TextNodeTest::testBlank": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.nodes.TextNodeTest::testTextBean": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.AttributeParseTest::emptyOnNoKey": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.AttributeParseTest::parsesRoughAttributeString": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.AttributeParseTest::parsesEmptyString": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::normalisesHeadlessBody": {
+            "line_rate": "0.391304347826087",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::normalisesDocument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.ParserTest::createsStructureFromBodySnippet": {
+            "line_rate": "0.5217391304347826",
+            "branch_rate": "0.5555555555555556"
+        },
+        "org.jsoup.parser.ParserTest::parsesSimpleDocument": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesInvalidStartTags": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesEscapedData": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::createsDocumentStructure": {
+            "line_rate": "0.41304347826086957",
+            "branch_rate": "0.4444444444444444"
+        },
+        "org.jsoup.parser.ParserTest::parsesUnterminatedComments": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesDataOnlyTags": {
+            "line_rate": "0.391304347826087",
+            "branch_rate": "0.4444444444444444"
+        },
+        "org.jsoup.parser.ParserTest::handlesEmptyBlocks": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesCdata": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::parsesUnterminatedTag": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesBaseTags": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesFrames": {
+            "line_rate": "0.391304347826087",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesJavadocFont": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesUnknownTags": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesTextArea": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::parsesRoughAttributes": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesUnclosedDefinitionLists": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesBaseWithoutHref": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesUnknownInlineTags": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::normalisesEmptyDocument": {
+            "line_rate": "0.43478260869565216",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::parsesComments": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::createsImplicitLists": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::createsImplicitTable": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::parsesUnterminatedAttribute": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.ParserTest::handlesMultiClosingBody": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.parser.TagTest::divSemantics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::trims": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::imgSemantics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::valueOfChecksNotEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::pSemantics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::equality": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::spanSemantics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::defaultSemantics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::isCaseInsensitive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.parser.TagTest::valueOfChecksNotNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.jsoup.safety.CleanerTest::testHandlesEmptyAttributes": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::basicBehaviourTest": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testDropScript": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testRelaxed": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::resolvesRelativeLinks": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testDropComments": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::simpleBehaviourTest2": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testDropImageScript": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::simpleBehaviourTest": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::dropsUnresolvableRelativeLinks": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testDropsUnknownTags": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testIsValid": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testCleanJavascriptHref": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::basicWithImagesTest": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.safety.CleanerTest::testDropXmlProc": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::filter": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::eq": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::is": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::val": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::attr": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::html": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::text": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::wrap": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::attributes": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::hasAttr": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::hasText": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::classes": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::outerHtml": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.ElementsTest::setHtml": {
+            "line_rate": "0.5",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::deeperDescendant": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testPseudoEquals": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testAllWithClass": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testByTag": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testById": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::descendant": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testByAttribute": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::notAdjacent": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testPseudoGreaterThan": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testAllElements": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::mixCombinator": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testPseudoBetween": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testPseudoLessThan": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testGroupOr": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testByClass": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::and": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testGroupOrAttribute": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::caseInsensitive": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testCharactersInIdAndClass": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::multiChildDescent": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::adjacentSiblingsWithId": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::parentWithClassChild": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::generalSiblings": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::parentChildStar": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testPseudoCombined": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::adjacentSiblings": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::parentChildElement": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::testSupportsLeadingCombinator": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        },
+        "org.jsoup.select.SelectorTest::mixCombinatorGroup": {
+            "line_rate": "0.3695652173913043",
+            "branch_rate": "0.3888888888888889"
+        }
+    }
+}

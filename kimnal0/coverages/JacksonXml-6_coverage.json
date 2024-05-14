@@ -1,0 +1,736 @@
+{
+    "JacksonXml_6": {
+        "com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testSerializerProviderCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testCopyWith": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.12295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testMapperSerialization": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.MapperCopyTest::testMapperCopy": {
+            "line_rate": "0.025490196078431372",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.RoundtripContentTest::testRoundtrip": {
+            "line_rate": "0.32745098039215687",
+            "branch_rate": "0.27459016393442626"
+        },
+        "com.fasterxml.jackson.dataformat.xml.VersionInfoTest::testMapperVersions": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.adapters.TestIssue47Attribute::testEmptyStringFromElemAndAttr": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.CaseInsensitiveDeserTest::testCaseInsensitive1036": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.DeserErrorHandling236Test::testExceptionWrapping": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.EmptyStringValueTest::testEmptyElement": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.EmptyStringValueTest::testEmptyString162": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.EmptyStringValueTest::testEmptyStringElement": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.ExceptionDeserializationTest::testEmptyString162": {
+            "line_rate": "0.27450980392156865",
+            "branch_rate": "0.20901639344262296"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.Issue274PropertyNameTest::testIssue274": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsGenericTest::testNullsToEmptyArrays": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsGenericTest::testNullsToGenericPojo": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsGenericTest::testNullsToEmptyPojo": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsSkipTest::testSkipNullMethod1": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsSkipTest::testSkipNullMethod2": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsSkipTest::testSkipNullField1": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsSkipTest::testSkipNullField2": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.NullConversionsSkipTest::testSkipNullWithDefaults": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testStringArrayWithAttribute": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testMissingString": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testEmptyElementToString": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testStringsInList": {
+            "line_rate": "0.24705882352941178",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testStringWithAttribute": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testStringsWithAttribute": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.SimpleStringValuesTest::testSimpleStringElement": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestBinaryData::testTwoBinaryProps": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestDeserialization::testOptionalAttr": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestDeserialization::testMissingOptionalAttr": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestDeserialization::testFromAttribute": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestDeserialization::testRoundTripWithJacksonExample": {
+            "line_rate": "0.22549019607843138",
+            "branch_rate": "0.1680327868852459"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestDeserialization::testMapWithAttr": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestEnums::testEnum": {
+            "line_rate": "0.18627450980392157",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestViews::testNullSuppression": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestViews::testIssue7": {
+            "line_rate": "0.23921568627450981",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.TestViews::testIssue44": {
+            "line_rate": "0.19215686274509805",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest::testEmptyTags": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest::testRootAttributes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest::testNested": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.XmlTokenStreamTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testImmutable": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testBuilderMethodReturnMoreGeneral": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testMultiAccess": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testPOJOConfigResolution1557": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testBuilderMethodReturnMoreSpecific": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testSimpleWithIgnores": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testSelfBuilder777": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testSimple": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.deser.builder.BuilderSimpleTest::testCustomWith": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.incr.IncrementalWritingTest::testSimple": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.11885245901639344"
+        },
+        "com.fasterxml.jackson.dataformat.xml.incr.PartialReadTest::testSimpleRead": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.AttributesWithJAXBTest::testTwoAttributes": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.11885245901639344"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.AttributesWithJAXBTest::testAttributeAndElement": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.BuilderWithJAXB291Test::testBuilder291": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.ElementWrapperTest::testElementWrapper": {
+            "line_rate": "0.2196078431372549",
+            "branch_rate": "0.1598360655737705"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.ElementWrapperTest::testNoElementWrapper": {
+            "line_rate": "0.1980392156862745",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.JAXBObjectId170Test::testPolyIdList178": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.WithJAXBAnnotationsTest::testPersonAsXml": {
+            "line_rate": "0.19411764705882353",
+            "branch_rate": "0.13524590163934427"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.WithJAXBAnnotationsTest::testSerializeAsAttr": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.WithJAXBAnnotationsTest::testRootName": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.jaxb.WithJAXBAnnotationsTest::testAsTextWithJAXB": {
+            "line_rate": "0.19411764705882353",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.DeserializePolyList178Test::testPolyIdList178": {
+            "line_rate": "0.24705882352941178",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.EmptyListDeserTest::testEmptyList": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.Issue101UnwrappedListAttributesTest::testOptionalsWithMissingType": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.Issue101UnwrappedListAttributesTest::testWithTwoAttributes": {
+            "line_rate": "0.2",
+            "branch_rate": "0.14754098360655737"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListAnnotationSharingTest::testAnnotationSharing": {
+            "line_rate": "0.21764705882352942",
+            "branch_rate": "0.1557377049180328"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListAsObjectTest::testCollection": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeser191Test::testListDeser": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeserializationTest::testWrappedListBeanDeser": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeserializationTest::testUnwrappedListBeanDeser": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeserializationTest::testWrappedList": {
+            "line_rate": "0.27450980392156865",
+            "branch_rate": "0.19672131147540983"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeserializationTest::testWrappedListWithGetters": {
+            "line_rate": "0.24901960784313726",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListDeserializationTest::testWrappedListWithAttribute": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListRoundtripTest::testOptionals": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListRoundtripTest::testParentListRoundtrip": {
+            "line_rate": "0.2",
+            "branch_rate": "0.14754098360655737"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListRoundtripTest::testListWithAttrOnlyValues": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest::testSimpleWrappedList": {
+            "line_rate": "0.21764705882352942",
+            "branch_rate": "0.15163934426229508"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.ListSerializationTest::testStringList": {
+            "line_rate": "0.2196078431372549",
+            "branch_rate": "0.1598360655737705"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedLists180Test::testNestedUnwrappedLists180": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNested1_2b": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty2": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNestedWithEmpty": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNested1_2": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.NestedUnwrappedListsTest::testNested2_1": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.RootListHandlingTest::testArraySerialization": {
+            "line_rate": "0.2411764705882353",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.RootListHandlingTest::testListSerialization": {
+            "line_rate": "0.2411764705882353",
+            "branch_rate": "0.1762295081967213"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.RootListHandlingTest::testRenamedRootItem": {
+            "line_rate": "0.2019607843137255",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListWithEmptyCData129Test::testListWithEmptyCData": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListsTest::testOptionalsWithMissingType": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListsTest::testWrappedLists": {
+            "line_rate": "0.2196078431372549",
+            "branch_rate": "0.1598360655737705"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListsTest::testUnwrappedLists": {
+            "line_rate": "0.1980392156862745",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListsTest::testDefaultWrapping": {
+            "line_rate": "0.2196078431372549",
+            "branch_rate": "0.1598360655737705"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.UnwrappedListsTest::testDefaultWrappingWithEmptyLists": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.lists.WrappedListsTest::testEmptyList": {
+            "line_rate": "0.1450980392156863",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testIntArrayToX": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testArrayIdentityTransforms": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testShortArrayToX": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testListAsProperty": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testListToIntArray": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testByteArrayFrom": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testLongArrayToX": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ArrayConversionsTest::testNullXform": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.DTDSupportTest::testDTDAttempt": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.EmptyPolymorphicTest::testEmpty": {
+            "line_rate": "0.20588235294117646",
+            "branch_rate": "0.14754098360655737"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.NodeTest::testMixed": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.ObjectId104Test::testSimpleCollectionDeserWithForwardRefs": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.PolymorphicTypesTest::testAsClassProperty": {
+            "line_rate": "0.19019607843137254",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.PolymorphicTypesTest::testAsPropertyWithObjectId": {
+            "line_rate": "0.22745098039215686",
+            "branch_rate": "0.16393442622950818"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.PolymorphicTypesTest::testAsClassObject": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.RootNameTest::testRootNameAnnotation": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.RootNameTest::testDynamicRootName": {
+            "line_rate": "0.1980392156862745",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testAlternateTextElementName": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testTextOnlyPojo": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testSerializeAsText": {
+            "line_rate": "0.21176470588235294",
+            "branch_rate": "0.1557377049180328"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testDeserializeAsText": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testIssue24": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.TextValueTest::testIssue66": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.UnwrappingWithXMLTest::testUnwrappingSubWithAttribute": {
+            "line_rate": "0.19411764705882353",
+            "branch_rate": "0.13524590163934427"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.UnwrappingWithXMLTest::testUnwrappingWithAttribute": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.11885245901639344"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.UnwrappingWithXMLTest::testSimpleUnwrappingRoundtrip": {
+            "line_rate": "0.2019607843137255",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.XmlTextTest::testXmlTextWithSuppressedValue": {
+            "line_rate": "0.18627450980392157",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.XmlTextTest::testSimple198": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.misc.XmlTextTest::testMixedContent": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith0Bytes": {
+            "line_rate": "0.19019607843137254",
+            "branch_rate": "0.13524590163934427"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith2Bytes": {
+            "line_rate": "0.2019607843137255",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith3Bytes": {
+            "line_rate": "0.20392156862745098",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith4Bytes": {
+            "line_rate": "0.20588235294117646",
+            "branch_rate": "0.15163934426229508"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestBinaryStreamToXMLSerialization::testWith1Byte": {
+            "line_rate": "0.2019607843137255",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testSimpleStringBean": {
+            "line_rate": "0.20588235294117646",
+            "branch_rate": "0.14754098360655737"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testSimpleMap": {
+            "line_rate": "0.1980392156862745",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testEmptyElem": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.12295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testWithAttr": {
+            "line_rate": "0.20784313725490197",
+            "branch_rate": "0.15163934426229508"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testMultiLevel172": {
+            "line_rate": "0.27058823529411763",
+            "branch_rate": "0.19262295081967212"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestIndentation::testSimpleIntBean": {
+            "line_rate": "0.20588235294117646",
+            "branch_rate": "0.14754098360655737"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestJDKSerializability::testMapper": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.12295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestJDKSerializability::testXmlFactory": {
+            "line_rate": "0.15490196078431373",
+            "branch_rate": "0.10655737704918032"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestNamespaces::testRootNamespace": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testSimpleAttribute": {
+            "line_rate": "0.16862745098039217",
+            "branch_rate": "0.11065573770491803"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testNakedMap": {
+            "line_rate": "0.17254901960784313",
+            "branch_rate": "0.12295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testCustomSerializer": {
+            "line_rate": "0.11960784313725491",
+            "branch_rate": "0.09016393442622951"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testMap": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testSimpleNsElem": {
+            "line_rate": "0.18235294117647058",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testSimpleAttrAndElem": {
+            "line_rate": "0.19411764705882353",
+            "branch_rate": "0.13524590163934427"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testCDataString": {
+            "line_rate": "0.18627450980392157",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerialization::testCDataStringArray": {
+            "line_rate": "0.2235294117647059",
+            "branch_rate": "0.1557377049180328"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationAttr::testSimpleNsAttr": {
+            "line_rate": "0.16862745098039217",
+            "branch_rate": "0.11065573770491803"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationAttr::testIssue6": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.11885245901639344"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationAttr::testIssue117AnySetterAttrs": {
+            "line_rate": "0.18627450980392157",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationAttr::testIssue19": {
+            "line_rate": "0.19411764705882353",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationManual::testIssue54": {
+            "line_rate": "0.19607843137254902",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializationOrdering::testOrdering": {
+            "line_rate": "0.1843137254901961",
+            "branch_rate": "0.13114754098360656"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestSerializerCustom::testIssue42": {
+            "line_rate": "0.2019607843137255",
+            "branch_rate": "0.14344262295081966"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestXmlDeclaration::testXml10Declaration": {
+            "line_rate": "0.18823529411764706",
+            "branch_rate": "0.13524590163934427"
+        },
+        "com.fasterxml.jackson.dataformat.xml.ser.TestXmlDeclaration::testXml11Declaration": {
+            "line_rate": "0.18627450980392157",
+            "branch_rate": "0.12704918032786885"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleValidComment": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleValidPI": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleValidDoctype": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleValidXmlDecl": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleViaObjectReader": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleValidRoot": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testListViaObjectReader": {
+            "line_rate": "0.21764705882352942",
+            "branch_rate": "0.1557377049180328"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.FormatDetectionTest::testSimpleInvalid": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testSimpleElement": {
+            "line_rate": "0.15490196078431373",
+            "branch_rate": "0.10655737704918032"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testSimpleAttribute": {
+            "line_rate": "0.1450980392156863",
+            "branch_rate": "0.09016393442622951"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testAttrAndElem": {
+            "line_rate": "0.1588235294117647",
+            "branch_rate": "0.10655737704918032"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawOffsetAttribute": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testSecondLevelAttribute": {
+            "line_rate": "0.1450980392156863",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawSimpleAttribute": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawOffsetValue": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawCharArrayValue": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testWriteToFile": {
+            "line_rate": "0.1803921568627451",
+            "branch_rate": "0.11885245901639344"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawCharArratAttribute": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlGeneratorTest::testRawSimpleValue": {
+            "line_rate": "0.14705882352941177",
+            "branch_rate": "0.0942622950819672"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserNextXxxTest::testXmlAttributesWithNextTextValue": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testForceElementAsArray": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testSimpleWithEmpty": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testSimpleNested": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testXmlAttributes": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testRoundTripWithSample": {
+            "line_rate": "0.20980392156862746",
+            "branch_rate": "0.1598360655737705"
+        },
+        "com.fasterxml.jackson.dataformat.xml.stream.XmlParserTest::testSimplest": {
+            "line_rate": "0.023529411764705882",
+            "branch_rate": "0.012295081967213115"
+        }
+    }
+}

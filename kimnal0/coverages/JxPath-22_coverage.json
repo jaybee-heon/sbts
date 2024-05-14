@@ -1,0 +1,1548 @@
+{
+    "JxPath_22": {
+        "org.apache.commons.jxpath.BasicNodeSetTest::testAdd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.BasicNodeSetTest::testNodes": {
+            "line_rate": "0.27002967359050445",
+            "branch_rate": "0.19202898550724637"
+        },
+        "org.apache.commons.jxpath.BasicNodeSetTest::testRemove": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.ExceptionHandlerTest::testHandleBarBaz": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.ExceptionHandlerTest::testHandleFoo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationDivide": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testVariableReference": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationGreaterThan": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationAnd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMod": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationSum": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationLessThanOrEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathNodeTest": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMultiply": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testExtensionFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationUnaryMinus": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisChild": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisOther": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMinus": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationUnion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationNotEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testConstant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationLessThan": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisDescendant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisDescendantOrSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationOr": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationNameAttributeTest": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testExpressionPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationGreaterThanOrEqual": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisAttribute": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.StressTest::testThreads": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.axes.RecursiveAxesTest::testInfiniteDescent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepNoPredicatesPropertyOwner": {
+            "line_rate": "0.06231454005934718",
+            "branch_rate": "0.028985507246376812"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicateName": {
+            "line_rate": "0.11572700296735905",
+            "branch_rate": "0.09057971014492754"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testInterpretExpressionPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepPredicatesPropertyOwner": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepNoPredicatesStandard": {
+            "line_rate": "0.2789317507418398",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepPredicatesStandard": {
+            "line_rate": "0.27002967359050445",
+            "branch_rate": "0.19202898550724637"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicatesStandard": {
+            "line_rate": "0.28486646884273",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicateIndex": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ContextDependencyTest::testContextDependency": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testIDFunction": {
+            "line_rate": "0.3056379821958457",
+            "branch_rate": "0.21014492753623187"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testExtendedKeyFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testKeyFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testFormatNumberFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testCoreFunctions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNan": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testEmptyNodeSetOperations": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testInfoSetTypes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNodeSetOperations": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodCall": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testBCNodeSetHack": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testConstructorLookupWithExpressionContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testConstructorLookup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testCollectionMethodCall": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookupWithExpressionContextAndArgument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookupWithExpressionContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookupWithExpressionContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testExpressionContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testCollectionReturn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testEstablishNodeSetBaseline": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookupWithConversion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testAllocation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testNodeSetReturn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookup": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodCall": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.JXPath149Test::testComplexOperationWithVariables": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclareVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testInvalidVariableName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetCollectionElementProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathUndeclareVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testIterateVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreateAndSetValuePathDeclareVariableSetCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testUnionOfVariableAndNode": {
+            "line_rate": "0.17507418397626112",
+            "branch_rate": "0.13043478260869565"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testVariables": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathArrayElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testNestedContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclVarSetCollectionElementProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclareVariableSetProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testVariablesInExpressions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateDOM": {
+            "line_rate": "0.19881305637982197",
+            "branch_rate": "0.13043478260869565"
+        },
+        "org.apache.commons.jxpath.ri.model.EmbeddedColonMapKeysTest::testSelectNodes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmbeddedColonMapKeysTest::testSelectSingleNode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptyChildArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptyArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptyList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptyChildList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptyChildSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.EmptyCollectionTest::testEmptySet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.ExternalXMLNamespaceTest::testElementDOM": {
+            "line_rate": "0.20474777448071216",
+            "branch_rate": "0.17753623188405798"
+        },
+        "org.apache.commons.jxpath.ri.model.ExternalXMLNamespaceTest::testAttributeDOM": {
+            "line_rate": "0.142433234421365",
+            "branch_rate": "0.09057971014492754"
+        },
+        "org.apache.commons.jxpath.ri.model.ExternalXMLNamespaceTest::testCreateAndSetAttributeDOM": {
+            "line_rate": "0.26112759643916916",
+            "branch_rate": "0.15579710144927536"
+        },
+        "org.apache.commons.jxpath.ri.model.JXPath151Test::testMapValueEquality": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.JXPath151Test::testMapValueEqualityUsingNameAttribute": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.JXPath154Test::testInnerEmptyNamespaceDOM": {
+            "line_rate": "0.32047477744807124",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.JXPath154Test::testInnerEmptyNamespaceJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListElement": {
+            "line_rate": "0.2789317507418398",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanContainer": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testIteratePointersArrayElementWithVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testCollectionPointer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListDocument": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testNull": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListPrimitive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapPrimitive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarElement": {
+            "line_rate": "0.2789317507418398",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapDocument": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testIterateVector": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testErrorProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarPrimitive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testIteratePointersArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanElement": {
+            "line_rate": "0.2789317507418398",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testRootAsCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testCreatePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListContainer": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapContainer": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanPrimitive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarDocument": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testIterateArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarContainer": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMatrix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanDocument": {
+            "line_rate": "0.2818991097922849",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testVarMap": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testCreatePathAndSetValueWithMatrix": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testMapElement": {
+            "line_rate": "0.2789317507418398",
+            "branch_rate": "0.20652173913043478"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testBeanList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.MixedModelTest::testListList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testPreserveDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testNestedJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testDefaultJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testDefaultDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testNestedWithCommentsJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testUnspecifiedDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testPreserveJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testUnspecifiedJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testNestedDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLPreserveSpaceTest::testNestedWithCommentsDOM": {
+            "line_rate": "0.19881305637982197",
+            "branch_rate": "0.14492753623188406"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testPreserveDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testDefaultJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testDefaultDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedWithCommentsJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testUnspecifiedDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.13405797101449277"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testPreserveJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testUnspecifiedJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedDOM": {
+            "line_rate": "0.19584569732937684",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLSpaceTest::testNestedWithCommentsDOM": {
+            "line_rate": "0.19881305637982197",
+            "branch_rate": "0.14492753623188406"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLUpperCaseElementsTest::testBasicGetDOM": {
+            "line_rate": "0.18991097922848665",
+            "branch_rate": "0.13768115942028986"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLUpperCaseElementsTest::testBasicGetJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLUpperCaseElementsTest::testBasicIterateDOM": {
+            "line_rate": "0.18991097922848665",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.XMLUpperCaseElementsTest::testBasicIterateJDOM": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BadlyImplementedFactoryTest::testBadFactoryImplementation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIndexedProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisChild": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemoveAllArrayElements": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisDescendantOrSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisAncestor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testMultipleIterators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemovePathBeanValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValueCreateBeanExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIndividualIterators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisAttribute": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValueExpandExistingCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testUnion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathExpandExistingCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testDocumentOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetPropertyValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisChildNestedBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextAbsolutePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIterateAndSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisFollowing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePropertyArrayWithHasNext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemoveAllListElements": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisChildNestedCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathCreateBeanExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextRelativePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAttributeLang": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAttributeName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCoreFunctions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemoveAllMapEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testBooleanPredicate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemovePathArrayElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetContextDependentNode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValueExpandNewCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePointerSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIndexPredicate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathExpandNewCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathExpandExistingCollectionAndSetProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisPrecedingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePropertyArrayWithoutHasNext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetNonPrimitiveValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisDescendant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextInheritance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisFollowingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemovePathPropertyValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisPreceding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerRootWithCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerPropertyWithCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerVariableWithCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerMapWithCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testGetNode": {
+            "line_rate": "0.14836795252225518",
+            "branch_rate": "0.09782608695652174"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testGetElementDescendantOrSelf": {
+            "line_rate": "0.1572700296735905",
+            "branch_rate": "0.09420289855072464"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisChild": {
+            "line_rate": "0.3916913946587537",
+            "branch_rate": "0.31521739130434784"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAncestor": {
+            "line_rate": "0.26112759643916916",
+            "branch_rate": "0.21014492753623187"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAttribute": {
+            "line_rate": "0.3916913946587537",
+            "branch_rate": "0.31521739130434784"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodes": {
+            "line_rate": "0.19287833827893175",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisChildIndexPredicate": {
+            "line_rate": "0.19287833827893175",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testUnion": {
+            "line_rate": "0.2433234421364985",
+            "branch_rate": "0.19202898550724637"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testLang": {
+            "line_rate": "0.3026706231454006",
+            "branch_rate": "0.22826086956521738"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testID": {
+            "line_rate": "0.3056379821958457",
+            "branch_rate": "0.21014492753623187"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testDocumentOrder": {
+            "line_rate": "0.26706231454005935",
+            "branch_rate": "0.19927536231884058"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisParent": {
+            "line_rate": "0.41543026706231456",
+            "branch_rate": "0.34057971014492755"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisFollowing": {
+            "line_rate": "0.4124629080118694",
+            "branch_rate": "0.32608695652173914"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeText": {
+            "line_rate": "0.3026706231454006",
+            "branch_rate": "0.22826086956521738"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testTypeConversions": {
+            "line_rate": "0.19287833827893175",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisNamespace": {
+            "line_rate": "0.28486646884273",
+            "branch_rate": "0.19927536231884058"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testElementInVariable": {
+            "line_rate": "0.19287833827893175",
+            "branch_rate": "0.14130434782608695"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisSelf": {
+            "line_rate": "0.27596439169139464",
+            "branch_rate": "0.21739130434782608"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testContainer": {
+            "line_rate": "0.29673590504451036",
+            "branch_rate": "0.2210144927536232"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNamespaceMapping": {
+            "line_rate": "0.4124629080118694",
+            "branch_rate": "0.3333333333333333"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeProcessingInstruction": {
+            "line_rate": "0.3560830860534125",
+            "branch_rate": "0.26811594202898553"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testRemovePath": {
+            "line_rate": "0.2195845697329377",
+            "branch_rate": "0.15942028985507245"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testCreatePathAndSetValue": {
+            "line_rate": "0.516320474777448",
+            "branch_rate": "0.3804347826086957"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testCreatePath": {
+            "line_rate": "0.3768545994065282",
+            "branch_rate": "0.26811594202898553"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testFunctionsLastAndPosition": {
+            "line_rate": "0.2344213649851632",
+            "branch_rate": "0.16304347826086957"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisPrecedingSibling": {
+            "line_rate": "0.2314540059347181",
+            "branch_rate": "0.16304347826086957"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testBooleanFunction": {
+            "line_rate": "0.1513353115727003",
+            "branch_rate": "0.09782608695652174"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisDescendant": {
+            "line_rate": "0.34124629080118696",
+            "branch_rate": "0.2898550724637681"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisFollowingSibling": {
+            "line_rate": "0.3056379821958457",
+            "branch_rate": "0.22826086956521738"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testDocument": {
+            "line_rate": "0.29673590504451036",
+            "branch_rate": "0.2210144927536232"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisPreceding": {
+            "line_rate": "0.26112759643916916",
+            "branch_rate": "0.18115942028985507"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAncestorOrSelf": {
+            "line_rate": "0.26112759643916916",
+            "branch_rate": "0.19927536231884058"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeComment": {
+            "line_rate": "0.1572700296735905",
+            "branch_rate": "0.11594202898550725"
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testSetValue": {
+            "line_rate": "0.23738872403560832",
+            "branch_rate": "0.16666666666666666"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChild": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemoveAllArrayElements": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisDescendantOrSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisAncestor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testMultipleIterators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemovePathBeanValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValueCreateBeanExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIndividualIterators": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisAttribute": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValueExpandExistingCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testUnion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathExpandExistingCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testDocumentOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetPropertyValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChildNestedBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextAbsolutePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIterateAndSet": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisFollowing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIteratePropertyArrayWithHasNext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemoveAllListElements": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChildNestedCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathCreateBeanExpandCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextRelativePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAttributeLang": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAttributeName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCoreFunctions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemoveAllMapEntries": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testBooleanPredicate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemovePathArrayElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetContextDependentNode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValueExpandNewCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIteratePointerSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIndexPredicate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathExpandNewCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathExpandExistingCollectionAndSetProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisPrecedingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIteratePropertyArrayWithoutHasNext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetNonPrimitiveValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisDescendant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextInheritance": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisFollowingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemovePathPropertyValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisPreceding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.LazyDynaBeanTest::testStrictLazyDynaBeanPropertyFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.LazyDynaBeanTest::testLazyProperty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testAxisChild": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testSetPrimitiveValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testRemovePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathNewCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testAttributeName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathAndSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testSetCollection": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testRemovePathArrayElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testSetNewKey": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathAndSetValueNewCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCollectionOfMaps": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathCreateBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathAndSetValueCreateBean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testMapOfMaps": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testAxisDescendant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.dynamic.DynamicPropertiesModelTest::testCreatePathAndSetValueCollectionElement": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testID": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testGetNode": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testGetElementDescendantOrSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisChild": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisAncestor": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisAttribute": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNodes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisChildIndexPredicate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testUnion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testLang": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testDocumentOrder": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisParent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisFollowing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNodeTypeText": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testTypeConversions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisNamespace": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testElementInVariable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testContainer": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNamespaceMapping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNodeTypeProcessingInstruction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testRemovePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testCreatePathAndSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testCreatePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testFunctionsLastAndPosition": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisPrecedingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testBooleanFunction": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisDescendant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisFollowingSibling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testDocument": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisPreceding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testAxisAncestorOrSelf": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testNodeTypeComment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.ri.model.jdom.JDOMModelTest::testSetValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.servlet.JXPathServletContextTest::testServletContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.servlet.JXPathServletContextTest::testServletRequest": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.servlet.JXPathServletContextTest::testPageContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.servlet.JXPathServletContextTest::testServletRequestWithoutSession": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testArrayToArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testListToArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testPointerToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testBeanUtilsConverter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testArrayToList": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testNodeSetToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testPrimitiveToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testInvalidConversion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testSingletonArrayToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testNodeSetToInteger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.BasicTypeConverterTest::testSingletonCollectionToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.ClassLoaderUtilTest::testCurrentClassLoaderFallback": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.ClassLoaderUtilTest::testClassLoadFailWithoutContextClassLoader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.ClassLoaderUtilTest::testClassLoadSuccessWithContextClassLoader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "org.apache.commons.jxpath.util.ClassLoaderUtilTest::testClassLoadSuccessWithoutContextClassLoader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}

@@ -1,0 +1,2344 @@
+{
+    "JacksonCore_26": {
+        "com.fasterxml.jackson.core.JsonpCharacterEscapesTest::testGetEscapeSequenceOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.JsonpCharacterEscapesTest::testGetEscapeSequenceTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testViaParser": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testViaGenerator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testGeneratorWithRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testParserWithRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testEofExceptionsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testEofExceptionsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testAccessToGenerator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testAccessToParser": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testOriginalMesssage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testLocation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testGenerationException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testBase64Variant": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testJsonFactorySerializable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testPrettyPrinter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testSimplePath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testLast": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testAppendWithFinalSlash": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testWonkyNumber173": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testLongNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testSimplePathLonger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testQuotedPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testAppend": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testIZeroIndex": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestLocation::testDisableSourceInclusion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestLocation::testBasicToString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestLocation::testTruncatedSource": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestLocation::testBasics": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestVersions::testCoreVersions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.TestVersions::testMisc": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToAndCreatesVersionTaking6ArgumentsAndUnknownVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToReturningZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCreatesVersionTaking6ArgumentsAndCallsCompareTo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInvalidChar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testBase64UsingReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testWithEscaped": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testFailDueToMissingPadding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInvalidTokenForBase64": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testStreaming": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testBase64UsingInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testOkMissingPadding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testWithEscapedPadding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testCharEncoding": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testProps": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testVariantAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testConvenienceMethodWithLFs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testErrors": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testConvenienceMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testSimpleBinaryWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testBinaryAsEmbeddedObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testStreamingBinaryWrites": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testIssue55": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathRawBinary": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathSkippedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathAlternate1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testNonFiltering": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testIndexMatchWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testIndexMatchWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testWriteStartObjectWithObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testTokensSingleMatchWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testBasicSingleMatchFilteringWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSkippingForSingleWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNonFiltering": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath1": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testSimplePropertyWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testSimplePropertyWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayNestedWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayElementWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayNestedWithoutPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayElementWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimpleWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimpleNoPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimplestNoPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimplestWithPath": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.DataFormatMatcherTest::testGetDataStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.DataFormatMatcherTest::testCreatesDataFormatMatcherTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleInvalid": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.SegmentedStringWriterTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestCharTypes::testAppendQuoted0_31": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestIOContext::testAllocations": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteAsString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteLongAsString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteLongCharSequenceAsString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testCtrlChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteAsUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testEncodeAsUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteCharSequenceAsString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testCharSequenceWithCtrlChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.TestMergedStream::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSimpleAscii": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSurrogatesFail": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSurrogatesOk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testFlushAfterClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testLongArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testIntArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testDoubleArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testLongValueWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testRootIntsWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testIntValueWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testBooleanWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testGetOutputBufferd": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testOutputContext": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testFieldValueWrites": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testGetOutputTarget": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testNullWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testStringWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringFromReaderWithTooFewCharacters": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringFromNullReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringNotFieldNameBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringNotFieldNameChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testDupFieldNameWrites": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingFieldNameInRoot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testFieldNameQuotingEnabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testNonNumericQuoting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testTooBigBigDecimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testFieldNameQuoting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testNumbersAsJSONStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testConfigOverrides": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testChangeOnGenerator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testConfigDefaults": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testBigDecimalAsPlain": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testBigDecimalAsPlainString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testCopy": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testJsonWithFiles": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testGeneratorFeatures": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testDisablingBufferRecycling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testFactoryFeatures": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[ReaderBasedJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[ReaderBasedJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[ReaderBasedJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[ReaderBasedJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[UTF8StreamJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[UTF8StreamJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[UTF8StreamJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[UTF8StreamJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[UTF8DataInputJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[UTF8DataInputJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[UTF8DataInputJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[UTF8DataInputJsonParser]": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testReset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testSetCurrentName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testSetCurrentNameTwiceWithSameNameRaisesJsonParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationInArrayTest::testOffsetInArraysBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationInArrayTest::testOffsetInArraysChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationInObjectTest::testOffsetWithObjectFieldsUsingUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationInObjectTest::testOffsetWithObjectFieldsUsingReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationOffsetsTest::testOffsetWithInputOffset": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.LocationOffsetsTest::testSimpleInitialOffsets": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testMultiLevel": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testInitializationDisabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testInitializationEnabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RawValueWithSurrogatesTest::testRawWithSurrogatesCharArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RawValueWithSurrogatesTest::testRawWithSurrogatesString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNullCharsetOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNullRequestPayloadOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRequestPayloadAsBytesOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNoRequestPayloadOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRawRequestPayloadOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRequestPayloadAsStringOnParseException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testBasicEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testLongerRandomSingleChunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testLongerRandomMultiChunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testMediumStringsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testMediumStringsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testBasicEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testLongerRandomSingleChunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testLongerRandomMultiChunk": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testMediumStringsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testMediumStringsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testMissingEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapesForCharArrays": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testWriteLongCustomEscapes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapeNonLatin1Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapeNonLatin1Chars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testInvalid": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testSimpleEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::test8DigitSequence": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testAboveAsciiEscapeWithUTF8Stream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testAboveAsciiEscapeWithReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testEscapeCustomWithReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testJsonpEscapes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testEscapeCustomWithUTF8Stream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestDecorators::testOutputDecoration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestDecorators::testInputDecoration": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsEagerlyBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsEagerlyChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsLazilyBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsLazilyChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorWithSerializedString::testSimpleValues": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorWithSerializedString::testSimpleFieldNames": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testLongErrorMessageReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testLongErrorMessage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testShortErrorMessage": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestParserOverrides::testCurrentName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestParserOverrides::testTokenAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testBrokenNumber": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleWrites": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testRootOffsetIssue516Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testRootOffsetIssue516Chars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleBooleans": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestUnicode::testSurrogates": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testFilteringWithEscapedChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testSurrogatesWithRaw": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testUtf8Issue462": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestWithTonsaSymbols::testReaderParser": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.TestWithTonsaSymbols::testStreamReaderParser": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsRootValue": {
+            "line_rate": "0.06477732793522267",
+            "branch_rate": "0.03470031545741325"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsArray": {
+            "line_rate": "0.09851551956815115",
+            "branch_rate": "0.06624605678233439"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsObject": {
+            "line_rate": "0.12280701754385964",
+            "branch_rate": "0.07676130389064142"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::testMissingLinefeedEscaping": {
+            "line_rate": "0.06342780026990553",
+            "branch_rate": "0.03995793901156677"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::testSimpleEscaping": {
+            "line_rate": "0.11201079622132254",
+            "branch_rate": "0.07045215562565721"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::test8DigitSequence": {
+            "line_rate": "0.08299595141700405",
+            "branch_rate": "0.05152471083070452"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testYAMLCommentsEnabled": {
+            "line_rate": "0.19298245614035087",
+            "branch_rate": "0.17455310199789695"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCCommentsEnabled": {
+            "line_rate": "0.14304993252361672",
+            "branch_rate": "0.1167192429022082"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCommentsEnabled": {
+            "line_rate": "0.1039136302294197",
+            "branch_rate": "0.08727655099894847"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCommentsDisabled": {
+            "line_rate": "0.038461538461538464",
+            "branch_rate": "0.025236593059936908"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCppCommentsEnabled": {
+            "line_rate": "0.1396761133603239",
+            "branch_rate": "0.10935856992639327"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCCommentsWithUTF8": {
+            "line_rate": "0.12078272604588394",
+            "branch_rate": "0.0935856992639327"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncConcurrencyTest::testConcurrentAsync": {
+            "line_rate": "0.07894736842105263",
+            "branch_rate": "0.05152471083070452"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncFieldNamesTest::testSimpleFieldNames": {
+            "line_rate": "0.14102564102564102",
+            "branch_rate": "0.10620399579390116"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncFieldNamesTest::testEscapedFieldNames": {
+            "line_rate": "0.22941970310391363",
+            "branch_rate": "0.16824395373291273"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncInvalidCharsTest::testHandlingOfInvalidSpace": {
+            "line_rate": "0.043859649122807015",
+            "branch_rate": "0.030494216614090432"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncInvalidCharsTest::testUtf8BOMHandling": {
+            "line_rate": "0.07489878542510121",
+            "branch_rate": "0.058885383806519455"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncLocationTest::testLocationOffsets": {
+            "line_rate": "0.029014844804318488",
+            "branch_rate": "0.012618296529968454"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testAllowInf": {
+            "line_rate": "0.08906882591093117",
+            "branch_rate": "0.07781282860147214"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testAllowNaN": {
+            "line_rate": "0.05735492577597841",
+            "branch_rate": "0.04206098843322818"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDisallowInf": {
+            "line_rate": "0.05668016194331984",
+            "branch_rate": "0.04100946372239748"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDisallowNaN": {
+            "line_rate": "0.05195681511470985",
+            "branch_rate": "0.03470031545741325"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDefaultsForAsync": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testAposQuotingEnabled": {
+            "line_rate": "0.27058029689608637",
+            "branch_rate": "0.22502628811777076"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testLargeUnquotedNames": {
+            "line_rate": "0.13157894736842105",
+            "branch_rate": "0.11882229232386961"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testNonStandardNameChars": {
+            "line_rate": "0.1794871794871795",
+            "branch_rate": "0.14616193480546794"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testAposQuotingDisabled": {
+            "line_rate": "0.0553306342780027",
+            "branch_rate": "0.04311251314405889"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testSimpleUnquotedNames": {
+            "line_rate": "0.19973009446693657",
+            "branch_rate": "0.1608832807570978"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testSingleQuotesEscaped": {
+            "line_rate": "0.09919028340080972",
+            "branch_rate": "0.07150368033648791"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongFailing": {
+            "line_rate": "0.0620782726045884",
+            "branch_rate": "0.03785488958990536"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongCoercion": {
+            "line_rate": "0.05263157894736842",
+            "branch_rate": "0.030494216614090432"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntFailing": {
+            "line_rate": "0.08029689608636977",
+            "branch_rate": "0.04942166140904311"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigDecimalCoercion": {
+            "line_rate": "0.05263157894736842",
+            "branch_rate": "0.030494216614090432"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigIntegerCoercion": {
+            "line_rate": "0.07489878542510121",
+            "branch_rate": "0.0473186119873817"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToDoubleCoercion": {
+            "line_rate": "0.0708502024291498",
+            "branch_rate": "0.04206098843322818"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntCoercion": {
+            "line_rate": "0.07759784075573549",
+            "branch_rate": "0.046267087276550996"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testLeadingZeroesFloat": {
+            "line_rate": "0.09244264507422402",
+            "branch_rate": "0.06624605678233439"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testLeadingZeroesInt": {
+            "line_rate": "0.08502024291497975",
+            "branch_rate": "0.06414300736067298"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testDefaultsForAsync": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testSymbolTable": {
+            "line_rate": "0.10121457489878542",
+            "branch_rate": "0.07360672975814932"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testLongNames": {
+            "line_rate": "0.11403508771929824",
+            "branch_rate": "0.07255520504731862"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testEvenLongerName": {
+            "line_rate": "0.11403508771929824",
+            "branch_rate": "0.07255520504731862"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootDoublesSimple": {
+            "line_rate": "0.1484480431848853",
+            "branch_rate": "0.10725552050473186"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootInts": {
+            "line_rate": "0.11808367071524967",
+            "branch_rate": "0.08832807570977919"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootDoublesScientific": {
+            "line_rate": "0.1882591093117409",
+            "branch_rate": "0.14616193480546794"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testMixedRootSequence": {
+            "line_rate": "0.19298245614035087",
+            "branch_rate": "0.1598317560462671"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testTokenRootSequence": {
+            "line_rate": "0.10998650472334683",
+            "branch_rate": "0.10410094637223975"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testTokenRootTokens": {
+            "line_rate": "0.08097165991902834",
+            "branch_rate": "0.06624605678233439"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testInts": {
+            "line_rate": "0.11740890688259109",
+            "branch_rate": "0.09253417455310199"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testLong": {
+            "line_rate": "0.10593792172739541",
+            "branch_rate": "0.08201892744479496"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testBigDecimals": {
+            "line_rate": "0.13157894736842105",
+            "branch_rate": "0.09884332281808622"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testBigIntegers": {
+            "line_rate": "0.09986504723346828",
+            "branch_rate": "0.07570977917981073"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testFloats": {
+            "line_rate": "0.15789473684210525",
+            "branch_rate": "0.11882229232386961"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testDoubles": {
+            "line_rate": "0.15789473684210525",
+            "branch_rate": "0.11882229232386961"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testTokens": {
+            "line_rate": "0.10593792172739541",
+            "branch_rate": "0.10094637223974763"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScopeMatchingTest::testMismatchObjectToArray": {
+            "line_rate": "0.04116059379217274",
+            "branch_rate": "0.026288117770767613"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScopeMatchingTest::testMismatchArrayToObject": {
+            "line_rate": "0.0620782726045884",
+            "branch_rate": "0.0452155625657203"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testMismatchedObject": {
+            "line_rate": "0.04588394062078273",
+            "branch_rate": "0.031545741324921134"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInArray": {
+            "line_rate": "0.18690958164642374",
+            "branch_rate": "0.15247108307045215"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInArray2": {
+            "line_rate": "0.14642375168690958",
+            "branch_rate": "0.11777076761303891"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInObject": {
+            "line_rate": "0.2145748987854251",
+            "branch_rate": "0.17665615141955837"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testMismatchedArray": {
+            "line_rate": "0.04183535762483131",
+            "branch_rate": "0.029442691903259727"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleObjectTest::testBooleans": {
+            "line_rate": "0.16396761133603238",
+            "branch_rate": "0.12933753943217666"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleObjectTest::testNumbers": {
+            "line_rate": "0.20445344129554655",
+            "branch_rate": "0.14721345951629863"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testLongUnicodeStrings": {
+            "line_rate": "0.11605937921727395",
+            "branch_rate": "0.08201892744479496"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testLongAsciiStrings": {
+            "line_rate": "0.13765182186234817",
+            "branch_rate": "0.09674027339642481"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testShortAsciiStrings": {
+            "line_rate": "0.07894736842105263",
+            "branch_rate": "0.04942166140904311"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testShortUnicodeStrings": {
+            "line_rate": "0.11808367071524967",
+            "branch_rate": "0.08307045215562565"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringObjectTest::testBasicFieldsNames": {
+            "line_rate": "0.18083670715249664",
+            "branch_rate": "0.12618296529968454"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncTokenFilterTest::testSkipChildrenFailOnSplit": {
+            "line_rate": "0.047908232118758436",
+            "branch_rate": "0.028391167192429023"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncTokenFilterTest::testFilteredNonBlockingParserAllContent": {
+            "line_rate": "0.09851551956815115",
+            "branch_rate": "0.07360672975814932"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncUnicodeHandlingTest::testLongUnicodeWithSurrogates": {
+            "line_rate": "0.22064777327935223",
+            "branch_rate": "0.1608832807570978"
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncUnicodeHandlingTest::testShortUnicodeWithSurrogates": {
+            "line_rate": "0.21794871794871795",
+            "branch_rate": "0.1587802313354364"
+        },
+        "com.fasterxml.jackson.core.json.async.ConfigTest::testFactoryDefaults": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.json.async.ConfigTest::testAsyncParerDefaults": {
+            "line_rate": "0.033738191632928474",
+            "branch_rate": "0.01892744479495268"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testNotMissingValueByEnablingFeature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testMissingValueAsNullByEnablingFeature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidEmptyMissingClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testValidEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testMissingValueAsNullByNotEnablingFeature": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidExtraComma": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidMissingFieldName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testInvalidArrayWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testSimpleArrayWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testEmptyArrayWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testAutoFlushOrNot": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseArraysAndObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testCloseGenerator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseGenerator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testAutoCloseArraysAndObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseOutputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyArrayTokens": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyObjectTokens": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyRootTokens": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testSimpleWriteObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testRaw": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testIsClosed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testAsEmbedded": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testRawValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testLongerObjects": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testEmptyObjectWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testSimpleObjectWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testInvalidObjectWrite": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testConvenienceMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testConvenienceMethodsWithNulls": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testLongBoundsChecks": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testIntParsing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testIntParsingWithStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testFloatBoundary146Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testFloatBoundary146Chars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testLongParsing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testReleaseContentBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testReleaseContentChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testNoAutoCloseReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testAutoCloseReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testNoAutoCloseInputStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testDefaultSettings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testTabsDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testQuotesRequired": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testDeprecatedDefaultSettings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testTabsEnabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testCRLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testCR": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testLF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testNextValueNested": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testIsClosed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testNextValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomRootSeparatorWithPP": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testObjectCount": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testArrayCount": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithMinimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithPP": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testSimpleDocWithMinimal": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testSimpleDocWithDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomRootSeparatorWithFactory": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithPPWithoutSpaces": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testWriteRawWithSerializable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testUtf8RawStrings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testUtf8StringsWithEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testDefaultSettings": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsWithUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testYAMLCommentsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testYAMLCommentsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsEnabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsDisabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCCommentsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCCommentsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCppCommentsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCppCommentsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterScalar": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testBytesAsSource": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextDataInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpacesInURL": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSkipping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testLongText": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpecExampleFully": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testLongerReadText": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testNameEscaping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpecExampleSkipping": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceByteStream": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testInterningWithReaders": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetTextViaWriter": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testKeywords": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testConfig": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testInterningWithStreams": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceDataInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testUtf8BOMHandling": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextNameWithIndentation": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextTextValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextBooleanValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextNameWithLongContent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextLongValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName3": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName4": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextIntValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIssue34": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIssue38": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testAllowNaN": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testNonStandardAnyCharQuoting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testAllowInfinity": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testNonStandardNameChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testLeadingZeroesUTF8": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testSingleQuotesDefault": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testLeadingZeroesReader": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testDefaults": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testSingleQuotesEnabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testLargeUnquoted": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testUnquotedIssue510": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToLongFailing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToLongCoercion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToIntFailing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToBigDecimalCoercion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToBigIntegerCoercion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToDoubleCoercion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToIntCoercion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousBigIntToFloat": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousBigIntToDouble": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousLongOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testSimpleLongOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousIntOverflow": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testParsingOfLongerSequencesWithNonNumeric": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidLongAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleDouble": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongerFloatingPoint": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testBigNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidBooleanAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleBoolean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testBigDecimalRange": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testParsingOfLongerSequences": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidNumber": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongRange": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongNumbers2": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testIntRange": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testNumbers": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidIntAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupCheckDisabled": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsDataInput": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledFloatsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledNumbersChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledIntsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testInvalidKeywordsBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testInvalidKeywordsChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testEOFInName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testWeirdToken": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMismatchObjectToArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testUnclosedArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testUnclosedObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMismatchArrayToObject": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMisssingColon": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserSymbolHandlingTest::testSymbolsWithNullBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ParserSymbolHandlingTest::testSymbolsWithNullChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleEOFs": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleInvalidUTF32": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleSevenNullBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8Name2Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8Name3Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8StringTrivial": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testEmptyName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8StringValue": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testNextFieldName": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsInt": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsDouble": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsLong": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsBoolean": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testByteSymbolsWithEOF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testCharSymbolsWithClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testCharSymbolsWithEOF": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testByteSymbolsWithClose": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testHashCalc": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::test17ByteSymbols": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::test17CharSymbols": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::testSymbolTableExpansionBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::testSymbolTableExpansionChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testAuxMethodsWithNewSymboTable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testSharedSymbols": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testIssue207": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestHashCollisionChars::testReaderCollisions": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testByteBasedSymbolTable": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsDirect": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortQuotedDirectBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortQuotedDirectChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithBytesNew187a": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithBytesNew187b": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsViaParser": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testThousandsOfSymbolsWithNew": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testSyntheticWithBytesNew": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsDirectNew": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testSyntheticWithChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testLongSymbols17Bytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithChars187": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testThousandsOfSymbolsWithChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolsWithMediaItem::testSmallSymbolSetWithBytes": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolsWithMediaItem::testSmallSymbolSetWithChars": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testResolvedType": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testInvalid": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.ByteArrayBuilderTest::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.DefaultIndenterTest::testWithLinefeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.DefaultIndenterTest::testWithIndent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testFailsToCreateTakingCharSequenceThrowsIllegalArgumentExceptionOne": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testFailsToCreateTakingCharSequenceThrowsIllegalArgumentExceptionTwo": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testCreateTakingCharSequenceAndCallsGetRawPayload": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testCreateTaking2ArgumentsAndCallsGetRawPayload": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithObjectFieldValueSeparatorWithDigit": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithArrayValueSeparatorWithDigit": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithObjectEntrySeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestCharTypes::testQuoting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testSystemLinefeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testUnixLinefeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWindowsLinefeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithLineFeed": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testRootSeparator": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testInvalidSubClass": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithIndent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testTabIndent": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testNotDelegateCopyMethods": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testParserDelegate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testGeneratorWithCodec": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testGeneratorDelegate": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestNumberPrinting::testIntPrinting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestNumberPrinting::testLongPrinting": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestSerializedString::testFailedAccess": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestSerializedString::testAppending": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndAppendTakingCharAndContentsAsArray": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testLongAppend": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testResetWithAndSetCurrentAndReturn": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testContentsAsDecimalThrowsNumberFormatException": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetCurrentSegmentSizeResetWith": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testResetWithString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testEmpty": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testAppendTakingTwoAndThreeInts": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testEnsureNotSharedAndResetWithString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndResetWithString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetSizeFinishCurrentSegmentAndResetWith": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndEmptyAndGetCurrentSegmentAndFinishCurrentSegment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testExpand": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testLonger": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testSimple": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetCurrentSegment": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionParsing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionPartParsing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testPackageVersionMatches": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testMavenVersionParsing": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionForUnknownVersion": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionPartReturningPositive": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionWithNullAndEmptyString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionWithEmptyStringAndEmptyString": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionReturningVersionWhereGetMajorVersionIsZero": {
+            "line_rate": "0.0",
+            "branch_rate": "0.0"
+        }
+    }
+}
