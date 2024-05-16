@@ -6,6 +6,7 @@ from data_preprocess import json2PandasDf
 from pymoo.operators.sampling.rnd import BinaryRandomSampling
 from pymoo.operators.crossover.sbx import SBX
 from pymoo.operators.mutation.pm import PM
+from pymoo.visualization.scatter import Scatter
 
 # test_cases = json2PandasDf("data/tet.json")
 
