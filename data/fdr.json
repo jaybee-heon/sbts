@@ -220,7 +220,7 @@
         "org.jfree.chart.annotations.junit.XYImageAnnotationTests::testEquals": {
             "mutants-generated": 444,
             "mutants-covered": 0,
-            "mutants-killed": 0,w
+            "mutants-killed": 0,
             "mutants-live": 0,
             "mutation-score": 0.0
         },
