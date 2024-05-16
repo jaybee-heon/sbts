@@ -1,0 +1,3840 @@
+{
+    "Chart_1": {
+        "org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests::testGetLegendItemSeriesIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 855,
+            "mutants-killed": 183,
+            "mutants-live": 672,
+            "mutation-score": 0.019430877043958378
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 288,
+            "mutants-killed": 61,
+            "mutants-live": 227,
+            "mutation-score": 0.006476959014652793
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDifferenceRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 417,
+            "mutants-killed": 151,
+            "mutants-live": 266,
+            "mutation-score": 0.01603312805266511
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testGetLegendItemSeriesIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 836,
+            "mutants-killed": 179,
+            "mutants-live": 657,
+            "mutation-score": 0.01900615842004672
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 288,
+            "mutants-killed": 61,
+            "mutants-live": 227,
+            "mutation-score": 0.006476959014652793
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 307,
+            "mutants-killed": 74,
+            "mutants-live": 233,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYDotRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 432,
+            "mutants-killed": 159,
+            "mutants-live": 273,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testSerialization2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 432,
+            "mutants-killed": 159,
+            "mutants-live": 273,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYErrorRendererTests::testCloning2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 432,
+            "mutants-killed": 159,
+            "mutants-live": 273,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLine3DRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testEquals2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 417,
+            "mutants-killed": 151,
+            "mutants-live": 266,
+            "mutation-score": 0.01603312805266511
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testFindRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 884,
+            "mutants-killed": 219,
+            "mutants-live": 665,
+            "mutation-score": 0.023253344659163306
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testGetLegendItemSeriesIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 881,
+            "mutants-killed": 192,
+            "mutants-live": 689,
+            "mutation-score": 0.02038649394775961
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 336,
+            "mutants-killed": 93,
+            "mutants-live": 243,
+            "mutation-score": 0.00987470800594606
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testFindDomainBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 884,
+            "mutants-killed": 217,
+            "mutants-live": 667,
+            "mutation-score": 0.023040985347207475
+        },
+        "org.jfree.chart.renderer.xy.junit.XYLineAndShapeRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 306,
+            "mutants-killed": 93,
+            "mutants-live": 213,
+            "mutation-score": 0.00987470800594606
+        },
+        "org.jfree.chart.renderer.xy.junit.XYShapeRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 440,
+            "mutants-killed": 159,
+            "mutants-live": 281,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYShapeRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 311,
+            "mutants-killed": 69,
+            "mutants-live": 242,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYShapeRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 281,
+            "mutants-killed": 74,
+            "mutants-live": 207,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYSplineRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 417,
+            "mutants-killed": 151,
+            "mutants-live": 266,
+            "mutation-score": 0.01603312805266511
+        },
+        "org.jfree.chart.renderer.xy.junit.XYSplineRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.XYSplineRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYSplineRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.XYSplineRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testDrawWithNullInfo": {
+            "mutants-generated": 9418,
+            "mutants-covered": 1435,
+            "mutants-killed": 252,
+            "mutants-live": 1183,
+            "mutation-score": 0.026757273306434487
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 432,
+            "mutants-killed": 159,
+            "mutants-live": 273,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 147,
+            "mutants-killed": 12,
+            "mutants-live": 135,
+            "mutation-score": 0.0012741558717349756
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 307,
+            "mutants-killed": 74,
+            "mutants-live": 233,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepAreaRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 273,
+            "mutants-killed": 74,
+            "mutants-live": 199,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testDrawWithNullInfo": {
+            "mutants-generated": 9418,
+            "mutants-covered": 1410,
+            "mutants-killed": 255,
+            "mutants-live": 1155,
+            "mutation-score": 0.02707581227436823
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 432,
+            "mutants-killed": 159,
+            "mutants-live": 273,
+            "mutation-score": 0.016882565300488428
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 147,
+            "mutants-killed": 12,
+            "mutants-live": 135,
+            "mutation-score": 0.0012741558717349756
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testDrawWithNullValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 1410,
+            "mutants-killed": 255,
+            "mutants-live": 1155,
+            "mutation-score": 0.02707581227436823
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 303,
+            "mutants-killed": 69,
+            "mutants-live": 234,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 307,
+            "mutants-killed": 74,
+            "mutants-live": 233,
+            "mutation-score": 0.007857294542365683
+        },
+        "org.jfree.chart.renderer.xy.junit.XYStepRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 280,
+            "mutants-killed": 79,
+            "mutants-live": 201,
+            "mutation-score": 0.008388192822255256
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 417,
+            "mutants-killed": 151,
+            "mutants-live": 266,
+            "mutation-score": 0.01603312805266511
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 132,
+            "mutants-killed": 4,
+            "mutants-live": 128,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testGetLegendItemSeriesIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 878,
+            "mutants-killed": 181,
+            "mutants-live": 697,
+            "mutation-score": 0.01921851773200255
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 338,
+            "mutants-killed": 92,
+            "mutants-live": 246,
+            "mutation-score": 0.009768528349968147
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 292,
+            "mutants-killed": 66,
+            "mutants-live": 226,
+            "mutation-score": 0.0070078572945423655
+        },
+        "org.jfree.chart.renderer.xy.junit.YIntervalRendererTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 308,
+            "mutants-killed": 99,
+            "mutants-live": 209,
+            "mutation-score": 0.010511785941813548
+        },
+        "org.jfree.chart.title.junit.CompositeTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 39,
+            "mutants-killed": 10,
+            "mutants-live": 29,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.chart.title.junit.CompositeTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.CompositeTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.CompositeTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 35,
+            "mutants-killed": 8,
+            "mutants-live": 27,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.chart.title.junit.CompositeTitleTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 15,
+            "mutants-killed": 0,
+            "mutants-live": 15,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.title.junit.DateTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 36,
+            "mutants-killed": 10,
+            "mutants-live": 26,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.chart.title.junit.DateTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.DateTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.DateTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testWidthAndHeight": {
+            "mutants-generated": 9418,
+            "mutants-covered": 16,
+            "mutants-killed": 1,
+            "mutants-live": 15,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testArrangeNN": {
+            "mutants-generated": 9418,
+            "mutants-covered": 36,
+            "mutants-killed": 29,
+            "mutants-live": 7,
+            "mutation-score": 0.003079210023359524
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 2,
+            "mutants-live": 16,
+            "mutation-score": 0.00021235931195582927
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 2,
+            "mutants-live": 16,
+            "mutation-score": 0.00021235931195582927
+        },
+        "org.jfree.chart.title.junit.ImageTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 2,
+            "mutants-live": 16,
+            "mutation-score": 0.00021235931195582927
+        },
+        "org.jfree.chart.title.junit.LegendGraphicTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 52,
+            "mutants-killed": 20,
+            "mutants-live": 32,
+            "mutation-score": 0.0021235931195582925
+        },
+        "org.jfree.chart.title.junit.LegendGraphicTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.LegendGraphicTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 37,
+            "mutants-killed": 9,
+            "mutants-live": 28,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.chart.title.junit.LegendGraphicTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 38,
+            "mutants-killed": 11,
+            "mutants-live": 27,
+            "mutation-score": 0.001167976215757061
+        },
+        "org.jfree.chart.title.junit.LegendGraphicTests::testCloning2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.LegendTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 707,
+            "mutants-killed": 290,
+            "mutants-live": 417,
+            "mutation-score": 0.030792100233595243
+        },
+        "org.jfree.chart.title.junit.LegendTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 455,
+            "mutants-killed": 127,
+            "mutants-live": 328,
+            "mutation-score": 0.013484816309195157
+        },
+        "org.jfree.chart.title.junit.LegendTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 455,
+            "mutants-killed": 127,
+            "mutants-live": 328,
+            "mutation-score": 0.013484816309195157
+        },
+        "org.jfree.chart.title.junit.LegendTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 455,
+            "mutants-killed": 127,
+            "mutants-live": 328,
+            "mutation-score": 0.013484816309195157
+        },
+        "org.jfree.chart.title.junit.PaintScaleLegendTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 363,
+            "mutants-killed": 105,
+            "mutants-live": 258,
+            "mutation-score": 0.011148863877681036
+        },
+        "org.jfree.chart.title.junit.PaintScaleLegendTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 204,
+            "mutants-killed": 19,
+            "mutants-live": 185,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.chart.title.junit.PaintScaleLegendTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 307,
+            "mutants-killed": 69,
+            "mutants-live": 238,
+            "mutation-score": 0.007326396262476109
+        },
+        "org.jfree.chart.title.junit.PaintScaleLegendTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 312,
+            "mutants-killed": 76,
+            "mutants-live": 236,
+            "mutation-score": 0.008069653854321512
+        },
+        "org.jfree.chart.title.junit.ShortTextTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 39,
+            "mutants-killed": 10,
+            "mutants-live": 29,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.chart.title.junit.ShortTextTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.ShortTextTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.ShortTextTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.TextTitleTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 36,
+            "mutants-killed": 10,
+            "mutants-live": 26,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.chart.title.junit.TextTitleTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.TextTitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.TextTitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.TitleTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 17,
+            "mutants-killed": 1,
+            "mutants-live": 16,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.title.junit.TitleTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 1,
+            "mutants-live": 19,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests::testAddURLSeries": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomCategoryURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomPieURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests::testAddURLSeries": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.CustomXYURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardCategoryURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardCategoryURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardCategoryURLGeneratorTests::testGenerateURL": {
+            "mutants-generated": 9418,
+            "mutants-covered": 62,
+            "mutants-killed": 26,
+            "mutants-live": 36,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.urls.junit.StandardCategoryURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardPieURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardPieURLGeneratorTests::testURL": {
+            "mutants-generated": 9418,
+            "mutants-covered": 38,
+            "mutants-killed": 14,
+            "mutants-live": 24,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.chart.urls.junit.StandardPieURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardPieURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardXYURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.StandardXYURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.TimeSeriesURLGeneratorTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.TimeSeriesURLGeneratorTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.urls.junit.TimeSeriesURLGeneratorTests::testGenerateURL": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.chart.urls.junit.TimeSeriesURLGeneratorTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.BooleanListTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 74,
+            "mutants-killed": 26,
+            "mutants-live": 48,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.util.junit.BooleanListTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 52,
+            "mutants-killed": 26,
+            "mutants-live": 26,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.util.junit.BooleanListTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 37,
+            "mutants-killed": 12,
+            "mutants-live": 25,
+            "mutation-score": 0.0012741558717349756
+        },
+        "org.jfree.chart.util.junit.BooleanListTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 45,
+            "mutants-killed": 7,
+            "mutants-live": 38,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.chart.util.junit.HashUtilitiesTests::testHashCodeForDoubleArray": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.LineUtilitiesTests::testClipLine": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.LogFormatTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.LogFormatTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.LogFormatTests::testHashcode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.LogFormatTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testEquals2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 44,
+            "mutants-killed": 5,
+            "mutants-live": 39,
+            "mutation-score": 0.0005308982798895731
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testEquals3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 44,
+            "mutants-killed": 5,
+            "mutants-live": 39,
+            "mutation-score": 0.0005308982798895731
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 99,
+            "mutants-killed": 38,
+            "mutants-live": 61,
+            "mutation-score": 0.004034826927160756
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 52,
+            "mutants-killed": 26,
+            "mutants-live": 26,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 62,
+            "mutants-killed": 12,
+            "mutants-live": 50,
+            "mutation-score": 0.0012741558717349756
+        },
+        "org.jfree.chart.util.junit.PaintListTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 45,
+            "mutants-killed": 7,
+            "mutants-live": 38,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testGetPaint": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testPut": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testKeysOfDifferentClasses": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testSerialization1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.PaintMapTests::testSerialization2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::test2033092": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::testFormat": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.RelativeDateFormatTests::testNegative": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testColorSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testLine2DFloatSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testIsSerializable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testTexturePaintSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testColorUIResourceSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testRectangle2DFloatSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testGeneralPathSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testArc2DDoubleSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testAttributedStringSerialization1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testAttributedStringSerialization2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testAttributedStringSerialization3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testArc2DFloatSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testGradientPaintSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testLine2DDoubleSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.SerialUtilitiesTests::testRectangle2DDoubleSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.ShapeListTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 98,
+            "mutants-killed": 38,
+            "mutants-live": 60,
+            "mutation-score": 0.004034826927160756
+        },
+        "org.jfree.chart.util.junit.ShapeListTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 51,
+            "mutants-killed": 26,
+            "mutants-live": 25,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.util.junit.ShapeListTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 44,
+            "mutants-killed": 7,
+            "mutants-live": 37,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualGeneralPaths": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualLine2Ds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.ShapeUtilitiesTests::testClipLine": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.ShapeUtilitiesTests::testEqualShapes": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.ShapeUtilitiesTests::testIntersects": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeListTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 98,
+            "mutants-killed": 36,
+            "mutants-live": 62,
+            "mutation-score": 0.003822467615204927
+        },
+        "org.jfree.chart.util.junit.StrokeListTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 54,
+            "mutants-killed": 26,
+            "mutants-live": 28,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.chart.util.junit.StrokeListTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 49,
+            "mutants-killed": 13,
+            "mutants-live": 36,
+            "mutation-score": 0.0013803355277128902
+        },
+        "org.jfree.chart.util.junit.StrokeListTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 47,
+            "mutants-killed": 25,
+            "mutants-live": 22,
+            "mutation-score": 0.002654491399447866
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testPut": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testGetStroke": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testSerialization1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.chart.util.junit.StrokeMapTests::testSerialization2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testGetIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 67,
+            "mutants-killed": 28,
+            "mutants-live": 39,
+            "mutation-score": 0.0029730303673816097
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 83,
+            "mutants-killed": 47,
+            "mutants-live": 36,
+            "mutation-score": 0.004990443830961987
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 108,
+            "mutants-killed": 38,
+            "mutants-live": 70,
+            "mutation-score": 0.004034826927160756
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 84,
+            "mutants-killed": 42,
+            "mutants-live": 42,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testGetKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 66,
+            "mutants-killed": 27,
+            "mutants-live": 39,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.category.junit.CategoryToPieDatasetTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 84,
+            "mutants-killed": 46,
+            "mutants-live": 38,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 105,
+            "mutants-killed": 34,
+            "mutants-live": 71,
+            "mutation-score": 0.0036101083032490976
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testRemoveValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 135,
+            "mutants-killed": 77,
+            "mutants-live": 58,
+            "mutation-score": 0.008175833510299426
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testAddValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.004565725207050329
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testPublicCloneable": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 8,
+            "mutants-live": 17,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testRemoveColumn": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 34,
+            "mutants-live": 47,
+            "mutation-score": 0.0036101083032490976
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 111,
+            "mutants-killed": 64,
+            "mutants-live": 47,
+            "mutation-score": 0.006795497982586537
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testIncrementValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 98,
+            "mutants-killed": 65,
+            "mutants-live": 33,
+            "mutation-score": 0.0069016776385644515
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 104,
+            "mutants-killed": 62,
+            "mutants-live": 42,
+            "mutation-score": 0.006583138670630707
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testGetRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 68,
+            "mutants-killed": 27,
+            "mutants-live": 41,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testGetColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 69,
+            "mutants-killed": 29,
+            "mutants-live": 40,
+            "mutation-score": 0.003079210023359524
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testGetValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testBug1835955": {
+            "mutants-generated": 9418,
+            "mutants-covered": 101,
+            "mutants-killed": 44,
+            "mutants-live": 57,
+            "mutation-score": 0.004671904863028244
+        },
+        "org.jfree.data.category.junit.DefaultCategoryDatasetTests::testRemoveRow": {
+            "mutants-generated": 9418,
+            "mutants-covered": 73,
+            "mutants-killed": 30,
+            "mutants-live": 43,
+            "mutation-score": 0.003185389679337439
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetCategoryCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetCategoryIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetCategoryKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 9,
+            "mutants-live": 10,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 26,
+            "mutants-killed": 10,
+            "mutants-live": 16,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetEndValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 9,
+            "mutants-live": 10,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetSeriesCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetSeriesIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 9,
+            "mutants-live": 11,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetStartValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 9,
+            "mutants-live": 10,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetColumnIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testCloning2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 5,
+            "mutants-killed": 1,
+            "mutants-live": 4,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testSetSeriesKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 9,
+            "mutants-live": 10,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests::testGetRowAndColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.004565725207050329
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 108,
+            "mutants-killed": 43,
+            "mutants-live": 65,
+            "mutation-score": 0.004565725207050329
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetColumnKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 65,
+            "mutants-killed": 27,
+            "mutants-live": 38,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 109,
+            "mutants-killed": 46,
+            "mutants-live": 63,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 101,
+            "mutants-killed": 41,
+            "mutants-live": 60,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 67,
+            "mutants-killed": 25,
+            "mutants-live": 42,
+            "mutation-score": 0.002654491399447866
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetRowIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 63,
+            "mutants-killed": 23,
+            "mutants-live": 40,
+            "mutation-score": 0.0024421320874920367
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 70,
+            "mutants-killed": 29,
+            "mutants-live": 41,
+            "mutation-score": 0.003079210023359524
+        },
+        "org.jfree.data.category.junit.SlidingCategoryDatasetTests::testGetColumnIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 66,
+            "mutants-killed": 27,
+            "mutants-live": 39,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.function.junit.LineFunction2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.LineFunction2DTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.LineFunction2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.LineFunction2DTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.NormalDistributionFunction2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.NormalDistributionFunction2DTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.NormalDistributionFunction2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.NormalDistributionFunction2DTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testGetOrder": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testGetCoefficients": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PolynomialFunction2DTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PowerFunction2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PowerFunction2DTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PowerFunction2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.function.junit.PowerFunction2DTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.SlidingGanttCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.gantt.junit.SlidingGanttCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 8,
+            "mutants-live": 11,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.SlidingGanttCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetEndValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetEndValue3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetEndValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetColumnKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetPercentComplete": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetSubIntervalCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetStartValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetSeriesKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetSeriesCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 8,
+            "mutants-live": 11,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetStartValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetStartValue3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::test697153": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::test800324": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetRowKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetRowIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetSeries": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testGetColumnIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesCollectionTests::testRemove": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesTests::testGetTask": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskSeriesTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskTests::testGetSubTaskCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.TaskTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.gantt.junit.XYTaskDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 36,
+            "mutants-killed": 18,
+            "mutants-live": 18,
+            "mutation-score": 0.0019112338076024634
+        },
+        "org.jfree.data.gantt.junit.XYTaskDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 30,
+            "mutants-killed": 16,
+            "mutants-live": 14,
+            "mutation-score": 0.0016988744956466342
+        },
+        "org.jfree.data.gantt.junit.XYTaskDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 16,
+            "mutants-live": 13,
+            "mutation-score": 0.0016988744956466342
+        },
+        "org.jfree.data.general.junit.DatasetGroupTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 5,
+            "mutants-killed": 3,
+            "mutants-live": 2,
+            "mutation-score": 0.0003185389679337439
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateDomainBounds_NaN2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateToFindRangeBounds_StatisticalCategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 71,
+            "mutants-killed": 37,
+            "mutants-live": 34,
+            "mutation-score": 0.003928647271182841
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindStackedRangeBoundsForTableXYDataset1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindStackedRangeBoundsForTableXYDataset2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testLimitPieDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 48,
+            "mutants-killed": 28,
+            "mutants-live": 20,
+            "mutation-score": 0.0029730303673816097
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testMaximumStackedRangeValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 42,
+            "mutants-live": 39,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindRangeBounds2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds_CategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.0047780845190061585
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateToFindRangeBounds1_XYDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds4": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCumulativeRange1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 46,
+            "mutants-live": 35,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCumulativeRange2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 46,
+            "mutants-live": 35,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCumulativeRange3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 47,
+            "mutants-live": 34,
+            "mutation-score": 0.004990443830961987
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testJava": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMinimumRangeValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 92,
+            "mutants-killed": 50,
+            "mutants-live": 42,
+            "mutation-score": 0.005308982798895732
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindStackedRangeBounds_CategoryDataset1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.0047780845190061585
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindStackedRangeBounds_CategoryDataset2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindStackedRangeBounds_CategoryDataset3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMaximumDomainValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateToFindRangeBounds_BoxAndWhiskerXYDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds2_CategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 82,
+            "mutants-killed": 41,
+            "mutants-live": 41,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testStackedRangeWithMap": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 42,
+            "mutants-live": 39,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMaximumStackedRangeValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMinimumStackedRangeValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindDomainBounds_NaN": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateDomainBounds_NaN": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMinimumStackedRangeValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testSampleFunction2D": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateToFindRangeBounds_MultiValueCategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 71,
+            "mutants-killed": 45,
+            "mutants-live": 26,
+            "mutation-score": 0.0047780845190061585
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMaximumStackedRangeValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 80,
+            "mutants-killed": 41,
+            "mutants-live": 39,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds3_CategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIsEmptyOrNullXYDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::test803660": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 42,
+            "mutants-live": 39,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMaximumRangeValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 92,
+            "mutants-killed": 50,
+            "mutants-live": 42,
+            "mutation-score": 0.005308982798895732
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testMinMaxRange": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.0047780845190061585
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateToFindRangeBounds2_XYDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCalculatePieDatasetTotal": {
+            "mutants-generated": 9418,
+            "mutants-covered": 46,
+            "mutants-killed": 27,
+            "mutants-live": 19,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindRangeBounds_CategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.0047780845190061585
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindDomainBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCreateCategoryDataset1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 64,
+            "mutants-killed": 33,
+            "mutants-live": 31,
+            "mutation-score": 0.0035039286472711827
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCreateCategoryDataset2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateRangeBounds_IntervalCategoryDataset": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testBug2849731_3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testIterateDomainBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testCumulativeRange_NaN": {
+            "mutants-generated": 9418,
+            "mutants-covered": 81,
+            "mutants-killed": 46,
+            "mutants-live": 35,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindDomainBounds2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindDomainBounds3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DatasetUtilitiesTests::testFindMinimumDomainValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.general.junit.DefaultHeatMapDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.general.junit.DefaultHeatMapDatasetTests::testGeneral": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 21,
+            "mutants-live": 8,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.general.junit.DefaultHeatMapDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 8,
+            "mutants-live": 11,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DefaultHeatMapDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValueDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 9,
+            "mutants-live": 16,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValueDatasetTests::testCloneIndependence": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 7,
+            "mutants-live": 12,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValueDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 0,
+            "mutants-live": 4,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValueDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValues2DDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 107,
+            "mutants-killed": 37,
+            "mutants-live": 70,
+            "mutation-score": 0.003928647271182841
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValues2DDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 107,
+            "mutants-killed": 41,
+            "mutants-live": 66,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 49,
+            "mutants-killed": 19,
+            "mutants-live": 30,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.general.junit.DefaultKeyedValuesDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 45,
+            "mutants-killed": 19,
+            "mutants-live": 26,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.general.junit.DefaultPieDatasetTests::testGetIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 38,
+            "mutants-killed": 21,
+            "mutants-live": 17,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.general.junit.DefaultPieDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 49,
+            "mutants-killed": 19,
+            "mutants-live": 30,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.general.junit.DefaultPieDatasetTests::testClear": {
+            "mutants-generated": 9418,
+            "mutants-covered": 47,
+            "mutants-killed": 29,
+            "mutants-live": 18,
+            "mutation-score": 0.003079210023359524
+        },
+        "org.jfree.data.general.junit.DefaultPieDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 45,
+            "mutants-killed": 19,
+            "mutants-live": 26,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.general.junit.DefaultPieDatasetTests::testGetKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 40,
+            "mutants-killed": 17,
+            "mutants-live": 23,
+            "mutation-score": 0.0018050541516245488
+        },
+        "org.jfree.data.junit.ComparableObjectItemTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectItemTests::testCompareTo": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectItemTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectItemTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectItemTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectSeriesTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectSeriesTests::testConstructor1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectSeriesTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectSeriesTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.ComparableObjectSeriesTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testClone": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testEqual": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testCreateNumberArray2D": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testCalculateColumnTotal2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testCalculateColumnTotal": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testCalculateRowTotal": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DataUtilitiesTests::testCalculateRowTotal2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValueTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValueTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValueTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValueTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveValueBug1690654": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testGetColumnKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveColumnByKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testGetRowKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testGetValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testSparsePopulation": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValues2DTests::testRemoveRow": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testClear": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetItemCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testSortByKeyDescending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 6,
+            "mutants-killed": 4,
+            "mutants-live": 2,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testRemoveValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testInsertValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testAddValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetKeys": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testSortByKeyAscending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testSortByValueAscending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testSortByValueDescending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 6,
+            "mutants-killed": 4,
+            "mutants-live": 2,
+            "mutation-score": 0.00042471862391165854
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetIndex2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testInsertAndRetrieve": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testGetKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DefaultKeyedValuesTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DomainOrderTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DomainOrderTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.DomainOrderTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testGetGroup": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testGetGroupIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testGroupCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testKeyCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyToGroupMapTests::testMapKeyToGroup": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.KeyedObjectTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 8,
+            "mutants-killed": 3,
+            "mutants-live": 5,
+            "mutation-score": 0.0003185389679337439
+        },
+        "org.jfree.data.junit.KeyedObjectTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 8,
+            "mutants-killed": 3,
+            "mutants-live": 5,
+            "mutation-score": 0.0003185389679337439
+        },
+        "org.jfree.data.junit.KeyedObjectTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 10,
+            "mutants-killed": 9,
+            "mutants-live": 1,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.junit.KeyedObjectTests::testCloning2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 30,
+            "mutants-killed": 14,
+            "mutants-live": 16,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testGetValueByIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 52,
+            "mutants-killed": 31,
+            "mutants-live": 21,
+            "mutation-score": 0.0032915693353153534
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 78,
+            "mutants-killed": 28,
+            "mutants-live": 50,
+            "mutation-score": 0.0029730303673816097
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 65,
+            "mutants-killed": 34,
+            "mutants-live": 31,
+            "mutation-score": 0.0036101083032490976
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testRemoveValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 108,
+            "mutants-killed": 57,
+            "mutants-live": 51,
+            "mutation-score": 0.006052240390741134
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testRemoveRowByIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 52,
+            "mutants-killed": 30,
+            "mutants-live": 22,
+            "mutation-score": 0.003185389679337439
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testGetValueByKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 56,
+            "mutants-killed": 39,
+            "mutants-live": 17,
+            "mutation-score": 0.004141006583138671
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testRemoveColumnByIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 66,
+            "mutants-killed": 34,
+            "mutants-live": 32,
+            "mutation-score": 0.0036101083032490976
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 85,
+            "mutants-killed": 37,
+            "mutants-live": 48,
+            "mutation-score": 0.003928647271182841
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testSetObject": {
+            "mutants-generated": 9418,
+            "mutants-covered": 57,
+            "mutants-killed": 40,
+            "mutants-live": 17,
+            "mutation-score": 0.004247186239116585
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 77,
+            "mutants-killed": 27,
+            "mutants-live": 50,
+            "mutation-score": 0.002866850711403695
+        },
+        "org.jfree.data.junit.KeyedObjects2DTests::testRemoveRowByKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 59,
+            "mutants-killed": 33,
+            "mutants-live": 26,
+            "mutation-score": 0.0035039286472711827
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testGetIndex": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 14,
+            "mutants-live": 4,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 38,
+            "mutants-killed": 15,
+            "mutants-live": 23,
+            "mutation-score": 0.0015926948396687195
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSortByKeyDescending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 34,
+            "mutants-killed": 24,
+            "mutants-live": 10,
+            "mutation-score": 0.002548311743469951
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testRemoveValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 24,
+            "mutants-killed": 19,
+            "mutants-live": 5,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSortByKeyAscending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 31,
+            "mutants-killed": 21,
+            "mutants-live": 10,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSortByValueAscending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 31,
+            "mutants-killed": 21,
+            "mutants-live": 10,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testRemoveValueInt": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 13,
+            "mutants-live": 5,
+            "mutation-score": 0.0013803355277128902
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSortByValueDescending": {
+            "mutants-generated": 9418,
+            "mutants-covered": 34,
+            "mutants-killed": 24,
+            "mutants-live": 10,
+            "mutation-score": 0.002548311743469951
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 40,
+            "mutants-killed": 17,
+            "mutants-live": 23,
+            "mutation-score": 0.0018050541516245488
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testSetObject": {
+            "mutants-generated": 9418,
+            "mutants-covered": 26,
+            "mutants-killed": 21,
+            "mutants-live": 5,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testInsertAndRetrieve": {
+            "mutants-generated": 9418,
+            "mutants-covered": 27,
+            "mutants-killed": 21,
+            "mutants-live": 6,
+            "mutation-score": 0.0022297727755362074
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testGetObject": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 11,
+            "mutants-live": 9,
+            "mutation-score": 0.001167976215757061
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testGetKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 20,
+            "mutants-killed": 10,
+            "mutants-live": 10,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.junit.KeyedObjectsTests::testCloning2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 63,
+            "mutants-killed": 33,
+            "mutants-live": 30,
+            "mutation-score": 0.0035039286472711827
+        },
+        "org.jfree.data.junit.RangeTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testScale": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testShift": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testContains": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testConstrain": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testExpand": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testIntersects": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTypeTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTypeTests::testHashCode": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.junit.RangeTypeTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests::testCalculateQ1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests::testCalculateQ3": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests::testCalculateBoxAndWhiskerStatistics": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerCalculatorTests::test1593149": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerItemTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.BoxAndWhiskerItemTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 103,
+            "mutants-killed": 35,
+            "mutants-live": 68,
+            "mutation-score": 0.003716287959227012
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testAdd": {
+            "mutants-generated": 9418,
+            "mutants-covered": 75,
+            "mutants-killed": 38,
+            "mutants-live": 37,
+            "mutation-score": 0.004034826927160756
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testAddUpdatesCachedRange": {
+            "mutants-generated": 9418,
+            "mutants-covered": 90,
+            "mutants-killed": 48,
+            "mutants-live": 42,
+            "mutation-score": 0.005096623486939902
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::test1701822": {
+            "mutants-generated": 9418,
+            "mutants-covered": 57,
+            "mutants-killed": 20,
+            "mutants-live": 37,
+            "mutation-score": 0.0021235931195582925
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 104,
+            "mutants-killed": 41,
+            "mutants-live": 63,
+            "mutation-score": 0.0043533658950945
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testGetRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 73,
+            "mutants-killed": 43,
+            "mutants-live": 30,
+            "mutation-score": 0.004565725207050329
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 96,
+            "mutants-killed": 33,
+            "mutants-live": 63,
+            "mutation-score": 0.0035039286472711827
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testRemove": {
+            "mutants-generated": 9418,
+            "mutants-covered": 117,
+            "mutants-killed": 62,
+            "mutants-live": 55,
+            "mutation-score": 0.006583138670630707
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 6,
+            "mutants-killed": 2,
+            "mutants-live": 4,
+            "mutation-score": 0.00021235931195582927
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testAdd": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 8,
+            "mutants-live": 11,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testGetRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerXYDatasetTests::testConstructor": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testGetValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 73,
+            "mutants-killed": 42,
+            "mutants-live": 31,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 45,
+            "mutants-killed": 7,
+            "mutants-live": 38,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testAddValue": {
+            "mutants-generated": 9418,
+            "mutants-covered": 73,
+            "mutants-killed": 38,
+            "mutants-live": 35,
+            "mutation-score": 0.004034826927160756
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 104,
+            "mutants-killed": 44,
+            "mutants-live": 60,
+            "mutation-score": 0.004671904863028244
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 100,
+            "mutants-killed": 59,
+            "mutants-live": 41,
+            "mutation-score": 0.006264599702696963
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testGetRowCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 56,
+            "mutants-killed": 24,
+            "mutants-live": 32,
+            "mutation-score": 0.002548311743469951
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testGetColumnCount": {
+            "mutants-generated": 9418,
+            "mutants-covered": 57,
+            "mutants-killed": 26,
+            "mutants-live": 31,
+            "mutation-score": 0.0027606710554257804
+        },
+        "org.jfree.data.statistics.junit.DefaultMultiValueCategoryDatasetTests::testGetValue2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 6,
+            "mutants-killed": 1,
+            "mutants-live": 5,
+            "mutation-score": 0.00010617965597791463
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testAdd": {
+            "mutants-generated": 9418,
+            "mutants-covered": 90,
+            "mutants-killed": 46,
+            "mutants-live": 44,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 106,
+            "mutants-killed": 46,
+            "mutants-live": 60,
+            "mutation-score": 0.004884264174984073
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testGetRangeLowerBound": {
+            "mutants-generated": 9418,
+            "mutants-covered": 54,
+            "mutants-killed": 19,
+            "mutants-live": 35,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testGetRangeBounds2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 73,
+            "mutants-killed": 42,
+            "mutants-live": 31,
+            "mutation-score": 0.004459545551072415
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testGetRangeBounds": {
+            "mutants-generated": 9418,
+            "mutants-covered": 74,
+            "mutants-killed": 44,
+            "mutants-live": 30,
+            "mutation-score": 0.004671904863028244
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 23,
+            "mutants-killed": 7,
+            "mutants-live": 16,
+            "mutation-score": 0.0007432575918454024
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testSerialization1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 105,
+            "mutants-killed": 40,
+            "mutants-live": 65,
+            "mutation-score": 0.004247186239116585
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testSerialization2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 103,
+            "mutants-killed": 35,
+            "mutants-live": 68,
+            "mutation-score": 0.003716287959227012
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testRemove": {
+            "mutants-generated": 9418,
+            "mutants-covered": 117,
+            "mutants-killed": 62,
+            "mutants-live": 55,
+            "mutation-score": 0.006583138670630707
+        },
+        "org.jfree.data.statistics.junit.DefaultStatisticalCategoryDatasetTests::testGetRangeUpperBound": {
+            "mutants-generated": 9418,
+            "mutants-covered": 54,
+            "mutants-killed": 19,
+            "mutants-live": 35,
+            "mutation-score": 0.002017413463580378
+        },
+        "org.jfree.data.statistics.junit.HistogramBinTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramBinTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramBinTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 9,
+            "mutants-live": 16,
+            "mutation-score": 0.0009556169038012317
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testBins": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testAddSeries2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::test1553088": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testBinBoundaries": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testGetSeriesKey": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 4,
+            "mutants-killed": 0,
+            "mutants-live": 4,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testAddSeries": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.HistogramDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 3,
+            "mutants-killed": 0,
+            "mutants-live": 3,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.MeanAndStandardDeviationTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.MeanAndStandardDeviationTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.MeanAndStandardDeviationTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testPowerRegression1a": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testPowerRegression1b": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testPowerRegression2a": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testPowerRegression2b": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testOLSRegression1a": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testOLSRegression1b": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testOLSRegression2a": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.RegressionTests::testOLSRegression2b": {
+            "mutants-generated": 9418,
+            "mutants-covered": 29,
+            "mutants-killed": 14,
+            "mutants-live": 15,
+            "mutation-score": 0.0014865151836908049
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramBinTests::testAccepts": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramBinTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramBinTests::testOverlapsWidth": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramBinTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramBinTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramDatasetTests::testRemoveAllBins": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramDatasetTests::testSerialization": {
+            "mutants-generated": 9418,
+            "mutants-covered": 25,
+            "mutants-killed": 10,
+            "mutants-live": 15,
+            "mutation-score": 0.0010617965597791463
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramDatasetTests::testClearObservations": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramDatasetTests::testCloning": {
+            "mutants-generated": 9418,
+            "mutants-covered": 19,
+            "mutants-killed": 8,
+            "mutants-live": 11,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.SimpleHistogramDatasetTests::testEquals": {
+            "mutants-generated": 9418,
+            "mutants-covered": 18,
+            "mutants-killed": 8,
+            "mutants-live": 10,
+            "mutation-score": 0.0008494372478233171
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCalculateMean_Array": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCorrelation1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCorrelation2": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCalculateMedian": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCalculateMean_Collection": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.jfree.data.statistics.junit.StatisticsTests::testCalculateMedian1": {
+            "mutants-generated": 9418,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        }
+    }
+}
