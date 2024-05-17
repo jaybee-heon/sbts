@@ -12,7 +12,8 @@ RUN apt-get update && apt-get install -y \
     curl \
     unzip \
     python3 \
-    python3-pip
+    python3-pip \
+    vim
 
 RUN ln -s /usr/bin/python3 /usr/bin/python
 RUN pip3 install tqdm --break-system-packages
