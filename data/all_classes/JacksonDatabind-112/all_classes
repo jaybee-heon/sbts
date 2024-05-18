@@ -16,7 +16,6 @@ com.fasterxml.jackson.databind.DeserializationConfig
 com.fasterxml.jackson.databind.PropertyNamingStrategy$UpperCamelCaseStrategy
 com.fasterxml.jackson.databind.DeserializationContext
 com.fasterxml.jackson.databind.PropertyNamingStrategy$PropertyNamingStrategyBase
-com.fasterxml.jackson.databind.package-info
 com.fasterxml.jackson.databind.InjectableValues$Std
 com.fasterxml.jackson.databind.PropertyNamingStrategy
 com.fasterxml.jackson.databind.SerializationFeature
@@ -63,7 +62,6 @@ com.fasterxml.jackson.databind.node.NodeCursor
 com.fasterxml.jackson.databind.node.NullNode
 com.fasterxml.jackson.databind.node.JsonNodeFactory
 com.fasterxml.jackson.databind.node.IntNode
-com.fasterxml.jackson.databind.node.package-info
 com.fasterxml.jackson.databind.node.JsonNodeCreator
 com.fasterxml.jackson.databind.node.JsonNodeType
 com.fasterxml.jackson.databind.node.BooleanNode
@@ -92,7 +90,6 @@ com.fasterxml.jackson.databind.cfg.ContextAttributes$Impl
 com.fasterxml.jackson.databind.cfg.PackageVersion
 com.fasterxml.jackson.databind.cfg.MapperConfigBase
 com.fasterxml.jackson.databind.cfg.DeserializerFactoryConfig
-com.fasterxml.jackson.databind.cfg.package-info
 com.fasterxml.jackson.databind.cfg.ConfigOverride
 com.fasterxml.jackson.databind.cfg.MapperConfig
 com.fasterxml.jackson.databind.cfg.ContextAttributes
@@ -105,7 +102,6 @@ com.fasterxml.jackson.databind.annotation.JsonTypeIdResolver
 com.fasterxml.jackson.databind.annotation.JsonSerialize$Typing
 com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder$Value
 com.fasterxml.jackson.databind.annotation.JsonPOJOBuilder
-com.fasterxml.jackson.databind.annotation.package-info
 com.fasterxml.jackson.databind.annotation.JsonAppend
 com.fasterxml.jackson.databind.annotation.JsonAppend$Prop
 com.fasterxml.jackson.databind.annotation.JacksonStdImpl
@@ -122,7 +118,6 @@ com.fasterxml.jackson.databind.deser.DeserializerFactory
 com.fasterxml.jackson.databind.deser.DefaultDeserializationContext
 com.fasterxml.jackson.databind.deser.CreatorProperty
 com.fasterxml.jackson.databind.deser.ValueInstantiator
-com.fasterxml.jackson.databind.deser.package-info
 com.fasterxml.jackson.databind.deser.BasicDeserializerFactory$1
 com.fasterxml.jackson.databind.deser.Deserializers
 com.fasterxml.jackson.databind.deser.NullValueProvider
@@ -187,7 +182,6 @@ com.fasterxml.jackson.databind.deser.std.JsonNodeDeserializer$ObjectDeserializer
 com.fasterxml.jackson.databind.deser.std.NumberDeserializers$CharacterDeserializer
 com.fasterxml.jackson.databind.deser.std.ThrowableDeserializer
 com.fasterxml.jackson.databind.deser.std.PrimitiveArrayDeserializers$DoubleDeser
-com.fasterxml.jackson.databind.deser.std.package-info
 com.fasterxml.jackson.databind.deser.std.UntypedObjectDeserializer
 com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer
 com.fasterxml.jackson.databind.deser.std.DateDeserializers$CalendarDeserializer
@@ -250,7 +244,6 @@ com.fasterxml.jackson.databind.deser.impl.PropertyValue$Regular
 com.fasterxml.jackson.databind.deser.impl.PropertyBasedObjectIdGenerator
 com.fasterxml.jackson.databind.deser.impl.ExternalTypeHandler$Builder
 com.fasterxml.jackson.databind.deser.impl.BeanPropertyMap
-com.fasterxml.jackson.databind.deser.impl.package-info
 com.fasterxml.jackson.databind.deser.impl.CreatorCandidate$Param
 com.fasterxml.jackson.databind.deser.impl.TypeWrappedDeserializer
 com.fasterxml.jackson.databind.deser.impl.ErrorThrowingDeserializer
@@ -283,7 +276,6 @@ com.fasterxml.jackson.databind.type.PlaceholderForType
 com.fasterxml.jackson.databind.type.ReferenceType
 com.fasterxml.jackson.databind.type.ClassStack
 com.fasterxml.jackson.databind.type.TypeFactory
-com.fasterxml.jackson.databind.type.package-info
 com.fasterxml.jackson.databind.type.TypeParser
 com.fasterxml.jackson.databind.type.MapType
 com.fasterxml.jackson.databind.type.ClassKey
@@ -319,7 +311,6 @@ com.fasterxml.jackson.databind.introspect.AnnotatedField$Serialization
 com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder$MemberIterator
 com.fasterxml.jackson.databind.introspect.AnnotatedMethod$Serialization
 com.fasterxml.jackson.databind.introspect.ObjectIdInfo
-com.fasterxml.jackson.databind.introspect.package-info
 com.fasterxml.jackson.databind.introspect.AnnotationCollector$NCollector
 com.fasterxml.jackson.databind.introspect.AnnotationCollector
 com.fasterxml.jackson.databind.introspect.POJOPropertyBuilder$6
@@ -385,7 +376,6 @@ com.fasterxml.jackson.databind.util.NameTransformer$Chained
 com.fasterxml.jackson.databind.util.ArrayBuilders$FloatBuilder
 com.fasterxml.jackson.databind.util.ArrayBuilders$IntBuilder
 com.fasterxml.jackson.databind.util.Named
-com.fasterxml.jackson.databind.util.package-info
 com.fasterxml.jackson.databind.util.PrimitiveArrayBuilder$Node
 com.fasterxml.jackson.databind.util.ViewMatcher$Single
 com.fasterxml.jackson.databind.util.ByteBufferBackedInputStream
@@ -433,7 +423,6 @@ com.fasterxml.jackson.databind.ser.Serializers
 com.fasterxml.jackson.databind.ser.AnyGetterWriter
 com.fasterxml.jackson.databind.ser.PropertyBuilder$1
 com.fasterxml.jackson.databind.ser.PropertyFilter
-com.fasterxml.jackson.databind.ser.package-info
 com.fasterxml.jackson.databind.ser.BeanSerializer
 com.fasterxml.jackson.databind.ser.PropertyBuilder
 com.fasterxml.jackson.databind.ser.DefaultSerializerProvider
@@ -533,7 +522,6 @@ com.fasterxml.jackson.databind.ser.impl.FilteredBeanPropertyWriter$SingleView
 com.fasterxml.jackson.databind.ser.impl.UnknownSerializer
 com.fasterxml.jackson.databind.ser.impl.TypeWrappedSerializer
 com.fasterxml.jackson.databind.ser.impl.PropertyBasedObjectIdGenerator
-com.fasterxml.jackson.databind.ser.impl.package-info
 com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Single
 com.fasterxml.jackson.databind.ser.impl.MapEntrySerializer
 com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider
@@ -559,14 +547,12 @@ com.fasterxml.jackson.databind.ser.impl.IndexedStringListSerializer
 com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter
 com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter$FilterExceptFilter
 com.fasterxml.jackson.databind.ser.impl.PropertySerializerMap$Multi
-com.fasterxml.jackson.databind.jsonschema.package-info
 com.fasterxml.jackson.databind.jsonschema.JsonSerializableSchema
 com.fasterxml.jackson.databind.jsonschema.SchemaAware
 com.fasterxml.jackson.databind.jsonschema.JsonSchema
 com.fasterxml.jackson.databind.jsontype.SubtypeResolver
 com.fasterxml.jackson.databind.jsontype.TypeResolverBuilder
 com.fasterxml.jackson.databind.jsontype.NamedType
-com.fasterxml.jackson.databind.jsontype.package-info
 com.fasterxml.jackson.databind.jsontype.TypeDeserializer
 com.fasterxml.jackson.databind.jsontype.TypeDeserializer$1
 com.fasterxml.jackson.databind.jsontype.TypeSerializer
@@ -578,7 +564,6 @@ com.fasterxml.jackson.databind.jsontype.impl.TypeIdResolverBase
 com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeSerializer
 com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeDeserializer
 com.fasterxml.jackson.databind.jsontype.impl.TypeSerializerBase
-com.fasterxml.jackson.databind.jsontype.impl.package-info
 com.fasterxml.jackson.databind.jsontype.impl.MinimalClassNameIdResolver
 com.fasterxml.jackson.databind.jsontype.impl.AsArrayTypeDeserializer
 com.fasterxml.jackson.databind.jsontype.impl.StdTypeResolverBuilder
@@ -594,7 +579,6 @@ com.fasterxml.jackson.databind.jsontype.impl.AsPropertyTypeSerializer
 com.fasterxml.jackson.databind.jsontype.impl.AsExternalTypeDeserializer
 com.fasterxml.jackson.databind.module.SimpleSerializers
 com.fasterxml.jackson.databind.module.SimpleModule
-com.fasterxml.jackson.databind.module.package-info
 com.fasterxml.jackson.databind.module.SimpleKeyDeserializers
 com.fasterxml.jackson.databind.module.SimpleValueInstantiators
 com.fasterxml.jackson.databind.module.SimpleDeserializers
@@ -604,7 +588,6 @@ com.fasterxml.jackson.databind.ext.CoreXMLDeserializers$Std
 com.fasterxml.jackson.databind.ext.OptionalHandlerFactory
 com.fasterxml.jackson.databind.ext.DOMDeserializer
 com.fasterxml.jackson.databind.ext.NioPathSerializer
-com.fasterxml.jackson.databind.ext.package-info
 com.fasterxml.jackson.databind.ext.CoreXMLSerializers
 com.fasterxml.jackson.databind.ext.DOMDeserializer$DocumentDeserializer
 com.fasterxml.jackson.databind.ext.CoreXMLSerializers$XMLGregorianCalendarSerializer
@@ -620,7 +603,6 @@ com.fasterxml.jackson.databind.jsonFormatVisitors.JsonNullFormatVisitor$Base
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonFormatVisitorWithSerializerProvider
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonStringFormatVisitor
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonArrayFormatVisitor$Base
-com.fasterxml.jackson.databind.jsonFormatVisitors.package-info
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonNumberFormatVisitor$Base
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonIntegerFormatVisitor
 com.fasterxml.jackson.databind.jsonFormatVisitors.JsonBooleanFormatVisitor$Base

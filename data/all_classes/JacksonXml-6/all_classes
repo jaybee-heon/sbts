@@ -1,7 +1,6 @@
 com.fasterxml.jackson.dataformat.xml.XmlMapper
 com.fasterxml.jackson.dataformat.xml.JacksonXmlAnnotationIntrospector
 com.fasterxml.jackson.dataformat.xml.PackageVersion
-com.fasterxml.jackson.dataformat.xml.package-info
 com.fasterxml.jackson.dataformat.xml.XmlFactory
 com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder
 com.fasterxml.jackson.dataformat.xml.XmlAnnotationIntrospector$JaxbWrapper
@@ -14,7 +13,6 @@ com.fasterxml.jackson.dataformat.xml.XmlTypeResolverBuilder$XmlClassNameIdResolv
 com.fasterxml.jackson.dataformat.xml.JacksonXmlModule
 com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement
 com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty
-com.fasterxml.jackson.dataformat.xml.annotation.package-info
 com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlElementWrapper
 com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlCData
 com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlText

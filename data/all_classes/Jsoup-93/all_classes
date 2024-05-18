@@ -7,10 +7,8 @@ org.jsoup.SerializationException
 org.jsoup.Connection$Base
 org.jsoup.UncheckedIOException
 org.jsoup.UnsupportedMimeTypeException
-org.jsoup.package-info
 org.jsoup.Connection
 org.jsoup.Connection$Response
-org.jsoup.examples.package-info
 org.jsoup.examples.HtmlToPlainText
 org.jsoup.examples.Wikipedia
 org.jsoup.examples.HtmlToPlainText$1
@@ -18,7 +16,6 @@ org.jsoup.examples.HtmlToPlainText$FormattingVisitor
 org.jsoup.examples.ListLinks
 org.jsoup.internal.Normalizer
 org.jsoup.internal.StringUtil
-org.jsoup.internal.package-info
 org.jsoup.internal.ConstrainableInputStream
 org.jsoup.nodes.PseudoTextElement
 org.jsoup.nodes.Attributes$Dataset
@@ -27,7 +24,6 @@ org.jsoup.nodes.FormElement
 org.jsoup.nodes.NodeUtils
 org.jsoup.nodes.Element
 org.jsoup.nodes.Node$OuterHtmlVisitor
-org.jsoup.nodes.package-info
 org.jsoup.nodes.Attributes$Dataset$DatasetIterator
 org.jsoup.nodes.Attributes$Dataset$EntrySet
 org.jsoup.nodes.EntitiesData
@@ -91,7 +87,6 @@ org.jsoup.parser.ParseErrorList
 org.jsoup.parser.TokeniserState$42
 org.jsoup.parser.TokeniserState$59
 org.jsoup.parser.ParseSettings
-org.jsoup.parser.package-info
 org.jsoup.parser.TokeniserState$21
 org.jsoup.parser.TokeniserState$16
 org.jsoup.parser.XmlTreeBuilder
@@ -174,7 +169,6 @@ org.jsoup.parser.Parser
 org.jsoup.parser.TokeniserState$50
 org.jsoup.safety.Whitelist
 org.jsoup.safety.Whitelist$AttributeValue
-org.jsoup.safety.package-info
 org.jsoup.safety.Whitelist$AttributeKey
 org.jsoup.safety.Cleaner$1
 org.jsoup.safety.Whitelist$TagName
@@ -215,7 +209,6 @@ org.jsoup.select.Evaluator$TagEndsWith
 org.jsoup.select.Evaluator$MatchText
 org.jsoup.select.Evaluator$AttributeWithValueNot
 org.jsoup.select.Evaluator$AttributeWithValueMatching
-org.jsoup.select.package-info
 org.jsoup.select.Elements
 org.jsoup.select.Evaluator$AttributeWithValueEnding
 org.jsoup.select.Evaluator$IndexGreaterThan

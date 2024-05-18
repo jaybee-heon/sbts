@@ -26,7 +26,6 @@ org.apache.commons.collections4.Trie
 org.apache.commons.collections4.CollectionUtils$3
 org.apache.commons.collections4.TransformerUtils
 org.apache.commons.collections4.SplitMapUtils
-org.apache.commons.collections4.package-info
 org.apache.commons.collections4.IterableUtils$13
 org.apache.commons.collections4.IterableUtils
 org.apache.commons.collections4.CollectionUtils$EquatorWrapper
@@ -93,14 +92,12 @@ org.apache.commons.collections4.QueueUtils
 org.apache.commons.collections4.keyvalue.DefaultKeyValue
 org.apache.commons.collections4.keyvalue.AbstractMapEntryDecorator
 org.apache.commons.collections4.keyvalue.AbstractKeyValue
-org.apache.commons.collections4.keyvalue.package-info
 org.apache.commons.collections4.keyvalue.MultiKey
 org.apache.commons.collections4.keyvalue.UnmodifiableMapEntry
 org.apache.commons.collections4.keyvalue.AbstractMapEntry
 org.apache.commons.collections4.keyvalue.TiedMapEntry
 org.apache.commons.collections4.keyvalue.DefaultMapEntry
 org.apache.commons.collections4.queue.UnmodifiableQueue
-org.apache.commons.collections4.queue.package-info
 org.apache.commons.collections4.queue.PredicatedQueue
 org.apache.commons.collections4.queue.CircularFifoQueue$1
 org.apache.commons.collections4.queue.CircularFifoQueue
@@ -111,7 +108,6 @@ org.apache.commons.collections4.bag.SynchronizedSortedBag
 org.apache.commons.collections4.bag.AbstractSortedBagDecorator
 org.apache.commons.collections4.bag.PredicatedSortedBag
 org.apache.commons.collections4.bag.SynchronizedBag$SynchronizedBagSet
-org.apache.commons.collections4.bag.package-info
 org.apache.commons.collections4.bag.AbstractMapBag$BagIterator
 org.apache.commons.collections4.bag.UnmodifiableSortedBag
 org.apache.commons.collections4.bag.AbstractBagDecorator
@@ -139,7 +135,6 @@ org.apache.commons.collections4.iterators.UnmodifiableListIterator
 org.apache.commons.collections4.iterators.ObjectArrayIterator
 org.apache.commons.collections4.iterators.ZippingIterator
 org.apache.commons.collections4.iterators.ObjectGraphIterator
-org.apache.commons.collections4.iterators.package-info
 org.apache.commons.collections4.iterators.SkippingIterator
 org.apache.commons.collections4.iterators.UnmodifiableOrderedMapIterator
 org.apache.commons.collections4.iterators.AbstractIteratorDecorator
@@ -173,10 +168,8 @@ org.apache.commons.collections4.iterators.UnmodifiableMapIterator
 org.apache.commons.collections4.iterators.ArrayIterator
 org.apache.commons.collections4.iterators.LoopingListIterator
 org.apache.commons.collections4.splitmap.TransformedSplitMap
-org.apache.commons.collections4.splitmap.package-info
 org.apache.commons.collections4.splitmap.AbstractIterableGetMapDecorator
 org.apache.commons.collections4.sequence.ReplacementsFinder
-org.apache.commons.collections4.sequence.package-info
 org.apache.commons.collections4.sequence.InsertCommand
 org.apache.commons.collections4.sequence.DeleteCommand
 org.apache.commons.collections4.sequence.KeepCommand
@@ -190,7 +183,6 @@ org.apache.commons.collections4.multiset.AbstractMapMultiSet$MapBasedMultiSetIte
 org.apache.commons.collections4.multiset.AbstractMultiSet$UniqueSet
 org.apache.commons.collections4.multiset.AbstractMapMultiSet
 org.apache.commons.collections4.multiset.AbstractMapMultiSet$MultiSetEntry
-org.apache.commons.collections4.multiset.package-info
 org.apache.commons.collections4.multiset.SynchronizedMultiSet
 org.apache.commons.collections4.multiset.AbstractMultiSet$1
 org.apache.commons.collections4.multiset.SynchronizedMultiSet$SynchronizedSet
@@ -219,7 +211,6 @@ org.apache.commons.collections4.bidimap.AbstractDualBidiMap$Values
 org.apache.commons.collections4.bidimap.TreeBidiMap$DataElement
 org.apache.commons.collections4.bidimap.TreeBidiMap$KeyView
 org.apache.commons.collections4.bidimap.TreeBidiMap$View
-org.apache.commons.collections4.bidimap.package-info
 org.apache.commons.collections4.bidimap.AbstractDualBidiMap$EntrySetIterator
 org.apache.commons.collections4.bidimap.TreeBidiMap$EntryView
 org.apache.commons.collections4.bidimap.AbstractOrderedBidiMapDecorator
@@ -255,7 +246,6 @@ org.apache.commons.collections4.list.PredicatedList
 org.apache.commons.collections4.list.AbstractLinkedList$LinkedListIterator
 org.apache.commons.collections4.list.AbstractLinkedList
 org.apache.commons.collections4.list.NodeCachingLinkedList
-org.apache.commons.collections4.list.package-info
 org.apache.commons.collections4.list.TreeList$TreeListIterator
 org.apache.commons.collections4.list.TransformedList$TransformedListIterator
 org.apache.commons.collections4.list.LazyList
@@ -298,7 +288,6 @@ org.apache.commons.collections4.map.LazySortedMap
 org.apache.commons.collections4.map.CompositeMap
 org.apache.commons.collections4.map.StaticBucketMap$1
 org.apache.commons.collections4.map.AbstractHashedMap
-org.apache.commons.collections4.map.package-info
 org.apache.commons.collections4.map.TransformedMap
 org.apache.commons.collections4.map.AbstractLinkedMap$EntrySetIterator
 org.apache.commons.collections4.map.AbstractHashedMap$KeySetIterator
@@ -392,7 +381,6 @@ org.apache.commons.collections4.trie.AbstractPatriciaTrie$RangeEntrySet
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$TrieEntry
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$RangeMap
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet
-org.apache.commons.collections4.trie.package-info
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$Reference
 org.apache.commons.collections4.trie.UnmodifiableTrie
 org.apache.commons.collections4.trie.AbstractPatriciaTrie
@@ -405,12 +393,10 @@ org.apache.commons.collections4.trie.AbstractBitwiseTrie$BasicEntry
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$EntrySet
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$1
 org.apache.commons.collections4.trie.AbstractPatriciaTrie$PrefixRangeEntrySet$EntryIterator
-org.apache.commons.collections4.trie.analyzer.package-info
 org.apache.commons.collections4.trie.analyzer.StringKeyAnalyzer
 org.apache.commons.collections4.comparators.ReverseComparator
 org.apache.commons.collections4.comparators.ComparatorChain
 org.apache.commons.collections4.comparators.NullComparator
-org.apache.commons.collections4.comparators.package-info
 org.apache.commons.collections4.comparators.BooleanComparator
 org.apache.commons.collections4.comparators.TransformingComparator
 org.apache.commons.collections4.comparators.FixedOrderComparator$UnknownObjectBehavior
@@ -425,7 +411,6 @@ org.apache.commons.collections4.set.TransformedNavigableSet
 org.apache.commons.collections4.set.CompositeSet$SetMutator
 org.apache.commons.collections4.set.ListOrderedSet
 org.apache.commons.collections4.set.TransformedSortedSet
-org.apache.commons.collections4.set.package-info
 org.apache.commons.collections4.set.AbstractSerializableSetDecorator
 org.apache.commons.collections4.set.AbstractSetDecorator
 org.apache.commons.collections4.set.PredicatedSortedSet
@@ -444,7 +429,6 @@ org.apache.commons.collections4.multimap.AbstractMultiValuedMap$AsMap
 org.apache.commons.collections4.multimap.ArrayListValuedHashMap
 org.apache.commons.collections4.multimap.AbstractMultiValuedMap$AsMap$AsMapEntrySet
 org.apache.commons.collections4.multimap.AbstractMultiValuedMap$KeysMultiSet
-org.apache.commons.collections4.multimap.package-info
 org.apache.commons.collections4.multimap.AbstractSetValuedMap
 org.apache.commons.collections4.multimap.AbstractMultiValuedMap$EntryValues
 org.apache.commons.collections4.multimap.AbstractMultiValuedMap
@@ -465,7 +449,6 @@ org.apache.commons.collections4.multimap.AbstractMultiValuedMap$KeysMultiSet$Map
 org.apache.commons.collections4.multimap.AbstractListValuedMap$WrappedList
 org.apache.commons.collections4.multimap.AbstractMultiValuedMapDecorator
 org.apache.commons.collections4.collection.SynchronizedCollection
-org.apache.commons.collections4.collection.package-info
 org.apache.commons.collections4.collection.TransformedCollection
 org.apache.commons.collections4.collection.CompositeCollection
 org.apache.commons.collections4.collection.PredicatedCollection$Builder
@@ -492,7 +475,6 @@ org.apache.commons.collections4.functors.NullIsExceptionPredicate
 org.apache.commons.collections4.functors.TransformerClosure
 org.apache.commons.collections4.functors.NullIsFalsePredicate
 org.apache.commons.collections4.functors.FactoryTransformer
-org.apache.commons.collections4.functors.package-info
 org.apache.commons.collections4.functors.ComparatorPredicate$1
 org.apache.commons.collections4.functors.CloneTransformer
 org.apache.commons.collections4.functors.ComparatorPredicate$Criterion

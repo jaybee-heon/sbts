@@ -10,7 +10,6 @@ com.fasterxml.jackson.core.TreeCodec
 com.fasterxml.jackson.core.JsonFactory
 com.fasterxml.jackson.core.ObjectCodec
 com.fasterxml.jackson.core.Versioned
-com.fasterxml.jackson.core.package-info
 com.fasterxml.jackson.core.JsonParser
 com.fasterxml.jackson.core.TreeNode
 com.fasterxml.jackson.core.SerializableString
@@ -36,7 +35,6 @@ com.fasterxml.jackson.core.JsonGenerator
 com.fasterxml.jackson.core.sym.Name
 com.fasterxml.jackson.core.sym.Name1
 com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$TableInfo
-com.fasterxml.jackson.core.sym.package-info
 com.fasterxml.jackson.core.sym.Name3
 com.fasterxml.jackson.core.sym.Name2
 com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer
@@ -46,23 +44,19 @@ com.fasterxml.jackson.core.sym.ByteQuadsCanonicalizer
 com.fasterxml.jackson.core.sym.CharsToNameCanonicalizer$Bucket
 com.fasterxml.jackson.core.type.TypeReference
 com.fasterxml.jackson.core.type.WritableTypeId
-com.fasterxml.jackson.core.type.package-info
 com.fasterxml.jackson.core.type.WritableTypeId$Inclusion
 com.fasterxml.jackson.core.type.ResolvedType
-com.fasterxml.jackson.core.exc.package-info
 com.fasterxml.jackson.core.exc.InputCoercionException
 com.fasterxml.jackson.core.exc.StreamReadException
 com.fasterxml.jackson.core.format.InputAccessor
 com.fasterxml.jackson.core.format.DataFormatDetector
 com.fasterxml.jackson.core.format.InputAccessor$Std
-com.fasterxml.jackson.core.format.package-info
 com.fasterxml.jackson.core.format.DataFormatMatcher
 com.fasterxml.jackson.core.format.MatchStrength
 com.fasterxml.jackson.core.util.DefaultPrettyPrinter
 com.fasterxml.jackson.core.util.MinimalPrettyPrinter
 com.fasterxml.jackson.core.util.BufferRecyclers
 com.fasterxml.jackson.core.util.DefaultPrettyPrinter$FixedSpaceIndenter
-com.fasterxml.jackson.core.util.package-info
 com.fasterxml.jackson.core.util.ByteArrayBuilder
 com.fasterxml.jackson.core.util.DefaultPrettyPrinter$NopIndenter
 com.fasterxml.jackson.core.util.VersionUtil
@@ -84,7 +78,6 @@ com.fasterxml.jackson.core.filter.FilteringGeneratorDelegate
 com.fasterxml.jackson.core.filter.TokenFilter
 com.fasterxml.jackson.core.filter.JsonPointerBasedFilter
 com.fasterxml.jackson.core.filter.FilteringParserDelegate
-com.fasterxml.jackson.core.async.package-info
 com.fasterxml.jackson.core.async.ByteArrayFeeder
 com.fasterxml.jackson.core.async.NonBlockingInputFeeder
 com.fasterxml.jackson.core.async.ByteBufferFeeder
@@ -92,7 +85,6 @@ com.fasterxml.jackson.core.json.DupDetector
 com.fasterxml.jackson.core.json.ReaderBasedJsonParser
 com.fasterxml.jackson.core.json.JsonWriteFeature
 com.fasterxml.jackson.core.json.PackageVersion
-com.fasterxml.jackson.core.json.package-info
 com.fasterxml.jackson.core.json.JsonGeneratorImpl
 com.fasterxml.jackson.core.json.JsonWriteContext
 com.fasterxml.jackson.core.json.UTF8DataInputJsonParser
@@ -103,7 +95,6 @@ com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper
 com.fasterxml.jackson.core.json.WriterBasedJsonGenerator
 com.fasterxml.jackson.core.json.JsonReadContext
 com.fasterxml.jackson.core.json.async.NonBlockingJsonParser
-com.fasterxml.jackson.core.json.async.package-info
 com.fasterxml.jackson.core.json.async.NonBlockingJsonParserBase
 com.fasterxml.jackson.core.io.OutputDecorator
 com.fasterxml.jackson.core.io.JsonStringEncoder
@@ -123,4 +114,3 @@ com.fasterxml.jackson.core.io.SegmentedStringWriter
 com.fasterxml.jackson.core.base.GeneratorBase
 com.fasterxml.jackson.core.base.ParserMinimalBase
 com.fasterxml.jackson.core.base.ParserBase
-com.fasterxml.jackson.core.base.package-info

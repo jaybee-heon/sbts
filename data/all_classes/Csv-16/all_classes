@@ -5,7 +5,6 @@ org.apache.commons.csv.CSVFormat$Predefined
 org.apache.commons.csv.CSVFormat$1
 org.apache.commons.csv.Constants
 org.apache.commons.csv.ExtendedBufferedReader
-org.apache.commons.csv.package-info
 org.apache.commons.csv.CSVFormat
 org.apache.commons.csv.CSVParser$CSVRecordIterator
 org.apache.commons.csv.CSVPrinter

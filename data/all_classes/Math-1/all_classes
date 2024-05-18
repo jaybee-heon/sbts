@@ -1,7 +1,6 @@
 org.apache.commons.math3.FieldElement
 org.apache.commons.math3.RealFieldElement
 org.apache.commons.math3.Field
-org.apache.commons.math3.package-info
 org.apache.commons.math3.optimization.BaseMultivariateMultiStartOptimizer$1
 org.apache.commons.math3.optimization.ConvergenceChecker
 org.apache.commons.math3.optimization.BaseMultivariateVectorOptimizer
@@ -11,7 +10,6 @@ org.apache.commons.math3.optimization.BaseMultivariateVectorMultiStartOptimizer
 org.apache.commons.math3.optimization.MultivariateDifferentiableMultiStartOptimizer
 org.apache.commons.math3.optimization.Weight
 org.apache.commons.math3.optimization.MultivariateMultiStartOptimizer
-org.apache.commons.math3.optimization.package-info
 org.apache.commons.math3.optimization.BaseMultivariateVectorMultiStartOptimizer$1
 org.apache.commons.math3.optimization.DifferentiableMultivariateOptimizer
 org.apache.commons.math3.optimization.SimpleBounds
@@ -44,7 +42,6 @@ org.apache.commons.math3.optimization.fitting.WeightedObservedPoint
 org.apache.commons.math3.optimization.fitting.CurveFitter$TheoreticalValuesFunction
 org.apache.commons.math3.optimization.fitting.GaussianFitter$ParameterGuesser$1
 org.apache.commons.math3.optimization.fitting.GaussianFitter$1
-org.apache.commons.math3.optimization.fitting.package-info
 org.apache.commons.math3.optimization.fitting.CurveFitter
 org.apache.commons.math3.optimization.fitting.CurveFitter$OldTheoreticalValuesFunction$1
 org.apache.commons.math3.optimization.fitting.CurveFitter$OldTheoreticalValuesFunction
@@ -58,7 +55,6 @@ org.apache.commons.math3.optimization.direct.MultivariateFunctionMappingAdapter$
 org.apache.commons.math3.optimization.direct.PowellOptimizer$LineSearch$1
 org.apache.commons.math3.optimization.direct.CMAESOptimizer
 org.apache.commons.math3.optimization.direct.MultivariateFunctionMappingAdapter
-org.apache.commons.math3.optimization.direct.package-info
 org.apache.commons.math3.optimization.direct.MultivariateFunctionMappingAdapter$LowerUpperBoundMapper
 org.apache.commons.math3.optimization.direct.CMAESOptimizer$DoubleIndex
 org.apache.commons.math3.optimization.direct.CMAESOptimizer$PopulationSize
@@ -81,7 +77,6 @@ org.apache.commons.math3.optimization.univariate.UnivariateMultiStartOptimizer
 org.apache.commons.math3.optimization.univariate.BaseUnivariateOptimizer
 org.apache.commons.math3.optimization.univariate.BaseAbstractUnivariateOptimizer
 org.apache.commons.math3.optimization.univariate.SimpleUnivariateValueChecker
-org.apache.commons.math3.optimization.univariate.package-info
 org.apache.commons.math3.optimization.univariate.UnivariatePointValuePair
 org.apache.commons.math3.optimization.univariate.BrentOptimizer
 org.apache.commons.math3.optimization.univariate.UnivariateMultiStartOptimizer$1
@@ -92,7 +87,6 @@ org.apache.commons.math3.optimization.general.AbstractDifferentiableOptimizer
 org.apache.commons.math3.optimization.general.NonLinearConjugateGradientOptimizer
 org.apache.commons.math3.optimization.general.LevenbergMarquardtOptimizer
 org.apache.commons.math3.optimization.general.NonLinearConjugateGradientOptimizer$LineSearchFunction
-org.apache.commons.math3.optimization.general.package-info
 org.apache.commons.math3.optimization.general.GaussNewtonOptimizer
 org.apache.commons.math3.optimization.general.AbstractScalarDifferentiableOptimizer
 org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer
@@ -100,7 +94,6 @@ org.apache.commons.math3.optimization.general.Preconditioner
 org.apache.commons.math3.optimization.general.NonLinearConjugateGradientOptimizer$IdentityPreconditioner
 org.apache.commons.math3.optimization.linear.LinearObjectiveFunction
 org.apache.commons.math3.optimization.linear.SimplexSolver
-org.apache.commons.math3.optimization.linear.package-info
 org.apache.commons.math3.optimization.linear.UnboundedSolutionException
 org.apache.commons.math3.optimization.linear.LinearOptimizer
 org.apache.commons.math3.optimization.linear.Relationship$1
@@ -120,7 +113,6 @@ org.apache.commons.math3.fitting.CurveFitter$TheoreticalValuesFunction
 org.apache.commons.math3.fitting.GaussianFitter$ParameterGuesser$1
 org.apache.commons.math3.fitting.GaussianFitter$1
 org.apache.commons.math3.fitting.AbstractCurveFitter
-org.apache.commons.math3.fitting.package-info
 org.apache.commons.math3.fitting.GaussianCurveFitter$1
 org.apache.commons.math3.fitting.WeightedObservedPoints
 org.apache.commons.math3.fitting.AbstractCurveFitter$TheoreticalValuesFunction$1
@@ -135,7 +127,6 @@ org.apache.commons.math3.fitting.leastsquares.WithTarget
 org.apache.commons.math3.fitting.leastsquares.LevenbergMarquardtOptimizer
 org.apache.commons.math3.fitting.leastsquares.WithModelAndJacobian
 org.apache.commons.math3.fitting.leastsquares.WithMaxEvaluations
-org.apache.commons.math3.fitting.leastsquares.package-info
 org.apache.commons.math3.fitting.leastsquares.GaussNewtonOptimizer
 org.apache.commons.math3.fitting.leastsquares.AbstractLeastSquaresOptimizer
 org.apache.commons.math3.fitting.leastsquares.WithStartPoint
@@ -153,7 +144,6 @@ org.apache.commons.math3.ode.MultistepIntegrator$1
 org.apache.commons.math3.ode.ContinuousOutputModel
 org.apache.commons.math3.ode.MultistepIntegrator$InitializationCompletedMarkerException
 org.apache.commons.math3.ode.SecondaryEquations
-org.apache.commons.math3.ode.package-info
 org.apache.commons.math3.ode.JacobianMatrices$1
 org.apache.commons.math3.ode.SecondOrderIntegrator
 org.apache.commons.math3.ode.MultistepIntegrator$NordsieckTransformer
@@ -179,7 +169,6 @@ org.apache.commons.math3.ode.AbstractParameterizable
 org.apache.commons.math3.ode.events.EventState$LocalMaxCountExceededException
 org.apache.commons.math3.ode.events.Transformer$5
 org.apache.commons.math3.ode.events.EventHandler$Action
-org.apache.commons.math3.ode.events.package-info
 org.apache.commons.math3.ode.events.Transformer$3
 org.apache.commons.math3.ode.events.EventHandler
 org.apache.commons.math3.ode.events.FilterType$1
@@ -196,7 +185,6 @@ org.apache.commons.math3.ode.events.EventState$1
 org.apache.commons.math3.ode.sampling.StepNormalizer
 org.apache.commons.math3.ode.sampling.StepHandler
 org.apache.commons.math3.ode.sampling.StepNormalizerMode
-org.apache.commons.math3.ode.sampling.package-info
 org.apache.commons.math3.ode.sampling.DummyStepHandler$1
 org.apache.commons.math3.ode.sampling.StepInterpolator
 org.apache.commons.math3.ode.sampling.DummyStepHandler$LazyHolder
@@ -211,7 +199,6 @@ org.apache.commons.math3.ode.nonstiff.DormandPrince853StepInterpolator
 org.apache.commons.math3.ode.nonstiff.AdaptiveStepsizeIntegrator
 org.apache.commons.math3.ode.nonstiff.DormandPrince54Integrator
 org.apache.commons.math3.ode.nonstiff.EulerIntegrator
-org.apache.commons.math3.ode.nonstiff.package-info
 org.apache.commons.math3.ode.nonstiff.AdamsNordsieckTransformer
 org.apache.commons.math3.ode.nonstiff.DormandPrince853Integrator
 org.apache.commons.math3.ode.nonstiff.DormandPrince54StepInterpolator
@@ -235,10 +222,8 @@ org.apache.commons.math3.ode.nonstiff.EmbeddedRungeKuttaIntegrator
 org.apache.commons.math3.ode.nonstiff.HighamHall54StepInterpolator
 org.apache.commons.math3.primes.SmallPrimes
 org.apache.commons.math3.primes.Primes
-org.apache.commons.math3.primes.package-info
 org.apache.commons.math3.primes.PollardRho
 org.apache.commons.math3.geometry.Vector
-org.apache.commons.math3.geometry.package-info
 org.apache.commons.math3.geometry.Space
 org.apache.commons.math3.geometry.VectorFormat
 org.apache.commons.math3.geometry.partitioning.Transform
@@ -246,7 +231,6 @@ org.apache.commons.math3.geometry.partitioning.AbstractRegion$Sides
 org.apache.commons.math3.geometry.partitioning.BSPTree
 org.apache.commons.math3.geometry.partitioning.BoundarySizeVisitor
 org.apache.commons.math3.geometry.partitioning.Embedding
-org.apache.commons.math3.geometry.partitioning.package-info
 org.apache.commons.math3.geometry.partitioning.Side
 org.apache.commons.math3.geometry.partitioning.RegionFactory$XorMerger
 org.apache.commons.math3.geometry.partitioning.AbstractRegion
@@ -273,7 +257,6 @@ org.apache.commons.math3.geometry.partitioning.RegionFactory
 org.apache.commons.math3.geometry.partitioning.AbstractRegion$2
 org.apache.commons.math3.geometry.partitioning.utilities.OrderedTuple
 org.apache.commons.math3.geometry.partitioning.utilities.AVLTree$Skew
-org.apache.commons.math3.geometry.partitioning.utilities.package-info
 org.apache.commons.math3.geometry.partitioning.utilities.AVLTree
 org.apache.commons.math3.geometry.partitioning.utilities.AVLTree$1
 org.apache.commons.math3.geometry.partitioning.utilities.AVLTree$Node
@@ -285,7 +268,6 @@ org.apache.commons.math3.geometry.euclidean.threed.Rotation
 org.apache.commons.math3.geometry.euclidean.threed.OutlineExtractor$BoundaryProjector
 org.apache.commons.math3.geometry.euclidean.threed.Vector3DFormat
 org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet$TranslationTransform
-org.apache.commons.math3.geometry.euclidean.threed.package-info
 org.apache.commons.math3.geometry.euclidean.threed.Plane
 org.apache.commons.math3.geometry.euclidean.threed.SubPlane
 org.apache.commons.math3.geometry.euclidean.threed.CardanEulerSingularityException
@@ -307,7 +289,6 @@ org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet
 org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$ComparableSegment
 org.apache.commons.math3.geometry.euclidean.twod.Euclidean2D
 org.apache.commons.math3.geometry.euclidean.twod.Euclidean2D$1
-org.apache.commons.math3.geometry.euclidean.twod.package-info
 org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$SegmentsBuilder
 org.apache.commons.math3.geometry.euclidean.twod.Line$LineTransform
 org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet$Edge
@@ -323,7 +304,6 @@ org.apache.commons.math3.geometry.euclidean.twod.SubLine
 org.apache.commons.math3.geometry.euclidean.oned.Euclidean1D$1
 org.apache.commons.math3.geometry.euclidean.oned.Euclidean1D$LazyHolder
 org.apache.commons.math3.geometry.euclidean.oned.Vector1DFormat
-org.apache.commons.math3.geometry.euclidean.oned.package-info
 org.apache.commons.math3.geometry.euclidean.oned.IntervalsSet
 org.apache.commons.math3.geometry.euclidean.oned.SubOrientedPoint
 org.apache.commons.math3.geometry.euclidean.oned.Euclidean1D
@@ -343,7 +323,6 @@ org.apache.commons.math3.analysis.FunctionUtils$17
 org.apache.commons.math3.analysis.FunctionUtils$16$2
 org.apache.commons.math3.analysis.FunctionUtils$2
 org.apache.commons.math3.analysis.DifferentiableUnivariateMatrixFunction
-org.apache.commons.math3.analysis.package-info
 org.apache.commons.math3.analysis.DifferentiableMultivariateFunction
 org.apache.commons.math3.analysis.FunctionUtils$18$1
 org.apache.commons.math3.analysis.FunctionUtils$12
@@ -385,7 +364,6 @@ org.apache.commons.math3.analysis.interpolation.MicrosphereInterpolatingFunction
 org.apache.commons.math3.analysis.interpolation.BicubicSplineFunction$2
 org.apache.commons.math3.analysis.interpolation.MultivariateInterpolator
 org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolatingFunction
-org.apache.commons.math3.analysis.interpolation.package-info
 org.apache.commons.math3.analysis.interpolation.TricubicSplineInterpolator
 org.apache.commons.math3.analysis.interpolation.BicubicSplineFunction$1
 org.apache.commons.math3.analysis.interpolation.LinearInterpolator
@@ -403,7 +381,6 @@ org.apache.commons.math3.analysis.interpolation.TricubicSplineFunction
 org.apache.commons.math3.analysis.interpolation.BicubicSplineInterpolator
 org.apache.commons.math3.analysis.integration.SimpsonIntegrator
 org.apache.commons.math3.analysis.integration.IterativeLegendreGaussIntegrator$1
-org.apache.commons.math3.analysis.integration.package-info
 org.apache.commons.math3.analysis.integration.RombergIntegrator
 org.apache.commons.math3.analysis.integration.TrapezoidIntegrator
 org.apache.commons.math3.analysis.integration.LegendreGaussIntegrator
@@ -413,7 +390,6 @@ org.apache.commons.math3.analysis.integration.BaseAbstractUnivariateIntegrator
 org.apache.commons.math3.analysis.integration.UnivariateIntegrator
 org.apache.commons.math3.analysis.integration.gauss.SymmetricGaussIntegrator
 org.apache.commons.math3.analysis.integration.gauss.BaseRuleFactory
-org.apache.commons.math3.analysis.integration.gauss.package-info
 org.apache.commons.math3.analysis.integration.gauss.LegendreRuleFactory
 org.apache.commons.math3.analysis.integration.gauss.LegendreHighPrecisionRuleFactory
 org.apache.commons.math3.analysis.integration.gauss.GaussIntegrator
@@ -427,7 +403,6 @@ org.apache.commons.math3.analysis.solvers.RegulaFalsiSolver
 org.apache.commons.math3.analysis.solvers.BaseSecantSolver$1
 org.apache.commons.math3.analysis.solvers.LaguerreSolver$ComplexSolver
 org.apache.commons.math3.analysis.solvers.BaseAbstractUnivariateSolver
-org.apache.commons.math3.analysis.solvers.package-info
 org.apache.commons.math3.analysis.solvers.RiddersSolver
 org.apache.commons.math3.analysis.solvers.MullerSolver
 org.apache.commons.math3.analysis.solvers.AllowedSolution
@@ -469,7 +444,6 @@ org.apache.commons.math3.analysis.function.Log
 org.apache.commons.math3.analysis.function.Sqrt
 org.apache.commons.math3.analysis.function.Logistic$Parametric
 org.apache.commons.math3.analysis.function.Logistic
-org.apache.commons.math3.analysis.function.package-info
 org.apache.commons.math3.analysis.function.Exp
 org.apache.commons.math3.analysis.function.Subtract
 org.apache.commons.math3.analysis.function.Log1p
@@ -508,7 +482,6 @@ org.apache.commons.math3.analysis.polynomials.PolynomialsUtils$4
 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils$3
 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils$5
 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils$RecurrenceCoefficientsGenerator
-org.apache.commons.math3.analysis.polynomials.package-info
 org.apache.commons.math3.analysis.polynomials.PolynomialFunction
 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils
 org.apache.commons.math3.analysis.polynomials.PolynomialsUtils$2
@@ -525,7 +498,6 @@ org.apache.commons.math3.analysis.differentiation.DerivativeStructure
 org.apache.commons.math3.analysis.differentiation.JacobianFunction
 org.apache.commons.math3.analysis.differentiation.GradientFunction
 org.apache.commons.math3.analysis.differentiation.DerivativeStructure$DataTransferObject
-org.apache.commons.math3.analysis.differentiation.package-info
 org.apache.commons.math3.analysis.differentiation.FiniteDifferencesDifferentiator$2
 org.apache.commons.math3.analysis.differentiation.UnivariateMatrixFunctionDifferentiator
 org.apache.commons.math3.analysis.differentiation.UnivariateDifferentiableMatrixFunction
@@ -547,7 +519,6 @@ org.apache.commons.math3.exception.MaxCountExceededException
 org.apache.commons.math3.exception.MultiDimensionMismatchException
 org.apache.commons.math3.exception.NotStrictlyPositiveException
 org.apache.commons.math3.exception.MathIllegalArgumentException
-org.apache.commons.math3.exception.package-info
 org.apache.commons.math3.exception.MathInternalError
 org.apache.commons.math3.exception.MathIllegalNumberException
 org.apache.commons.math3.exception.MathIllegalStateException
@@ -564,24 +535,20 @@ org.apache.commons.math3.exception.NotFiniteNumberException
 org.apache.commons.math3.exception.NullArgumentException
 org.apache.commons.math3.exception.TooManyIterationsException
 org.apache.commons.math3.exception.util.ExceptionContextProvider
-org.apache.commons.math3.exception.util.package-info
 org.apache.commons.math3.exception.util.ArgUtils
 org.apache.commons.math3.exception.util.ExceptionContext
 org.apache.commons.math3.exception.util.Localizable
 org.apache.commons.math3.exception.util.LocalizedFormats
 org.apache.commons.math3.exception.util.DummyLocalizable
-org.apache.commons.math3.ml.package-info
 org.apache.commons.math3.ml.distance.DistanceMeasure
 org.apache.commons.math3.ml.distance.EarthMoversDistance
 org.apache.commons.math3.ml.distance.EuclideanDistance
-org.apache.commons.math3.ml.distance.package-info
 org.apache.commons.math3.ml.distance.ManhattanDistance
 org.apache.commons.math3.ml.distance.CanberraDistance
 org.apache.commons.math3.ml.distance.ChebyshevDistance
 org.apache.commons.math3.ml.clustering.DBSCANClusterer$PointStatus
 org.apache.commons.math3.ml.clustering.Clusterer
 org.apache.commons.math3.ml.clustering.KMeansPlusPlusClusterer$EmptyClusterStrategy
-org.apache.commons.math3.ml.clustering.package-info
 org.apache.commons.math3.ml.clustering.FuzzyKMeansClusterer
 org.apache.commons.math3.ml.clustering.KMeansPlusPlusClusterer
 org.apache.commons.math3.ml.clustering.Cluster
@@ -605,7 +572,6 @@ org.apache.commons.math3.util.MathArrays
 org.apache.commons.math3.util.OpenIntToDoubleHashMap$Iterator
 org.apache.commons.math3.util.IterationEvent
 org.apache.commons.math3.util.BigRealField$LazyHolder
-org.apache.commons.math3.util.package-info
 org.apache.commons.math3.util.FastMath$ExpIntTable
 org.apache.commons.math3.util.Decimal64Field
 org.apache.commons.math3.util.ResizableDoubleArray$ExpansionMode
@@ -643,7 +609,6 @@ org.apache.commons.math3.util.DoubleArray
 org.apache.commons.math3.util.MathArrays$OrderDirection
 org.apache.commons.math3.util.Decimal64
 org.apache.commons.math3.filter.DefaultMeasurementModel
-org.apache.commons.math3.filter.package-info
 org.apache.commons.math3.filter.MeasurementModel
 org.apache.commons.math3.filter.KalmanFilter
 org.apache.commons.math3.filter.DefaultProcessModel
@@ -657,7 +622,6 @@ org.apache.commons.math3.random.RandomDataGenerator
 org.apache.commons.math3.random.AbstractWell
 org.apache.commons.math3.random.ISAACRandom
 org.apache.commons.math3.random.Well44497a
-org.apache.commons.math3.random.package-info
 org.apache.commons.math3.random.AbstractRandomGenerator
 org.apache.commons.math3.random.HaltonSequenceGenerator
 org.apache.commons.math3.random.RandomGeneratorFactory
@@ -694,7 +658,6 @@ org.apache.commons.math3.distribution.AbstractRealDistribution
 org.apache.commons.math3.distribution.ExponentialDistribution
 org.apache.commons.math3.distribution.EnumeratedDistribution
 org.apache.commons.math3.distribution.UniformRealDistribution
-org.apache.commons.math3.distribution.package-info
 org.apache.commons.math3.distribution.TDistribution
 org.apache.commons.math3.distribution.KolmogorovSmirnovDistribution
 org.apache.commons.math3.distribution.PascalDistribution
@@ -722,14 +685,12 @@ org.apache.commons.math3.distribution.LogNormalDistribution
 org.apache.commons.math3.distribution.AbstractRealDistribution$1
 org.apache.commons.math3.distribution.CauchyDistribution
 org.apache.commons.math3.distribution.LevyDistribution
-org.apache.commons.math3.distribution.fitting.package-info
 org.apache.commons.math3.distribution.fitting.MultivariateNormalMixtureExpectationMaximization$DataRow
 org.apache.commons.math3.distribution.fitting.MultivariateNormalMixtureExpectationMaximization
 org.apache.commons.math3.optim.BaseOptimizer$MaxEvalCallback
 org.apache.commons.math3.optim.ConvergenceChecker
 org.apache.commons.math3.optim.AbstractOptimizer
 org.apache.commons.math3.optim.BaseMultiStartMultivariateOptimizer
-org.apache.commons.math3.optim.package-info
 org.apache.commons.math3.optim.BaseOptimizer$1
 org.apache.commons.math3.optim.SimpleBounds
 org.apache.commons.math3.optim.MaxEval
@@ -751,7 +712,6 @@ org.apache.commons.math3.optim.AbstractOptimizer$MaxEvalCallback
 org.apache.commons.math3.optim.BaseMultivariateOptimizer
 org.apache.commons.math3.optim.MaxIter
 org.apache.commons.math3.optim.univariate.SimpleUnivariateValueChecker
-org.apache.commons.math3.optim.univariate.package-info
 org.apache.commons.math3.optim.univariate.UnivariatePointValuePair
 org.apache.commons.math3.optim.univariate.BrentOptimizer
 org.apache.commons.math3.optim.univariate.UnivariateObjectiveFunction
@@ -765,7 +725,6 @@ org.apache.commons.math3.optim.nonlinear.scalar.MultivariateFunctionPenaltyAdapt
 org.apache.commons.math3.optim.nonlinear.scalar.MultivariateFunctionMappingAdapter$NoBoundsMapper
 org.apache.commons.math3.optim.nonlinear.scalar.MultivariateFunctionMappingAdapter$1
 org.apache.commons.math3.optim.nonlinear.scalar.MultivariateFunctionMappingAdapter
-org.apache.commons.math3.optim.nonlinear.scalar.package-info
 org.apache.commons.math3.optim.nonlinear.scalar.MultiStartMultivariateOptimizer
 org.apache.commons.math3.optim.nonlinear.scalar.MultivariateFunctionMappingAdapter$LowerUpperBoundMapper
 org.apache.commons.math3.optim.nonlinear.scalar.ObjectiveFunctionGradient
@@ -779,7 +738,6 @@ org.apache.commons.math3.optim.nonlinear.scalar.MultivariateOptimizer
 org.apache.commons.math3.optim.nonlinear.scalar.LeastSquaresConverter
 org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer
 org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$LineSearchFunction
-org.apache.commons.math3.optim.nonlinear.scalar.gradient.package-info
 org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$Formula
 org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$BracketingStep
 org.apache.commons.math3.optim.nonlinear.scalar.gradient.Preconditioner
@@ -790,7 +748,6 @@ org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$FitnessFu
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$Sigma
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer$LineSearch$1
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer
-org.apache.commons.math3.optim.nonlinear.scalar.noderiv.package-info
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$DoubleIndex
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$PopulationSize
 org.apache.commons.math3.optim.nonlinear.scalar.noderiv.BOBYQAOptimizer
@@ -807,18 +764,15 @@ org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOpti
 org.apache.commons.math3.optim.nonlinear.vector.ModelFunctionJacobian
 org.apache.commons.math3.optim.nonlinear.vector.Weight
 org.apache.commons.math3.optim.nonlinear.vector.MultiStartMultivariateVectorOptimizer
-org.apache.commons.math3.optim.nonlinear.vector.package-info
 org.apache.commons.math3.optim.nonlinear.vector.MultivariateVectorOptimizer
 org.apache.commons.math3.optim.nonlinear.vector.JacobianMultivariateVectorOptimizer
 org.apache.commons.math3.optim.nonlinear.vector.Target
 org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer
-org.apache.commons.math3.optim.nonlinear.vector.jacobian.package-info
 org.apache.commons.math3.optim.nonlinear.vector.jacobian.GaussNewtonOptimizer
 org.apache.commons.math3.optim.nonlinear.vector.jacobian.AbstractLeastSquaresOptimizer
 org.apache.commons.math3.optim.linear.LinearObjectiveFunction
 org.apache.commons.math3.optim.linear.LinearConstraintSet
 org.apache.commons.math3.optim.linear.SimplexSolver
-org.apache.commons.math3.optim.linear.package-info
 org.apache.commons.math3.optim.linear.UnboundedSolutionException
 org.apache.commons.math3.optim.linear.LinearOptimizer
 org.apache.commons.math3.optim.linear.Relationship$1
@@ -831,7 +785,6 @@ org.apache.commons.math3.special.Gamma
 org.apache.commons.math3.special.Gamma$1
 org.apache.commons.math3.special.Beta$1
 org.apache.commons.math3.special.Erf
-org.apache.commons.math3.special.package-info
 org.apache.commons.math3.special.Beta
 org.apache.commons.math3.fraction.FractionConversionException
 org.apache.commons.math3.fraction.BigFractionFormat
@@ -840,7 +793,6 @@ org.apache.commons.math3.fraction.Fraction
 org.apache.commons.math3.fraction.FractionField
 org.apache.commons.math3.fraction.ProperFractionFormat
 org.apache.commons.math3.fraction.BigFraction
-org.apache.commons.math3.fraction.package-info
 org.apache.commons.math3.fraction.FractionField$1
 org.apache.commons.math3.fraction.BigFractionField$1
 org.apache.commons.math3.fraction.AbstractFormat
@@ -863,7 +815,6 @@ org.apache.commons.math3.genetics.RandomKeyMutation
 org.apache.commons.math3.genetics.TournamentSelection$1
 org.apache.commons.math3.genetics.InvalidRepresentationException
 org.apache.commons.math3.genetics.ListPopulation
-org.apache.commons.math3.genetics.package-info
 org.apache.commons.math3.genetics.TournamentSelection
 org.apache.commons.math3.genetics.CrossoverPolicy
 org.apache.commons.math3.genetics.AbstractListChromosome
@@ -880,7 +831,6 @@ org.apache.commons.math3.transform.TransformType
 org.apache.commons.math3.transform.RealTransformer
 org.apache.commons.math3.transform.TransformUtils
 org.apache.commons.math3.transform.FastFourierTransformer
-org.apache.commons.math3.transform.package-info
 org.apache.commons.math3.transform.DctNormalization
 org.apache.commons.math3.transform.FastCosineTransformer
 org.apache.commons.math3.transform.FastFourierTransformer$1
@@ -895,13 +845,11 @@ org.apache.commons.math3.dfp.DfpDec$1
 org.apache.commons.math3.dfp.DfpDec
 org.apache.commons.math3.dfp.UnivariateDfpFunction
 org.apache.commons.math3.dfp.Dfp$1
-org.apache.commons.math3.dfp.package-info
 org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFP
 org.apache.commons.math3.dfp.Dfp
 org.apache.commons.math3.dfp.DfpField$RoundingMode
 org.apache.commons.math3.dfp.BracketingNthOrderBrentSolverDFP$1
 org.apache.commons.math3.stat.Frequency$NaturalComparator
-org.apache.commons.math3.stat.package-info
 org.apache.commons.math3.stat.Frequency
 org.apache.commons.math3.stat.Frequency$1
 org.apache.commons.math3.stat.StatUtils
@@ -909,7 +857,6 @@ org.apache.commons.math3.stat.descriptive.UnivariateStatistic
 org.apache.commons.math3.stat.descriptive.SummaryStatistics
 org.apache.commons.math3.stat.descriptive.StatisticalSummaryValues
 org.apache.commons.math3.stat.descriptive.StatisticalMultivariateSummary
-org.apache.commons.math3.stat.descriptive.package-info
 org.apache.commons.math3.stat.descriptive.MultivariateSummaryStatistics
 org.apache.commons.math3.stat.descriptive.StorelessUnivariateStatistic
 org.apache.commons.math3.stat.descriptive.SynchronizedDescriptiveStatistics
@@ -923,13 +870,11 @@ org.apache.commons.math3.stat.descriptive.DescriptiveStatistics
 org.apache.commons.math3.stat.descriptive.AbstractStorelessUnivariateStatistic
 org.apache.commons.math3.stat.descriptive.SynchronizedMultivariateSummaryStatistics
 org.apache.commons.math3.stat.descriptive.rank.Min
-org.apache.commons.math3.stat.descriptive.rank.package-info
 org.apache.commons.math3.stat.descriptive.rank.Percentile
 org.apache.commons.math3.stat.descriptive.rank.Median
 org.apache.commons.math3.stat.descriptive.rank.Max
 org.apache.commons.math3.stat.descriptive.moment.Kurtosis
 org.apache.commons.math3.stat.descriptive.moment.GeometricMean
-org.apache.commons.math3.stat.descriptive.moment.package-info
 org.apache.commons.math3.stat.descriptive.moment.SemiVariance$Direction
 org.apache.commons.math3.stat.descriptive.moment.ThirdMoment
 org.apache.commons.math3.stat.descriptive.moment.FourthMoment
@@ -944,13 +889,11 @@ org.apache.commons.math3.stat.descriptive.moment.Variance
 org.apache.commons.math3.stat.descriptive.moment.Skewness
 org.apache.commons.math3.stat.descriptive.summary.SumOfSquares
 org.apache.commons.math3.stat.descriptive.summary.Product
-org.apache.commons.math3.stat.descriptive.summary.package-info
 org.apache.commons.math3.stat.descriptive.summary.Sum
 org.apache.commons.math3.stat.descriptive.summary.SumOfLogs
 org.apache.commons.math3.stat.correlation.SpearmansCorrelation
 org.apache.commons.math3.stat.correlation.PearsonsCorrelation
 org.apache.commons.math3.stat.correlation.StorelessBivariateCovariance
-org.apache.commons.math3.stat.correlation.package-info
 org.apache.commons.math3.stat.correlation.Covariance
 org.apache.commons.math3.stat.correlation.StorelessCovariance
 org.apache.commons.math3.stat.regression.SimpleRegression
@@ -958,14 +901,12 @@ org.apache.commons.math3.stat.regression.ModelSpecificationException
 org.apache.commons.math3.stat.regression.MillerUpdatingRegression
 org.apache.commons.math3.stat.regression.OLSMultipleLinearRegression
 org.apache.commons.math3.stat.regression.GLSMultipleLinearRegression
-org.apache.commons.math3.stat.regression.package-info
 org.apache.commons.math3.stat.regression.MultipleLinearRegression
 org.apache.commons.math3.stat.regression.RegressionResults
 org.apache.commons.math3.stat.regression.UpdatingMultipleLinearRegression
 org.apache.commons.math3.stat.regression.AbstractMultipleLinearRegression
 org.apache.commons.math3.stat.ranking.RankingAlgorithm
 org.apache.commons.math3.stat.ranking.NaturalRanking
-org.apache.commons.math3.stat.ranking.package-info
 org.apache.commons.math3.stat.ranking.NaturalRanking$1
 org.apache.commons.math3.stat.ranking.NaNStrategy
 org.apache.commons.math3.stat.ranking.TiesStrategy
@@ -974,14 +915,12 @@ org.apache.commons.math3.stat.clustering.EuclideanDoublePoint
 org.apache.commons.math3.stat.clustering.DBSCANClusterer$PointStatus
 org.apache.commons.math3.stat.clustering.EuclideanIntegerPoint
 org.apache.commons.math3.stat.clustering.KMeansPlusPlusClusterer$EmptyClusterStrategy
-org.apache.commons.math3.stat.clustering.package-info
 org.apache.commons.math3.stat.clustering.KMeansPlusPlusClusterer
 org.apache.commons.math3.stat.clustering.Cluster
 org.apache.commons.math3.stat.clustering.Clusterable
 org.apache.commons.math3.stat.clustering.KMeansPlusPlusClusterer$1
 org.apache.commons.math3.stat.clustering.DBSCANClusterer
 org.apache.commons.math3.stat.inference.OneWayAnova$AnovaStats
-org.apache.commons.math3.stat.inference.package-info
 org.apache.commons.math3.stat.inference.TestUtils
 org.apache.commons.math3.stat.inference.TTest
 org.apache.commons.math3.stat.inference.MannWhitneyUTest
@@ -995,7 +934,6 @@ org.apache.commons.math3.complex.ComplexField$1
 org.apache.commons.math3.complex.ComplexFormat
 org.apache.commons.math3.complex.ComplexField$LazyHolder
 org.apache.commons.math3.complex.ComplexField
-org.apache.commons.math3.complex.package-info
 org.apache.commons.math3.complex.Complex
 org.apache.commons.math3.complex.RootsOfUnity
 org.apache.commons.math3.complex.Quaternion
@@ -1030,7 +968,6 @@ org.apache.commons.math3.linear.BlockRealMatrix
 org.apache.commons.math3.linear.HessenbergTransformer
 org.apache.commons.math3.linear.MatrixUtils
 org.apache.commons.math3.linear.FieldLUDecomposition$1
-org.apache.commons.math3.linear.package-info
 org.apache.commons.math3.linear.OpenMapRealVector$OpenMapEntry
 org.apache.commons.math3.linear.DefaultFieldMatrixChangingVisitor
 org.apache.commons.math3.linear.Array2DRowRealMatrix

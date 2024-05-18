@@ -13,7 +13,6 @@ com.google.gson.JsonDeserializationContext
 com.google.gson.LongSerializationPolicy
 com.google.gson.LongSerializationPolicy$1
 com.google.gson.JsonElement
-com.google.gson.package-info
 com.google.gson.JsonParser
 com.google.gson.JsonNull
 com.google.gson.Gson$5
@@ -38,7 +37,6 @@ com.google.gson.FieldNamingPolicy
 com.google.gson.FieldNamingPolicy$3
 com.google.gson.LongSerializationPolicy$2
 com.google.gson.DefaultDateTypeAdapter
-com.google.gson.annotations.package-info
 com.google.gson.annotations.SerializedName
 com.google.gson.annotations.Until
 com.google.gson.annotations.Expose
@@ -66,7 +64,6 @@ com.google.gson.internal.LazilyParsedNumber
 com.google.gson.internal.LinkedHashTreeMap$Node
 com.google.gson.internal.LinkedHashTreeMap$EntrySet
 com.google.gson.internal.LinkedHashTreeMap$KeySet
-com.google.gson.internal.package-info
 com.google.gson.internal.$Gson$Types
 com.google.gson.internal.ConstructorConstructor$12
 com.google.gson.internal.ConstructorConstructor$6
@@ -174,4 +171,3 @@ com.google.gson.stream.JsonScope
 com.google.gson.stream.JsonReader$1
 com.google.gson.stream.JsonWriter
 com.google.gson.reflect.TypeToken
-com.google.gson.reflect.package-info
