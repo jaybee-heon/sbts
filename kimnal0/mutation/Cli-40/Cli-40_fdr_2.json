@@ -1,0 +1,620 @@
+{
+    "Cli_40": {
+        "org.apache.commons.cli.OptionBuilderTest::testCreateIncompleteOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 46,
+            "mutants-killed": 3,
+            "mutants-live": 43,
+            "mutation-score": 0.002631578947368421
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testOptionArgNumbers": {
+            "mutants-generated": 1140,
+            "mutants-covered": 53,
+            "mutants-killed": 9,
+            "mutants-live": 44,
+            "mutation-score": 0.007894736842105263
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testIllegalOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 60,
+            "mutants-killed": 12,
+            "mutants-live": 48,
+            "mutation-score": 0.010526315789473684
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testSpecialOptChars": {
+            "mutants-generated": 1140,
+            "mutants-covered": 58,
+            "mutants-killed": 18,
+            "mutants-live": 40,
+            "mutation-score": 0.015789473684210527
+        },
+        "org.apache.commons.cli.OptionBuilderTest::testBaseOptionCharOpt": {
+            "mutants-generated": 1140,
+            "mutants-covered": 64,
+            "mutants-killed": 11,
+            "mutants-live": 53,
+            "mutation-score": 0.009649122807017544
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromDifferentGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 132,
+            "mutants-killed": 50,
+            "mutants-live": 82,
+            "mutation-score": 0.043859649122807015
+        },
+        "org.apache.commons.cli.OptionGroupTest::testNoOptionsExtraArgs": {
+            "mutants-generated": 1140,
+            "mutants-covered": 75,
+            "mutants-killed": 20,
+            "mutants-live": 55,
+            "mutation-score": 0.017543859649122806
+        },
+        "org.apache.commons.cli.OptionGroupTest::testGetNames": {
+            "mutants-generated": 1140,
+            "mutants-covered": 67,
+            "mutants-killed": 8,
+            "mutants-live": 59,
+            "mutation-score": 0.007017543859649123
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoValidOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 132,
+            "mutants-killed": 52,
+            "mutants-live": 80,
+            "mutation-score": 0.0456140350877193
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 115,
+            "mutants-killed": 45,
+            "mutants-live": 70,
+            "mutation-score": 0.039473684210526314
+        },
+        "org.apache.commons.cli.OptionGroupTest::testToString": {
+            "mutants-generated": 1140,
+            "mutants-covered": 53,
+            "mutants-killed": 22,
+            "mutants-live": 31,
+            "mutation-score": 0.01929824561403509
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 114,
+            "mutants-killed": 44,
+            "mutants-live": 70,
+            "mutation-score": 0.03859649122807018
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoValidLongOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 135,
+            "mutants-killed": 54,
+            "mutants-live": 81,
+            "mutation-score": 0.04736842105263158
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleOptionFromGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 124,
+            "mutants-killed": 48,
+            "mutants-live": 76,
+            "mutation-score": 0.042105263157894736
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoOptionsFromGroupWithProperties": {
+            "mutants-generated": 1140,
+            "mutants-covered": 135,
+            "mutants-killed": 53,
+            "mutants-live": 82,
+            "mutation-score": 0.04649122807017544
+        },
+        "org.apache.commons.cli.OptionGroupTest::testTwoLongOptionsFromGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 117,
+            "mutants-killed": 47,
+            "mutants-live": 70,
+            "mutation-score": 0.0412280701754386
+        },
+        "org.apache.commons.cli.OptionGroupTest::testSingleLongOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 127,
+            "mutants-killed": 50,
+            "mutants-live": 77,
+            "mutation-score": 0.043859649122807015
+        },
+        "org.apache.commons.cli.OptionGroupTest::testValidLongOnlyOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 127,
+            "mutants-killed": 48,
+            "mutants-live": 79,
+            "mutation-score": 0.042105263157894736
+        },
+        "org.apache.commons.cli.OptionTest::testGetValue": {
+            "mutants-generated": 1140,
+            "mutants-covered": 80,
+            "mutants-killed": 23,
+            "mutants-live": 57,
+            "mutation-score": 0.02017543859649123
+        },
+        "org.apache.commons.cli.OptionTest::testSubclass": {
+            "mutants-generated": 1140,
+            "mutants-covered": 29,
+            "mutants-killed": 6,
+            "mutants-live": 23,
+            "mutation-score": 0.005263157894736842
+        },
+        "org.apache.commons.cli.OptionTest::testClear": {
+            "mutants-generated": 1140,
+            "mutants-covered": 75,
+            "mutants-killed": 23,
+            "mutants-live": 52,
+            "mutation-score": 0.02017543859649123
+        },
+        "org.apache.commons.cli.OptionTest::testClone": {
+            "mutants-generated": 1140,
+            "mutants-covered": 90,
+            "mutants-killed": 28,
+            "mutants-live": 62,
+            "mutation-score": 0.02456140350877193
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderMethods": {
+            "mutants-generated": 1140,
+            "mutants-covered": 45,
+            "mutants-killed": 28,
+            "mutants-live": 17,
+            "mutation-score": 0.02456140350877193
+        },
+        "org.apache.commons.cli.OptionTest::testHasArgs": {
+            "mutants-generated": 1140,
+            "mutants-covered": 37,
+            "mutants-killed": 16,
+            "mutants-live": 21,
+            "mutation-score": 0.014035087719298246
+        },
+        "org.apache.commons.cli.OptionTest::testHasArgName": {
+            "mutants-generated": 1140,
+            "mutants-covered": 35,
+            "mutants-killed": 14,
+            "mutants-live": 21,
+            "mutation-score": 0.012280701754385965
+        },
+        "org.apache.commons.cli.OptionTest::testHashCode": {
+            "mutants-generated": 1140,
+            "mutants-covered": 41,
+            "mutants-killed": 17,
+            "mutants-live": 24,
+            "mutation-score": 0.014912280701754385
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderInsufficientParams1": {
+            "mutants-generated": 1140,
+            "mutants-covered": 9,
+            "mutants-killed": 4,
+            "mutants-live": 5,
+            "mutation-score": 0.0035087719298245615
+        },
+        "org.apache.commons.cli.OptionTest::testBuilderInsufficientParams2": {
+            "mutants-generated": 1140,
+            "mutants-covered": 9,
+            "mutants-killed": 4,
+            "mutants-live": 5,
+            "mutation-score": 0.0035087719298245615
+        },
+        "org.apache.commons.cli.OptionsTest::testMissingOptionsException": {
+            "mutants-generated": 1140,
+            "mutants-covered": 89,
+            "mutants-killed": 25,
+            "mutants-live": 64,
+            "mutation-score": 0.021929824561403508
+        },
+        "org.apache.commons.cli.OptionsTest::testGetMatchingOpts": {
+            "mutants-generated": 1140,
+            "mutants-covered": 55,
+            "mutants-killed": 13,
+            "mutants-live": 42,
+            "mutation-score": 0.011403508771929825
+        },
+        "org.apache.commons.cli.OptionsTest::testLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 45,
+            "mutants-killed": 10,
+            "mutants-live": 35,
+            "mutation-score": 0.008771929824561403
+        },
+        "org.apache.commons.cli.OptionsTest::testToString": {
+            "mutants-generated": 1140,
+            "mutants-covered": 77,
+            "mutants-killed": 6,
+            "mutants-live": 71,
+            "mutation-score": 0.005263157894736842
+        },
+        "org.apache.commons.cli.OptionsTest::testHelpOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 74,
+            "mutants-killed": 12,
+            "mutants-live": 62,
+            "mutation-score": 0.010526315789473684
+        },
+        "org.apache.commons.cli.OptionsTest::testMissingOptionException": {
+            "mutants-generated": 1140,
+            "mutants-covered": 88,
+            "mutants-killed": 24,
+            "mutants-live": 64,
+            "mutation-score": 0.021052631578947368
+        },
+        "org.apache.commons.cli.OptionsTest::testDuplicateSimple": {
+            "mutants-generated": 1140,
+            "mutants-covered": 43,
+            "mutants-killed": 12,
+            "mutants-live": 31,
+            "mutation-score": 0.010526315789473684
+        },
+        "org.apache.commons.cli.OptionsTest::testGetOptionsGroups": {
+            "mutants-generated": 1140,
+            "mutants-covered": 65,
+            "mutants-killed": 8,
+            "mutants-live": 57,
+            "mutation-score": 0.007017543859649123
+        },
+        "org.apache.commons.cli.OptionsTest::testDuplicateLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 40,
+            "mutants-killed": 11,
+            "mutants-live": 29,
+            "mutation-score": 0.009649122807017544
+        },
+        "org.apache.commons.cli.OptionsTest::testSimple": {
+            "mutants-generated": 1140,
+            "mutants-covered": 45,
+            "mutants-killed": 11,
+            "mutants-live": 34,
+            "mutation-score": 0.009649122807017544
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testSimplePattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 314,
+            "mutants-killed": 149,
+            "mutants-live": 165,
+            "mutation-score": 0.1307017543859649
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 287,
+            "mutants-killed": 105,
+            "mutants-live": 182,
+            "mutation-score": 0.09210526315789473
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testURLPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 307,
+            "mutants-killed": 108,
+            "mutants-live": 199,
+            "mutation-score": 0.09473684210526316
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testEmptyPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 9,
+            "mutants-killed": 3,
+            "mutants-live": 6,
+            "mutation-score": 0.002631578947368421
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testClassPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 303,
+            "mutants-killed": 113,
+            "mutants-live": 190,
+            "mutation-score": 0.09912280701754386
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testRequiredOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 181,
+            "mutants-killed": 67,
+            "mutants-live": 114,
+            "mutation-score": 0.058771929824561406
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testExistingFilePatternFileNotExist": {
+            "mutants-generated": 1140,
+            "mutants-covered": 288,
+            "mutants-killed": 77,
+            "mutants-live": 211,
+            "mutation-score": 0.06754385964912281
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testNumberPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 306,
+            "mutants-killed": 122,
+            "mutants-live": 184,
+            "mutation-score": 0.10701754385964912
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testUntypedPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 225,
+            "mutants-killed": 79,
+            "mutants-live": 146,
+            "mutation-score": 0.06929824561403508
+        },
+        "org.apache.commons.cli.PatternOptionBuilderTest::testObjectPattern": {
+            "mutants-generated": 1140,
+            "mutants-covered": 300,
+            "mutants-killed": 115,
+            "mutants-live": 185,
+            "mutation-score": 0.10087719298245613
+        },
+        "org.apache.commons.cli.PosixParserTest::testSimpleLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 201,
+            "mutants-killed": 86,
+            "mutants-live": 115,
+            "mutation-score": 0.07543859649122807
+        },
+        "org.apache.commons.cli.PosixParserTest::testSimpleShort": {
+            "mutants-generated": 1140,
+            "mutants-covered": 198,
+            "mutants-killed": 83,
+            "mutants-live": 115,
+            "mutation-score": 0.07280701754385965
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopBursting2": {
+            "mutants-generated": 1140,
+            "mutants-covered": 200,
+            "mutants-killed": 86,
+            "mutants-live": 114,
+            "mutation-score": 0.07543859649122807
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 148,
+            "mutants-killed": 45,
+            "mutants-live": 103,
+            "mutation-score": 0.039473684210526314
+        },
+        "org.apache.commons.cli.PosixParserTest::testShortWithoutEqual": {
+            "mutants-generated": 1140,
+            "mutants-covered": 219,
+            "mutants-killed": 71,
+            "mutants-live": 148,
+            "mutation-score": 0.062280701754385964
+        },
+        "org.apache.commons.cli.PosixParserTest::testReuseOptionsTwice": {
+            "mutants-generated": 1140,
+            "mutants-covered": 145,
+            "mutants-killed": 45,
+            "mutants-live": 100,
+            "mutation-score": 0.039473684210526314
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 166,
+            "mutants-killed": 45,
+            "mutants-live": 121,
+            "mutation-score": 0.039473684210526314
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionGroupLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 159,
+            "mutants-killed": 52,
+            "mutants-live": 107,
+            "mutation-score": 0.0456140350877193
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingArgWithBursting": {
+            "mutants-generated": 1140,
+            "mutants-covered": 109,
+            "mutants-killed": 49,
+            "mutants-live": 60,
+            "mutation-score": 0.04298245614035088
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingRequiredOptions": {
+            "mutants-generated": 1140,
+            "mutants-covered": 149,
+            "mutants-killed": 46,
+            "mutants-live": 103,
+            "mutation-score": 0.04035087719298246
+        },
+        "org.apache.commons.cli.PosixParserTest::testShortWithUnexpectedArgument": {
+            "mutants-generated": 1140,
+            "mutants-covered": 130,
+            "mutants-killed": 36,
+            "mutants-live": 94,
+            "mutation-score": 0.031578947368421054
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOverrideValues": {
+            "mutants-generated": 1140,
+            "mutants-covered": 238,
+            "mutants-killed": 76,
+            "mutants-live": 162,
+            "mutation-score": 0.06666666666666667
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtNonOptionLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 71,
+            "mutants-killed": 20,
+            "mutants-live": 51,
+            "mutation-score": 0.017543859649122806
+        },
+        "org.apache.commons.cli.PosixParserTest::testNegativeArgument": {
+            "mutants-generated": 1140,
+            "mutants-covered": 180,
+            "mutants-killed": 65,
+            "mutants-live": 115,
+            "mutation-score": 0.05701754385964912
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopBursting": {
+            "mutants-generated": 1140,
+            "mutants-covered": 117,
+            "mutants-killed": 48,
+            "mutants-live": 69,
+            "mutation-score": 0.042105263157894736
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtUnexpectedArg": {
+            "mutants-generated": 1140,
+            "mutants-covered": 110,
+            "mutants-killed": 44,
+            "mutants-live": 66,
+            "mutation-score": 0.03859649122807018
+        },
+        "org.apache.commons.cli.PosixParserTest::testPartialLongOptionSingleDash": {
+            "mutants-generated": 1140,
+            "mutants-covered": 146,
+            "mutants-killed": 52,
+            "mutants-live": 94,
+            "mutation-score": 0.0456140350877193
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 147,
+            "mutants-killed": 44,
+            "mutants-live": 103,
+            "mutation-score": 0.03859649122807018
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithoutEqualDoubleDash": {
+            "mutants-generated": 1140,
+            "mutants-covered": 103,
+            "mutants-killed": 17,
+            "mutants-live": 86,
+            "mutation-score": 0.014912280701754385
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionSingularValue": {
+            "mutants-generated": 1140,
+            "mutants-covered": 183,
+            "mutants-killed": 58,
+            "mutants-live": 125,
+            "mutation-score": 0.05087719298245614
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionMultipleValues": {
+            "mutants-generated": 1140,
+            "mutants-covered": 199,
+            "mutants-killed": 74,
+            "mutants-live": 125,
+            "mutation-score": 0.06491228070175438
+        },
+        "org.apache.commons.cli.PosixParserTest::testMissingArg": {
+            "mutants-generated": 1140,
+            "mutants-covered": 97,
+            "mutants-killed": 37,
+            "mutants-live": 60,
+            "mutation-score": 0.03245614035087719
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionFlags": {
+            "mutants-generated": 1140,
+            "mutants-covered": 194,
+            "mutants-killed": 58,
+            "mutants-live": 136,
+            "mutation-score": 0.05087719298245614
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionGroup": {
+            "mutants-generated": 1140,
+            "mutants-covered": 159,
+            "mutants-killed": 60,
+            "mutants-live": 99,
+            "mutation-score": 0.05263157894736842
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnrecognizedOptionWithBursting": {
+            "mutants-generated": 1140,
+            "mutants-covered": 101,
+            "mutants-killed": 35,
+            "mutants-live": 66,
+            "mutation-score": 0.03070175438596491
+        },
+        "org.apache.commons.cli.PosixParserTest::testMultipleWithLong": {
+            "mutants-generated": 1140,
+            "mutants-covered": 198,
+            "mutants-killed": 87,
+            "mutants-live": 111,
+            "mutation-score": 0.07631578947368421
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnrecognizedOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 96,
+            "mutants-killed": 37,
+            "mutants-live": 59,
+            "mutation-score": 0.03245614035087719
+        },
+        "org.apache.commons.cli.PosixParserTest::testBursting": {
+            "mutants-generated": 1140,
+            "mutants-covered": 203,
+            "mutants-killed": 86,
+            "mutants-live": 117,
+            "mutation-score": 0.07543859649122807
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption1": {
+            "mutants-generated": 1140,
+            "mutants-covered": 95,
+            "mutants-killed": 23,
+            "mutants-live": 72,
+            "mutation-score": 0.02017543859649123
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption2": {
+            "mutants-generated": 1140,
+            "mutants-covered": 102,
+            "mutants-killed": 25,
+            "mutants-live": 77,
+            "mutation-score": 0.021929824561403508
+        },
+        "org.apache.commons.cli.PosixParserTest::testAmbiguousPartialLongOption3": {
+            "mutants-generated": 1140,
+            "mutants-covered": 100,
+            "mutants-killed": 23,
+            "mutants-live": 77,
+            "mutation-score": 0.02017543859649123
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionUnexpected": {
+            "mutants-generated": 1140,
+            "mutants-covered": 57,
+            "mutants-killed": 14,
+            "mutants-live": 43,
+            "mutation-score": 0.012280701754385965
+        },
+        "org.apache.commons.cli.PosixParserTest::testSingleDash": {
+            "mutants-generated": 1140,
+            "mutants-covered": 203,
+            "mutants-killed": 89,
+            "mutants-live": 114,
+            "mutation-score": 0.0780701754385965
+        },
+        "org.apache.commons.cli.PosixParserTest::testWithRequiredOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 220,
+            "mutants-killed": 71,
+            "mutants-live": 149,
+            "mutation-score": 0.062280701754385964
+        },
+        "org.apache.commons.cli.PosixParserTest::testUnlimitedArgs": {
+            "mutants-generated": 1140,
+            "mutants-covered": 216,
+            "mutants-killed": 66,
+            "mutants-live": 150,
+            "mutation-score": 0.05789473684210526
+        },
+        "org.apache.commons.cli.PosixParserTest::testPropertyOptionRequired": {
+            "mutants-generated": 1140,
+            "mutants-covered": 137,
+            "mutants-killed": 35,
+            "mutants-live": 102,
+            "mutation-score": 0.03070175438596491
+        },
+        "org.apache.commons.cli.PosixParserTest::testOptionAndRequiredOption": {
+            "mutants-generated": 1140,
+            "mutants-covered": 231,
+            "mutants-killed": 79,
+            "mutants-live": 152,
+            "mutation-score": 0.06929824561403508
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithEqualDoubleDash": {
+            "mutants-generated": 1140,
+            "mutants-covered": 217,
+            "mutants-killed": 70,
+            "mutants-live": 147,
+            "mutation-score": 0.06140350877192982
+        },
+        "org.apache.commons.cli.PosixParserTest::testLongWithUnexpectedArgument2": {
+            "mutants-generated": 1140,
+            "mutants-covered": 130,
+            "mutants-killed": 36,
+            "mutants-live": 94,
+            "mutation-score": 0.031578947368421054
+        },
+        "org.apache.commons.cli.PosixParserTest::testStopAtNonOptionShort": {
+            "mutants-generated": 1140,
+            "mutants-covered": 80,
+            "mutants-killed": 25,
+            "mutants-live": 55,
+            "mutation-score": 0.021929824561403508
+        }
+    }
+}
