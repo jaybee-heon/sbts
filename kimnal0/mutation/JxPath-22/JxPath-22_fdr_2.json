@@ -1,0 +1,676 @@
+{
+    "JxPath_22": {
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisChildNestedBean": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2443,
+            "mutants-killed": 649,
+            "mutants-live": 1794,
+            "mutation-score": 0.04202279202279202
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextAbsolutePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2749,
+            "mutants-killed": 704,
+            "mutants-live": 2045,
+            "mutation-score": 0.045584045584045586
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIterateAndSet": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2223,
+            "mutants-killed": 635,
+            "mutants-live": 1588,
+            "mutation-score": 0.041116291116291115
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisFollowing": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3444,
+            "mutants-killed": 1331,
+            "mutants-live": 2113,
+            "mutation-score": 0.08618233618233619
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePropertyArrayWithHasNext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2532,
+            "mutants-killed": 648,
+            "mutants-live": 1884,
+            "mutation-score": 0.04195804195804196
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemoveAllListElements": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3229,
+            "mutants-killed": 844,
+            "mutants-live": 2385,
+            "mutation-score": 0.054649054649054646
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextParent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2678,
+            "mutants-killed": 701,
+            "mutants-live": 1977,
+            "mutation-score": 0.04538979538979539
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisChildNestedCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2263,
+            "mutants-killed": 582,
+            "mutants-live": 1681,
+            "mutation-score": 0.03768453768453769
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2471,
+            "mutants-killed": 610,
+            "mutants-live": 1861,
+            "mutation-score": 0.0394975394975395
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathCreateBeanExpandCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2831,
+            "mutants-killed": 755,
+            "mutants-live": 2076,
+            "mutation-score": 0.04888629888629888
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextRelativePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1952,
+            "mutants-killed": 418,
+            "mutants-live": 1534,
+            "mutation-score": 0.027065527065527065
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAttributeLang": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2977,
+            "mutants-killed": 968,
+            "mutants-live": 2009,
+            "mutation-score": 0.06267806267806268
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAttributeName": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2446,
+            "mutants-killed": 613,
+            "mutants-live": 1833,
+            "mutation-score": 0.03969178969178969
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2536,
+            "mutants-killed": 624,
+            "mutants-live": 1912,
+            "mutation-score": 0.04040404040404041
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCoreFunctions": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3871,
+            "mutants-killed": 1495,
+            "mutants-live": 2376,
+            "mutation-score": 0.0968013468013468
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3186,
+            "mutants-killed": 649,
+            "mutants-live": 2537,
+            "mutation-score": 0.04202279202279202
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemoveAllMapEntries": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3577,
+            "mutants-killed": 1050,
+            "mutants-live": 2527,
+            "mutation-score": 0.06798756798756798
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testBooleanPredicate": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4756,
+            "mutants-killed": 2004,
+            "mutants-live": 2752,
+            "mutation-score": 0.12975912975912976
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemovePathArrayElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2360,
+            "mutants-killed": 614,
+            "mutants-live": 1746,
+            "mutation-score": 0.039756539756539755
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetContextDependentNode": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3310,
+            "mutants-killed": 973,
+            "mutants-live": 2337,
+            "mutation-score": 0.063001813001813
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathAndSetValueExpandNewCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2884,
+            "mutants-killed": 790,
+            "mutants-live": 2094,
+            "mutation-score": 0.05115255115255115
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePointerSetValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3169,
+            "mutants-killed": 897,
+            "mutants-live": 2272,
+            "mutation-score": 0.05808080808080808
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIndexPredicate": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3328,
+            "mutants-killed": 1122,
+            "mutants-live": 2206,
+            "mutation-score": 0.07264957264957266
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathExpandNewCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2868,
+            "mutants-killed": 793,
+            "mutants-live": 2075,
+            "mutation-score": 0.05134680134680135
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testCreatePathExpandExistingCollectionAndSetProperty": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2816,
+            "mutants-killed": 765,
+            "mutants-live": 2051,
+            "mutation-score": 0.049533799533799536
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisPrecedingSibling": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4010,
+            "mutants-killed": 1593,
+            "mutants-live": 2417,
+            "mutation-score": 0.10314685314685315
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testIteratePropertyArrayWithoutHasNext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2516,
+            "mutants-killed": 621,
+            "mutants-live": 1895,
+            "mutation-score": 0.04020979020979021
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testSetNonPrimitiveValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2302,
+            "mutants-killed": 608,
+            "mutants-live": 1694,
+            "mutation-score": 0.03936803936803937
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisDescendant": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3251,
+            "mutants-killed": 1134,
+            "mutants-live": 2117,
+            "mutation-score": 0.07342657342657342
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRelativeContextInheritance": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3041,
+            "mutants-killed": 906,
+            "mutants-live": 2135,
+            "mutation-score": 0.058663558663558664
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisFollowingSibling": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3983,
+            "mutants-killed": 1553,
+            "mutants-live": 2430,
+            "mutation-score": 0.10055685055685055
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testRemovePathPropertyValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2027,
+            "mutants-killed": 481,
+            "mutants-live": 1546,
+            "mutation-score": 0.031144781144781145
+        },
+        "org.apache.commons.jxpath.ri.model.beans.BeanModelTest::testAxisPreceding": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3590,
+            "mutants-killed": 1374,
+            "mutants-live": 2216,
+            "mutation-score": 0.08896658896658896
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerRootWithCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2524,
+            "mutants-killed": 674,
+            "mutants-live": 1850,
+            "mutation-score": 0.04364154364154364
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerPropertyWithCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2904,
+            "mutants-killed": 724,
+            "mutants-live": 2180,
+            "mutation-score": 0.04687904687904688
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerVariableWithCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1807,
+            "mutants-killed": 512,
+            "mutants-live": 1295,
+            "mutation-score": 0.033152033152033154
+        },
+        "org.apache.commons.jxpath.ri.model.container.ContainerModelTest::testContainerMapWithCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2809,
+            "mutants-killed": 696,
+            "mutants-live": 2113,
+            "mutation-score": 0.045066045066045064
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testGetNode": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2914,
+            "mutants-killed": 860,
+            "mutants-live": 2054,
+            "mutation-score": 0.05568505568505568
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testGetElementDescendantOrSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2688,
+            "mutants-killed": 636,
+            "mutants-live": 2052,
+            "mutation-score": 0.041181041181041184
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisChild": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4169,
+            "mutants-killed": 1461,
+            "mutants-live": 2708,
+            "mutation-score": 0.09459984459984459
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAncestor": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2545,
+            "mutants-killed": 682,
+            "mutants-live": 1863,
+            "mutation-score": 0.04415954415954416
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAttribute": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4300,
+            "mutants-killed": 1704,
+            "mutants-live": 2596,
+            "mutation-score": 0.11033411033411034
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodes": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2892,
+            "mutants-killed": 669,
+            "mutants-live": 2223,
+            "mutation-score": 0.04331779331779332
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisChildIndexPredicate": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2296,
+            "mutants-killed": 593,
+            "mutants-live": 1703,
+            "mutation-score": 0.038396788396788395
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testUnion": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3190,
+            "mutants-killed": 822,
+            "mutants-live": 2368,
+            "mutation-score": 0.053224553224553224
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testLang": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3465,
+            "mutants-killed": 1145,
+            "mutants-live": 2320,
+            "mutation-score": 0.07413882413882414
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testID": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3374,
+            "mutants-killed": 1092,
+            "mutants-live": 2282,
+            "mutation-score": 0.0707070707070707
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testDocumentOrder": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3255,
+            "mutants-killed": 994,
+            "mutants-live": 2261,
+            "mutation-score": 0.06436156436156436
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisParent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3222,
+            "mutants-killed": 954,
+            "mutants-live": 2268,
+            "mutation-score": 0.06177156177156177
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisFollowing": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3709,
+            "mutants-killed": 1172,
+            "mutants-live": 2537,
+            "mutation-score": 0.07588707588707588
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeText": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3189,
+            "mutants-killed": 936,
+            "mutants-live": 2253,
+            "mutation-score": 0.06060606060606061
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testTypeConversions": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2859,
+            "mutants-killed": 751,
+            "mutants-live": 2108,
+            "mutation-score": 0.04862729862729863
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisNamespace": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3305,
+            "mutants-killed": 1210,
+            "mutants-live": 2095,
+            "mutation-score": 0.07834757834757834
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testElementInVariable": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2319,
+            "mutants-killed": 576,
+            "mutants-live": 1743,
+            "mutation-score": 0.037296037296037296
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3039,
+            "mutants-killed": 808,
+            "mutants-live": 2231,
+            "mutation-score": 0.05231805231805232
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testContainer": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3271,
+            "mutants-killed": 1093,
+            "mutants-live": 2178,
+            "mutation-score": 0.07077182077182077
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNamespaceMapping": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3616,
+            "mutants-killed": 1260,
+            "mutants-live": 2356,
+            "mutation-score": 0.08158508158508158
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeProcessingInstruction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3697,
+            "mutants-killed": 1318,
+            "mutants-live": 2379,
+            "mutation-score": 0.08534058534058533
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testRemovePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3628,
+            "mutants-killed": 1318,
+            "mutants-live": 2310,
+            "mutation-score": 0.08534058534058533
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testCreatePathAndSetValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3499,
+            "mutants-killed": 1058,
+            "mutants-live": 2441,
+            "mutation-score": 0.0685055685055685
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testCreatePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3267,
+            "mutants-killed": 935,
+            "mutants-live": 2332,
+            "mutation-score": 0.06054131054131054
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testFunctionsLastAndPosition": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3034,
+            "mutants-killed": 805,
+            "mutants-live": 2229,
+            "mutation-score": 0.052123802123802125
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisPrecedingSibling": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3306,
+            "mutants-killed": 952,
+            "mutants-live": 2354,
+            "mutation-score": 0.061642061642061645
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testBooleanFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3602,
+            "mutants-killed": 1310,
+            "mutants-live": 2292,
+            "mutation-score": 0.08482258482258483
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisDescendant": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3704,
+            "mutants-killed": 1241,
+            "mutants-live": 2463,
+            "mutation-score": 0.08035483035483036
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisFollowingSibling": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3191,
+            "mutants-killed": 924,
+            "mutants-live": 2267,
+            "mutation-score": 0.05982905982905983
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testDocument": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2738,
+            "mutants-killed": 794,
+            "mutants-live": 1944,
+            "mutation-score": 0.05141155141155141
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisPreceding": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3508,
+            "mutants-killed": 1132,
+            "mutants-live": 2376,
+            "mutation-score": 0.0732970732970733
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testAxisAncestorOrSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2613,
+            "mutants-killed": 700,
+            "mutants-live": 1913,
+            "mutation-score": 0.045325045325045325
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testNodeTypeComment": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2897,
+            "mutants-killed": 774,
+            "mutants-live": 2123,
+            "mutation-score": 0.05011655011655012
+        },
+        "org.apache.commons.jxpath.ri.model.dom.DOMModelTest::testSetValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2993,
+            "mutants-killed": 791,
+            "mutants-live": 2202,
+            "mutation-score": 0.05121730121730122
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChild": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3294,
+            "mutants-killed": 1028,
+            "mutants-live": 2266,
+            "mutation-score": 0.06656306656306657
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemoveAllArrayElements": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3324,
+            "mutants-killed": 806,
+            "mutants-live": 2518,
+            "mutation-score": 0.05218855218855219
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisDescendantOrSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3982,
+            "mutants-killed": 1531,
+            "mutants-live": 2451,
+            "mutation-score": 0.09913234913234913
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisAncestor": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3697,
+            "mutants-killed": 1377,
+            "mutants-live": 2320,
+            "mutation-score": 0.08916083916083917
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testMultipleIterators": {
+            "mutants-generated": 15444,
+            "mutants-covered": 332,
+            "mutants-killed": 169,
+            "mutants-live": 163,
+            "mutation-score": 0.010942760942760943
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemovePathBeanValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1792,
+            "mutants-killed": 346,
+            "mutants-live": 1446,
+            "mutation-score": 0.022403522403522405
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValueCreateBeanExpandCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2857,
+            "mutants-killed": 764,
+            "mutants-live": 2093,
+            "mutation-score": 0.04946904946904947
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIndividualIterators": {
+            "mutants-generated": 15444,
+            "mutants-covered": 321,
+            "mutants-killed": 170,
+            "mutants-live": 151,
+            "mutation-score": 0.011007511007511007
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetCollectionElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2033,
+            "mutants-killed": 494,
+            "mutants-live": 1539,
+            "mutation-score": 0.03198653198653199
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisAttribute": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2968,
+            "mutants-killed": 822,
+            "mutants-live": 2146,
+            "mutation-score": 0.053224553224553224
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathAndSetValueExpandExistingCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2808,
+            "mutants-killed": 761,
+            "mutants-live": 2047,
+            "mutation-score": 0.049274799274799275
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testUnion": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4016,
+            "mutants-killed": 1559,
+            "mutants-live": 2457,
+            "mutation-score": 0.10094535094535094
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRoot": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1840,
+            "mutants-killed": 332,
+            "mutants-live": 1508,
+            "mutation-score": 0.0214970214970215
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testCreatePathExpandExistingCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2667,
+            "mutants-killed": 685,
+            "mutants-live": 1982,
+            "mutation-score": 0.04435379435379436
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testDocumentOrder": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2685,
+            "mutants-killed": 683,
+            "mutants-live": 2002,
+            "mutation-score": 0.044224294224294226
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisParent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3667,
+            "mutants-killed": 1355,
+            "mutants-live": 2312,
+            "mutation-score": 0.08773633773633774
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testSetPropertyValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2095,
+            "mutants-killed": 394,
+            "mutants-live": 1701,
+            "mutation-score": 0.025511525511525513
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChildNestedBean": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2478,
+            "mutants-killed": 682,
+            "mutants-live": 1796,
+            "mutation-score": 0.04415954415954416
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextAbsolutePath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2677,
+            "mutants-killed": 678,
+            "mutants-live": 1999,
+            "mutation-score": 0.043900543900543904
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIterateAndSet": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2229,
+            "mutants-killed": 637,
+            "mutants-live": 1592,
+            "mutation-score": 0.041245791245791245
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisFollowing": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3502,
+            "mutants-killed": 1345,
+            "mutants-live": 2157,
+            "mutation-score": 0.08708883708883709
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testIteratePropertyArrayWithHasNext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2435,
+            "mutants-killed": 610,
+            "mutants-live": 1825,
+            "mutation-score": 0.0394975394975395
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRemoveAllListElements": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3103,
+            "mutants-killed": 842,
+            "mutants-live": 2261,
+            "mutation-score": 0.05451955451955452
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testRelativeContextParent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2570,
+            "mutants-killed": 671,
+            "mutants-live": 1899,
+            "mutation-score": 0.04344729344729345
+        },
+        "org.apache.commons.jxpath.ri.model.dynabeans.DynaBeanModelTest::testAxisChildNestedCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2162,
+            "mutants-killed": 543,
+            "mutants-live": 1619,
+            "mutation-score": 0.03515928515928516
+        }
+    }
+}

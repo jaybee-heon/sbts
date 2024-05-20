@@ -1,0 +1,676 @@
+{
+    "JxPath_22": {
+        "org.apache.commons.jxpath.BasicNodeSetTest::testAdd": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2664,
+            "mutants-killed": 738,
+            "mutants-live": 1926,
+            "mutation-score": 0.047785547785547784
+        },
+        "org.apache.commons.jxpath.BasicNodeSetTest::testNodes": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2873,
+            "mutants-killed": 788,
+            "mutants-live": 2085,
+            "mutation-score": 0.051023051023051026
+        },
+        "org.apache.commons.jxpath.BasicNodeSetTest::testRemove": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2856,
+            "mutants-killed": 845,
+            "mutants-live": 2011,
+            "mutation-score": 0.054713804713804715
+        },
+        "org.apache.commons.jxpath.ri.ExceptionHandlerTest::testHandleBarBaz": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1985,
+            "mutants-killed": 467,
+            "mutants-live": 1518,
+            "mutation-score": 0.03023828023828024
+        },
+        "org.apache.commons.jxpath.ri.ExceptionHandlerTest::testHandleFoo": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1885,
+            "mutants-killed": 358,
+            "mutants-live": 1527,
+            "mutation-score": 0.02318052318052318
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationDivide": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1377,
+            "mutants-killed": 308,
+            "mutants-live": 1069,
+            "mutation-score": 0.019943019943019943
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testVariableReference": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1269,
+            "mutants-killed": 278,
+            "mutants-live": 991,
+            "mutation-score": 0.018000518000518
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationGreaterThan": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1702,
+            "mutants-killed": 558,
+            "mutants-live": 1144,
+            "mutation-score": 0.03613053613053613
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationAnd": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1397,
+            "mutants-killed": 316,
+            "mutants-live": 1081,
+            "mutation-score": 0.02046102046102046
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMod": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1386,
+            "mutants-killed": 315,
+            "mutants-live": 1071,
+            "mutation-score": 0.020396270396270396
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationSum": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1530,
+            "mutants-killed": 445,
+            "mutants-live": 1085,
+            "mutation-score": 0.028813778813778813
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationLessThanOrEqual": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1536,
+            "mutants-killed": 428,
+            "mutants-live": 1108,
+            "mutation-score": 0.027713027713027714
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathNodeTest": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2075,
+            "mutants-killed": 566,
+            "mutants-live": 1509,
+            "mutation-score": 0.03664853664853665
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisParent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2052,
+            "mutants-killed": 415,
+            "mutants-live": 1637,
+            "mutation-score": 0.02687127687127687
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMultiply": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1516,
+            "mutants-killed": 425,
+            "mutants-live": 1091,
+            "mutation-score": 0.02751877751877752
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testExtensionFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2354,
+            "mutants-killed": 640,
+            "mutants-live": 1714,
+            "mutation-score": 0.04144004144004144
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationUnaryMinus": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1517,
+            "mutants-killed": 423,
+            "mutants-live": 1094,
+            "mutation-score": 0.027389277389277388
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisChild": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2215,
+            "mutants-killed": 507,
+            "mutants-live": 1708,
+            "mutation-score": 0.03282828282828283
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisOther": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2406,
+            "mutants-killed": 605,
+            "mutants-live": 1801,
+            "mutation-score": 0.03917378917378917
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationEqual": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1314,
+            "mutants-killed": 280,
+            "mutants-live": 1034,
+            "mutation-score": 0.01813001813001813
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationMinus": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1502,
+            "mutants-killed": 419,
+            "mutants-live": 1083,
+            "mutation-score": 0.02713027713027713
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationUnion": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1294,
+            "mutants-killed": 261,
+            "mutants-live": 1033,
+            "mutation-score": 0.0168997668997669
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationNotEqual": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1324,
+            "mutants-killed": 284,
+            "mutants-live": 1040,
+            "mutation-score": 0.01838901838901839
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testConstant": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1335,
+            "mutants-killed": 304,
+            "mutants-live": 1031,
+            "mutation-score": 0.019684019684019685
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationLessThan": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1573,
+            "mutants-killed": 461,
+            "mutants-live": 1112,
+            "mutation-score": 0.02984977984977985
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisDescendant": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2070,
+            "mutants-killed": 418,
+            "mutants-live": 1652,
+            "mutation-score": 0.027065527065527065
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisDescendantOrSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2405,
+            "mutants-killed": 564,
+            "mutants-live": 1841,
+            "mutation-score": 0.03651903651903652
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisSelf": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1983,
+            "mutants-killed": 384,
+            "mutants-live": 1599,
+            "mutation-score": 0.024864024864024864
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationOr": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1465,
+            "mutants-killed": 349,
+            "mutants-live": 1116,
+            "mutation-score": 0.022597772597772597
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3793,
+            "mutants-killed": 1571,
+            "mutants-live": 2222,
+            "mutation-score": 0.10172235172235172
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationNameAttributeTest": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2021,
+            "mutants-killed": 418,
+            "mutants-live": 1603,
+            "mutation-score": 0.027065527065527065
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testExpressionPath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1840,
+            "mutants-killed": 615,
+            "mutants-live": 1225,
+            "mutation-score": 0.039821289821289824
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testCoreOperationGreaterThanOrEqual": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1523,
+            "mutants-killed": 421,
+            "mutants-live": 1102,
+            "mutation-score": 0.02725977725977726
+        },
+        "org.apache.commons.jxpath.ri.JXPathCompiledExpressionTest::testLocationPathAxisAttribute": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2495,
+            "mutants-killed": 614,
+            "mutants-live": 1881,
+            "mutation-score": 0.039756539756539755
+        },
+        "org.apache.commons.jxpath.ri.StressTest::testThreads": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2102,
+            "mutants-killed": 429,
+            "mutants-live": 1673,
+            "mutation-score": 0.027777777777777776
+        },
+        "org.apache.commons.jxpath.ri.axes.RecursiveAxesTest::testInfiniteDescent": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3321,
+            "mutants-killed": 917,
+            "mutants-live": 2404,
+            "mutation-score": 0.05937580937580938
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepNoPredicatesPropertyOwner": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3091,
+            "mutants-killed": 883,
+            "mutants-live": 2208,
+            "mutation-score": 0.05717430717430717
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicateName": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3535,
+            "mutants-killed": 1159,
+            "mutants-live": 2376,
+            "mutation-score": 0.07504532504532505
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testInterpretExpressionPath": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2127,
+            "mutants-killed": 625,
+            "mutants-live": 1502,
+            "mutation-score": 0.04046879046879047
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepPredicatesPropertyOwner": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2923,
+            "mutants-killed": 782,
+            "mutants-live": 2141,
+            "mutation-score": 0.050634550634550635
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepNoPredicatesStandard": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2905,
+            "mutants-killed": 753,
+            "mutants-live": 2152,
+            "mutation-score": 0.04875679875679876
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoStepPredicatesStandard": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3153,
+            "mutants-killed": 939,
+            "mutants-live": 2214,
+            "mutation-score": 0.0608003108003108
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicatesStandard": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3444,
+            "mutants-killed": 1154,
+            "mutants-live": 2290,
+            "mutation-score": 0.07472157472157472
+        },
+        "org.apache.commons.jxpath.ri.axes.SimplePathInterpreterTest::testDoPredicateIndex": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3470,
+            "mutants-killed": 1091,
+            "mutants-live": 2379,
+            "mutation-score": 0.07064232064232064
+        },
+        "org.apache.commons.jxpath.ri.compiler.ContextDependencyTest::testContextDependency": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2454,
+            "mutants-killed": 748,
+            "mutants-live": 1706,
+            "mutation-score": 0.04843304843304843
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testIDFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3355,
+            "mutants-killed": 1055,
+            "mutants-live": 2300,
+            "mutation-score": 0.06831131831131831
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testExtendedKeyFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3705,
+            "mutants-killed": 1395,
+            "mutants-live": 2310,
+            "mutation-score": 0.09032634032634032
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testKeyFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2084,
+            "mutants-killed": 639,
+            "mutants-live": 1445,
+            "mutation-score": 0.041375291375291376
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testFormatNumberFunction": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2212,
+            "mutants-killed": 738,
+            "mutants-live": 1474,
+            "mutation-score": 0.047785547785547784
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreFunctionTest::testCoreFunctions": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4717,
+            "mutants-killed": 1895,
+            "mutants-live": 2822,
+            "mutation-score": 0.1227013727013727
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNan": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1927,
+            "mutants-killed": 506,
+            "mutants-live": 1421,
+            "mutation-score": 0.03276353276353276
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testEmptyNodeSetOperations": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2899,
+            "mutants-killed": 768,
+            "mutants-live": 2131,
+            "mutation-score": 0.04972804972804973
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testInfoSetTypes": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2196,
+            "mutants-killed": 754,
+            "mutants-live": 1442,
+            "mutation-score": 0.04882154882154882
+        },
+        "org.apache.commons.jxpath.ri.compiler.CoreOperationTest::testNodeSetOperations": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1894,
+            "mutants-killed": 607,
+            "mutants-live": 1287,
+            "mutation-score": 0.0393032893032893
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodCall": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2876,
+            "mutants-killed": 1013,
+            "mutants-live": 1863,
+            "mutation-score": 0.0655918155918156
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookup": {
+            "mutants-generated": 15444,
+            "mutants-covered": 323,
+            "mutants-killed": 90,
+            "mutants-live": 233,
+            "mutation-score": 0.005827505827505828
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testBCNodeSetHack": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3519,
+            "mutants-killed": 985,
+            "mutants-live": 2534,
+            "mutation-score": 0.06377881377881378
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testConstructorLookupWithExpressionContext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 317,
+            "mutants-killed": 112,
+            "mutants-live": 205,
+            "mutation-score": 0.007252007252007252
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testConstructorLookup": {
+            "mutants-generated": 15444,
+            "mutants-covered": 313,
+            "mutants-killed": 91,
+            "mutants-live": 222,
+            "mutation-score": 0.005892255892255892
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testCollectionMethodCall": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3328,
+            "mutants-killed": 1187,
+            "mutants-live": 2141,
+            "mutation-score": 0.07685832685832686
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookupWithExpressionContextAndArgument": {
+            "mutants-generated": 15444,
+            "mutants-covered": 408,
+            "mutants-killed": 159,
+            "mutants-live": 249,
+            "mutation-score": 0.010295260295260296
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookupWithExpressionContext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 295,
+            "mutants-killed": 94,
+            "mutants-live": 201,
+            "mutation-score": 0.006086506086506086
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookupWithExpressionContext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 368,
+            "mutants-killed": 129,
+            "mutants-live": 239,
+            "mutation-score": 0.008352758352758352
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testExpressionContext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 4478,
+            "mutants-killed": 1789,
+            "mutants-live": 2689,
+            "mutation-score": 0.11583786583786584
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testCollectionReturn": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3547,
+            "mutants-killed": 1094,
+            "mutants-live": 2453,
+            "mutation-score": 0.07083657083657084
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testEstablishNodeSetBaseline": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3524,
+            "mutants-killed": 979,
+            "mutants-live": 2545,
+            "mutation-score": 0.0633903133903134
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodLookupWithConversion": {
+            "mutants-generated": 15444,
+            "mutants-covered": 380,
+            "mutants-killed": 93,
+            "mutants-live": 287,
+            "mutation-score": 0.006021756021756022
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testAllocation": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3433,
+            "mutants-killed": 1238,
+            "mutants-live": 2195,
+            "mutation-score": 0.08016058016058016
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testNodeSetReturn": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3800,
+            "mutants-killed": 1299,
+            "mutants-live": 2501,
+            "mutation-score": 0.08411033411033411
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testMethodLookup": {
+            "mutants-generated": 15444,
+            "mutants-covered": 310,
+            "mutants-killed": 91,
+            "mutants-live": 219,
+            "mutation-score": 0.005892255892255892
+        },
+        "org.apache.commons.jxpath.ri.compiler.ExtensionFunctionTest::testStaticMethodCall": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3647,
+            "mutants-killed": 1349,
+            "mutants-live": 2298,
+            "mutation-score": 0.08734783734783735
+        },
+        "org.apache.commons.jxpath.ri.compiler.JXPath149Test::testComplexOperationWithVariables": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1635,
+            "mutants-killed": 416,
+            "mutants-live": 1219,
+            "mutation-score": 0.026936026936026935
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclareVariable": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1572,
+            "mutants-killed": 301,
+            "mutants-live": 1271,
+            "mutation-score": 0.01948976948976949
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testInvalidVariableName": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1492,
+            "mutants-killed": 118,
+            "mutants-live": 1374,
+            "mutation-score": 0.00764050764050764
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetProperty": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2082,
+            "mutants-killed": 574,
+            "mutants-live": 1508,
+            "mutation-score": 0.037166537166537165
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetCollectionElementProperty": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2311,
+            "mutants-killed": 707,
+            "mutants-live": 1604,
+            "mutation-score": 0.04577829577829578
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathCollectionElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1800,
+            "mutants-killed": 473,
+            "mutants-live": 1327,
+            "mutation-score": 0.030626780626780627
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathUndeclareVariable": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1461,
+            "mutants-killed": 315,
+            "mutants-live": 1146,
+            "mutation-score": 0.020396270396270396
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testIterateVariable": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1767,
+            "mutants-killed": 533,
+            "mutants-live": 1234,
+            "mutation-score": 0.034511784511784514
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreateAndSetValuePathDeclareVariableSetCollectionElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1944,
+            "mutants-killed": 559,
+            "mutants-live": 1385,
+            "mutation-score": 0.0361952861952862
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testUnionOfVariableAndNode": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3531,
+            "mutants-killed": 1156,
+            "mutants-live": 2375,
+            "mutation-score": 0.07485107485107485
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testVariables": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1409,
+            "mutants-killed": 298,
+            "mutants-live": 1111,
+            "mutation-score": 0.019295519295519297
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueExpandCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1877,
+            "mutants-killed": 556,
+            "mutants-live": 1321,
+            "mutation-score": 0.036001036001036
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testRemovePathArrayElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1833,
+            "mutants-killed": 490,
+            "mutants-live": 1343,
+            "mutation-score": 0.031727531727531726
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testNestedContext": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1397,
+            "mutants-killed": 295,
+            "mutants-live": 1102,
+            "mutation-score": 0.0191012691012691
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariableSetCollectionElement": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1938,
+            "mutants-killed": 558,
+            "mutants-live": 1380,
+            "mutation-score": 0.03613053613053613
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathDeclareVariable": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1558,
+            "mutants-killed": 298,
+            "mutants-live": 1260,
+            "mutation-score": 0.019295519295519297
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclVarSetCollectionElementProperty": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2345,
+            "mutants-killed": 715,
+            "mutants-live": 1630,
+            "mutation-score": 0.046296296296296294
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathAndSetValueDeclareVariableSetProperty": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2116,
+            "mutants-killed": 572,
+            "mutants-live": 1544,
+            "mutation-score": 0.037037037037037035
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testCreatePathExpandCollection": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1877,
+            "mutants-killed": 557,
+            "mutants-live": 1320,
+            "mutation-score": 0.03606578606578607
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testVariablesInExpressions": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2053,
+            "mutants-killed": 609,
+            "mutants-live": 1444,
+            "mutation-score": 0.03943278943278943
+        },
+        "org.apache.commons.jxpath.ri.compiler.VariableTest::testSetValue": {
+            "mutants-generated": 15444,
+            "mutants-covered": 1456,
+            "mutants-killed": 318,
+            "mutants-live": 1138,
+            "mutation-score": 0.020590520590520592
+        },
+        "org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateJDOM": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2473,
+            "mutants-killed": 668,
+            "mutants-live": 1805,
+            "mutation-score": 0.04325304325304325
+        },
+        "org.apache.commons.jxpath.ri.model.AliasedNamespaceIterationTest::testIterateDOM": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2474,
+            "mutants-killed": 658,
+            "mutants-live": 1816,
+            "mutation-score": 0.042605542605542605
+        },
+        "org.apache.commons.jxpath.ri.model.EmbeddedColonMapKeysTest::testSelectNodes": {
+            "mutants-generated": 15444,
+            "mutants-covered": 3016,
+            "mutants-killed": 814,
+            "mutants-live": 2202,
+            "mutation-score": 0.05270655270655271
+        },
+        "org.apache.commons.jxpath.ri.model.EmbeddedColonMapKeysTest::testSelectSingleNode": {
+            "mutants-generated": 15444,
+            "mutants-covered": 2850,
+            "mutants-killed": 733,
+            "mutants-live": 2117,
+            "mutation-score": 0.04746179746179746
+        }
+    }
+}

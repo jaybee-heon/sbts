@@ -345,7 +345,6 @@ org.mockito.internal.stubbing.answers.MethodInfo
 org.mockito.internal.stubbing.answers.AnswerReturnValuesAdapter
 org.mockito.internal.stubbing.answers.CallsRealMethods
 org.mockito.internal.stubbing.answers.ThrowsExceptionClass
-org.mockito.internal.stubbing.answers.AnswersValidator
 org.mockito.internal.stubbing.answers.ThrowsException
 org.mockito.internal.stubbing.answers.DoesNothing
 org.mockito.internal.stubbing.answers.ReturnsArgumentAt

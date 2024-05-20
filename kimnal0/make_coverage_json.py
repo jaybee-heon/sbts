@@ -1,10 +1,10 @@
 import json
 import os
 
-merged_data = {"Cli_40": {}}
+merged_data = {"JxPath_22": {}}
 
-dir_path = './mutation/Cli-40'
-output_path = '../data/all_class_mutation/Cli-40_fdr.json'
+dir_path = './mutation/JxPath-22'
+output_path = '../data/all_class_mutation/JxPath-22_fdr.json'
 
 for file_name in os.listdir(dir_path):
     if file_name.endswith('.json'):
@@ -23,9 +23,9 @@ for file_name in os.listdir(dir_path):
         with open(file_path, 'r', encoding='utf-8') as file:
             
             data = json.load(file)
-            if "Cli_40" in data:
-                for key, value in data["Cli_40"].items():
-                    merged_data["Cli_40"][key] = value
+            if "JxPath_22" in data:
+                for key, value in data["JxPath_22"].items():
+                    merged_data["JxPath_22"][key] = value
 
 with open(output_path, 'w') as wf:
     json.dump(merged_data, wf, indent = 4)
