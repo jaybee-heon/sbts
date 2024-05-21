@@ -1,0 +1,2055 @@
+{
+    "Csv_16": {
+        "org.apache.commons.csv.AssertionsTest::testNotNullNull": {
+            "mutants-generated": 1174,
+            "mutants-covered": 1,
+            "mutants-killed": 1,
+            "mutants-live": 0,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.AssertionsTest::testNotNull": {
+            "mutants-generated": 1174,
+            "mutants-covered": 1,
+            "mutants-killed": 0,
+            "mutants-live": 1,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[0]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 350,
+            "mutants-killed": 152,
+            "mutants-live": 198,
+            "mutation-score": 0.12947189097103917
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[0]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[1]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 408,
+            "mutants-killed": 181,
+            "mutants-live": 227,
+            "mutation-score": 0.15417376490630325
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[1]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[2]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 374,
+            "mutants-killed": 156,
+            "mutants-live": 218,
+            "mutation-score": 0.13287904599659284
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[2]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[3]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 341,
+            "mutants-killed": 153,
+            "mutants-live": 188,
+            "mutation-score": 0.1303236797274276
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[3]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[4]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 384,
+            "mutants-killed": 168,
+            "mutants-live": 216,
+            "mutation-score": 0.14310051107325383
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[4]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVFile[5]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 402,
+            "mutants-killed": 180,
+            "mutants-live": 222,
+            "mutation-score": 0.15332197614991483
+        },
+        "org.apache.commons.csv.CSVFileParserTest::testCSVUrl[5]": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testTDF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testExcel": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testMySQL": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testRFC4180": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testPostgreSqlCsv": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testPostgreSqlText": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testDefault": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatPredefinedTest::testOracle": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsIgnoreSurroundingSpaces": {
+            "mutants-generated": 1174,
+            "mutants-covered": 118,
+            "mutants-killed": 49,
+            "mutants-live": 69,
+            "mutation-score": 0.041737649063032366
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsCommentStart": {
+            "mutants-generated": 1174,
+            "mutants-covered": 108,
+            "mutants-killed": 46,
+            "mutants-live": 62,
+            "mutation-score": 0.039182282793867124
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithDelimiter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testToStringAndWithCommentMarkerTakingCharacter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 132,
+            "mutants-killed": 76,
+            "mutants-live": 56,
+            "mutation-score": 0.06473594548551959
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuotePolicyNoneWithoutEscapeThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 89,
+            "mutants-killed": 45,
+            "mutants-live": 44,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuoteLFThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithFirstRecordAsHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 42,
+            "mutants-live": 41,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testSerialization": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testNullRecordSeparatorCsv106": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsQuoteChar": {
+            "mutants-generated": 1174,
+            "mutants-covered": 100,
+            "mutants-killed": 43,
+            "mutants-live": 57,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testToString": {
+            "mutants-generated": 1174,
+            "mutants-covered": 111,
+            "mutants-killed": 65,
+            "mutants-live": 46,
+            "mutation-score": 0.05536626916524702
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeaderComments": {
+            "mutants-generated": 1174,
+            "mutants-covered": 111,
+            "mutants-killed": 65,
+            "mutants-live": 46,
+            "mutation-score": 0.05536626916524702
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsSkipHeaderRecord": {
+            "mutants-generated": 1174,
+            "mutants-covered": 127,
+            "mutants-killed": 48,
+            "mutants-live": 79,
+            "mutation-score": 0.04088586030664395
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsCommentStartThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 43,
+            "mutants-live": 43,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorCR": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEscapeCRThrowsExceptions": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 45,
+            "mutants-live": 36,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithSystemRecordSeparator": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithIgnoreEmptyLines": {
+            "mutants-generated": 1174,
+            "mutants-covered": 82,
+            "mutants-killed": 42,
+            "mutants-live": 40,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsNoQuotes": {
+            "mutants-generated": 1174,
+            "mutants-covered": 118,
+            "mutants-killed": 59,
+            "mutants-live": 59,
+            "mutation-score": 0.05025553662691652
+        },
+        "org.apache.commons.csv.CSVFormatTest::testHashCodeAndWithIgnoreHeaderCase": {
+            "mutants-generated": 1174,
+            "mutants-covered": 241,
+            "mutants-killed": 77,
+            "mutants-live": 164,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsEscape": {
+            "mutants-generated": 1174,
+            "mutants-covered": 111,
+            "mutants-killed": 46,
+            "mutants-live": 65,
+            "mutation-score": 0.039182282793867124
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 118,
+            "mutants-killed": 48,
+            "mutants-live": 70,
+            "mutation-score": 0.04088586030664395
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsIgnoreEmptyLines": {
+            "mutants-generated": 1174,
+            "mutants-covered": 122,
+            "mutants-killed": 49,
+            "mutants-live": 73,
+            "mutation-score": 0.041737649063032366
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithCommentStart": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 44,
+            "mutants-live": 42,
+            "mutation-score": 0.03747870528109029
+        },
+        "org.apache.commons.csv.CSVFormatTest::testNewFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 93,
+            "mutants-killed": 52,
+            "mutants-live": 41,
+            "mutation-score": 0.044293015332197615
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithIgnoreSurround": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 42,
+            "mutants-live": 39,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testRFC4180": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 42,
+            "mutants-live": 39,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEscapeSameAsCommentStartThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 43,
+            "mutants-live": 43,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testFormatThrowsNullPointerException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 82,
+            "mutants-killed": 42,
+            "mutants-live": 40,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDelimiterSameAsCommentStartThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 44,
+            "mutants-live": 42,
+            "mutation-score": 0.03747870528109029
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsDelimiter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 96,
+            "mutants-killed": 44,
+            "mutants-live": 52,
+            "mutation-score": 0.03747870528109029
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsCommentStartThrowsExceptionForWrapperType": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 43,
+            "mutants-live": 43,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsNullString": {
+            "mutants-generated": 1174,
+            "mutants-covered": 115,
+            "mutants-killed": 46,
+            "mutants-live": 69,
+            "mutation-score": 0.039182282793867124
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuotePolicy": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsQuotePolicy": {
+            "mutants-generated": 1174,
+            "mutants-covered": 97,
+            "mutants-killed": 42,
+            "mutants-live": 55,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEscapeSameAsCommentStartThrowsExceptionForWrapperType": {
+            "mutants-generated": 1174,
+            "mutants-covered": 86,
+            "mutants-killed": 43,
+            "mutants-live": 43,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsRecordSeparator": {
+            "mutants-generated": 1174,
+            "mutants-covered": 128,
+            "mutants-killed": 47,
+            "mutants-live": 81,
+            "mutation-score": 0.04003407155025554
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithCommentStartCRThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 45,
+            "mutants-live": 38,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVFormatTest::testQuoteCharSameAsDelimiterThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 44,
+            "mutants-live": 37,
+            "mutation-score": 0.03747870528109029
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithDelimiterLFThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 43,
+            "mutants-live": 38,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDelimiterSameAsEscapeThrowsException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 44,
+            "mutants-live": 37,
+            "mutation-score": 0.03747870528109029
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEscape": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 84,
+            "mutants-killed": 42,
+            "mutants-live": 42,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testGetHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 84,
+            "mutants-killed": 42,
+            "mutants-live": 42,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsLeftNoQuoteRightQuote": {
+            "mutants-generated": 1174,
+            "mutants-covered": 102,
+            "mutants-killed": 45,
+            "mutants-live": 57,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithQuoteChar": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEquals": {
+            "mutants-generated": 1174,
+            "mutants-covered": 243,
+            "mutants-killed": 77,
+            "mutants-live": 166,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithEmptyEnum": {
+            "mutants-generated": 1174,
+            "mutants-covered": 88,
+            "mutants-killed": 43,
+            "mutants-live": 45,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 88,
+            "mutants-killed": 43,
+            "mutants-live": 45,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithRecordSeparatorCRLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsOne": {
+            "mutants-generated": 1174,
+            "mutants-covered": 92,
+            "mutants-killed": 53,
+            "mutants-live": 39,
+            "mutation-score": 0.04514480408858603
+        },
+        "org.apache.commons.csv.CSVFormatTest::testDuplicateHeaderElements": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithNullString": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVFormatTest::testWithHeaderEnum": {
+            "mutants-generated": 1174,
+            "mutants-covered": 90,
+            "mutants-killed": 46,
+            "mutants-live": 44,
+            "mutation-score": 0.039182282793867124
+        },
+        "org.apache.commons.csv.CSVFormatTest::testEqualsWithNull": {
+            "mutants-generated": 1174,
+            "mutants-covered": 88,
+            "mutants-killed": 51,
+            "mutants-live": 37,
+            "mutation-score": 0.0434412265758092
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_parseWithReader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelHeaderCountLessThanData": {
+            "mutants-generated": 1174,
+            "mutants-covered": 310,
+            "mutants-killed": 111,
+            "mutants-live": 199,
+            "mutation-score": 0.09454855195911414
+        },
+        "org.apache.commons.csv.CSVParserTest::testMultipleIterators": {
+            "mutants-generated": 1174,
+            "mutants-covered": 284,
+            "mutants-killed": 115,
+            "mutants-live": 169,
+            "mutation-score": 0.09795570698466781
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderComment": {
+            "mutants-generated": 1174,
+            "mutants-covered": 318,
+            "mutants-killed": 141,
+            "mutants-live": 177,
+            "mutation-score": 0.1201022146507666
+        },
+        "org.apache.commons.csv.CSVParserTest::testDefaultFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 341,
+            "mutants-killed": 154,
+            "mutants-live": 187,
+            "mutation-score": 0.131175468483816
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordPositionWithCRLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 331,
+            "mutants-killed": 137,
+            "mutants-live": 194,
+            "mutation-score": 0.11669505962521294
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderMissing": {
+            "mutants-generated": 1174,
+            "mutants-covered": 304,
+            "mutants-killed": 131,
+            "mutants-live": 173,
+            "mutation-score": 0.11158432708688246
+        },
+        "org.apache.commons.csv.CSVParserTest::testTrailingDelimiter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 346,
+            "mutants-killed": 133,
+            "mutants-live": 213,
+            "mutation-score": 0.11328790459965929
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_ParserWithInputStream": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineCrLf": {
+            "mutants-generated": 1174,
+            "mutants-covered": 287,
+            "mutants-killed": 116,
+            "mutants-live": 171,
+            "mutation-score": 0.09880749574105621
+        },
+        "org.apache.commons.csv.CSVParserTest::testProvidedHeaderAuto": {
+            "mutants-generated": 1174,
+            "mutants-covered": 308,
+            "mutants-killed": 132,
+            "mutants-live": 176,
+            "mutation-score": 0.11243611584327087
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordWithMultiLineValues": {
+            "mutants-generated": 1174,
+            "mutants-covered": 316,
+            "mutants-killed": 135,
+            "mutants-live": 181,
+            "mutation-score": 0.11499148211243612
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullStringFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipSetAltHeaders": {
+            "mutants-generated": 1174,
+            "mutants-covered": 297,
+            "mutants-killed": 116,
+            "mutants-live": 181,
+            "mutation-score": 0.09880749574105621
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithCR": {
+            "mutants-generated": 1174,
+            "mutants-covered": 276,
+            "mutants-killed": 112,
+            "mutants-live": 164,
+            "mutation-score": 0.09540034071550256
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 272,
+            "mutants-killed": 109,
+            "mutants-live": 163,
+            "mutation-score": 0.09284497444633731
+        },
+        "org.apache.commons.csv.CSVParserTest::testCSV57": {
+            "mutants-generated": 1174,
+            "mutants-covered": 186,
+            "mutants-killed": 57,
+            "mutants-live": 129,
+            "mutation-score": 0.048551959114139696
+        },
+        "org.apache.commons.csv.CSVParserTest::testClose": {
+            "mutants-generated": 1174,
+            "mutants-covered": 314,
+            "mutants-killed": 98,
+            "mutants-live": 216,
+            "mutation-score": 0.08347529812606473
+        },
+        "org.apache.commons.csv.CSVParserTest::testTrim": {
+            "mutants-generated": 1174,
+            "mutants-covered": 350,
+            "mutants-killed": 130,
+            "mutants-live": 220,
+            "mutation-score": 0.11073253833049404
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithCR": {
+            "mutants-generated": 1174,
+            "mutants-covered": 300,
+            "mutants-killed": 122,
+            "mutants-live": 178,
+            "mutation-score": 0.10391822827938671
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 296,
+            "mutants-killed": 120,
+            "mutants-live": 176,
+            "mutation-score": 0.10221465076660988
+        },
+        "org.apache.commons.csv.CSVParserTest::testParserUrlNullCharsetFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 84,
+            "mutants-killed": 43,
+            "mutants-live": 41,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVParserTest::testForEach": {
+            "mutants-generated": 1174,
+            "mutants-covered": 275,
+            "mutants-killed": 121,
+            "mutants-live": 154,
+            "mutation-score": 0.1030664395229983
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetOneLine": {
+            "mutants-generated": 1174,
+            "mutants-covered": 268,
+            "mutants-killed": 109,
+            "mutants-live": 159,
+            "mutation-score": 0.09284497444633731
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLineNumberWithCRLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 305,
+            "mutants-killed": 121,
+            "mutants-live": 184,
+            "mutation-score": 0.1030664395229983
+        },
+        "org.apache.commons.csv.CSVParserTest::testCarriageReturnLineFeedEndings": {
+            "mutants-generated": 1174,
+            "mutants-covered": 287,
+            "mutants-killed": 107,
+            "mutants-live": 180,
+            "mutation-score": 0.09114139693356048
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordNumberWithCRLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 281,
+            "mutants-killed": 110,
+            "mutants-live": 171,
+            "mutation-score": 0.09369676320272573
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseUrlCharsetNullFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 4,
+            "mutants-killed": 1,
+            "mutants-live": 3,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVParserTest::testBOMInputStream_ParserWithReader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyFile": {
+            "mutants-generated": 1174,
+            "mutants-covered": 186,
+            "mutants-killed": 57,
+            "mutants-live": 129,
+            "mutation-score": 0.048551959114139696
+        },
+        "org.apache.commons.csv.CSVParserTest::testCarriageReturnEndings": {
+            "mutants-generated": 1174,
+            "mutants-covered": 282,
+            "mutants-killed": 110,
+            "mutants-live": 172,
+            "mutation-score": 0.09369676320272573
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetLine": {
+            "mutants-generated": 1174,
+            "mutants-covered": 358,
+            "mutants-killed": 166,
+            "mutants-live": 192,
+            "mutation-score": 0.141396933560477
+        },
+        "org.apache.commons.csv.CSVParserTest::testIgnoreCaseHeaderMapping": {
+            "mutants-generated": 1174,
+            "mutants-covered": 295,
+            "mutants-killed": 116,
+            "mutants-live": 179,
+            "mutation-score": 0.09880749574105621
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecordPositionWithLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 326,
+            "mutants-killed": 135,
+            "mutants-live": 191,
+            "mutation-score": 0.11499148211243612
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetOneLineOneParser": {
+            "mutants-generated": 1174,
+            "mutants-covered": 274,
+            "mutants-killed": 104,
+            "mutants-live": 170,
+            "mutation-score": 0.08858603066439523
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeadersMissingException": {
+            "mutants-generated": 1174,
+            "mutants-covered": 282,
+            "mutants-killed": 88,
+            "mutants-live": 194,
+            "mutation-score": 0.07495741056218058
+        },
+        "org.apache.commons.csv.CSVParserTest::testProvidedHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 311,
+            "mutants-killed": 124,
+            "mutants-live": 187,
+            "mutation-score": 0.10562180579216354
+        },
+        "org.apache.commons.csv.CSVParserTest::testIteratorSequenceBreaking": {
+            "mutants-generated": 1174,
+            "mutants-covered": 267,
+            "mutants-killed": 95,
+            "mutants-live": 172,
+            "mutation-score": 0.08091993185689948
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipHeaderOverrideDuplicateHeaders": {
+            "mutants-generated": 1174,
+            "mutants-covered": 297,
+            "mutants-killed": 116,
+            "mutants-live": 181,
+            "mutation-score": 0.09880749574105621
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullUrlCharsetFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVParserTest::testInvalidFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVParserTest::testBackslashEscaping2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 305,
+            "mutants-killed": 130,
+            "mutants-live": 175,
+            "mutation-score": 0.11073253833049404
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelFormat1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 324,
+            "mutants-killed": 140,
+            "mutants-live": 184,
+            "mutation-score": 0.11925042589437819
+        },
+        "org.apache.commons.csv.CSVParserTest::testExcelFormat2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 277,
+            "mutants-killed": 118,
+            "mutants-live": 159,
+            "mutation-score": 0.10051107325383304
+        },
+        "org.apache.commons.csv.CSVParserTest::testEndOfFileBehaviourExcel": {
+            "mutants-generated": 1174,
+            "mutants-covered": 329,
+            "mutants-killed": 143,
+            "mutants-live": 186,
+            "mutation-score": 0.12180579216354344
+        },
+        "org.apache.commons.csv.CSVParserTest::testRoundtrip": {
+            "mutants-generated": 1174,
+            "mutants-covered": 380,
+            "mutants-killed": 165,
+            "mutants-live": 215,
+            "mutation-score": 0.14054514480408858
+        },
+        "org.apache.commons.csv.CSVParserTest::testNoHeaderMap": {
+            "mutants-generated": 1174,
+            "mutants-covered": 108,
+            "mutants-killed": 45,
+            "mutants-live": 63,
+            "mutation-score": 0.03833049403747871
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseFileNullFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 2,
+            "mutants-live": 1,
+            "mutation-score": 0.0017035775127768314
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetHeaderMap": {
+            "mutants-generated": 1174,
+            "mutants-covered": 316,
+            "mutants-killed": 122,
+            "mutants-live": 194,
+            "mutation-score": 0.10391822827938671
+        },
+        "org.apache.commons.csv.CSVParserTest::testBackslashEscaping": {
+            "mutants-generated": 1174,
+            "mutants-covered": 368,
+            "mutants-killed": 165,
+            "mutants-live": 203,
+            "mutation-score": 0.14054514480408858
+        },
+        "org.apache.commons.csv.CSVParserTest::testLineFeedEndings": {
+            "mutants-generated": 1174,
+            "mutants-covered": 278,
+            "mutants-killed": 107,
+            "mutants-live": 171,
+            "mutation-score": 0.09114139693356048
+        },
+        "org.apache.commons.csv.CSVParserTest::testMappedButNotSetAsOutlook2007ContactExport": {
+            "mutants-generated": 1174,
+            "mutants-covered": 330,
+            "mutants-killed": 139,
+            "mutants-live": 191,
+            "mutation-score": 0.11839863713798977
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyLineBehaviourCSV": {
+            "mutants-generated": 1174,
+            "mutants-covered": 331,
+            "mutants-killed": 136,
+            "mutants-live": 195,
+            "mutation-score": 0.11584327086882454
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipSetHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 297,
+            "mutants-killed": 115,
+            "mutants-live": 182,
+            "mutation-score": 0.09795570698466781
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeaderMissingWithNull": {
+            "mutants-generated": 1174,
+            "mutants-covered": 289,
+            "mutants-killed": 71,
+            "mutants-live": 218,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVParserTest::testIgnoreEmptyLines": {
+            "mutants-generated": 1174,
+            "mutants-covered": 284,
+            "mutants-killed": 112,
+            "mutants-live": 172,
+            "mutation-score": 0.09540034071550256
+        },
+        "org.apache.commons.csv.CSVParserTest::testEndOfFileBehaviorCSV": {
+            "mutants-generated": 1174,
+            "mutants-covered": 338,
+            "mutants-killed": 151,
+            "mutants-live": 187,
+            "mutation-score": 0.12862010221465076
+        },
+        "org.apache.commons.csv.CSVParserTest::testNewCSVParserNullReaderFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 87,
+            "mutants-killed": 43,
+            "mutants-live": 44,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseStringNullFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVParserTest::testEmptyLineBehaviourExcel": {
+            "mutants-generated": 1174,
+            "mutants-covered": 322,
+            "mutants-killed": 133,
+            "mutants-live": 189,
+            "mutation-score": 0.11328790459965929
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 303,
+            "mutants-killed": 130,
+            "mutants-live": 173,
+            "mutation-score": 0.11073253833049404
+        },
+        "org.apache.commons.csv.CSVParserTest::testGetRecords": {
+            "mutants-generated": 1174,
+            "mutants-covered": 359,
+            "mutants-killed": 167,
+            "mutants-live": 192,
+            "mutation-score": 0.14224872231686542
+        },
+        "org.apache.commons.csv.CSVParserTest::testHeadersMissing": {
+            "mutants-generated": 1174,
+            "mutants-covered": 289,
+            "mutants-killed": 67,
+            "mutants-live": 222,
+            "mutation-score": 0.05706984667802385
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineCr": {
+            "mutants-generated": 1174,
+            "mutants-covered": 282,
+            "mutants-killed": 115,
+            "mutants-live": 167,
+            "mutation-score": 0.09795570698466781
+        },
+        "org.apache.commons.csv.CSVParserTest::testFirstEndOfLineLf": {
+            "mutants-generated": 1174,
+            "mutants-covered": 278,
+            "mutants-killed": 113,
+            "mutants-live": 165,
+            "mutation-score": 0.09625212947189098
+        },
+        "org.apache.commons.csv.CSVParserTest::testDuplicateHeaders": {
+            "mutants-generated": 1174,
+            "mutants-covered": 283,
+            "mutants-killed": 99,
+            "mutants-live": 184,
+            "mutation-score": 0.08432708688245315
+        },
+        "org.apache.commons.csv.CSVParserTest::testIterator": {
+            "mutants-generated": 1174,
+            "mutants-covered": 277,
+            "mutants-killed": 124,
+            "mutants-live": 153,
+            "mutation-score": 0.10562180579216354
+        },
+        "org.apache.commons.csv.CSVParserTest::testParseNullFileFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 83,
+            "mutants-killed": 43,
+            "mutants-live": 40,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVParserTest::testSkipAutoHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 292,
+            "mutants-killed": 114,
+            "mutants-live": 178,
+            "mutation-score": 0.09710391822827939
+        },
+        "org.apache.commons.csv.CSVParserTest::testNewCSVParserReaderNullFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 7,
+            "mutants-killed": 2,
+            "mutants-live": 5,
+            "mutation-score": 0.0017035775127768314
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithEmptyVector": {
+            "mutants-generated": 1174,
+            "mutants-covered": 132,
+            "mutants-killed": 49,
+            "mutants-live": 83,
+            "mutation-score": 0.041737649063032366
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderCommentTdf": {
+            "mutants-generated": 1174,
+            "mutants-covered": 222,
+            "mutants-killed": 112,
+            "mutants-live": 110,
+            "mutation-score": 0.09540034071550256
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimeterQuoteNONE": {
+            "mutants-generated": 1174,
+            "mutants-covered": 178,
+            "mutants-killed": 90,
+            "mutants-live": 88,
+            "mutation-score": 0.07666098807495741
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderNotSet": {
+            "mutants-generated": 1174,
+            "mutants-covered": 140,
+            "mutants-killed": 75,
+            "mutants-live": 65,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomExcel": {
+            "mutants-generated": 1174,
+            "mutants-covered": 461,
+            "mutants-killed": 219,
+            "mutants-live": 242,
+            "mutation-score": 0.18654173764906304
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomMySql": {
+            "mutants-generated": 1174,
+            "mutants-covered": 402,
+            "mutants-killed": 206,
+            "mutants-live": 196,
+            "mutation-score": 0.17546848381601363
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllArrayOfLists": {
+            "mutants-generated": 1174,
+            "mutants-covered": 183,
+            "mutants-killed": 90,
+            "mutants-live": 93,
+            "mutation-score": 0.07666098807495741
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintOnePositiveInteger": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 76,
+            "mutants-live": 96,
+            "mutation-score": 0.06473594548551959
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrint": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 92,
+            "mutants-live": 97,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteNonNumeric": {
+            "mutants-generated": 1174,
+            "mutants-covered": 152,
+            "mutants-killed": 83,
+            "mutants-live": 69,
+            "mutation-score": 0.0706984667802385
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithResultSetOneRow": {
+            "mutants-generated": 1174,
+            "mutants-covered": 169,
+            "mutants-killed": 55,
+            "mutants-live": 114,
+            "mutation-score": 0.046848381601362864
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithCsvFormatAutoFlushOff": {
+            "mutants-generated": 1174,
+            "mutants-covered": 100,
+            "mutants-killed": 50,
+            "mutants-live": 50,
+            "mutation-score": 0.04258943781942078
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinterWithResultSetMetaData": {
+            "mutants-generated": 1174,
+            "mutants-covered": 217,
+            "mutants-killed": 117,
+            "mutants-live": 100,
+            "mutation-score": 0.09965928449744463
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLEscaped": {
+            "mutants-generated": 1174,
+            "mutants-covered": 174,
+            "mutants-killed": 99,
+            "mutants-live": 75,
+            "mutation-score": 0.08432708688245315
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 78,
+            "mutants-live": 94,
+            "mutation-score": 0.06643952299829642
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 175,
+            "mutants-killed": 71,
+            "mutants-live": 104,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull3": {
+            "mutants-generated": 1174,
+            "mutants-covered": 175,
+            "mutants-killed": 71,
+            "mutants-live": 104,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull4": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 77,
+            "mutants-live": 95,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeNull5": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 77,
+            "mutants-live": 95,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 92,
+            "mutants-live": 97,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 202,
+            "mutants-killed": 104,
+            "mutants-live": 98,
+            "mutation-score": 0.08858603066439523
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter3": {
+            "mutants-generated": 1174,
+            "mutants-covered": 202,
+            "mutants-killed": 101,
+            "mutants-live": 101,
+            "mutation-score": 0.08603066439522998
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter4": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 116,
+            "mutants-live": 93,
+            "mutation-score": 0.09880749574105621
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter5": {
+            "mutants-generated": 1174,
+            "mutants-covered": 202,
+            "mutants-killed": 109,
+            "mutants-live": 93,
+            "mutation-score": 0.09284497444633731
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter6": {
+            "mutants-generated": 1174,
+            "mutants-covered": 202,
+            "mutants-killed": 107,
+            "mutants-live": 95,
+            "mutation-score": 0.09114139693356048
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrinter7": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 92,
+            "mutants-live": 97,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimiterPlain": {
+            "mutants-generated": 1174,
+            "mutants-covered": 124,
+            "mutants-killed": 65,
+            "mutants-live": 59,
+            "mutation-score": 0.05536626916524702
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPostgreSQLNullStringDefaultText": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSingleQuoteQuoted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 193,
+            "mutants-killed": 104,
+            "mutants-live": 89,
+            "mutation-score": 0.08858603066439523
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintRecordsWithObjectArray": {
+            "mutants-generated": 1174,
+            "mutants-covered": 136,
+            "mutants-killed": 64,
+            "mutants-live": 72,
+            "mutation-score": 0.054514480408858604
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOffOneColumn": {
+            "mutants-generated": 1174,
+            "mutants-covered": 145,
+            "mutants-killed": 71,
+            "mutants-live": 74,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDontQuoteEuroFirstChar": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 92,
+            "mutants-live": 97,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrailingDelimiterOnTwoColumns": {
+            "mutants-generated": 1174,
+            "mutants-covered": 191,
+            "mutants-killed": 93,
+            "mutants-live": 98,
+            "mutation-score": 0.07921635434412266
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteAll": {
+            "mutants-generated": 1174,
+            "mutants-covered": 152,
+            "mutants-killed": 82,
+            "mutants-live": 70,
+            "mutation-score": 0.06984667802385008
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomTdf": {
+            "mutants-generated": 1174,
+            "mutants-covered": 492,
+            "mutants-killed": 239,
+            "mutants-live": 253,
+            "mutation-score": 0.20357751277683134
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToFileWithCharsetUtf16Be": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 94,
+            "mutants-live": 95,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLQuoted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 186,
+            "mutants-killed": 99,
+            "mutants-live": 87,
+            "mutation-score": 0.08432708688245315
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToPathWithDefaultCharset": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 94,
+            "mutants-live": 95,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEOLPlain": {
+            "mutants-generated": 1174,
+            "mutants-covered": 124,
+            "mutants-killed": 65,
+            "mutants-live": 59,
+            "mutation-score": 0.05536626916524702
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllIterableOfLists": {
+            "mutants-generated": 1174,
+            "mutants-covered": 183,
+            "mutants-killed": 90,
+            "mutants-live": 93,
+            "mutation-score": 0.07666098807495741
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOnOneColumn": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 80,
+            "mutants-live": 92,
+            "mutation-score": 0.06814310051107325
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimeterQuoted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 186,
+            "mutants-killed": 94,
+            "mutants-live": 92,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSkipHeaderRecordFalse": {
+            "mutants-generated": 1174,
+            "mutants-covered": 143,
+            "mutants-killed": 75,
+            "mutants-live": 68,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainPlain": {
+            "mutants-generated": 1174,
+            "mutants-covered": 124,
+            "mutants-killed": 65,
+            "mutants-live": 59,
+            "mutation-score": 0.05536626916524702
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSingleLineComment": {
+            "mutants-generated": 1174,
+            "mutants-covered": 126,
+            "mutants-killed": 64,
+            "mutants-live": 62,
+            "mutation-score": 0.054514480408858604
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllIterableOfArrays": {
+            "mutants-generated": 1174,
+            "mutants-covered": 190,
+            "mutants-killed": 92,
+            "mutants-live": 98,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testNewCsvPrinterAppendableNullFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 85,
+            "mutants-killed": 43,
+            "mutants-live": 42,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testInvalidFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 43,
+            "mutants-live": 38,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMultiLineComment": {
+            "mutants-generated": 1174,
+            "mutants-covered": 129,
+            "mutants-killed": 67,
+            "mutants-live": 62,
+            "mutation-score": 0.05706984667802385
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinterWithResultSet": {
+            "mutants-generated": 1174,
+            "mutants-covered": 218,
+            "mutants-killed": 117,
+            "mutants-live": 101,
+            "mutation-score": 0.09965928449744463
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testQuoteCommaFirstChar": {
+            "mutants-generated": 1174,
+            "mutants-covered": 190,
+            "mutants-killed": 83,
+            "mutants-live": 107,
+            "mutation-score": 0.0706984667802385
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainQuoted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 77,
+            "mutants-live": 95,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomRfc4180": {
+            "mutants-generated": 1174,
+            "mutants-covered": 461,
+            "mutants-killed": 219,
+            "mutants-live": 242,
+            "mutation-score": 0.18654173764906304
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrintAllArrayOfArrays": {
+            "mutants-generated": 1174,
+            "mutants-covered": 190,
+            "mutants-killed": 92,
+            "mutants-live": 98,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testJdbcPrinter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 187,
+            "mutants-killed": 95,
+            "mutants-live": 92,
+            "mutation-score": 0.08091993185689948
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 78,
+            "mutants-live": 94,
+            "mutation-score": 0.06643952299829642
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 175,
+            "mutants-killed": 71,
+            "mutants-live": 104,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash3": {
+            "mutants-generated": 1174,
+            "mutants-covered": 175,
+            "mutants-killed": 71,
+            "mutants-live": 104,
+            "mutation-score": 0.06047700170357751
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash4": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 77,
+            "mutants-live": 95,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testEscapeBackslash5": {
+            "mutants-generated": 1174,
+            "mutants-covered": 172,
+            "mutants-killed": 77,
+            "mutants-live": 95,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testSkipHeaderRecordTrue": {
+            "mutants-generated": 1174,
+            "mutants-covered": 142,
+            "mutants-killed": 74,
+            "mutants-live": 68,
+            "mutation-score": 0.06303236797274275
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testRandomDefault": {
+            "mutants-generated": 1174,
+            "mutants-covered": 465,
+            "mutants-killed": 223,
+            "mutants-live": 242,
+            "mutation-score": 0.1899488926746167
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseBackwardCompatibility": {
+            "mutants-generated": 1174,
+            "mutants-covered": 100,
+            "mutants-killed": 51,
+            "mutants-live": 49,
+            "mutation-score": 0.0434412265758092
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithCsvFormatAutoFlushOn": {
+            "mutants-generated": 1174,
+            "mutants-covered": 101,
+            "mutants-killed": 50,
+            "mutants-live": 51,
+            "mutation-score": 0.04258943781942078
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testTrimOnTwoColumns": {
+            "mutants-generated": 1174,
+            "mutants-covered": 173,
+            "mutants-killed": 84,
+            "mutants-live": 89,
+            "mutation-score": 0.07155025553662692
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDelimiterEscaped": {
+            "mutants-generated": 1174,
+            "mutants-covered": 174,
+            "mutants-killed": 91,
+            "mutants-live": 83,
+            "mutation-score": 0.07751277683134583
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPostgreSQLNullStringDefaultCsv": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 143,
+            "mutants-killed": 76,
+            "mutants-live": 67,
+            "mutation-score": 0.06473594548551959
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testParseCustomNullValues": {
+            "mutants-generated": 1174,
+            "mutants-covered": 397,
+            "mutants-killed": 168,
+            "mutants-live": 229,
+            "mutation-score": 0.14310051107325383
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintCustomNullValues": {
+            "mutants-generated": 1174,
+            "mutants-covered": 192,
+            "mutants-killed": 94,
+            "mutants-live": 98,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintNullValues": {
+            "mutants-generated": 1174,
+            "mutants-covered": 191,
+            "mutants-killed": 94,
+            "mutants-live": 97,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testHeaderCommentExcel": {
+            "mutants-generated": 1174,
+            "mutants-covered": 222,
+            "mutants-killed": 112,
+            "mutants-live": 110,
+            "mutation-score": 0.09540034071550256
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrinter1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 92,
+            "mutants-live": 97,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testExcelPrinter2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 202,
+            "mutants-killed": 104,
+            "mutants-live": 98,
+            "mutation-score": 0.08858603066439523
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithFlushOn": {
+            "mutants-generated": 1174,
+            "mutants-covered": 99,
+            "mutants-killed": 48,
+            "mutants-live": 51,
+            "mutation-score": 0.04088586030664395
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMySqlNullOutput": {
+            "mutants-generated": 1174,
+            "mutants-covered": 470,
+            "mutants-killed": 234,
+            "mutants-live": 236,
+            "mutation-score": 0.19931856899488926
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testMySqlNullStringDefault": {
+            "mutants-generated": 1174,
+            "mutants-covered": 81,
+            "mutants-killed": 41,
+            "mutants-live": 40,
+            "mutation-score": 0.03492333901192504
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testNewCSVPrinterNullAppendableFormat": {
+            "mutants-generated": 1174,
+            "mutants-covered": 84,
+            "mutants-killed": 43,
+            "mutants-live": 41,
+            "mutation-score": 0.036626916524701875
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPlainEscaped": {
+            "mutants-generated": 1174,
+            "mutants-covered": 156,
+            "mutants-killed": 75,
+            "mutants-live": 81,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testPrintToFileWithDefaultCharset": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 94,
+            "mutants-live": 95,
+            "mutation-score": 0.08006814310051108
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testCloseWithFlushOff": {
+            "mutants-generated": 1174,
+            "mutants-covered": 98,
+            "mutants-killed": 49,
+            "mutants-live": 49,
+            "mutation-score": 0.041737649063032366
+        },
+        "org.apache.commons.csv.CSVPrinterTest::testDisabledComment": {
+            "mutants-generated": 1174,
+            "mutants-covered": 103,
+            "mutants-killed": 48,
+            "mutants-live": 55,
+            "mutation-score": 0.04088586030664395
+        },
+        "org.apache.commons.csv.CSVRecordTest::testRemoveAndAddColumns": {
+            "mutants-generated": 1174,
+            "mutants-covered": 189,
+            "mutants-killed": 91,
+            "mutants-live": 98,
+            "mutation-score": 0.07751277683134583
+        },
+        "org.apache.commons.csv.CSVRecordTest::testPutInMap": {
+            "mutants-generated": 1174,
+            "mutants-covered": 8,
+            "mutants-killed": 3,
+            "mutants-live": 5,
+            "mutation-score": 0.002555366269165247
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsConsistent": {
+            "mutants-generated": 1174,
+            "mutants-covered": 11,
+            "mutants-killed": 8,
+            "mutants-live": 3,
+            "mutation-score": 0.0068143100511073255
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsSet": {
+            "mutants-generated": 1174,
+            "mutants-covered": 15,
+            "mutants-killed": 10,
+            "mutants-live": 5,
+            "mutation-score": 0.008517887563884156
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMap": {
+            "mutants-generated": 1174,
+            "mutants-covered": 8,
+            "mutants-killed": 3,
+            "mutants-live": 5,
+            "mutation-score": 0.002555366269165247
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIsMapped": {
+            "mutants-generated": 1174,
+            "mutants-covered": 8,
+            "mutants-killed": 6,
+            "mutants-live": 2,
+            "mutation-score": 0.005110732538330494
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetStringInconsistentRecord": {
+            "mutants-generated": 1174,
+            "mutants-covered": 5,
+            "mutants-killed": 1,
+            "mutants-live": 4,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMapWithShortRecord": {
+            "mutants-generated": 1174,
+            "mutants-covered": 306,
+            "mutants-killed": 81,
+            "mutants-live": 225,
+            "mutation-score": 0.06899488926746167
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetStringNoHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 4,
+            "mutants-killed": 2,
+            "mutants-live": 2,
+            "mutation-score": 0.0017035775127768314
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedPositiveInt": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedNegativeInt": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedEnum": {
+            "mutants-generated": 1174,
+            "mutants-covered": 5,
+            "mutants-killed": 2,
+            "mutants-live": 3,
+            "mutation-score": 0.0017035775127768314
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetUnmappedName": {
+            "mutants-generated": 1174,
+            "mutants-covered": 5,
+            "mutants-killed": 2,
+            "mutants-live": 3,
+            "mutation-score": 0.0017035775127768314
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetInt": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testGetString": {
+            "mutants-generated": 1174,
+            "mutants-covered": 5,
+            "mutants-killed": 1,
+            "mutants-live": 4,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testIterator": {
+            "mutants-generated": 1174,
+            "mutants-covered": 3,
+            "mutants-killed": 1,
+            "mutants-live": 2,
+            "mutation-score": 0.0008517887563884157
+        },
+        "org.apache.commons.csv.CSVRecordTest::testToMapWithNoHeader": {
+            "mutants-generated": 1174,
+            "mutants-covered": 277,
+            "mutants-killed": 75,
+            "mutants-live": 202,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testEmptyInput": {
+            "mutants-generated": 1174,
+            "mutants-covered": 33,
+            "mutants-killed": 6,
+            "mutants-live": 27,
+            "mutation-score": 0.005110732538330494
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadChar": {
+            "mutants-generated": 1174,
+            "mutants-covered": 109,
+            "mutants-killed": 56,
+            "mutants-live": 53,
+            "mutation-score": 0.04770017035775128
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLine": {
+            "mutants-generated": 1174,
+            "mutants-covered": 52,
+            "mutants-killed": 19,
+            "mutants-live": 33,
+            "mutation-score": 0.016183986371379896
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLookahead1": {
+            "mutants-generated": 1174,
+            "mutants-covered": 58,
+            "mutants-killed": 42,
+            "mutants-live": 16,
+            "mutation-score": 0.03577512776831346
+        },
+        "org.apache.commons.csv.ExtendedBufferedReaderTest::testReadLookahead2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 43,
+            "mutants-killed": 19,
+            "mutants-live": 24,
+            "mutation-score": 0.016183986371379896
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken4": {
+            "mutants-generated": 1174,
+            "mutants-covered": 294,
+            "mutants-killed": 120,
+            "mutants-live": 174,
+            "mutation-score": 0.10221465076660988
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken5": {
+            "mutants-generated": 1174,
+            "mutants-covered": 264,
+            "mutants-killed": 106,
+            "mutants-live": 158,
+            "mutation-score": 0.09028960817717206
+        },
+        "org.apache.commons.csv.LexerTest::testNextToken6": {
+            "mutants-generated": 1174,
+            "mutants-covered": 266,
+            "mutants-killed": 102,
+            "mutants-live": 164,
+            "mutation-score": 0.0868824531516184
+        },
+        "org.apache.commons.csv.LexerTest::testTab": {
+            "mutants-generated": 1174,
+            "mutants-covered": 204,
+            "mutants-killed": 75,
+            "mutants-live": 129,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.LexerTest::testSurroundingSpacesAreDeleted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 243,
+            "mutants-killed": 110,
+            "mutants-live": 133,
+            "mutation-score": 0.09369676320272573
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedControlCharacter2": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 77,
+            "mutants-live": 132,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.LexerTest::testCommentsAndEmptyLines": {
+            "mutants-generated": 1174,
+            "mutants-covered": 217,
+            "mutants-killed": 102,
+            "mutants-live": 115,
+            "mutation-score": 0.0868824531516184
+        },
+        "org.apache.commons.csv.LexerTest::testCR": {
+            "mutants-generated": 1174,
+            "mutants-covered": 214,
+            "mutants-killed": 81,
+            "mutants-live": 133,
+            "mutation-score": 0.06899488926746167
+        },
+        "org.apache.commons.csv.LexerTest::testFF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 204,
+            "mutants-killed": 74,
+            "mutants-live": 130,
+            "mutation-score": 0.06303236797274275
+        },
+        "org.apache.commons.csv.LexerTest::testLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 210,
+            "mutants-killed": 78,
+            "mutants-live": 132,
+            "mutation-score": 0.06643952299829642
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedTab": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 77,
+            "mutants-live": 132,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.LexerTest::testComments": {
+            "mutants-generated": 1174,
+            "mutants-covered": 221,
+            "mutants-killed": 103,
+            "mutants-live": 118,
+            "mutation-score": 0.08773424190800681
+        },
+        "org.apache.commons.csv.LexerTest::testSurroundingTabsAreDeleted": {
+            "mutants-generated": 1174,
+            "mutants-covered": 243,
+            "mutants-killed": 110,
+            "mutants-live": 133,
+            "mutation-score": 0.09369676320272573
+        },
+        "org.apache.commons.csv.LexerTest::testEscapingAtEOF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 199,
+            "mutants-killed": 66,
+            "mutants-live": 133,
+            "mutation-score": 0.056218057921635436
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedMySqlNullValue": {
+            "mutants-generated": 1174,
+            "mutants-covered": 235,
+            "mutants-killed": 83,
+            "mutants-live": 152,
+            "mutation-score": 0.0706984667802385
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedBackspace": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 77,
+            "mutants-live": 132,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.LexerTest::testBackslashWithEscaping": {
+            "mutants-generated": 1174,
+            "mutants-covered": 233,
+            "mutants-killed": 98,
+            "mutants-live": 135,
+            "mutation-score": 0.08347529812606473
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedCharacter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 235,
+            "mutants-killed": 83,
+            "mutants-live": 152,
+            "mutation-score": 0.0706984667802385
+        },
+        "org.apache.commons.csv.LexerTest::testBackslashWithoutEscaping": {
+            "mutants-generated": 1174,
+            "mutants-covered": 213,
+            "mutants-killed": 89,
+            "mutants-live": 124,
+            "mutation-score": 0.075809199318569
+        },
+        "org.apache.commons.csv.LexerTest::testDelimiterIsWhitespace": {
+            "mutants-generated": 1174,
+            "mutants-covered": 243,
+            "mutants-killed": 109,
+            "mutants-live": 134,
+            "mutation-score": 0.09284497444633731
+        },
+        "org.apache.commons.csv.LexerTest::testIgnoreEmptyLines": {
+            "mutants-generated": 1174,
+            "mutants-covered": 217,
+            "mutants-killed": 105,
+            "mutants-live": 112,
+            "mutation-score": 0.08943781942078365
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedControlCharacter": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 78,
+            "mutants-live": 131,
+            "mutation-score": 0.06643952299829642
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedCR": {
+            "mutants-generated": 1174,
+            "mutants-covered": 210,
+            "mutants-killed": 77,
+            "mutants-live": 133,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedFF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 209,
+            "mutants-killed": 77,
+            "mutants-live": 132,
+            "mutation-score": 0.065587734241908
+        },
+        "org.apache.commons.csv.LexerTest::testEscapedLF": {
+            "mutants-generated": 1174,
+            "mutants-covered": 213,
+            "mutants-killed": 79,
+            "mutants-live": 134,
+            "mutation-score": 0.06729131175468483
+        },
+        "org.apache.commons.csv.LexerTest::testBackspace": {
+            "mutants-generated": 1174,
+            "mutants-covered": 204,
+            "mutants-killed": 75,
+            "mutants-live": 129,
+            "mutation-score": 0.06388415672913117
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testHasContent": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testHasType": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testMatches": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.TokenMatchersTest::testIsReady": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.issues.JiraCsv164Test::testJiraCsv154_withCommentMarker": {
+            "mutants-generated": 1174,
+            "mutants-covered": 224,
+            "mutants-killed": 72,
+            "mutants-live": 152,
+            "mutation-score": 0.06132879045996593
+        },
+        "org.apache.commons.csv.issues.JiraCsv164Test::testJiraCsv154_withHeaderComments": {
+            "mutants-generated": 1174,
+            "mutants-covered": 224,
+            "mutants-killed": 72,
+            "mutants-live": 152,
+            "mutation-score": 0.06132879045996593
+        },
+        "org.apache.commons.csv.issues.JiraCsv167Test::parse": {
+            "mutants-generated": 1174,
+            "mutants-covered": 0,
+            "mutants-killed": 0,
+            "mutants-live": 0,
+            "mutation-score": 0.0
+        },
+        "org.apache.commons.csv.issues.JiraCsv198Test::test": {
+            "mutants-generated": 1174,
+            "mutants-covered": 304,
+            "mutants-killed": 107,
+            "mutants-live": 197,
+            "mutation-score": 0.09114139693356048
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeMinimal": {
+            "mutants-generated": 1174,
+            "mutants-covered": 185,
+            "mutants-killed": 91,
+            "mutants-live": 94,
+            "mutation-score": 0.07751277683134583
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithoutQuoteMode": {
+            "mutants-generated": 1174,
+            "mutants-covered": 185,
+            "mutants-killed": 92,
+            "mutants-live": 93,
+            "mutation-score": 0.07836456558773425
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeNonNumeric": {
+            "mutants-generated": 1174,
+            "mutants-covered": 147,
+            "mutants-killed": 83,
+            "mutants-live": 64,
+            "mutation-score": 0.0706984667802385
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeAllNonNull": {
+            "mutants-generated": 1174,
+            "mutants-covered": 148,
+            "mutants-killed": 84,
+            "mutants-live": 64,
+            "mutation-score": 0.07155025553662692
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithEmptyValues": {
+            "mutants-generated": 1174,
+            "mutants-covered": 145,
+            "mutants-killed": 81,
+            "mutants-live": 64,
+            "mutation-score": 0.06899488926746167
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testWithoutNullString": {
+            "mutants-generated": 1174,
+            "mutants-covered": 147,
+            "mutants-killed": 82,
+            "mutants-live": 65,
+            "mutation-score": 0.06984667802385008
+        },
+        "org.apache.commons.csv.issues.JiraCsv203Test::testQuoteModeAll": {
+            "mutants-generated": 1174,
+            "mutants-covered": 148,
+            "mutants-killed": 85,
+            "mutants-live": 63,
+            "mutation-score": 0.07240204429301533
+        }
+    }
+}
