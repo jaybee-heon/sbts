@@ -1,0 +1,4099 @@
+{
+    "JacksonCore_26": {
+        "com.fasterxml.jackson.core.JsonpCharacterEscapesTest::testGetEscapeSequenceOne": {
+            "mutants-generated": 30486,
+            "mutants-covered": 247,
+            "mutants-killed": 63,
+            "mutants-live": 184,
+            "mutation-score": 0.0020665223381224167
+        },
+        "com.fasterxml.jackson.core.JsonpCharacterEscapesTest::testGetEscapeSequenceTwo": {
+            "mutants-generated": 30486,
+            "mutants-covered": 247,
+            "mutants-killed": 63,
+            "mutants-live": 184,
+            "mutation-score": 0.0020665223381224167
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testViaParser": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1210,
+            "mutants-killed": 292,
+            "mutants-live": 918,
+            "mutation-score": 0.009578167027488028
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testViaGenerator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 933,
+            "mutants-killed": 180,
+            "mutants-live": 753,
+            "mutation-score": 0.0059043495374926196
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testGeneratorWithRoot": {
+            "mutants-generated": 30486,
+            "mutants-covered": 850,
+            "mutants-killed": 179,
+            "mutants-live": 671,
+            "mutation-score": 0.005871547595617661
+        },
+        "com.fasterxml.jackson.core.PointerFromContextTest::testParserWithRoot": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1139,
+            "mutants-killed": 289,
+            "mutants-live": 850,
+            "mutation-score": 0.009479761201863151
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testEofExceptionsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1604,
+            "mutants-killed": 376,
+            "mutants-live": 1228,
+            "mutation-score": 0.012333530144984584
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testEofExceptionsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1108,
+            "mutants-killed": 233,
+            "mutants-live": 875,
+            "mutation-score": 0.007642852456865447
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testAccessToGenerator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 571,
+            "mutants-killed": 98,
+            "mutants-live": 473,
+            "mutation-score": 0.0032145903037459817
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testAccessToParser": {
+            "mutants-generated": 30486,
+            "mutants-covered": 716,
+            "mutants-killed": 125,
+            "mutants-live": 591,
+            "mutation-score": 0.004100242734369874
+        },
+        "com.fasterxml.jackson.core.TestExceptions::testOriginalMesssage": {
+            "mutants-generated": 30486,
+            "mutants-covered": 184,
+            "mutants-killed": 11,
+            "mutants-live": 173,
+            "mutation-score": 0.000360821360624549
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testLocation": {
+            "mutants-generated": 30486,
+            "mutants-covered": 725,
+            "mutants-killed": 117,
+            "mutants-live": 608,
+            "mutation-score": 0.003837827199370203
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testGenerationException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 625,
+            "mutants-killed": 109,
+            "mutants-live": 516,
+            "mutation-score": 0.003575411664370531
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testBase64Variant": {
+            "mutants-generated": 30486,
+            "mutants-covered": 199,
+            "mutants-killed": 29,
+            "mutants-live": 170,
+            "mutation-score": 0.0009512563143738109
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testJsonFactorySerializable": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1730,
+            "mutants-killed": 495,
+            "mutants-live": 1235,
+            "mutation-score": 0.016236961228104703
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testPrettyPrinter": {
+            "mutants-generated": 30486,
+            "mutants-covered": 163,
+            "mutants-killed": 11,
+            "mutants-live": 152,
+            "mutation-score": 0.000360821360624549
+        },
+        "com.fasterxml.jackson.core.TestJDKSerializability::testParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 776,
+            "mutants-killed": 107,
+            "mutants-live": 669,
+            "mutation-score": 0.0035098077806206126
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testSimplePath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 309,
+            "mutants-killed": 79,
+            "mutants-live": 230,
+            "mutation-score": 0.002591353408121761
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testEmpty": {
+            "mutants-generated": 30486,
+            "mutants-covered": 177,
+            "mutants-killed": 14,
+            "mutants-live": 163,
+            "mutation-score": 0.00045922718624942597
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testLast": {
+            "mutants-generated": 30486,
+            "mutants-covered": 290,
+            "mutants-killed": 26,
+            "mutants-live": 264,
+            "mutation-score": 0.000852850488748934
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testAppendWithFinalSlash": {
+            "mutants-generated": 30486,
+            "mutants-covered": 305,
+            "mutants-killed": 34,
+            "mutants-live": 271,
+            "mutation-score": 0.001115266023748606
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testWonkyNumber173": {
+            "mutants-generated": 30486,
+            "mutants-covered": 215,
+            "mutants-killed": 17,
+            "mutants-live": 198,
+            "mutation-score": 0.000557633011874303
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testLongNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 237,
+            "mutants-killed": 31,
+            "mutants-live": 206,
+            "mutation-score": 0.0010168601981237289
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testSimplePathLonger": {
+            "mutants-generated": 30486,
+            "mutants-covered": 238,
+            "mutants-killed": 36,
+            "mutants-live": 202,
+            "mutation-score": 0.001180869907498524
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testQuotedPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 264,
+            "mutants-killed": 59,
+            "mutants-live": 205,
+            "mutation-score": 0.001935314570622581
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testAppend": {
+            "mutants-generated": 30486,
+            "mutants-covered": 294,
+            "mutants-killed": 26,
+            "mutants-live": 268,
+            "mutation-score": 0.000852850488748934
+        },
+        "com.fasterxml.jackson.core.TestJsonPointer::testIZeroIndex": {
+            "mutants-generated": 30486,
+            "mutants-covered": 212,
+            "mutants-killed": 33,
+            "mutants-live": 179,
+            "mutation-score": 0.001082464081873647
+        },
+        "com.fasterxml.jackson.core.TestLocation::testDisableSourceInclusion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1255,
+            "mutants-killed": 241,
+            "mutants-live": 1014,
+            "mutation-score": 0.007905267991865118
+        },
+        "com.fasterxml.jackson.core.TestLocation::testBasicToString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 189,
+            "mutants-killed": 32,
+            "mutants-live": 157,
+            "mutation-score": 0.001049662139998688
+        },
+        "com.fasterxml.jackson.core.TestLocation::testTruncatedSource": {
+            "mutants-generated": 30486,
+            "mutants-covered": 176,
+            "mutants-killed": 18,
+            "mutants-live": 158,
+            "mutation-score": 0.000590434953749262
+        },
+        "com.fasterxml.jackson.core.TestLocation::testBasics": {
+            "mutants-generated": 30486,
+            "mutants-covered": 167,
+            "mutants-killed": 6,
+            "mutants-live": 161,
+            "mutation-score": 0.000196811651249754
+        },
+        "com.fasterxml.jackson.core.TestVersions::testCoreVersions": {
+            "mutants-generated": 30486,
+            "mutants-covered": 643,
+            "mutants-killed": 91,
+            "mutants-live": 552,
+            "mutation-score": 0.0029849767106212687
+        },
+        "com.fasterxml.jackson.core.TestVersions::testMisc": {
+            "mutants-generated": 30486,
+            "mutants-covered": 167,
+            "mutants-killed": 19,
+            "mutants-live": 148,
+            "mutation-score": 0.0006232368956242209
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToAndCreatesVersionTaking6ArgumentsAndUnknownVersion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 14,
+            "mutants-killed": 2,
+            "mutants-live": 12,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToReturningZero": {
+            "mutants-generated": 30486,
+            "mutants-covered": 45,
+            "mutants-killed": 14,
+            "mutants-live": 31,
+            "mutation-score": 0.00045922718624942597
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCreatesVersionTaking6ArgumentsAndCallsCompareTo": {
+            "mutants-generated": 30486,
+            "mutants-covered": 20,
+            "mutants-killed": 6,
+            "mutants-live": 14,
+            "mutation-score": 0.000196811651249754
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToOne": {
+            "mutants-generated": 30486,
+            "mutants-covered": 40,
+            "mutants-killed": 23,
+            "mutants-live": 17,
+            "mutation-score": 0.0007544446631240569
+        },
+        "com.fasterxml.jackson.core.VersionTest::testCompareToTwo": {
+            "mutants-generated": 30486,
+            "mutants-covered": 30,
+            "mutants-killed": 16,
+            "mutants-live": 14,
+            "mutation-score": 0.000524831069999344
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInvalidChar": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1468,
+            "mutants-killed": 342,
+            "mutants-live": 1126,
+            "mutation-score": 0.011218264121235976
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testBase64UsingReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1231,
+            "mutants-killed": 428,
+            "mutants-live": 803,
+            "mutation-score": 0.01403923112248245
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testWithEscaped": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1711,
+            "mutants-killed": 623,
+            "mutants-live": 1088,
+            "mutation-score": 0.020435609788099454
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testFailDueToMissingPadding": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1859,
+            "mutants-killed": 498,
+            "mutants-live": 1361,
+            "mutation-score": 0.01633536705372958
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInvalidTokenForBase64": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1174,
+            "mutants-killed": 237,
+            "mutants-live": 937,
+            "mutation-score": 0.007774060224365283
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testStreaming": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3120,
+            "mutants-killed": 1319,
+            "mutants-live": 1801,
+            "mutation-score": 0.04326576133307092
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testBase64UsingInputStream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1682,
+            "mutants-killed": 622,
+            "mutants-live": 1060,
+            "mutation-score": 0.020402807846224495
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testOkMissingPadding": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1601,
+            "mutants-killed": 511,
+            "mutants-live": 1090,
+            "mutation-score": 0.01676179229810405
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testWithEscapedPadding": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2263,
+            "mutants-killed": 939,
+            "mutants-live": 1324,
+            "mutation-score": 0.0308010234205865
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testInArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2084,
+            "mutants-killed": 818,
+            "mutants-live": 1266,
+            "mutation-score": 0.02683198845371646
+        },
+        "com.fasterxml.jackson.core.base64.Base64BinaryParsingTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1514,
+            "mutants-killed": 469,
+            "mutants-live": 1045,
+            "mutation-score": 0.01538411073935577
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testCharEncoding": {
+            "mutants-generated": 30486,
+            "mutants-covered": 272,
+            "mutants-killed": 101,
+            "mutants-live": 171,
+            "mutation-score": 0.0033129961293708586
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testProps": {
+            "mutants-generated": 30486,
+            "mutants-covered": 196,
+            "mutants-killed": 31,
+            "mutants-live": 165,
+            "mutation-score": 0.0010168601981237289
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testVariantAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 203,
+            "mutants-killed": 35,
+            "mutants-live": 168,
+            "mutation-score": 0.0011480679656235648
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testConvenienceMethodWithLFs": {
+            "mutants-generated": 30486,
+            "mutants-covered": 425,
+            "mutants-killed": 168,
+            "mutants-live": 257,
+            "mutation-score": 0.005510726234993111
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testErrors": {
+            "mutants-generated": 30486,
+            "mutants-covered": 326,
+            "mutants-killed": 50,
+            "mutants-live": 276,
+            "mutation-score": 0.0016400970937479498
+        },
+        "com.fasterxml.jackson.core.base64.Base64CodecTest::testConvenienceMethods": {
+            "mutants-generated": 30486,
+            "mutants-covered": 488,
+            "mutants-killed": 227,
+            "mutants-live": 261,
+            "mutation-score": 0.007446040805615692
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testSimpleBinaryWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2286,
+            "mutants-killed": 751,
+            "mutants-live": 1535,
+            "mutation-score": 0.02463425834809421
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testBinaryAsEmbeddedObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1031,
+            "mutants-killed": 389,
+            "mutants-live": 642,
+            "mutation-score": 0.01275995538935905
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testStreamingBinaryWrites": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1639,
+            "mutants-killed": 796,
+            "mutants-live": 843,
+            "mutation-score": 0.02611034573246736
+        },
+        "com.fasterxml.jackson.core.base64.Base64GenerationTest::testIssue55": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1135,
+            "mutants-killed": 248,
+            "mutants-live": 887,
+            "mutation-score": 0.008134881584989831
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1613,
+            "mutants-killed": 462,
+            "mutants-live": 1151,
+            "mutation-score": 0.015154497146231056
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1619,
+            "mutants-killed": 480,
+            "mutants-live": 1139,
+            "mutation-score": 0.01574493209998032
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1680,
+            "mutants-killed": 528,
+            "mutants-live": 1152,
+            "mutation-score": 0.01731942530997835
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testMultipleMatchFilteringWithPath3": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1648,
+            "mutants-killed": 459,
+            "mutants-live": 1189,
+            "mutation-score": 0.01505609132060618
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1480,
+            "mutants-killed": 380,
+            "mutants-live": 1100,
+            "mutation-score": 0.01246473791248442
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathRawBinary": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1203,
+            "mutants-killed": 408,
+            "mutants-live": 795,
+            "mutation-score": 0.013383192284983272
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathSkippedArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1609,
+            "mutants-killed": 468,
+            "mutants-live": 1141,
+            "mutation-score": 0.015351308797480812
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testSingleMatchFilteringWithPathAlternate1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 985,
+            "mutants-killed": 292,
+            "mutants-live": 693,
+            "mutation-score": 0.009578167027488028
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testNonFiltering": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1548,
+            "mutants-killed": 539,
+            "mutants-live": 1009,
+            "mutation-score": 0.0176802466706029
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testIndexMatchWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1661,
+            "mutants-killed": 484,
+            "mutants-live": 1177,
+            "mutation-score": 0.015876139867480155
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testIndexMatchWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1644,
+            "mutants-killed": 490,
+            "mutants-live": 1154,
+            "mutation-score": 0.016072951518729908
+        },
+        "com.fasterxml.jackson.core.filter.BasicGeneratorFilteringTest::testWriteStartObjectWithObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 723,
+            "mutants-killed": 188,
+            "mutants-live": 535,
+            "mutation-score": 0.006166765072492292
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1807,
+            "mutants-killed": 547,
+            "mutants-live": 1260,
+            "mutation-score": 0.01794266220560257
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1696,
+            "mutants-killed": 531,
+            "mutants-live": 1165,
+            "mutation-score": 0.017417831135603228
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1700,
+            "mutants-killed": 518,
+            "mutants-live": 1182,
+            "mutation-score": 0.016991405891228762
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1636,
+            "mutants-killed": 508,
+            "mutants-live": 1128,
+            "mutation-score": 0.01666338647247917
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath3": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1587,
+            "mutants-killed": 459,
+            "mutants-live": 1128,
+            "mutation-score": 0.01505609132060618
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithPath4": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1690,
+            "mutants-killed": 490,
+            "mutants-live": 1200,
+            "mutation-score": 0.016072951518729908
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1622,
+            "mutants-killed": 474,
+            "mutants-live": 1148,
+            "mutation-score": 0.015548120448730565
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1612,
+            "mutants-killed": 465,
+            "mutants-live": 1147,
+            "mutation-score": 0.015252902971855933
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testMultipleMatchFilteringWithPath3": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1800,
+            "mutants-killed": 504,
+            "mutants-live": 1296,
+            "mutation-score": 0.016532178704979333
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testTokensSingleMatchWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1288,
+            "mutants-killed": 343,
+            "mutants-live": 945,
+            "mutation-score": 0.011251066063110935
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1401,
+            "mutants-killed": 345,
+            "mutants-live": 1056,
+            "mutation-score": 0.011316669946860853
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1401,
+            "mutants-killed": 363,
+            "mutants-live": 1038,
+            "mutation-score": 0.011907104900610116
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNotAllowMultipleMatchesWithoutPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1512,
+            "mutants-killed": 401,
+            "mutants-live": 1111,
+            "mutation-score": 0.013153578691858557
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testBasicSingleMatchFilteringWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1624,
+            "mutants-killed": 464,
+            "mutants-live": 1160,
+            "mutation-score": 0.015220101029980974
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSkippingForSingleWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1247,
+            "mutants-killed": 312,
+            "mutants-live": 935,
+            "mutation-score": 0.010234205864987207
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testNonFiltering": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1545,
+            "mutants-killed": 526,
+            "mutants-live": 1019,
+            "mutation-score": 0.017253821426228434
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1726,
+            "mutants-killed": 496,
+            "mutants-live": 1230,
+            "mutation-score": 0.016269763169979662
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testIndexMatchWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1732,
+            "mutants-killed": 529,
+            "mutants-live": 1203,
+            "mutation-score": 0.01735222725185331
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testAllowMultipleMatchesWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1762,
+            "mutants-killed": 516,
+            "mutants-live": 1246,
+            "mutation-score": 0.016925802007478844
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath1": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1660,
+            "mutants-killed": 526,
+            "mutants-live": 1134,
+            "mutation-score": 0.017253821426228434
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1624,
+            "mutants-killed": 466,
+            "mutants-live": 1158,
+            "mutation-score": 0.015285704913730894
+        },
+        "com.fasterxml.jackson.core.filter.BasicParserFilteringTest::testSingleMatchFilteringWithPath3": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1643,
+            "mutants-killed": 475,
+            "mutants-live": 1168,
+            "mutation-score": 0.015580922390605524
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testSimplePropertyWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1772,
+            "mutants-killed": 534,
+            "mutants-live": 1238,
+            "mutation-score": 0.017516236961228105
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testSimplePropertyWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1733,
+            "mutants-killed": 512,
+            "mutants-live": 1221,
+            "mutation-score": 0.01679459423997901
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayNestedWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1983,
+            "mutants-killed": 630,
+            "mutants-live": 1353,
+            "mutation-score": 0.020665223381224167
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayElementWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1675,
+            "mutants-killed": 479,
+            "mutants-live": 1196,
+            "mutation-score": 0.01571213015810536
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayNestedWithoutPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1826,
+            "mutants-killed": 543,
+            "mutants-live": 1283,
+            "mutation-score": 0.017811454438102736
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerGeneratorFilteringTest::testArrayElementWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1826,
+            "mutants-killed": 560,
+            "mutants-live": 1266,
+            "mutation-score": 0.018369087449977037
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimpleWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1947,
+            "mutants-killed": 627,
+            "mutants-live": 1320,
+            "mutation-score": 0.02056681755559929
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimpleNoPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1894,
+            "mutants-killed": 591,
+            "mutants-live": 1303,
+            "mutation-score": 0.019385947648100768
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimplestNoPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1515,
+            "mutants-killed": 371,
+            "mutants-live": 1144,
+            "mutation-score": 0.012169520435609787
+        },
+        "com.fasterxml.jackson.core.filter.JsonPointerParserFilteringTest::testSimplestWithPath": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1676,
+            "mutants-killed": 464,
+            "mutants-live": 1212,
+            "mutation-score": 0.015220101029980974
+        },
+        "com.fasterxml.jackson.core.format.DataFormatMatcherTest::testGetDataStream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 161,
+            "mutants-killed": 6,
+            "mutants-live": 155,
+            "mutation-score": 0.000196811651249754
+        },
+        "com.fasterxml.jackson.core.format.DataFormatMatcherTest::testCreatesDataFormatMatcherTwo": {
+            "mutants-generated": 30486,
+            "mutants-covered": 160,
+            "mutants-killed": 0,
+            "mutants-live": 160,
+            "mutation-score": 0.0
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1256,
+            "mutants-killed": 297,
+            "mutants-live": 959,
+            "mutation-score": 0.009742176736862822
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1634,
+            "mutants-killed": 469,
+            "mutants-live": 1165,
+            "mutation-score": 0.01538411073935577
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleValidString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1148,
+            "mutants-killed": 266,
+            "mutants-live": 882,
+            "mutation-score": 0.008725316538739094
+        },
+        "com.fasterxml.jackson.core.format.TestJsonFormatDetection::testSimpleInvalid": {
+            "mutants-generated": 30486,
+            "mutants-covered": 275,
+            "mutants-killed": 18,
+            "mutants-live": 257,
+            "mutation-score": 0.000590434953749262
+        },
+        "com.fasterxml.jackson.core.io.SegmentedStringWriterTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 304,
+            "mutants-killed": 61,
+            "mutants-live": 243,
+            "mutation-score": 0.002000918454372499
+        },
+        "com.fasterxml.jackson.core.io.TestCharTypes::testAppendQuoted0_31": {
+            "mutants-generated": 30486,
+            "mutants-covered": 418,
+            "mutants-killed": 98,
+            "mutants-live": 320,
+            "mutation-score": 0.0032145903037459817
+        },
+        "com.fasterxml.jackson.core.io.TestIOContext::testAllocations": {
+            "mutants-generated": 30486,
+            "mutants-covered": 218,
+            "mutants-killed": 18,
+            "mutants-live": 200,
+            "mutation-score": 0.000590434953749262
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteAsString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 494,
+            "mutants-killed": 132,
+            "mutants-live": 362,
+            "mutation-score": 0.004329856327494588
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteLongAsString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 538,
+            "mutants-killed": 151,
+            "mutants-live": 387,
+            "mutation-score": 0.004953093223118809
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteLongCharSequenceAsString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 429,
+            "mutants-killed": 91,
+            "mutants-live": 338,
+            "mutation-score": 0.0029849767106212687
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testCtrlChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 507,
+            "mutants-killed": 151,
+            "mutants-live": 356,
+            "mutation-score": 0.004953093223118809
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteAsUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 970,
+            "mutants-killed": 384,
+            "mutants-live": 586,
+            "mutation-score": 0.012595945679984255
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testEncodeAsUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 557,
+            "mutants-killed": 178,
+            "mutants-live": 379,
+            "mutation-score": 0.005838745653742702
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testQuoteCharSequenceAsString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 433,
+            "mutants-killed": 98,
+            "mutants-live": 335,
+            "mutation-score": 0.0032145903037459817
+        },
+        "com.fasterxml.jackson.core.io.TestJsonStringEncoder::testCharSequenceWithCtrlChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 443,
+            "mutants-killed": 116,
+            "mutants-live": 327,
+            "mutation-score": 0.0038050252574952435
+        },
+        "com.fasterxml.jackson.core.io.TestMergedStream::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 261,
+            "mutants-killed": 42,
+            "mutants-live": 219,
+            "mutation-score": 0.0013776815587482779
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSimpleAscii": {
+            "mutants-generated": 30486,
+            "mutants-covered": 298,
+            "mutants-killed": 57,
+            "mutants-live": 241,
+            "mutation-score": 0.0018697106868726628
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSurrogatesFail": {
+            "mutants-generated": 30486,
+            "mutants-covered": 283,
+            "mutants-killed": 44,
+            "mutants-live": 239,
+            "mutation-score": 0.001443285442498196
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSurrogatesOk": {
+            "mutants-generated": 30486,
+            "mutants-covered": 447,
+            "mutants-killed": 151,
+            "mutants-live": 296,
+            "mutation-score": 0.004953093223118809
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testFlushAfterClose": {
+            "mutants-generated": 30486,
+            "mutants-covered": 258,
+            "mutants-killed": 39,
+            "mutants-live": 219,
+            "mutation-score": 0.0012792757331234008
+        },
+        "com.fasterxml.jackson.core.io.UTF8WriterTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 457,
+            "mutants-killed": 158,
+            "mutants-live": 299,
+            "mutation-score": 0.005182706816243522
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testLongArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2034,
+            "mutants-killed": 720,
+            "mutants-live": 1314,
+            "mutation-score": 0.023617398149970478
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testIntArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2000,
+            "mutants-killed": 701,
+            "mutants-live": 1299,
+            "mutation-score": 0.02299416125434626
+        },
+        "com.fasterxml.jackson.core.json.ArrayGenerationTest::testDoubleArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2051,
+            "mutants-killed": 644,
+            "mutants-live": 1407,
+            "mutation-score": 0.021124450567473595
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testLongValueWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2801,
+            "mutants-killed": 1312,
+            "mutants-live": 1489,
+            "mutation-score": 0.043036147739946205
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testRootIntsWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1251,
+            "mutants-killed": 368,
+            "mutants-live": 883,
+            "mutation-score": 0.01207111460998491
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testIntValueWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2539,
+            "mutants-killed": 1119,
+            "mutants-live": 1420,
+            "mutation-score": 0.036705372958079116
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testBooleanWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 994,
+            "mutants-killed": 196,
+            "mutants-live": 798,
+            "mutation-score": 0.0064291806074919635
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testGetOutputBufferd": {
+            "mutants-generated": 30486,
+            "mutants-covered": 895,
+            "mutants-killed": 236,
+            "mutants-live": 659,
+            "mutation-score": 0.007741258282490324
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testOutputContext": {
+            "mutants-generated": 30486,
+            "mutants-covered": 852,
+            "mutants-killed": 151,
+            "mutants-live": 701,
+            "mutation-score": 0.004953093223118809
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testFieldValueWrites": {
+            "mutants-generated": 30486,
+            "mutants-covered": 818,
+            "mutants-killed": 225,
+            "mutants-live": 593,
+            "mutation-score": 0.0073804369218657745
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testGetOutputTarget": {
+            "mutants-generated": 30486,
+            "mutants-covered": 631,
+            "mutants-killed": 96,
+            "mutants-live": 535,
+            "mutation-score": 0.003148986419996064
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testNullWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 939,
+            "mutants-killed": 179,
+            "mutants-live": 760,
+            "mutation-score": 0.005871547595617661
+        },
+        "com.fasterxml.jackson.core.json.GeneratorBasicTest::testStringWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1432,
+            "mutants-killed": 326,
+            "mutants-live": 1106,
+            "mutation-score": 0.010693433051236633
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringFromReaderWithTooFewCharacters": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1077,
+            "mutants-killed": 163,
+            "mutants-live": 914,
+            "mutation-score": 0.005346716525618317
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringFromNullReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 862,
+            "mutants-killed": 144,
+            "mutants-live": 718,
+            "mutation-score": 0.004723479629994096
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringNotFieldNameBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 632,
+            "mutants-killed": 109,
+            "mutants-live": 523,
+            "mutation-score": 0.003575411664370531
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailFromReaderTest::testFailOnWritingStringNotFieldNameChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 583,
+            "mutants-killed": 104,
+            "mutants-live": 479,
+            "mutation-score": 0.003411401954995736
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testDupFieldNameWrites": {
+            "mutants-generated": 30486,
+            "mutants-covered": 845,
+            "mutants-killed": 142,
+            "mutants-live": 703,
+            "mutation-score": 0.004657875746244177
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingFieldNameInRoot": {
+            "mutants-generated": 30486,
+            "mutants-covered": 657,
+            "mutants-killed": 101,
+            "mutants-live": 556,
+            "mutation-score": 0.0033129961293708586
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 632,
+            "mutants-killed": 109,
+            "mutants-live": 523,
+            "mutation-score": 0.003575411664370531
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFailTest::testFailOnWritingStringNotFieldNameChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 583,
+            "mutants-killed": 104,
+            "mutants-live": 479,
+            "mutation-score": 0.003411401954995736
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testFieldNameQuotingEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1065,
+            "mutants-killed": 268,
+            "mutants-live": 797,
+            "mutation-score": 0.008790920422489011
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testNonNumericQuoting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 825,
+            "mutants-killed": 226,
+            "mutants-live": 599,
+            "mutation-score": 0.007413238863740733
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testTooBigBigDecimal": {
+            "mutants-generated": 30486,
+            "mutants-covered": 912,
+            "mutants-killed": 195,
+            "mutants-live": 717,
+            "mutation-score": 0.0063963786656170045
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testFieldNameQuoting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 800,
+            "mutants-killed": 207,
+            "mutants-live": 593,
+            "mutation-score": 0.006790001968116513
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testNumbersAsJSONStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 856,
+            "mutants-killed": 243,
+            "mutants-live": 613,
+            "mutation-score": 0.007970871875615036
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testConfigOverrides": {
+            "mutants-generated": 30486,
+            "mutants-covered": 562,
+            "mutants-killed": 93,
+            "mutants-live": 469,
+            "mutation-score": 0.0030505805943711866
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testChangeOnGenerator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 709,
+            "mutants-killed": 192,
+            "mutants-live": 517,
+            "mutation-score": 0.006297972839992128
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testConfigDefaults": {
+            "mutants-generated": 30486,
+            "mutants-covered": 536,
+            "mutants-killed": 99,
+            "mutants-live": 437,
+            "mutation-score": 0.0032473922456209407
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testBigDecimalAsPlain": {
+            "mutants-generated": 30486,
+            "mutants-covered": 590,
+            "mutants-killed": 133,
+            "mutants-live": 457,
+            "mutation-score": 0.004362658269369547
+        },
+        "com.fasterxml.jackson.core.json.GeneratorFeaturesTest::testBigDecimalAsPlainString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 753,
+            "mutants-killed": 163,
+            "mutants-live": 590,
+            "mutation-score": 0.005346716525618317
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testCopy": {
+            "mutants-generated": 30486,
+            "mutants-covered": 226,
+            "mutants-killed": 52,
+            "mutants-live": 174,
+            "mutation-score": 0.001705700977497868
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testJsonWithFiles": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1168,
+            "mutants-killed": 280,
+            "mutants-live": 888,
+            "mutation-score": 0.009184543724988519
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testGeneratorFeatures": {
+            "mutants-generated": 30486,
+            "mutants-covered": 187,
+            "mutants-killed": 16,
+            "mutants-live": 171,
+            "mutation-score": 0.000524831069999344
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testDisablingBufferRecycling": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1191,
+            "mutants-killed": 275,
+            "mutants-live": 916,
+            "mutation-score": 0.009020534015613724
+        },
+        "com.fasterxml.jackson.core.json.JsonFactoryTest::testFactoryFeatures": {
+            "mutants-generated": 30486,
+            "mutants-covered": 176,
+            "mutants-killed": 19,
+            "mutants-live": 157,
+            "mutation-score": 0.0006232368956242209
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[ReaderBasedJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 832,
+            "mutants-killed": 147,
+            "mutants-live": 685,
+            "mutation-score": 0.004821885455618973
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[ReaderBasedJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 831,
+            "mutants-killed": 147,
+            "mutants-live": 684,
+            "mutation-score": 0.004821885455618973
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[ReaderBasedJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 832,
+            "mutants-killed": 147,
+            "mutants-live": 685,
+            "mutation-score": 0.004821885455618973
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[ReaderBasedJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 833,
+            "mutants-killed": 148,
+            "mutants-live": 685,
+            "mutation-score": 0.004854687397493932
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[UTF8StreamJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 832,
+            "mutants-killed": 148,
+            "mutants-live": 684,
+            "mutation-score": 0.004854687397493932
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[UTF8StreamJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 831,
+            "mutants-killed": 149,
+            "mutants-live": 682,
+            "mutation-score": 0.004887489339368891
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[UTF8StreamJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 832,
+            "mutants-killed": 149,
+            "mutants-live": 683,
+            "mutation-score": 0.004887489339368891
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[UTF8StreamJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 833,
+            "mutants-killed": 149,
+            "mutants-live": 684,
+            "mutation-score": 0.004887489339368891
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextFieldName[UTF8DataInputJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 862,
+            "mutants-killed": 144,
+            "mutants-live": 718,
+            "mutation-score": 0.004723479629994096
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextToken[UTF8DataInputJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 740,
+            "mutants-killed": 134,
+            "mutants-live": 606,
+            "mutation-score": 0.004395460211244506
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testNullReturnedOnClosedParserOnNextValue[UTF8DataInputJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 806,
+            "mutants-killed": 137,
+            "mutants-live": 669,
+            "mutation-score": 0.0044938660368693826
+        },
+        "com.fasterxml.jackson.core.json.JsonParserClosedCaseTest::testFalseReturnedOnClosedParserOnNextFieldNameSerializedString[UTF8DataInputJsonParser]": {
+            "mutants-generated": 30486,
+            "mutants-covered": 810,
+            "mutants-killed": 134,
+            "mutants-live": 676,
+            "mutation-score": 0.004395460211244506
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testReset": {
+            "mutants-generated": 30486,
+            "mutants-covered": 39,
+            "mutants-killed": 10,
+            "mutants-live": 29,
+            "mutation-score": 0.00032801941874959
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testSetCurrentName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 9,
+            "mutants-killed": 2,
+            "mutants-live": 7,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.json.JsonReadContextTest::testSetCurrentNameTwiceWithSameNameRaisesJsonParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 22,
+            "mutants-killed": 7,
+            "mutants-live": 15,
+            "mutation-score": 0.00022961359312471298
+        },
+        "com.fasterxml.jackson.core.json.LocationInArrayTest::testOffsetInArraysBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1138,
+            "mutants-killed": 318,
+            "mutants-live": 820,
+            "mutation-score": 0.010431017516236962
+        },
+        "com.fasterxml.jackson.core.json.LocationInArrayTest::testOffsetInArraysChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 897,
+            "mutants-killed": 247,
+            "mutants-live": 650,
+            "mutation-score": 0.008102079643114872
+        },
+        "com.fasterxml.jackson.core.json.LocationInObjectTest::testOffsetWithObjectFieldsUsingUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1644,
+            "mutants-killed": 493,
+            "mutants-live": 1151,
+            "mutation-score": 0.016171357344354785
+        },
+        "com.fasterxml.jackson.core.json.LocationInObjectTest::testOffsetWithObjectFieldsUsingReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1146,
+            "mutants-killed": 273,
+            "mutants-live": 873,
+            "mutation-score": 0.008954930131863806
+        },
+        "com.fasterxml.jackson.core.json.LocationOffsetsTest::testOffsetWithInputOffset": {
+            "mutants-generated": 30486,
+            "mutants-covered": 777,
+            "mutants-killed": 165,
+            "mutants-live": 612,
+            "mutation-score": 0.005412320409368235
+        },
+        "com.fasterxml.jackson.core.json.LocationOffsetsTest::testSimpleInitialOffsets": {
+            "mutants-generated": 30486,
+            "mutants-covered": 951,
+            "mutants-killed": 242,
+            "mutants-live": 709,
+            "mutation-score": 0.007938069933740077
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testMultiLevel": {
+            "mutants-generated": 30486,
+            "mutants-covered": 984,
+            "mutants-killed": 236,
+            "mutants-live": 748,
+            "mutation-score": 0.007741258282490324
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testInitializationDisabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1011,
+            "mutants-killed": 238,
+            "mutants-live": 773,
+            "mutation-score": 0.0078068621662402415
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 887,
+            "mutants-killed": 204,
+            "mutants-live": 683,
+            "mutation-score": 0.006691596142491636
+        },
+        "com.fasterxml.jackson.core.json.ParserSequenceTest::testInitializationEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1013,
+            "mutants-killed": 243,
+            "mutants-live": 770,
+            "mutation-score": 0.007970871875615036
+        },
+        "com.fasterxml.jackson.core.json.RawValueWithSurrogatesTest::testRawWithSurrogatesCharArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 766,
+            "mutants-killed": 107,
+            "mutants-live": 659,
+            "mutation-score": 0.0035098077806206126
+        },
+        "com.fasterxml.jackson.core.json.RawValueWithSurrogatesTest::testRawWithSurrogatesString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 799,
+            "mutants-killed": 138,
+            "mutants-live": 661,
+            "mutation-score": 0.0045266679787443415
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNullCharsetOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1852,
+            "mutants-killed": 309,
+            "mutants-live": 1543,
+            "mutation-score": 0.01013580003936233
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNullRequestPayloadOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1804,
+            "mutants-killed": 291,
+            "mutants-live": 1513,
+            "mutation-score": 0.009545365085613069
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRequestPayloadAsBytesOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1852,
+            "mutants-killed": 306,
+            "mutants-live": 1546,
+            "mutation-score": 0.010037394213737453
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testNoRequestPayloadOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1802,
+            "mutants-killed": 289,
+            "mutants-live": 1513,
+            "mutation-score": 0.009479761201863151
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRawRequestPayloadOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1852,
+            "mutants-killed": 308,
+            "mutants-live": 1544,
+            "mutation-score": 0.01010299809748737
+        },
+        "com.fasterxml.jackson.core.json.RequestPayloadOnExceptionTest::testRequestPayloadAsStringOnParseException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1846,
+            "mutants-killed": 308,
+            "mutants-live": 1538,
+            "mutation-score": 0.01010299809748737
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testBasicEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1149,
+            "mutants-killed": 293,
+            "mutants-live": 856,
+            "mutation-score": 0.009610968969362987
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testLongerRandomSingleChunk": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1400,
+            "mutants-killed": 491,
+            "mutants-live": 909,
+            "mutation-score": 0.016105753460604867
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testLongerRandomMultiChunk": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1406,
+            "mutants-killed": 476,
+            "mutants-live": 930,
+            "mutation-score": 0.015613724332480483
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testMediumStringsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1548,
+            "mutants-killed": 429,
+            "mutants-live": 1119,
+            "mutation-score": 0.01407203306435741
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationFromReaderTest::testMediumStringsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1176,
+            "mutants-killed": 298,
+            "mutants-live": 878,
+            "mutation-score": 0.009774978678737781
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testBasicEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1171,
+            "mutants-killed": 320,
+            "mutants-live": 851,
+            "mutation-score": 0.01049662139998688
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testLongerRandomSingleChunk": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1485,
+            "mutants-killed": 559,
+            "mutants-live": 926,
+            "mutation-score": 0.01833628550810208
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testLongerRandomMultiChunk": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1515,
+            "mutants-killed": 502,
+            "mutants-live": 1013,
+            "mutation-score": 0.016466574821229416
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testMediumStringsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1509,
+            "mutants-killed": 422,
+            "mutants-live": 1087,
+            "mutation-score": 0.013842419471232697
+        },
+        "com.fasterxml.jackson.core.json.StringGenerationTest::testMediumStringsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1249,
+            "mutants-killed": 374,
+            "mutants-live": 875,
+            "mutation-score": 0.012267926261234664
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testMissingEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 893,
+            "mutants-killed": 175,
+            "mutants-live": 718,
+            "mutation-score": 0.005740339828117825
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapesForCharArrays": {
+            "mutants-generated": 30486,
+            "mutants-covered": 640,
+            "mutants-killed": 137,
+            "mutants-live": 503,
+            "mutation-score": 0.0044938660368693826
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testWriteLongCustomEscapes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 759,
+            "mutants-killed": 150,
+            "mutants-live": 609,
+            "mutation-score": 0.00492029128124385
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapeNonLatin1Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 910,
+            "mutants-killed": 280,
+            "mutants-live": 630,
+            "mutation-score": 0.009184543724988519
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testEscapeNonLatin1Chars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 769,
+            "mutants-killed": 222,
+            "mutants-live": 547,
+            "mutation-score": 0.007282031096240898
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testInvalid": {
+            "mutants-generated": 30486,
+            "mutants-covered": 927,
+            "mutants-killed": 175,
+            "mutants-live": 752,
+            "mutation-score": 0.005740339828117825
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::testSimpleEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 877,
+            "mutants-killed": 211,
+            "mutants-live": 666,
+            "mutation-score": 0.006921209735616348
+        },
+        "com.fasterxml.jackson.core.json.TestCharEscaping::test8DigitSequence": {
+            "mutants-generated": 30486,
+            "mutants-covered": 869,
+            "mutants-killed": 200,
+            "mutants-live": 669,
+            "mutation-score": 0.006560388374991799
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testAboveAsciiEscapeWithUTF8Stream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 965,
+            "mutants-killed": 315,
+            "mutants-live": 650,
+            "mutation-score": 0.010332611690612083
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testAboveAsciiEscapeWithReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 848,
+            "mutants-killed": 284,
+            "mutants-live": 564,
+            "mutation-score": 0.009315751492488355
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testEscapeCustomWithReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 820,
+            "mutants-killed": 284,
+            "mutants-live": 536,
+            "mutation-score": 0.009315751492488355
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testJsonpEscapes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 979,
+            "mutants-killed": 276,
+            "mutants-live": 703,
+            "mutation-score": 0.009053335957488683
+        },
+        "com.fasterxml.jackson.core.json.TestCustomEscaping::testEscapeCustomWithUTF8Stream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 897,
+            "mutants-killed": 276,
+            "mutants-live": 621,
+            "mutation-score": 0.009053335957488683
+        },
+        "com.fasterxml.jackson.core.json.TestDecorators::testOutputDecoration": {
+            "mutants-generated": 30486,
+            "mutants-covered": 656,
+            "mutants-killed": 96,
+            "mutants-live": 560,
+            "mutation-score": 0.003148986419996064
+        },
+        "com.fasterxml.jackson.core.json.TestDecorators::testInputDecoration": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1261,
+            "mutants-killed": 306,
+            "mutants-live": 955,
+            "mutation-score": 0.010037394213737453
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsEagerlyBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 859,
+            "mutants-killed": 173,
+            "mutants-live": 686,
+            "mutation-score": 0.005674735944367907
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsEagerlyChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 821,
+            "mutants-killed": 165,
+            "mutants-live": 656,
+            "mutation-score": 0.005412320409368235
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsLazilyBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 786,
+            "mutants-killed": 157,
+            "mutants-live": 629,
+            "mutation-score": 0.005149904874368562
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorDupHandling::testSimpleDupsLazilyChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 748,
+            "mutants-killed": 139,
+            "mutants-live": 609,
+            "mutation-score": 0.0045594699206193
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorWithSerializedString::testSimpleValues": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3568,
+            "mutants-killed": 1510,
+            "mutants-live": 2058,
+            "mutation-score": 0.04953093223118809
+        },
+        "com.fasterxml.jackson.core.json.TestGeneratorWithSerializedString::testSimpleFieldNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2840,
+            "mutants-killed": 1027,
+            "mutants-live": 1813,
+            "mutation-score": 0.033687594305582894
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testLongErrorMessageReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 769,
+            "mutants-killed": 128,
+            "mutants-live": 641,
+            "mutation-score": 0.004198648559994752
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testLongErrorMessage": {
+            "mutants-generated": 30486,
+            "mutants-covered": 988,
+            "mutants-killed": 183,
+            "mutants-live": 805,
+            "mutation-score": 0.006002755363117496
+        },
+        "com.fasterxml.jackson.core.json.TestMaxErrorSize::testShortErrorMessage": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1180,
+            "mutants-killed": 242,
+            "mutants-live": 938,
+            "mutation-score": 0.007938069933740077
+        },
+        "com.fasterxml.jackson.core.json.TestParserOverrides::testCurrentName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1977,
+            "mutants-killed": 528,
+            "mutants-live": 1449,
+            "mutation-score": 0.01731942530997835
+        },
+        "com.fasterxml.jackson.core.json.TestParserOverrides::testTokenAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 926,
+            "mutants-killed": 176,
+            "mutants-live": 750,
+            "mutation-score": 0.005773141769992784
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testBrokenNumber": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1267,
+            "mutants-killed": 215,
+            "mutants-live": 1052,
+            "mutation-score": 0.007052417503116184
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleWrites": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1069,
+            "mutants-killed": 334,
+            "mutants-live": 735,
+            "mutation-score": 0.010955848586236305
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testRootOffsetIssue516Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1183,
+            "mutants-killed": 304,
+            "mutants-live": 879,
+            "mutation-score": 0.009971790329987535
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testRootOffsetIssue516Chars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 996,
+            "mutants-killed": 250,
+            "mutants-live": 746,
+            "mutation-score": 0.008200485468739749
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleBooleans": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1400,
+            "mutants-killed": 280,
+            "mutants-live": 1120,
+            "mutation-score": 0.009184543724988519
+        },
+        "com.fasterxml.jackson.core.json.TestRootValues::testSimpleNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1448,
+            "mutants-killed": 360,
+            "mutants-live": 1088,
+            "mutation-score": 0.011808699074985239
+        },
+        "com.fasterxml.jackson.core.json.TestUnicode::testSurrogates": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1486,
+            "mutants-killed": 498,
+            "mutants-live": 988,
+            "mutation-score": 0.01633536705372958
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testFilteringWithEscapedChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2011,
+            "mutants-killed": 645,
+            "mutants-live": 1366,
+            "mutation-score": 0.021157252509348554
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testSurrogatesWithRaw": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1400,
+            "mutants-killed": 434,
+            "mutants-live": 966,
+            "mutation-score": 0.014236042773732204
+        },
+        "com.fasterxml.jackson.core.json.TestUtf8Generator::testUtf8Issue462": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1575,
+            "mutants-killed": 463,
+            "mutants-live": 1112,
+            "mutation-score": 0.015187299088106015
+        },
+        "com.fasterxml.jackson.core.json.TestWithTonsaSymbols::testReaderParser": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1495,
+            "mutants-killed": 503,
+            "mutants-live": 992,
+            "mutation-score": 0.016499376763104374
+        },
+        "com.fasterxml.jackson.core.json.TestWithTonsaSymbols::testStreamReaderParser": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3058,
+            "mutants-killed": 1137,
+            "mutants-live": 1921,
+            "mutation-score": 0.03729580791182838
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsRootValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1489,
+            "mutants-killed": 542,
+            "mutants-live": 947,
+            "mutation-score": 0.017778652496227777
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1791,
+            "mutants-killed": 679,
+            "mutants-live": 1112,
+            "mutation-score": 0.022272518533097158
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncBinaryParseTest::testRawAsObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2136,
+            "mutants-killed": 891,
+            "mutants-live": 1245,
+            "mutation-score": 0.029226530210588467
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::testMissingLinefeedEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 870,
+            "mutants-killed": 178,
+            "mutants-live": 692,
+            "mutation-score": 0.005838745653742702
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::testSimpleEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 977,
+            "mutants-killed": 305,
+            "mutants-live": 672,
+            "mutation-score": 0.010004592271862494
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCharEscapingTest::test8DigitSequence": {
+            "mutants-generated": 30486,
+            "mutants-covered": 896,
+            "mutants-killed": 227,
+            "mutants-live": 669,
+            "mutation-score": 0.007446040805615692
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testYAMLCommentsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1635,
+            "mutants-killed": 594,
+            "mutants-live": 1041,
+            "mutation-score": 0.019484353473725645
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCCommentsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1471,
+            "mutants-killed": 423,
+            "mutants-live": 1048,
+            "mutation-score": 0.013875221413107656
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCommentsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1024,
+            "mutants-killed": 271,
+            "mutants-live": 753,
+            "mutation-score": 0.008889326248113888
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCommentsDisabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 824,
+            "mutants-killed": 143,
+            "mutants-live": 681,
+            "mutation-score": 0.004690677688119137
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCppCommentsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1460,
+            "mutants-killed": 418,
+            "mutants-live": 1042,
+            "mutation-score": 0.013711211703732861
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncCommentParsingTest::testCCommentsWithUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1027,
+            "mutants-killed": 283,
+            "mutants-live": 744,
+            "mutation-score": 0.009282949550613396
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncConcurrencyTest::testConcurrentAsync": {
+            "mutants-generated": 30486,
+            "mutants-covered": 899,
+            "mutants-killed": 219,
+            "mutants-live": 680,
+            "mutation-score": 0.007183625270616021
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncFieldNamesTest::testSimpleFieldNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1870,
+            "mutants-killed": 544,
+            "mutants-live": 1326,
+            "mutation-score": 0.017844256379977694
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncFieldNamesTest::testEscapedFieldNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2417,
+            "mutants-killed": 903,
+            "mutants-live": 1514,
+            "mutation-score": 0.029620153513087975
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncInvalidCharsTest::testHandlingOfInvalidSpace": {
+            "mutants-generated": 30486,
+            "mutants-covered": 785,
+            "mutants-killed": 152,
+            "mutants-live": 633,
+            "mutation-score": 0.0049858951649937675
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncInvalidCharsTest::testUtf8BOMHandling": {
+            "mutants-generated": 30486,
+            "mutants-covered": 936,
+            "mutants-killed": 216,
+            "mutants-live": 720,
+            "mutation-score": 0.007085219444991143
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncLocationTest::testLocationOffsets": {
+            "mutants-generated": 30486,
+            "mutants-covered": 696,
+            "mutants-killed": 147,
+            "mutants-live": 549,
+            "mutation-score": 0.004821885455618973
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testAllowInf": {
+            "mutants-generated": 30486,
+            "mutants-covered": 934,
+            "mutants-killed": 244,
+            "mutants-live": 690,
+            "mutation-score": 0.008003673817489995
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testAllowNaN": {
+            "mutants-generated": 30486,
+            "mutants-covered": 863,
+            "mutants-killed": 180,
+            "mutants-live": 683,
+            "mutation-score": 0.0059043495374926196
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDisallowInf": {
+            "mutants-generated": 30486,
+            "mutants-covered": 824,
+            "mutants-killed": 164,
+            "mutants-live": 660,
+            "mutation-score": 0.005379518467493276
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDisallowNaN": {
+            "mutants-generated": 30486,
+            "mutants-covered": 806,
+            "mutants-killed": 153,
+            "mutants-live": 653,
+            "mutation-score": 0.0050186971068687265
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdNumbersTest::testDefaultsForAsync": {
+            "mutants-generated": 30486,
+            "mutants-covered": 149,
+            "mutants-killed": 9,
+            "mutants-live": 140,
+            "mutation-score": 0.000295217476874631
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testAposQuotingEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2595,
+            "mutants-killed": 1073,
+            "mutants-live": 1522,
+            "mutation-score": 0.035196483631831005
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testLargeUnquotedNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1840,
+            "mutants-killed": 676,
+            "mutants-live": 1164,
+            "mutation-score": 0.02217411270747228
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testNonStandardNameChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1825,
+            "mutants-killed": 618,
+            "mutants-live": 1207,
+            "mutation-score": 0.02027160007872466
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testAposQuotingDisabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 839,
+            "mutants-killed": 179,
+            "mutants-live": 660,
+            "mutation-score": 0.005871547595617661
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testSimpleUnquotedNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1629,
+            "mutants-killed": 584,
+            "mutants-live": 1045,
+            "mutation-score": 0.019156334054976056
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNonStdParsingTest::testSingleQuotesEscaped": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1001,
+            "mutants-killed": 268,
+            "mutants-live": 733,
+            "mutation-score": 0.008790920422489011
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongFailing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1031,
+            "mutants-killed": 273,
+            "mutants-live": 758,
+            "mutation-score": 0.008954930131863806
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToLongCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1105,
+            "mutants-killed": 376,
+            "mutants-live": 729,
+            "mutation-score": 0.012333530144984584
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntFailing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1206,
+            "mutants-killed": 412,
+            "mutants-live": 794,
+            "mutation-score": 0.013514400052483107
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigDecimalCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 992,
+            "mutants-killed": 264,
+            "mutants-live": 728,
+            "mutation-score": 0.008659712654989176
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToBigIntegerCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1076,
+            "mutants-killed": 298,
+            "mutants-live": 778,
+            "mutation-score": 0.009774978678737781
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToDoubleCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 973,
+            "mutants-killed": 251,
+            "mutants-live": 722,
+            "mutation-score": 0.008233287410614708
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberCoercionTest::testToIntCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1113,
+            "mutants-killed": 322,
+            "mutants-live": 791,
+            "mutation-score": 0.010562225283736798
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testLeadingZeroesFloat": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1034,
+            "mutants-killed": 247,
+            "mutants-live": 787,
+            "mutation-score": 0.008102079643114872
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testLeadingZeroesInt": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1189,
+            "mutants-killed": 387,
+            "mutants-live": 802,
+            "mutation-score": 0.012694351505609132
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncNumberLeadingZeroesTest::testDefaultsForAsync": {
+            "mutants-generated": 30486,
+            "mutants-covered": 149,
+            "mutants-killed": 9,
+            "mutants-live": 140,
+            "mutation-score": 0.000295217476874631
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testSymbolTable": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1463,
+            "mutants-killed": 561,
+            "mutants-live": 902,
+            "mutation-score": 0.018401889391851996
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testLongNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1624,
+            "mutants-killed": 541,
+            "mutants-live": 1083,
+            "mutation-score": 0.017745850554352818
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncParserNamesTest::testEvenLongerName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1487,
+            "mutants-killed": 395,
+            "mutants-live": 1092,
+            "mutation-score": 0.012956767040608804
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootDoublesSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1128,
+            "mutants-killed": 352,
+            "mutants-live": 776,
+            "mutation-score": 0.011546283539985568
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootInts": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1085,
+            "mutants-killed": 349,
+            "mutants-live": 736,
+            "mutation-score": 0.01144787771436069
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootNumbersTest::testRootDoublesScientific": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1292,
+            "mutants-killed": 444,
+            "mutants-live": 848,
+            "mutation-score": 0.014564062192481795
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testMixedRootSequence": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1657,
+            "mutants-killed": 639,
+            "mutants-live": 1018,
+            "mutation-score": 0.0209604408580988
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testTokenRootSequence": {
+            "mutants-generated": 30486,
+            "mutants-covered": 999,
+            "mutants-killed": 263,
+            "mutants-live": 736,
+            "mutation-score": 0.008626910713114217
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncRootValuesTest::testTokenRootTokens": {
+            "mutants-generated": 30486,
+            "mutants-covered": 875,
+            "mutants-killed": 193,
+            "mutants-live": 682,
+            "mutation-score": 0.006330774781867087
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testInts": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1298,
+            "mutants-killed": 495,
+            "mutants-live": 803,
+            "mutation-score": 0.016236961228104703
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testLong": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1665,
+            "mutants-killed": 719,
+            "mutants-live": 946,
+            "mutation-score": 0.02358459620809552
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testBigDecimals": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1361,
+            "mutants-killed": 420,
+            "mutants-live": 941,
+            "mutation-score": 0.013776815587482779
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testBigIntegers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1341,
+            "mutants-killed": 428,
+            "mutants-live": 913,
+            "mutation-score": 0.01403923112248245
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testFloats": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1499,
+            "mutants-killed": 477,
+            "mutants-live": 1022,
+            "mutation-score": 0.015646526274355442
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testDoubles": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1501,
+            "mutants-killed": 477,
+            "mutants-live": 1024,
+            "mutation-score": 0.015646526274355442
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScalarArrayTest::testTokens": {
+            "mutants-generated": 30486,
+            "mutants-covered": 996,
+            "mutants-killed": 261,
+            "mutants-live": 735,
+            "mutation-score": 0.008561306829364299
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScopeMatchingTest::testMismatchObjectToArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 782,
+            "mutants-killed": 140,
+            "mutants-live": 642,
+            "mutation-score": 0.004592271862494259
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncScopeMatchingTest::testMismatchArrayToObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 901,
+            "mutants-killed": 180,
+            "mutants-live": 721,
+            "mutation-score": 0.0059043495374926196
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testMismatchedObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 766,
+            "mutants-killed": 152,
+            "mutants-live": 614,
+            "mutation-score": 0.0049858951649937675
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1884,
+            "mutants-killed": 608,
+            "mutants-live": 1276,
+            "mutation-score": 0.01994358065997507
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInArray2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1830,
+            "mutants-killed": 617,
+            "mutants-live": 1213,
+            "mutation-score": 0.0202387981368497
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testStuffInObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1952,
+            "mutants-killed": 720,
+            "mutants-live": 1232,
+            "mutation-score": 0.023617398149970478
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleNestedTest::testMismatchedArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 754,
+            "mutants-killed": 152,
+            "mutants-live": 602,
+            "mutation-score": 0.0049858951649937675
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleObjectTest::testBooleans": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2104,
+            "mutants-killed": 739,
+            "mutants-live": 1365,
+            "mutation-score": 0.024240635045594698
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncSimpleObjectTest::testNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2688,
+            "mutants-killed": 1064,
+            "mutants-live": 1624,
+            "mutation-score": 0.034901266154956374
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testLongUnicodeStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1410,
+            "mutants-killed": 502,
+            "mutants-live": 908,
+            "mutation-score": 0.016466574821229416
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testLongAsciiStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1450,
+            "mutants-killed": 516,
+            "mutants-live": 934,
+            "mutation-score": 0.016925802007478844
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testShortAsciiStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1135,
+            "mutants-killed": 290,
+            "mutants-live": 845,
+            "mutation-score": 0.00951256314373811
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringArrayTest::testShortUnicodeStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1418,
+            "mutants-killed": 520,
+            "mutants-live": 898,
+            "mutation-score": 0.01705700977497868
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncStringObjectTest::testBasicFieldsNames": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2036,
+            "mutants-killed": 853,
+            "mutants-live": 1183,
+            "mutation-score": 0.027980056419340024
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncTokenFilterTest::testSkipChildrenFailOnSplit": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1121,
+            "mutants-killed": 224,
+            "mutants-live": 897,
+            "mutation-score": 0.0073476349799908155
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncTokenFilterTest::testFilteredNonBlockingParserAllContent": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1395,
+            "mutants-killed": 416,
+            "mutants-live": 979,
+            "mutation-score": 0.013645607819982943
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncUnicodeHandlingTest::testLongUnicodeWithSurrogates": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2289,
+            "mutants-killed": 1042,
+            "mutants-live": 1247,
+            "mutation-score": 0.03417962343370728
+        },
+        "com.fasterxml.jackson.core.json.async.AsyncUnicodeHandlingTest::testShortUnicodeWithSurrogates": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2200,
+            "mutants-killed": 991,
+            "mutants-live": 1209,
+            "mutation-score": 0.032506724398084365
+        },
+        "com.fasterxml.jackson.core.json.async.ConfigTest::testFactoryDefaults": {
+            "mutants-generated": 30486,
+            "mutants-covered": 144,
+            "mutants-killed": 2,
+            "mutants-live": 142,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.json.async.ConfigTest::testAsyncParerDefaults": {
+            "mutants-generated": 30486,
+            "mutants-covered": 688,
+            "mutants-killed": 118,
+            "mutants-live": 570,
+            "mutation-score": 0.003870629141245162
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testNotMissingValueByEnablingFeature": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1383,
+            "mutants-killed": 330,
+            "mutants-live": 1053,
+            "mutation-score": 0.01082464081873647
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testMissingValueAsNullByEnablingFeature": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1469,
+            "mutants-killed": 397,
+            "mutants-live": 1072,
+            "mutation-score": 0.013022370924358722
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidEmptyMissingClose": {
+            "mutants-generated": 30486,
+            "mutants-covered": 895,
+            "mutants-killed": 165,
+            "mutants-live": 730,
+            "mutation-score": 0.005412320409368235
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testValidEmpty": {
+            "mutants-generated": 30486,
+            "mutants-covered": 947,
+            "mutants-killed": 196,
+            "mutants-live": 751,
+            "mutation-score": 0.0064291806074919635
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testMissingValueAsNullByNotEnablingFeature": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1400,
+            "mutants-killed": 312,
+            "mutants-live": 1088,
+            "mutation-score": 0.010234205864987207
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidExtraComma": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1211,
+            "mutants-killed": 294,
+            "mutants-live": 917,
+            "mutation-score": 0.009643770911237946
+        },
+        "com.fasterxml.jackson.core.main.TestArrayParsing::testInvalidMissingFieldName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 990,
+            "mutants-killed": 177,
+            "mutants-live": 813,
+            "mutation-score": 0.005805943711867743
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testInvalidArrayWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 581,
+            "mutants-killed": 99,
+            "mutants-live": 482,
+            "mutation-score": 0.0032473922456209407
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testSimpleArrayWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1297,
+            "mutants-killed": 396,
+            "mutants-live": 901,
+            "mutation-score": 0.012989568982483763
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorArray::testEmptyArrayWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 875,
+            "mutants-killed": 193,
+            "mutants-live": 682,
+            "mutation-score": 0.006330774781867087
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testAutoFlushOrNot": {
+            "mutants-generated": 30486,
+            "mutants-covered": 735,
+            "mutants-killed": 164,
+            "mutants-live": 571,
+            "mutation-score": 0.005379518467493276
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseArraysAndObjects": {
+            "mutants-generated": 30486,
+            "mutants-covered": 587,
+            "mutants-killed": 115,
+            "mutants-live": 472,
+            "mutation-score": 0.0037722233156202846
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testCloseGenerator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 702,
+            "mutants-killed": 110,
+            "mutants-live": 592,
+            "mutation-score": 0.00360821360624549
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseGenerator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 713,
+            "mutants-killed": 124,
+            "mutants-live": 589,
+            "mutation-score": 0.0040674407924949155
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testAutoCloseArraysAndObjects": {
+            "mutants-generated": 30486,
+            "mutants-covered": 598,
+            "mutants-killed": 138,
+            "mutants-live": 460,
+            "mutation-score": 0.0045266679787443415
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorClosing::testNoAutoCloseOutputStream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 706,
+            "mutants-killed": 114,
+            "mutants-live": 592,
+            "mutation-score": 0.0037394213737453256
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyArrayTokens": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1339,
+            "mutants-killed": 414,
+            "mutants-live": 925,
+            "mutation-score": 0.013580003936233025
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyObjectTokens": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1514,
+            "mutants-killed": 427,
+            "mutants-live": 1087,
+            "mutation-score": 0.014006429180607492
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorCopy::testCopyRootTokens": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1514,
+            "mutants-killed": 403,
+            "mutants-live": 1111,
+            "mutation-score": 0.013219182575608475
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testSimpleWriteObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 853,
+            "mutants-killed": 293,
+            "mutants-live": 560,
+            "mutation-score": 0.009610968969362987
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testRaw": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1167,
+            "mutants-killed": 307,
+            "mutants-live": 860,
+            "mutation-score": 0.010070196155612412
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testIsClosed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 843,
+            "mutants-killed": 146,
+            "mutants-live": 697,
+            "mutation-score": 0.004789083513744014
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testAsEmbedded": {
+            "mutants-generated": 30486,
+            "mutants-covered": 712,
+            "mutants-killed": 143,
+            "mutants-live": 569,
+            "mutation-score": 0.004690677688119137
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testRawValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1114,
+            "mutants-killed": 247,
+            "mutants-live": 867,
+            "mutation-score": 0.008102079643114872
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorMisc::testLongerObjects": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2697,
+            "mutants-killed": 1086,
+            "mutants-live": 1611,
+            "mutation-score": 0.03562290887620547
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testEmptyObjectWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 860,
+            "mutants-killed": 185,
+            "mutants-live": 675,
+            "mutation-score": 0.006068359246867414
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testSimpleObjectWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1552,
+            "mutants-killed": 505,
+            "mutants-live": 1047,
+            "mutation-score": 0.016564980646854292
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testInvalidObjectWrite": {
+            "mutants-generated": 30486,
+            "mutants-covered": 581,
+            "mutants-killed": 100,
+            "mutants-live": 481,
+            "mutation-score": 0.0032801941874958996
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testConvenienceMethods": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1997,
+            "mutants-killed": 635,
+            "mutants-live": 1362,
+            "mutation-score": 0.020829233090598965
+        },
+        "com.fasterxml.jackson.core.main.TestGeneratorObject::testConvenienceMethodsWithNulls": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1199,
+            "mutants-killed": 301,
+            "mutants-live": 898,
+            "mutation-score": 0.009873384504362658
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testLongBoundsChecks": {
+            "mutants-generated": 30486,
+            "mutants-covered": 204,
+            "mutants-killed": 44,
+            "mutants-live": 160,
+            "mutation-score": 0.001443285442498196
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testIntParsing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 246,
+            "mutants-killed": 93,
+            "mutants-live": 153,
+            "mutation-score": 0.0030505805943711866
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testIntParsingWithStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 281,
+            "mutants-killed": 66,
+            "mutants-live": 215,
+            "mutation-score": 0.002164928163747294
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testFloatBoundary146Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1173,
+            "mutants-killed": 275,
+            "mutants-live": 898,
+            "mutation-score": 0.009020534015613724
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testFloatBoundary146Chars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1009,
+            "mutants-killed": 226,
+            "mutants-live": 783,
+            "mutation-score": 0.007413238863740733
+        },
+        "com.fasterxml.jackson.core.main.TestNumberParsing::testLongParsing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 266,
+            "mutants-killed": 114,
+            "mutants-live": 152,
+            "mutation-score": 0.0037394213737453256
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testReleaseContentBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 976,
+            "mutants-killed": 197,
+            "mutants-live": 779,
+            "mutation-score": 0.006461982549366922
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testReleaseContentChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 759,
+            "mutants-killed": 138,
+            "mutants-live": 621,
+            "mutation-score": 0.0045266679787443415
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testNoAutoCloseReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 851,
+            "mutants-killed": 183,
+            "mutants-live": 668,
+            "mutation-score": 0.006002755363117496
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testAutoCloseReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 840,
+            "mutants-killed": 166,
+            "mutants-live": 674,
+            "mutation-score": 0.0054451223512431935
+        },
+        "com.fasterxml.jackson.core.main.TestParserClosing::testNoAutoCloseInputStream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1082,
+            "mutants-killed": 228,
+            "mutants-live": 854,
+            "mutation-score": 0.007478842747490651
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testDefaultSettings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 726,
+            "mutants-killed": 108,
+            "mutants-live": 618,
+            "mutation-score": 0.0035426097224955716
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testTabsDefault": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1332,
+            "mutants-killed": 286,
+            "mutants-live": 1046,
+            "mutation-score": 0.009381355376238274
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testQuotesRequired": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1232,
+            "mutants-killed": 243,
+            "mutants-live": 989,
+            "mutation-score": 0.007970871875615036
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testDeprecatedDefaultSettings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 149,
+            "mutants-killed": 12,
+            "mutants-live": 137,
+            "mutation-score": 0.000393623302499508
+        },
+        "com.fasterxml.jackson.core.main.TestParserFeatures::testTabsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2019,
+            "mutants-killed": 557,
+            "mutants-live": 1462,
+            "mutation-score": 0.01827068162435216
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testCRLF": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1647,
+            "mutants-killed": 451,
+            "mutants-live": 1196,
+            "mutation-score": 0.014793675785606508
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testCR": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1645,
+            "mutants-killed": 448,
+            "mutants-live": 1197,
+            "mutation-score": 0.014695269959981631
+        },
+        "com.fasterxml.jackson.core.main.TestParserLinefeeds::testLF": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1613,
+            "mutants-killed": 444,
+            "mutants-live": 1169,
+            "mutation-score": 0.014564062192481795
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testNextValueNested": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2137,
+            "mutants-killed": 540,
+            "mutants-live": 1597,
+            "mutation-score": 0.01771304861247786
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testIsClosed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1367,
+            "mutants-killed": 309,
+            "mutants-live": 1058,
+            "mutation-score": 0.01013580003936233
+        },
+        "com.fasterxml.jackson.core.main.TestParserWithObjects::testNextValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2119,
+            "mutants-killed": 580,
+            "mutants-live": 1539,
+            "mutation-score": 0.01902512628747622
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomRootSeparatorWithPP": {
+            "mutants-generated": 30486,
+            "mutants-covered": 701,
+            "mutants-killed": 168,
+            "mutants-live": 533,
+            "mutation-score": 0.005510726234993111
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testObjectCount": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1058,
+            "mutants-killed": 303,
+            "mutants-live": 755,
+            "mutation-score": 0.009938988388112576
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testArrayCount": {
+            "mutants-generated": 30486,
+            "mutants-covered": 910,
+            "mutants-killed": 236,
+            "mutants-live": 674,
+            "mutation-score": 0.007741258282490324
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithMinimal": {
+            "mutants-generated": 30486,
+            "mutants-covered": 865,
+            "mutants-killed": 273,
+            "mutants-live": 592,
+            "mutation-score": 0.008954930131863806
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithPP": {
+            "mutants-generated": 30486,
+            "mutants-covered": 953,
+            "mutants-killed": 327,
+            "mutants-live": 626,
+            "mutation-score": 0.010726234993111592
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testSimpleDocWithMinimal": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1601,
+            "mutants-killed": 475,
+            "mutants-live": 1126,
+            "mutation-score": 0.015580922390605524
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testSimpleDocWithDefault": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1720,
+            "mutants-killed": 498,
+            "mutants-live": 1222,
+            "mutation-score": 0.01633536705372958
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomRootSeparatorWithFactory": {
+            "mutants-generated": 30486,
+            "mutants-covered": 749,
+            "mutants-killed": 214,
+            "mutants-live": 535,
+            "mutation-score": 0.007019615561241225
+        },
+        "com.fasterxml.jackson.core.main.TestPrettyPrinter::testCustomSeparatorsWithPPWithoutSpaces": {
+            "mutants-generated": 30486,
+            "mutants-covered": 964,
+            "mutants-killed": 329,
+            "mutants-live": 635,
+            "mutation-score": 0.01079183887686151
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testWriteRawWithSerializable": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1874,
+            "mutants-killed": 506,
+            "mutants-live": 1368,
+            "mutation-score": 0.01659778258872925
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testUtf8RawStrings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1349,
+            "mutants-killed": 418,
+            "mutants-live": 931,
+            "mutation-score": 0.013711211703732861
+        },
+        "com.fasterxml.jackson.core.main.TestRawStringWriting::testUtf8StringsWithEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1538,
+            "mutants-killed": 561,
+            "mutants-live": 977,
+            "mutation-score": 0.018401889391851996
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testDefaultSettings": {
+            "mutants-generated": 30486,
+            "mutants-covered": 544,
+            "mutants-killed": 92,
+            "mutants-live": 452,
+            "mutation-score": 0.0030177786524962277
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsWithUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1575,
+            "mutants-killed": 493,
+            "mutants-live": 1082,
+            "mutation-score": 0.016171357344354785
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testYAMLCommentsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2316,
+            "mutants-killed": 801,
+            "mutants-live": 1515,
+            "mutation-score": 0.026274355441842156
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testYAMLCommentsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1321,
+            "mutants-killed": 394,
+            "mutants-live": 927,
+            "mutation-score": 0.012923965098733845
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1835,
+            "mutants-killed": 500,
+            "mutants-live": 1335,
+            "mutation-score": 0.016400970937479498
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCommentsDisabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1360,
+            "mutants-killed": 285,
+            "mutants-live": 1075,
+            "mutation-score": 0.009348553434363313
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCCommentsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2077,
+            "mutants-killed": 586,
+            "mutants-live": 1491,
+            "mutation-score": 0.019221937938725973
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCCommentsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1175,
+            "mutants-killed": 285,
+            "mutants-live": 890,
+            "mutation-score": 0.009348553434363313
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCppCommentsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2045,
+            "mutants-killed": 572,
+            "mutants-live": 1473,
+            "mutation-score": 0.018762710752476548
+        },
+        "com.fasterxml.jackson.core.read.CommentParsingTest::testCppCommentsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1152,
+            "mutants-killed": 281,
+            "mutants-live": 871,
+            "mutation-score": 0.009217345666863478
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1137,
+            "mutants-killed": 227,
+            "mutants-live": 910,
+            "mutation-score": 0.007446040805615692
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterScalar": {
+            "mutants-generated": 30486,
+            "mutants-covered": 740,
+            "mutants-killed": 132,
+            "mutants-live": 608,
+            "mutation-score": 0.004329856327494588
+        },
+        "com.fasterxml.jackson.core.read.DataInputTest::testEOFAfterArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 780,
+            "mutants-killed": 140,
+            "mutants-live": 640,
+            "mutation-score": 0.004592271862494259
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testBytesAsSource": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1079,
+            "mutants-killed": 251,
+            "mutants-live": 828,
+            "mutation-score": 0.008233287410614708
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextDataInput": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1204,
+            "mutants-killed": 349,
+            "mutants-live": 855,
+            "mutation-score": 0.01144787771436069
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpacesInURL": {
+            "mutants-generated": 30486,
+            "mutants-covered": 823,
+            "mutants-killed": 155,
+            "mutants-live": 668,
+            "mutation-score": 0.005084300990618644
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSkipping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2683,
+            "mutants-killed": 766,
+            "mutants-live": 1917,
+            "mutation-score": 0.025126287476218593
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testLongText": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2945,
+            "mutants-killed": 1202,
+            "mutants-live": 1743,
+            "mutation-score": 0.039427934133700715
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpecExampleFully": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3048,
+            "mutants-killed": 1064,
+            "mutants-live": 1984,
+            "mutation-score": 0.034901266154956374
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1106,
+            "mutants-killed": 233,
+            "mutants-live": 873,
+            "mutation-score": 0.007642852456865447
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testLongerReadText": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1081,
+            "mutants-killed": 256,
+            "mutants-live": 825,
+            "mutation-score": 0.008397297119989504
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testNameEscaping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3047,
+            "mutants-killed": 973,
+            "mutants-live": 2074,
+            "mutation-score": 0.031916289444335104
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testSpecExampleSkipping": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3163,
+            "mutants-killed": 918,
+            "mutants-live": 2245,
+            "mutation-score": 0.03011218264121236
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceByteStream": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1743,
+            "mutants-killed": 514,
+            "mutants-live": 1229,
+            "mutation-score": 0.016860198123728926
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testInterningWithReaders": {
+            "mutants-generated": 30486,
+            "mutants-covered": 999,
+            "mutants-killed": 206,
+            "mutants-live": 793,
+            "mutation-score": 0.006757200026241554
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetTextViaWriter": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1984,
+            "mutants-killed": 582,
+            "mutants-live": 1402,
+            "mutation-score": 0.019090730171226138
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testKeywords": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2462,
+            "mutants-killed": 680,
+            "mutants-live": 1782,
+            "mutation-score": 0.022305320474972117
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testConfig": {
+            "mutants-generated": 30486,
+            "mutants-covered": 546,
+            "mutants-killed": 93,
+            "mutants-live": 453,
+            "mutation-score": 0.0030505805943711866
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testInterningWithStreams": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1444,
+            "mutants-killed": 374,
+            "mutants-live": 1070,
+            "mutation-score": 0.012267926261234664
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1653,
+            "mutants-killed": 481,
+            "mutants-live": 1172,
+            "mutation-score": 0.015777734041855278
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testGetValueAsTextChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1150,
+            "mutants-killed": 290,
+            "mutants-live": 860,
+            "mutation-score": 0.00951256314373811
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testHandlingOfInvalidSpaceDataInput": {
+            "mutants-generated": 30486,
+            "mutants-covered": 796,
+            "mutants-killed": 162,
+            "mutants-live": 634,
+            "mutation-score": 0.005313914583743358
+        },
+        "com.fasterxml.jackson.core.read.JsonParserTest::testUtf8BOMHandling": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1105,
+            "mutants-killed": 273,
+            "mutants-live": 832,
+            "mutation-score": 0.008954930131863806
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextNameWithIndentation": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2217,
+            "mutants-killed": 663,
+            "mutants-live": 1554,
+            "mutation-score": 0.021747687463097815
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextTextValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2719,
+            "mutants-killed": 857,
+            "mutants-live": 1862,
+            "mutation-score": 0.02811126418683986
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextBooleanValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2885,
+            "mutants-killed": 904,
+            "mutants-live": 1981,
+            "mutation-score": 0.029652955454962934
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextNameWithLongContent": {
+            "mutants-generated": 30486,
+            "mutants-covered": 4343,
+            "mutants-killed": 1820,
+            "mutants-live": 2523,
+            "mutation-score": 0.059699534212425374
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextLongValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2830,
+            "mutants-killed": 994,
+            "mutants-live": 1836,
+            "mutation-score": 0.03260513022370924
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2944,
+            "mutants-killed": 1033,
+            "mutants-live": 1911,
+            "mutation-score": 0.03388440595683265
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2866,
+            "mutants-killed": 997,
+            "mutants-live": 1869,
+            "mutation-score": 0.03270353604933412
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName3": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2574,
+            "mutants-killed": 907,
+            "mutants-live": 1667,
+            "mutation-score": 0.02975136128058781
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIsNextTokenName4": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2785,
+            "mutants-killed": 951,
+            "mutants-live": 1834,
+            "mutation-score": 0.031194646723086007
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testNextIntValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2776,
+            "mutants-killed": 955,
+            "mutants-live": 1821,
+            "mutation-score": 0.03132585449058584
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIssue34": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2766,
+            "mutants-killed": 778,
+            "mutants-live": 1988,
+            "mutation-score": 0.0255199107787181
+        },
+        "com.fasterxml.jackson.core.read.NextXxxAccessTest::testIssue38": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2332,
+            "mutants-killed": 744,
+            "mutants-live": 1588,
+            "mutation-score": 0.024404644754969493
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testAllowNaN": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1557,
+            "mutants-killed": 374,
+            "mutants-live": 1183,
+            "mutation-score": 0.012267926261234664
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testNonStandardAnyCharQuoting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1525,
+            "mutants-killed": 372,
+            "mutants-live": 1153,
+            "mutation-score": 0.012202322377484746
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testAllowInfinity": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1907,
+            "mutants-killed": 506,
+            "mutants-live": 1401,
+            "mutation-score": 0.01659778258872925
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testNonStandardNameChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3149,
+            "mutants-killed": 1052,
+            "mutants-live": 2097,
+            "mutation-score": 0.03450764285245687
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testLeadingZeroesUTF8": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1652,
+            "mutants-killed": 509,
+            "mutants-live": 1143,
+            "mutation-score": 0.016696188414354128
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testSingleQuotesDefault": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1415,
+            "mutants-killed": 312,
+            "mutants-live": 1103,
+            "mutation-score": 0.010234205864987207
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testLeadingZeroesReader": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1247,
+            "mutants-killed": 366,
+            "mutants-live": 881,
+            "mutation-score": 0.012005510726234993
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testDefaults": {
+            "mutants-generated": 30486,
+            "mutants-covered": 149,
+            "mutants-killed": 10,
+            "mutants-live": 139,
+            "mutation-score": 0.00032801941874959
+        },
+        "com.fasterxml.jackson.core.read.NonStandardParserFeaturesTest::testSingleQuotesEnabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3990,
+            "mutants-killed": 1366,
+            "mutants-live": 2624,
+            "mutation-score": 0.04480745260119399
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testLargeUnquoted": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3079,
+            "mutants-killed": 1043,
+            "mutants-live": 2036,
+            "mutation-score": 0.03421242537558224
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testUnquotedIssue510": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1011,
+            "mutants-killed": 170,
+            "mutants-live": 841,
+            "mutation-score": 0.005576330118743029
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2378,
+            "mutants-killed": 745,
+            "mutants-live": 1633,
+            "mutation-score": 0.024437446696844452
+        },
+        "com.fasterxml.jackson.core.read.NonStandardUnquotedNamesTest::testSimpleUnquotedChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1320,
+            "mutants-killed": 307,
+            "mutants-live": 1013,
+            "mutation-score": 0.010070196155612412
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToLongFailing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1610,
+            "mutants-killed": 467,
+            "mutants-live": 1143,
+            "mutation-score": 0.015318506855605853
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToLongCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1657,
+            "mutants-killed": 562,
+            "mutants-live": 1095,
+            "mutation-score": 0.018434691333726955
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToIntFailing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1920,
+            "mutants-killed": 671,
+            "mutants-live": 1249,
+            "mutation-score": 0.022010102998097487
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToBigDecimalCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1522,
+            "mutants-killed": 438,
+            "mutants-live": 1084,
+            "mutation-score": 0.014367250541232042
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToBigIntegerCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1771,
+            "mutants-killed": 552,
+            "mutants-live": 1219,
+            "mutation-score": 0.018106671914977366
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToDoubleCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1605,
+            "mutants-killed": 462,
+            "mutants-live": 1143,
+            "mutation-score": 0.015154497146231056
+        },
+        "com.fasterxml.jackson.core.read.NumberCoercionTest::testToIntCoercion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1385,
+            "mutants-killed": 405,
+            "mutants-live": 980,
+            "mutation-score": 0.013284786459358393
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousBigIntToFloat": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1473,
+            "mutants-killed": 367,
+            "mutants-live": 1106,
+            "mutation-score": 0.012038312668109952
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousBigIntToDouble": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1473,
+            "mutants-killed": 372,
+            "mutants-live": 1101,
+            "mutation-score": 0.012202322377484746
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousLongOverflow": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1679,
+            "mutants-killed": 441,
+            "mutants-live": 1238,
+            "mutation-score": 0.014465656366856918
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testSimpleLongOverflow": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1642,
+            "mutants-killed": 394,
+            "mutants-live": 1248,
+            "mutation-score": 0.012923965098733845
+        },
+        "com.fasterxml.jackson.core.read.NumberOverflowTest::testMaliciousIntOverflow": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1682,
+            "mutants-killed": 441,
+            "mutants-live": 1241,
+            "mutation-score": 0.014465656366856918
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleLong": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1855,
+            "mutants-killed": 558,
+            "mutants-live": 1297,
+            "mutation-score": 0.01830348356622712
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testParsingOfLongerSequencesWithNonNumeric": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2692,
+            "mutants-killed": 945,
+            "mutants-live": 1747,
+            "mutation-score": 0.030997835071836254
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidLongAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1444,
+            "mutants-killed": 289,
+            "mutants-live": 1155,
+            "mutation-score": 0.009479761201863151
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleInt": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2187,
+            "mutants-killed": 695,
+            "mutants-live": 1492,
+            "mutation-score": 0.022797349603096505
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleDouble": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2155,
+            "mutants-killed": 785,
+            "mutants-live": 1370,
+            "mutation-score": 0.025749524371842813
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongerFloatingPoint": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1455,
+            "mutants-killed": 369,
+            "mutants-live": 1086,
+            "mutation-score": 0.01210391655185987
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testBigNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1553,
+            "mutants-killed": 411,
+            "mutants-live": 1142,
+            "mutation-score": 0.013481598110608149
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidBooleanAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1257,
+            "mutants-killed": 247,
+            "mutants-live": 1010,
+            "mutation-score": 0.008102079643114872
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testSimpleBoolean": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1380,
+            "mutants-killed": 317,
+            "mutants-live": 1063,
+            "mutation-score": 0.010398215574362003
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1256,
+            "mutants-killed": 321,
+            "mutants-live": 935,
+            "mutation-score": 0.010529423341861839
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testBigDecimalRange": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1959,
+            "mutants-killed": 609,
+            "mutants-live": 1350,
+            "mutation-score": 0.01997638260185003
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testParsingOfLongerSequences": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1861,
+            "mutants-killed": 553,
+            "mutants-live": 1308,
+            "mutation-score": 0.018139473856852325
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidNumber": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1321,
+            "mutants-killed": 253,
+            "mutants-live": 1068,
+            "mutation-score": 0.008298891294364626
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongRange": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2106,
+            "mutants-killed": 756,
+            "mutants-live": 1350,
+            "mutation-score": 0.024798268057469004
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testLongNumbers2": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1400,
+            "mutants-killed": 358,
+            "mutants-live": 1042,
+            "mutation-score": 0.011743095191235321
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testIntRange": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1954,
+            "mutants-killed": 642,
+            "mutants-live": 1312,
+            "mutation-score": 0.021058846683723677
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testNumbers": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2617,
+            "mutants-killed": 935,
+            "mutants-live": 1682,
+            "mutation-score": 0.030669815653086664
+        },
+        "com.fasterxml.jackson.core.read.NumberParsingTest::testInvalidIntAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1270,
+            "mutants-killed": 255,
+            "mutants-live": 1015,
+            "mutation-score": 0.008364495178114544
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupCheckDisabled": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3144,
+            "mutants-killed": 890,
+            "mutants-live": 2254,
+            "mutation-score": 0.02919372826871351
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsDataInput": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1501,
+            "mutants-killed": 378,
+            "mutants-live": 1123,
+            "mutation-score": 0.012399134028734502
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2136,
+            "mutants-killed": 625,
+            "mutants-live": 1511,
+            "mutation-score": 0.020501213671849372
+        },
+        "com.fasterxml.jackson.core.read.ParserDupHandlingTest::testSimpleDupsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1339,
+            "mutants-killed": 315,
+            "mutants-live": 1024,
+            "mutation-score": 0.010332611690612083
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledFloatsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1275,
+            "mutants-killed": 252,
+            "mutants-live": 1023,
+            "mutation-score": 0.008266089352489667
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledNumbersChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 867,
+            "mutants-killed": 141,
+            "mutants-live": 726,
+            "mutation-score": 0.004625073804369218
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testMangledIntsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1075,
+            "mutants-killed": 189,
+            "mutants-live": 886,
+            "mutation-score": 0.006199567014367251
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testInvalidKeywordsBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2060,
+            "mutants-killed": 545,
+            "mutants-live": 1515,
+            "mutation-score": 0.017877058321852653
+        },
+        "com.fasterxml.jackson.core.read.ParserErrorHandlingTest::testInvalidKeywordsChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1201,
+            "mutants-killed": 248,
+            "mutants-live": 953,
+            "mutation-score": 0.008134881584989831
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testEOFInName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1425,
+            "mutants-killed": 294,
+            "mutants-live": 1131,
+            "mutation-score": 0.009643770911237946
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testWeirdToken": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1424,
+            "mutants-killed": 290,
+            "mutants-live": 1134,
+            "mutation-score": 0.00951256314373811
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMismatchObjectToArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1176,
+            "mutants-killed": 239,
+            "mutants-live": 937,
+            "mutation-score": 0.0078396641081152
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testUnclosedArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1658,
+            "mutants-killed": 410,
+            "mutants-live": 1248,
+            "mutation-score": 0.01344879616873319
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testUnclosedObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2266,
+            "mutants-killed": 524,
+            "mutants-live": 1742,
+            "mutation-score": 0.017188217542478516
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMismatchArrayToObject": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1700,
+            "mutants-killed": 367,
+            "mutants-live": 1333,
+            "mutation-score": 0.012038312668109952
+        },
+        "com.fasterxml.jackson.core.read.ParserScopeMatchingTest::testMisssingColon": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1931,
+            "mutants-killed": 417,
+            "mutants-live": 1514,
+            "mutation-score": 0.013678409761857902
+        },
+        "com.fasterxml.jackson.core.read.ParserSymbolHandlingTest::testSymbolsWithNullBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1529,
+            "mutants-killed": 449,
+            "mutants-live": 1080,
+            "mutation-score": 0.01472807190185659
+        },
+        "com.fasterxml.jackson.core.read.ParserSymbolHandlingTest::testSymbolsWithNullChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1225,
+            "mutants-killed": 316,
+            "mutants-live": 909,
+            "mutation-score": 0.010365413632487044
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleEOFs": {
+            "mutants-generated": 30486,
+            "mutants-covered": 946,
+            "mutants-killed": 220,
+            "mutants-live": 726,
+            "mutation-score": 0.00721642721249098
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleInvalidUTF32": {
+            "mutants-generated": 30486,
+            "mutants-covered": 903,
+            "mutants-killed": 215,
+            "mutants-live": 688,
+            "mutation-score": 0.007052417503116184
+        },
+        "com.fasterxml.jackson.core.read.UTF32ParseTest::testSimpleSevenNullBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 973,
+            "mutants-killed": 180,
+            "mutants-live": 793,
+            "mutation-score": 0.0059043495374926196
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8Name2Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2769,
+            "mutants-killed": 920,
+            "mutants-live": 1849,
+            "mutation-score": 0.030177786524962277
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8Name3Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2591,
+            "mutants-killed": 912,
+            "mutants-live": 1679,
+            "mutation-score": 0.029915370989962605
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8StringTrivial": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1497,
+            "mutants-killed": 552,
+            "mutants-live": 945,
+            "mutation-score": 0.018106671914977366
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testEmptyName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1369,
+            "mutants-killed": 326,
+            "mutants-live": 1043,
+            "mutation-score": 0.010693433051236633
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testUtf8StringValue": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1612,
+            "mutants-killed": 679,
+            "mutants-live": 933,
+            "mutation-score": 0.022272518533097158
+        },
+        "com.fasterxml.jackson.core.read.UTF8NamesParseTest::testNextFieldName": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1845,
+            "mutants-killed": 519,
+            "mutants-live": 1326,
+            "mutation-score": 0.01702420783310372
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsInt": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2645,
+            "mutants-killed": 812,
+            "mutants-live": 1833,
+            "mutation-score": 0.026635176802466708
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsDouble": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2602,
+            "mutants-killed": 807,
+            "mutants-live": 1795,
+            "mutation-score": 0.02647116709309191
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsLong": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2645,
+            "mutants-killed": 812,
+            "mutants-live": 1833,
+            "mutation-score": 0.026635176802466708
+        },
+        "com.fasterxml.jackson.core.read.ValueConversionsTest::testAsBoolean": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2335,
+            "mutants-killed": 646,
+            "mutants-live": 1689,
+            "mutation-score": 0.021190054451223513
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testByteSymbolsWithEOF": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1500,
+            "mutants-killed": 376,
+            "mutants-live": 1124,
+            "mutation-score": 0.012333530144984584
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testCharSymbolsWithClose": {
+            "mutants-generated": 30486,
+            "mutants-covered": 986,
+            "mutants-killed": 216,
+            "mutants-live": 770,
+            "mutation-score": 0.007085219444991143
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testCharSymbolsWithEOF": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1142,
+            "mutants-killed": 253,
+            "mutants-live": 889,
+            "mutation-score": 0.008298891294364626
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testByteSymbolsWithClose": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1399,
+            "mutants-killed": 333,
+            "mutants-live": 1066,
+            "mutation-score": 0.010923046644361346
+        },
+        "com.fasterxml.jackson.core.sym.SymbolTableMergingTest::testHashCalc": {
+            "mutants-generated": 30486,
+            "mutants-covered": 163,
+            "mutants-killed": 2,
+            "mutants-live": 161,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::test17ByteSymbols": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2007,
+            "mutants-killed": 544,
+            "mutants-live": 1463,
+            "mutation-score": 0.017844256379977694
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::test17CharSymbols": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1132,
+            "mutants-killed": 244,
+            "mutants-live": 888,
+            "mutation-score": 0.008003673817489995
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::testSymbolTableExpansionBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1667,
+            "mutants-killed": 567,
+            "mutants-live": 1100,
+            "mutation-score": 0.01859870104310175
+        },
+        "com.fasterxml.jackson.core.sym.SymbolsViaParserTest::testSymbolTableExpansionChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1007,
+            "mutants-killed": 235,
+            "mutants-live": 772,
+            "mutation-score": 0.007708456340615365
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testAuxMethodsWithNewSymboTable": {
+            "mutants-generated": 30486,
+            "mutants-covered": 483,
+            "mutants-killed": 122,
+            "mutants-live": 361,
+            "mutation-score": 0.004001836908744998
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testSharedSymbols": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1988,
+            "mutants-killed": 652,
+            "mutants-live": 1336,
+            "mutation-score": 0.021386866102473267
+        },
+        "com.fasterxml.jackson.core.sym.TestByteBasedSymbols::testIssue207": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2095,
+            "mutants-killed": 544,
+            "mutants-live": 1551,
+            "mutation-score": 0.017844256379977694
+        },
+        "com.fasterxml.jackson.core.sym.TestHashCollisionChars::testReaderCollisions": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1214,
+            "mutants-killed": 313,
+            "mutants-live": 901,
+            "mutation-score": 0.010267007806862165
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testByteBasedSymbolTable": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2082,
+            "mutants-killed": 699,
+            "mutants-live": 1383,
+            "mutation-score": 0.02292855737059634
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsDirect": {
+            "mutants-generated": 30486,
+            "mutants-covered": 361,
+            "mutants-killed": 134,
+            "mutants-live": 227,
+            "mutation-score": 0.004395460211244506
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortQuotedDirectBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 574,
+            "mutants-killed": 313,
+            "mutants-live": 261,
+            "mutation-score": 0.010267007806862165
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortQuotedDirectChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 392,
+            "mutants-killed": 155,
+            "mutants-live": 237,
+            "mutation-score": 0.005084300990618644
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithBytesNew187a": {
+            "mutants-generated": 30486,
+            "mutants-covered": 594,
+            "mutants-killed": 330,
+            "mutants-live": 264,
+            "mutation-score": 0.01082464081873647
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithBytesNew187b": {
+            "mutants-generated": 30486,
+            "mutants-covered": 560,
+            "mutants-killed": 313,
+            "mutants-live": 247,
+            "mutation-score": 0.010267007806862165
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsViaParser": {
+            "mutants-generated": 30486,
+            "mutants-covered": 2769,
+            "mutants-killed": 797,
+            "mutants-live": 1972,
+            "mutation-score": 0.02614314767434232
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testThousandsOfSymbolsWithNew": {
+            "mutants-generated": 30486,
+            "mutants-covered": 802,
+            "mutants-killed": 502,
+            "mutants-live": 300,
+            "mutation-score": 0.016466574821229416
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testSyntheticWithBytesNew": {
+            "mutants-generated": 30486,
+            "mutants-covered": 831,
+            "mutants-killed": 538,
+            "mutants-live": 293,
+            "mutation-score": 0.01764744472872794
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testShortNameCollisionsDirectNew": {
+            "mutants-generated": 30486,
+            "mutants-covered": 540,
+            "mutants-killed": 277,
+            "mutants-live": 263,
+            "mutation-score": 0.009086137899363642
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testSyntheticWithChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 392,
+            "mutants-killed": 166,
+            "mutants-live": 226,
+            "mutation-score": 0.0054451223512431935
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testLongSymbols17Bytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 735,
+            "mutants-killed": 224,
+            "mutants-live": 511,
+            "mutation-score": 0.0073476349799908155
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testCollisionsWithChars187": {
+            "mutants-generated": 30486,
+            "mutants-covered": 392,
+            "mutants-killed": 156,
+            "mutants-live": 236,
+            "mutation-score": 0.005117102932493603
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolTables::testThousandsOfSymbolsWithChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 406,
+            "mutants-killed": 138,
+            "mutants-live": 268,
+            "mutation-score": 0.0045266679787443415
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolsWithMediaItem::testSmallSymbolSetWithBytes": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1992,
+            "mutants-killed": 739,
+            "mutants-live": 1253,
+            "mutation-score": 0.024240635045594698
+        },
+        "com.fasterxml.jackson.core.sym.TestSymbolsWithMediaItem::testSmallSymbolSetWithChars": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1142,
+            "mutants-killed": 320,
+            "mutants-live": 822,
+            "mutation-score": 0.01049662139998688
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testResolvedType": {
+            "mutants-generated": 30486,
+            "mutants-covered": 143,
+            "mutants-killed": 1,
+            "mutants-live": 142,
+            "mutation-score": 3.2801941874959e-05
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testInvalid": {
+            "mutants-generated": 30486,
+            "mutants-covered": 142,
+            "mutants-killed": 0,
+            "mutants-live": 142,
+            "mutation-score": 0.0
+        },
+        "com.fasterxml.jackson.core.type.TypeReferenceTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 144,
+            "mutants-killed": 2,
+            "mutants-live": 142,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.util.ByteArrayBuilderTest::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 239,
+            "mutants-killed": 52,
+            "mutants-live": 187,
+            "mutation-score": 0.001705700977497868
+        },
+        "com.fasterxml.jackson.core.util.DefaultIndenterTest::testWithLinefeed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 19,
+            "mutants-killed": 12,
+            "mutants-live": 7,
+            "mutation-score": 0.000393623302499508
+        },
+        "com.fasterxml.jackson.core.util.DefaultIndenterTest::testWithIndent": {
+            "mutants-generated": 30486,
+            "mutants-covered": 19,
+            "mutants-killed": 16,
+            "mutants-live": 3,
+            "mutation-score": 0.000524831069999344
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testFailsToCreateTakingCharSequenceThrowsIllegalArgumentExceptionOne": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1,
+            "mutants-killed": 1,
+            "mutants-live": 0,
+            "mutation-score": 3.2801941874959e-05
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testFailsToCreateTakingCharSequenceThrowsIllegalArgumentExceptionTwo": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1,
+            "mutants-killed": 1,
+            "mutants-live": 0,
+            "mutation-score": 3.2801941874959e-05
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testCreateTakingCharSequenceAndCallsGetRawPayload": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3,
+            "mutants-killed": 2,
+            "mutants-live": 1,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.util.RequestPayloadTest::testCreateTaking2ArgumentsAndCallsGetRawPayload": {
+            "mutants-generated": 30486,
+            "mutants-covered": 9,
+            "mutants-killed": 1,
+            "mutants-live": 8,
+            "mutation-score": 3.2801941874959e-05
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithObjectFieldValueSeparatorWithDigit": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3,
+            "mutants-killed": 2,
+            "mutants-live": 1,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithArrayValueSeparatorWithDigit": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3,
+            "mutants-killed": 2,
+            "mutants-live": 1,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.util.SeparatorsTest::testWithObjectEntrySeparator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 3,
+            "mutants-killed": 2,
+            "mutants-live": 1,
+            "mutation-score": 6.5603883749918e-05
+        },
+        "com.fasterxml.jackson.core.util.TestCharTypes::testQuoting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 418,
+            "mutants-killed": 93,
+            "mutants-live": 325,
+            "mutation-score": 0.0030505805943711866
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testSystemLinefeed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1117,
+            "mutants-killed": 327,
+            "mutants-live": 790,
+            "mutation-score": 0.010726234993111592
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testUnixLinefeed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1126,
+            "mutants-killed": 329,
+            "mutants-live": 797,
+            "mutation-score": 0.01079183887686151
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWindowsLinefeed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1126,
+            "mutants-killed": 329,
+            "mutants-live": 797,
+            "mutation-score": 0.01079183887686151
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithLineFeed": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1128,
+            "mutants-killed": 329,
+            "mutants-live": 799,
+            "mutation-score": 0.01079183887686151
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testRootSeparator": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1126,
+            "mutants-killed": 350,
+            "mutants-live": 776,
+            "mutation-score": 0.01148067965623565
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testInvalidSubClass": {
+            "mutants-generated": 30486,
+            "mutants-covered": 162,
+            "mutants-killed": 9,
+            "mutants-live": 153,
+            "mutation-score": 0.000295217476874631
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testWithIndent": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1132,
+            "mutants-killed": 330,
+            "mutants-live": 802,
+            "mutation-score": 0.01082464081873647
+        },
+        "com.fasterxml.jackson.core.util.TestDefaultPrettyPrinter::testTabIndent": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1126,
+            "mutants-killed": 328,
+            "mutants-live": 798,
+            "mutation-score": 0.010759036934986551
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testNotDelegateCopyMethods": {
+            "mutants-generated": 30486,
+            "mutants-covered": 1711,
+            "mutants-killed": 523,
+            "mutants-live": 1188,
+            "mutation-score": 0.017155415600603557
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testParserDelegate": {
+            "mutants-generated": 30486,
+            "mutants-covered": 970,
+            "mutants-killed": 215,
+            "mutants-live": 755,
+            "mutation-score": 0.007052417503116184
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testGeneratorWithCodec": {
+            "mutants-generated": 30486,
+            "mutants-covered": 647,
+            "mutants-killed": 151,
+            "mutants-live": 496,
+            "mutation-score": 0.004953093223118809
+        },
+        "com.fasterxml.jackson.core.util.TestDelegates::testGeneratorDelegate": {
+            "mutants-generated": 30486,
+            "mutants-covered": 843,
+            "mutants-killed": 284,
+            "mutants-live": 559,
+            "mutation-score": 0.009315751492488355
+        },
+        "com.fasterxml.jackson.core.util.TestNumberPrinting::testIntPrinting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 453,
+            "mutants-killed": 268,
+            "mutants-live": 185,
+            "mutation-score": 0.008790920422489011
+        },
+        "com.fasterxml.jackson.core.util.TestNumberPrinting::testLongPrinting": {
+            "mutants-generated": 30486,
+            "mutants-covered": 647,
+            "mutants-killed": 419,
+            "mutants-live": 228,
+            "mutation-score": 0.01374401364560782
+        },
+        "com.fasterxml.jackson.core.util.TestSerializedString::testFailedAccess": {
+            "mutants-generated": 30486,
+            "mutants-covered": 621,
+            "mutants-killed": 176,
+            "mutants-live": 445,
+            "mutation-score": 0.005773141769992784
+        },
+        "com.fasterxml.jackson.core.util.TestSerializedString::testAppending": {
+            "mutants-generated": 30486,
+            "mutants-covered": 645,
+            "mutants-killed": 217,
+            "mutants-live": 428,
+            "mutation-score": 0.007118021386866102
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndAppendTakingCharAndContentsAsArray": {
+            "mutants-generated": 30486,
+            "mutants-covered": 251,
+            "mutants-killed": 25,
+            "mutants-live": 226,
+            "mutation-score": 0.0008200485468739749
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testLongAppend": {
+            "mutants-generated": 30486,
+            "mutants-covered": 356,
+            "mutants-killed": 105,
+            "mutants-live": 251,
+            "mutation-score": 0.0034442038968706947
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testResetWithAndSetCurrentAndReturn": {
+            "mutants-generated": 30486,
+            "mutants-covered": 192,
+            "mutants-killed": 10,
+            "mutants-live": 182,
+            "mutation-score": 0.00032801941874959
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testContentsAsDecimalThrowsNumberFormatException": {
+            "mutants-generated": 30486,
+            "mutants-covered": 182,
+            "mutants-killed": 15,
+            "mutants-live": 167,
+            "mutation-score": 0.000492029128124385
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetCurrentSegmentSizeResetWith": {
+            "mutants-generated": 30486,
+            "mutants-covered": 165,
+            "mutants-killed": 9,
+            "mutants-live": 156,
+            "mutation-score": 0.000295217476874631
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testResetWithString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 270,
+            "mutants-killed": 43,
+            "mutants-live": 227,
+            "mutation-score": 0.0014104835006232368
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testEmpty": {
+            "mutants-generated": 30486,
+            "mutants-covered": 206,
+            "mutants-killed": 22,
+            "mutants-live": 184,
+            "mutation-score": 0.000721642721249098
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testAppendTakingTwoAndThreeInts": {
+            "mutants-generated": 30486,
+            "mutants-covered": 292,
+            "mutants-killed": 49,
+            "mutants-live": 243,
+            "mutation-score": 0.0016072951518729909
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testEnsureNotSharedAndResetWithString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 195,
+            "mutants-killed": 15,
+            "mutants-live": 180,
+            "mutation-score": 0.000492029128124385
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndResetWithString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 198,
+            "mutants-killed": 18,
+            "mutants-live": 180,
+            "mutation-score": 0.000590434953749262
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetSizeFinishCurrentSegmentAndResetWith": {
+            "mutants-generated": 30486,
+            "mutants-covered": 207,
+            "mutants-killed": 22,
+            "mutants-live": 185,
+            "mutation-score": 0.000721642721249098
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetTextBufferAndEmptyAndGetCurrentSegmentAndFinishCurrentSegment": {
+            "mutants-generated": 30486,
+            "mutants-covered": 263,
+            "mutants-killed": 42,
+            "mutants-live": 221,
+            "mutation-score": 0.0013776815587482779
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testExpand": {
+            "mutants-generated": 30486,
+            "mutants-covered": 244,
+            "mutants-killed": 31,
+            "mutants-live": 213,
+            "mutation-score": 0.0010168601981237289
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testLonger": {
+            "mutants-generated": 30486,
+            "mutants-covered": 306,
+            "mutants-killed": 73,
+            "mutants-live": 233,
+            "mutation-score": 0.002394541756872007
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testSimple": {
+            "mutants-generated": 30486,
+            "mutants-covered": 307,
+            "mutants-killed": 64,
+            "mutants-live": 243,
+            "mutation-score": 0.002099324279997376
+        },
+        "com.fasterxml.jackson.core.util.TestTextBuffer::testGetCurrentSegment": {
+            "mutants-generated": 30486,
+            "mutants-covered": 220,
+            "mutants-killed": 14,
+            "mutants-live": 206,
+            "mutation-score": 0.00045922718624942597
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionParsing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 243,
+            "mutants-killed": 42,
+            "mutants-live": 201,
+            "mutation-score": 0.0013776815587482779
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionPartParsing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 174,
+            "mutants-killed": 25,
+            "mutants-live": 149,
+            "mutation-score": 0.0008200485468739749
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testPackageVersionMatches": {
+            "mutants-generated": 30486,
+            "mutants-covered": 221,
+            "mutants-killed": 10,
+            "mutants-live": 211,
+            "mutation-score": 0.00032801941874959
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testMavenVersionParsing": {
+            "mutants-generated": 30486,
+            "mutants-covered": 247,
+            "mutants-killed": 39,
+            "mutants-live": 208,
+            "mutation-score": 0.0012792757331234008
+        },
+        "com.fasterxml.jackson.core.util.TestVersionUtil::testVersionForUnknownVersion": {
+            "mutants-generated": 30486,
+            "mutants-covered": 155,
+            "mutants-killed": 1,
+            "mutants-live": 154,
+            "mutation-score": 3.2801941874959e-05
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionPartReturningPositive": {
+            "mutants-generated": 30486,
+            "mutants-covered": 32,
+            "mutants-killed": 24,
+            "mutants-live": 8,
+            "mutation-score": 0.000787246604999016
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionWithNullAndEmptyString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 18,
+            "mutants-killed": 6,
+            "mutants-live": 12,
+            "mutation-score": 0.000196811651249754
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionWithEmptyStringAndEmptyString": {
+            "mutants-generated": 30486,
+            "mutants-covered": 19,
+            "mutants-killed": 4,
+            "mutants-live": 15,
+            "mutation-score": 0.000131207767499836
+        },
+        "com.fasterxml.jackson.core.util.VersionUtilTest::testParseVersionReturningVersionWhereGetMajorVersionIsZero": {
+            "mutants-generated": 30486,
+            "mutants-covered": 62,
+            "mutants-killed": 25,
+            "mutants-live": 37,
+            "mutation-score": 0.0008200485468739749
+        }
+    }
+}
