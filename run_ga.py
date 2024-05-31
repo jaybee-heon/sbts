@@ -20,7 +20,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
         # Two objectives: minimize execution time and maximize fault detection
         self.test_cases = test_cases
         self.time_budget = time_budget
-        super().__init__(n_var=len(test_cases), n_obj=2, n_constr=0, xl=np.zeros(len(test_cases)),
+        super().__init__(n_var=len(test_cases), n_obj=2, n_constr=1, xl=np.zeros(len(test_cases)),
                          xu=np.ones(len(test_cases)))
 
     def _evaluate(self, x, out, *args, **kwargs):
@@ -33,7 +33,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
         total_fault_detection = np.sum(fault_detections[selected])  # Sum fault detections of selected test cases
 
         # Objectives: Minimize execution time and maximize fault detection
-        out["F"] = np.array([-total_fault_detection])
+        out["F"] = np.array([total_execution_time, -total_fault_detection])
 
         # Constraint: Not to exceed the time budget
         out["G"] = np.array([total_execution_time - self.time_budget])
