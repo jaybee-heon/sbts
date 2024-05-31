@@ -16,9 +16,10 @@ from sklearn.preprocessing import MinMaxScaler
 
 # Define the test case prioritization problem
 class TestCasePrioritizationProblem(ElementwiseProblem):
-    def __init__(self, test_cases):
+    def __init__(self, test_cases, time_budget):
         # Two objectives: minimize execution time and maximize fault detection
         self.test_cases = test_cases
+        self.time_budget = time_budget
         super().__init__(n_var=len(test_cases), n_obj=2, n_constr=0, xl=np.zeros(len(test_cases)),
                          xu=np.ones(len(test_cases)))
 
@@ -32,12 +33,15 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
         total_fault_detection = np.sum(fault_detections[selected])  # Sum fault detections of selected test cases
 
         # Objectives: Minimize execution time and maximize fault detection
-        out["F"] = np.array([total_execution_time, -total_fault_detection])
+        out["F"] = np.array([-total_fault_detection])
+
+        # Constraint: Not to exceed the time budget
+        out["G"] = np.array([total_execution_time - self.time_budget])
 
 
 # Initialize the problem
 def run_nsga(test_cases):
-    problem = TestCasePrioritizationProblem(test_cases)
+    problem = TestCasePrioritizationProblem(test_cases, 5)
 
     # Set the algorithm configuration
     algorithm = NSGA2(
@@ -65,7 +69,7 @@ def run_nsga(test_cases):
 
 # Initialize the problem
 def run_nsga_with_adequecy(test_cases, adequacy_scores):
-    problem = TestCasePrioritizationProblem(test_cases)
+    problem = TestCasePrioritizationProblem(test_cases, 5)
 
     # Set the algorithm configuration
     algorithm = NSGA2(
