@@ -61,10 +61,11 @@ def run_nsga(test_cases):
 
     # Output the results
     print("Optimal Test Case Selections:")
-    for solution in res.X:
-        print(f"Test Cases Selected: {solution.astype(int)}")
+    for i, solution in enumerate(res.X):
+        print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
         print(
-            f"Execution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
+            f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
+        print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
 
 
 # Initialize the problem
@@ -89,14 +90,14 @@ def run_nsga_with_adequecy(test_cases, adequacy_scores):
 
     # Output the results
     print("Optimal Test Case Selections:")
-    for solution in res.X:
-        print(f"Test Cases Selected: {solution.astype(int)}")
+    for i, solution in enumerate(res.X):
+        print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
         print(
-            f"Execution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
-        print(f"Test Cases Selected: {np.sum(solution)}/{len(solution)}")
+            f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
+        print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
 
 
-def get_adequacy_scores(data, scaling_method='std'):
+def get_adequacy_scores(data, scaling_method='min_max'):
     match scaling_method:
         case 'min_max':
             norm = min_max(data)
