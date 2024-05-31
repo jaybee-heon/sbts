@@ -36,7 +36,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
         out["F"] = np.array([total_execution_time, -total_fault_detection])
 
         # Constraint: Not to exceed the time budget
-        out["G"] = np.array([total_execution_time - self.time_budget])
+        # out["G"] = np.array([total_execution_time - self.time_budget])
 
 
 # Initialize the problem
