@@ -1,0 +1,112 @@
+{
+    "com.google.gson.TypeInfoFactory": [
+        {
+            "latest_idx": 0,
+            "revision_date": "2010-11-02 03:32:39 +0000"
+        }
+    ],
+    "com.google.gson.internal.bind.TypeAdapters": [
+        {
+            "latest_idx": 1,
+            "revision_date": "2015-10-22 09:29:01 -0700"
+        },
+        {
+            "latest_idx": 8,
+            "revision_date": "2016-04-22 14:54:25 -1000"
+        },
+        {
+            "latest_idx": 10,
+            "revision_date": "2016-11-25 23:40:14 -0800"
+        }
+    ],
+    "com.google.gson.internal.ConstructorConstructor": [
+        {
+            "latest_idx": 2,
+            "revision_date": "2015-11-05 07:25:34 -0500"
+        }
+    ],
+    "com.google.gson.stream.JsonReader": [
+        {
+            "latest_idx": 3,
+            "revision_date": "2016-01-18 15:16:01 -0500"
+        },
+        {
+            "latest_idx": 6,
+            "revision_date": "2016-03-12 15:51:22 -0500"
+        },
+        {
+            "latest_idx": 12,
+            "revision_date": "2017-04-19 14:26:36 -0700"
+        }
+    ],
+    "com.google.gson.stream.JsonWriter": [
+        {
+            "latest_idx": 3,
+            "revision_date": "2016-01-18 15:16:01 -0500"
+        },
+        {
+            "latest_idx": 8,
+            "revision_date": "2016-04-22 14:54:25 -1000"
+        },
+        {
+            "latest_idx": 14,
+            "revision_date": "2017-05-31 09:50:44 -0700"
+        }
+    ],
+    "com.google.gson.internal.bind.util.ISO8601Utils": [
+        {
+            "latest_idx": 4,
+            "revision_date": "2016-02-02 20:23:52 -0800"
+        }
+    ],
+    "com.google.gson.internal.bind.JsonAdapterAnnotationTypeAdapterFactory": [
+        {
+            "latest_idx": 5,
+            "revision_date": "2016-02-26 13:35:59 -0500"
+        }
+    ],
+    "com.google.gson.internal.UnsafeAllocator": [
+        {
+            "latest_idx": 7,
+            "revision_date": "2016-04-22 06:47:08 -1000"
+        }
+    ],
+    "com.google.gson.internal.bind.JsonTreeWriter": [
+        {
+            "latest_idx": 8,
+            "revision_date": "2016-04-22 14:54:25 -1000"
+        }
+    ],
+    "com.google.gson.internal.bind.ReflectiveTypeAdapterFactory": [
+        {
+            "latest_idx": 9,
+            "revision_date": "2016-05-17 17:26:52 -0400"
+        }
+    ],
+    "com.google.gson.internal.bind.JsonTreeReader": [
+        {
+            "latest_idx": 11,
+            "revision_date": "2017-02-15 18:41:39 -0800"
+        }
+    ],
+    "com.google.gson.internal.$Gson$Types": [
+        {
+            "latest_idx": 13,
+            "revision_date": "2017-05-30 17:47:04 -0700"
+        },
+        {
+            "latest_idx": 15,
+            "revision_date": "2017-07-31 10:50:29 -0700"
+        },
+        {
+            "latest_idx": 17,
+            "revision_date": "2017-09-21 17:50:41 -0700"
+        }
+    ],
+    "com.google.gson.DefaultDateTypeAdapter": [
+        {
+            "latest_idx": 16,
+            "revision_date": "2017-09-17 23:49:13 -0700"
+        }
+    ]
+}

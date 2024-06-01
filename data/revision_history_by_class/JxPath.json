@@ -1,0 +1,182 @@
+{
+    "org.apache.commons.jxpath.ri.model.dom.DOMNodePointer": [
+        {
+            "latest_idx": 0,
+            "revision_date": "2007-01-10 18:27:20 +0000"
+        },
+        {
+            "latest_idx": 3,
+            "revision_date": "2007-05-16 19:47:47 +0000"
+        },
+        {
+            "latest_idx": 11,
+            "revision_date": "2007-07-23 21:32:41 +0000"
+        },
+        {
+            "latest_idx": 12,
+            "revision_date": "2007-07-25 19:49:33 +0000"
+        },
+        {
+            "latest_idx": 15,
+            "revision_date": "2008-02-02 23:16:01 +0000"
+        },
+        {
+            "latest_idx": 18,
+            "revision_date": "2010-02-27 18:34:39 +0000"
+        },
+        {
+            "latest_idx": 21,
+            "revision_date": "2012-01-20 17:58:11 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.jdom.JDOMNodePointer": [
+        {
+            "latest_idx": 0,
+            "revision_date": "2007-01-10 18:27:20 +0000"
+        },
+        {
+            "latest_idx": 3,
+            "revision_date": "2007-05-16 19:47:47 +0000"
+        },
+        {
+            "latest_idx": 15,
+            "revision_date": "2008-02-02 23:16:01 +0000"
+        },
+        {
+            "latest_idx": 18,
+            "revision_date": "2010-02-27 18:34:39 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.Expression": [
+        {
+            "latest_idx": 1,
+            "revision_date": "2007-01-10 22:37:24 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.beans.NullPropertyPointer": [
+        {
+            "latest_idx": 2,
+            "revision_date": "2007-01-10 22:54:59 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.NodePointer": [
+        {
+            "latest_idx": 4,
+            "revision_date": "2007-07-02 20:47:47 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationCompare": [
+        {
+            "latest_idx": 5,
+            "revision_date": "2007-07-10 19:29:34 +0000"
+        },
+        {
+            "latest_idx": 8,
+            "revision_date": "2007-07-11 19:29:57 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationGreaterThan": [
+        {
+            "latest_idx": 6,
+            "revision_date": "2007-07-10 21:59:45 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationGreaterThanOrEqual": [
+        {
+            "latest_idx": 6,
+            "revision_date": "2007-07-10 21:59:45 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationLessThan": [
+        {
+            "latest_idx": 6,
+            "revision_date": "2007-07-10 21:59:45 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationLessThanOrEqual": [
+        {
+            "latest_idx": 6,
+            "revision_date": "2007-07-10 21:59:45 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationRelationalExpression": [
+        {
+            "latest_idx": 6,
+            "revision_date": "2007-07-10 21:59:45 +0000"
+        },
+        {
+            "latest_idx": 7,
+            "revision_date": "2007-07-11 16:44:01 +0000"
+        },
+        {
+            "latest_idx": 9,
+            "revision_date": "2007-07-13 19:43:38 +0000"
+        },
+        {
+            "latest_idx": 19,
+            "revision_date": "2011-06-08 17:58:55 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationEqual": [
+        {
+            "latest_idx": 8,
+            "revision_date": "2007-07-11 19:29:57 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreOperationNotEqual": [
+        {
+            "latest_idx": 8,
+            "revision_date": "2007-07-11 19:29:57 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.dom.DOMAttributeIterator": [
+        {
+            "latest_idx": 10,
+            "revision_date": "2007-07-23 19:27:46 +0000"
+        },
+        {
+            "latest_idx": 16,
+            "revision_date": "2008-02-03 02:13:59 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.jdom.JDOMAttributeIterator": [
+        {
+            "latest_idx": 10,
+            "revision_date": "2007-07-23 19:27:46 +0000"
+        },
+        {
+            "latest_idx": 16,
+            "revision_date": "2008-02-03 02:13:59 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.NamespaceResolver": [
+        {
+            "latest_idx": 12,
+            "revision_date": "2007-07-25 19:49:33 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.compiler.CoreFunction": [
+        {
+            "latest_idx": 13,
+            "revision_date": "2007-08-27 16:49:28 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.axes.UnionContext": [
+        {
+            "latest_idx": 14,
+            "revision_date": "2007-08-27 19:52:56 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.axes.AttributeContext": [
+        {
+            "latest_idx": 17,
+            "revision_date": "2008-02-03 03:36:01 +0000"
+        }
+    ],
+    "org.apache.commons.jxpath.ri.model.beans.PropertyPointer": [
+        {
+            "latest_idx": 20,
+            "revision_date": "2011-06-08 18:19:50 +0000"
+        }
+    ]
+}

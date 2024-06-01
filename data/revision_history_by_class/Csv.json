@@ -1,0 +1,82 @@
+{
+    "org.apache.commons.csv.ExtendedBufferedReader": [
+        {
+            "latest_idx": 0,
+            "revision_date": "2012-03-27 00:49:17 +0000"
+        }
+    ],
+    "org.apache.commons.csv.CSVRecord": [
+        {
+            "latest_idx": 1,
+            "revision_date": "2013-04-08 19:34:38 +0000"
+        },
+        {
+            "latest_idx": 5,
+            "revision_date": "2014-04-22 20:20:17 +0000"
+        },
+        {
+            "latest_idx": 8,
+            "revision_date": "2014-05-15 16:26:26 +0000"
+        }
+    ],
+    "org.apache.commons.csv.Lexer": [
+        {
+            "latest_idx": 2,
+            "revision_date": "2013-05-03 01:10:34 +0000"
+        }
+    ],
+    "org.apache.commons.csv.CSVParser": [
+        {
+            "latest_idx": 3,
+            "revision_date": "2013-09-18 14:57:57 +0000"
+        },
+        {
+            "latest_idx": 6,
+            "revision_date": "2014-05-04 16:22:34 +0000"
+        },
+        {
+            "latest_idx": 10,
+            "revision_date": "2014-07-11 18:42:48 +0000"
+        },
+        {
+            "latest_idx": 15,
+            "revision_date": "2018-05-18 14:24:50 -0600"
+        }
+    ],
+    "org.apache.commons.csv.CSVPrinter": [
+        {
+            "latest_idx": 4,
+            "revision_date": "2014-03-13 00:16:57 +0000"
+        },
+        {
+            "latest_idx": 9,
+            "revision_date": "2014-06-09 22:21:22 +0000"
+        },
+        {
+            "latest_idx": 12,
+            "revision_date": "2016-01-19 02:34:19 +0000"
+        }
+    ],
+    "org.apache.commons.csv.CSVFormat": [
+        {
+            "latest_idx": 7,
+            "revision_date": "2014-05-07 17:27:31 +0000"
+        },
+        {
+            "latest_idx": 11,
+            "revision_date": "2014-08-27 14:12:40 +0000"
+        },
+        {
+            "latest_idx": 12,
+            "revision_date": "2016-01-19 02:34:19 +0000"
+        },
+        {
+            "latest_idx": 13,
+            "revision_date": "2016-07-31 00:21:35 -0700"
+        },
+        {
+            "latest_idx": 14,
+            "revision_date": "2017-12-11 11:16:01 -0700"
+        }
+    ]
+}
