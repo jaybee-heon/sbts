@@ -2,7 +2,6 @@ import numpy as np
 from pymoo.algorithms.moo.nsga2 import NSGA2
 from pymoo.optimize import minimize
 from pymoo.core.problem import ElementwiseProblem
-from data_preprocess import json2PandasDf
 from pymoo.operators.sampling.rnd import BinaryRandomSampling
 from pymoo.operators.crossover.sbx import SBX
 from pymoo.operators.mutation.pm import PM
@@ -40,7 +39,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
 
 
 # Initialize the problem
-def run_nsga(test_cases):
+def run_nsga(test_cases, verbose=True):
     problem = TestCasePrioritizationProblem(test_cases, 5)
 
     # Set the algorithm configuration
@@ -57,19 +56,32 @@ def run_nsga(test_cases):
     res = minimize(problem,
                    algorithm,
                    ("n_gen", 40),
-                   verbose=True)
+                   verbose=verbose)
 
     # Output the results
-    print("Optimal Test Case Selections:")
-    for i, solution in enumerate(res.X):
-        print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
-        print(
-            f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
-        print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
+    if verbose:
+        print("Optimal Test Case Selections:")
+        for i, solution in enumerate(res.X):
+            print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
+            print(
+                f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
+            print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
+            
+    #  선택된 테스트 케이스의 평균 실행 시간과 평균 Fault detection rate 를 표시 
+    execution_times = list(map(lambda solution: np.sum(test_cases[solution.astype(bool), 0]), res.X))
+    mean_execution_time = np.mean(execution_times)
+    
+    fault_detections = list(map(lambda solution: np.sum(test_cases[solution.astype(bool), 1]), res.X))
+    fault_detection_rate = np.mean(fault_detections)
+    
+    print("\nUsing 1/N Mutation ")
+    print("Mean execution Time", mean_execution_time)
+    print("Mean Fault Detection Rate", fault_detection_rate)
 
 
+    
 # Initialize the problem
-def run_nsga_with_adequecy(test_cases, adequacy_scores):
+def run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=True):
     problem = TestCasePrioritizationProblem(test_cases, 5)
 
     # Set the algorithm configuration
@@ -86,16 +98,27 @@ def run_nsga_with_adequecy(test_cases, adequacy_scores):
     res = minimize(problem,
                    algorithm,
                    ("n_gen", 40),
-                   verbose=True)
+                   verbose=verbose)
 
     # Output the results
-    print("Optimal Test Case Selections:")
-    for i, solution in enumerate(res.X):
-        print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
-        print(
-            f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
-        print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
-
+    if verbose:
+        print("Optimal Test Case Selections:")
+        for i, solution in enumerate(res.X):
+            print(f"Trial#{i} Test Cases Selected: {solution.astype(int)}")
+            print(
+                f"\tExecution Time: {np.sum(test_cases[solution.astype(bool), 0])}, Fault Detection: {np.sum(test_cases[solution.astype(bool), 1])}")
+            print(f"\tTest Cases Selected: {np.sum(solution)}/{len(solution)}")
+    
+    
+    #  선택된 테스트 케이스의 평균 실행 시간과 평균 Fault detection rate 를 표시 
+    execution_times = list(map(lambda solution: np.sum(test_cases[solution.astype(bool), 0]), res.X))
+    mean_execution_time = np.mean(execution_times)
+    
+    fault_detections = list(map(lambda solution: np.sum(test_cases[solution.astype(bool), 1]), res.X))
+    fault_detection_rate = np.mean(fault_detections)
+    print("\n Using Adequacy Score")
+    print("Mean execution Time", mean_execution_time)
+    print("Mean Fault Detection Rate", fault_detection_rate)
 
 def get_adequacy_scores(data, scaling_method='min_max'):
     match scaling_method:
