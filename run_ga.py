@@ -20,7 +20,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
         # Two objectives: minimize execution time and maximize fault detection
         self.test_cases = test_cases
         self.time_budget = time_budget
-        super().__init__(n_var=len(test_cases), n_obj=2, n_constr=1, xl=np.zeros(len(test_cases)),
+        super().__init__(n_var=len(test_cases), n_obj=2, n_constr=0, xl=np.zeros(len(test_cases)),
                          xu=np.ones(len(test_cases)))
 
     def _evaluate(self, x, out, *args, **kwargs):
