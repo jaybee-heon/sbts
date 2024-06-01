@@ -1,162 +1,162 @@
 {
-    "org.jfree.chart.axis.Axis": [
+    "org.jfree.chart.renderer.category.AbstractCategoryItemRenderer": [
         {
             "latest_idx": 0,
-            "revision_date": "2007-07-06 04:03:52 -0700"
+            "revision_date": "2010-02-09 13:23:49 -0800"
         }
     ],
-    "org.jfree.chart.renderer.category.StatisticalBarRenderer": [
+    "org.jfree.data.general.DatasetUtilities": [
         {
             "latest_idx": 1,
-            "revision_date": "2007-08-28 04:53:09 -0700"
+            "revision_date": "2009-09-15 22:49:25 -0700"
         }
     ],
-    "org.jfree.chart.renderer.GrayPaintScale": [
+    "org.jfree.data.time.TimeSeries": [
         {
             "latest_idx": 2,
-            "revision_date": "2007-09-26 07:00:52 -0700"
+            "revision_date": "2009-08-31 13:54:18 -0700"
+        },
+        {
+            "latest_idx": 8,
+            "revision_date": "2008-06-10 02:08:12 -0700"
+        },
+        {
+            "latest_idx": 16,
+            "revision_date": "2007-11-22 01:50:16 -0800"
         }
     ],
-    "org.jfree.chart.renderer.category.MinMaxCategoryRenderer": [
+    "org.jfree.chart.plot.XYPlot": [
         {
             "latest_idx": 3,
-            "revision_date": "2007-09-28 08:28:53 -0700"
+            "revision_date": "2009-06-29 11:18:43 -0700"
+        },
+        {
+            "latest_idx": 13,
+            "revision_date": "2008-04-07 07:16:39 -0700"
         }
     ],
-    "org.jfree.data.KeyedObjects2D": [
+    "org.jfree.data.xy.XYSeries": [
         {
             "latest_idx": 4,
-            "revision_date": "2007-10-03 03:58:18 -0700"
+            "revision_date": "2008-11-24 01:19:36 -0800"
         }
     ],
-    "org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset": [
+    "org.jfree.chart.util.ShapeList": [
         {
             "latest_idx": 5,
-            "revision_date": "2007-10-03 06:28:03 -0700"
+            "revision_date": "2008-06-17 01:44:13 -0700"
         }
     ],
-    "org.jfree.chart.plot.ValueMarker": [
+    "org.jfree.data.time.TimePeriodValues": [
         {
             "latest_idx": 6,
-            "revision_date": "2007-10-08 02:39:54 -0700"
+            "revision_date": "2008-06-10 02:22:11 -0700"
+        }
+    ],
+    "org.jfree.data.time.Week": [
+        {
+            "latest_idx": 7,
+            "revision_date": "2008-06-10 02:19:11 -0700"
+        }
+    ],
+    "org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator": [
+        {
+            "latest_idx": 9,
+            "revision_date": "2008-06-10 00:32:29 -0700"
+        }
+    ],
+    "org.jfree.chart.util.ShapeUtilities": [
+        {
+            "latest_idx": 10,
+            "revision_date": "2008-06-02 00:27:30 -0700"
+        }
+    ],
+    "org.jfree.chart.plot.MultiplePiePlot": [
+        {
+            "latest_idx": 11,
+            "revision_date": "2008-04-18 06:49:16 -0700"
+        }
+    ],
+    "org.jfree.chart.block.BorderArrangement": [
+        {
+            "latest_idx": 12,
+            "revision_date": "2008-04-08 12:50:42 -0700"
         }
     ],
     "org.jfree.chart.plot.CategoryPlot": [
         {
-            "latest_idx": 7,
-            "revision_date": "2007-10-25 05:56:24 -0700"
+            "latest_idx": 13,
+            "revision_date": "2008-04-07 07:16:39 -0700"
         },
         {
-            "latest_idx": 12,
-            "revision_date": "2008-04-07 07:16:39 -0700"
+            "latest_idx": 18,
+            "revision_date": "2007-10-25 05:56:24 -0700"
+        }
+    ],
+    "org.jfree.chart.plot.PiePlot": [
+        {
+            "latest_idx": 14,
+            "revision_date": "2008-03-19 13:42:01 -0700"
+        }
+    ],
+    "org.jfree.data.category.DefaultIntervalCategoryDataset": [
+        {
+            "latest_idx": 15,
+            "revision_date": "2008-02-25 15:58:12 -0800"
         }
     ],
     "org.jfree.data.DefaultKeyedValues": [
         {
-            "latest_idx": 8,
+            "latest_idx": 17,
             "revision_date": "2007-11-22 01:46:16 -0800"
         }
     ],
     "org.jfree.data.DefaultKeyedValues2D": [
         {
-            "latest_idx": 8,
+            "latest_idx": 17,
             "revision_date": "2007-11-22 01:46:16 -0800"
         }
     ],
-    "org.jfree.data.time.TimeSeries": [
-        {
-            "latest_idx": 9,
-            "revision_date": "2007-11-22 01:50:16 -0800"
-        },
-        {
-            "latest_idx": 17,
-            "revision_date": "2008-06-10 02:08:12 -0700"
-        },
-        {
-            "latest_idx": 23,
-            "revision_date": "2009-08-31 13:54:18 -0700"
-        }
-    ],
-    "org.jfree.data.category.DefaultIntervalCategoryDataset": [
-        {
-            "latest_idx": 10,
-            "revision_date": "2008-02-25 15:58:12 -0800"
-        }
-    ],
-    "org.jfree.chart.plot.PiePlot": [
-        {
-            "latest_idx": 11,
-            "revision_date": "2008-03-19 13:42:01 -0700"
-        }
-    ],
-    "org.jfree.chart.plot.XYPlot": [
-        {
-            "latest_idx": 12,
-            "revision_date": "2008-04-07 07:16:39 -0700"
-        },
-        {
-            "latest_idx": 22,
-            "revision_date": "2009-06-29 11:18:43 -0700"
-        }
-    ],
-    "org.jfree.chart.block.BorderArrangement": [
-        {
-            "latest_idx": 13,
-            "revision_date": "2008-04-08 12:50:42 -0700"
-        }
-    ],
-    "org.jfree.chart.plot.MultiplePiePlot": [
-        {
-            "latest_idx": 14,
-            "revision_date": "2008-04-18 06:49:16 -0700"
-        }
-    ],
-    "org.jfree.chart.util.ShapeUtilities": [
-        {
-            "latest_idx": 15,
-            "revision_date": "2008-06-02 00:27:30 -0700"
-        }
-    ],
-    "org.jfree.chart.imagemap.StandardToolTipTagFragmentGenerator": [
-        {
-            "latest_idx": 16,
-            "revision_date": "2008-06-10 00:32:29 -0700"
-        }
-    ],
-    "org.jfree.data.time.Week": [
-        {
-            "latest_idx": 18,
-            "revision_date": "2008-06-10 02:19:11 -0700"
-        }
-    ],
-    "org.jfree.data.time.TimePeriodValues": [
+    "org.jfree.chart.plot.ValueMarker": [
         {
             "latest_idx": 19,
-            "revision_date": "2008-06-10 02:22:11 -0700"
+            "revision_date": "2007-10-08 02:39:54 -0700"
         }
     ],
-    "org.jfree.chart.util.ShapeList": [
+    "org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset": [
         {
             "latest_idx": 20,
-            "revision_date": "2008-06-17 01:44:13 -0700"
+            "revision_date": "2007-10-03 06:28:03 -0700"
         }
     ],
-    "org.jfree.data.xy.XYSeries": [
+    "org.jfree.data.KeyedObjects2D": [
         {
             "latest_idx": 21,
-            "revision_date": "2008-11-24 01:19:36 -0800"
+            "revision_date": "2007-10-03 03:58:18 -0700"
         }
     ],
-    "org.jfree.data.general.DatasetUtilities": [
+    "org.jfree.chart.renderer.category.MinMaxCategoryRenderer": [
+        {
+            "latest_idx": 22,
+            "revision_date": "2007-09-28 08:28:53 -0700"
+        }
+    ],
+    "org.jfree.chart.renderer.GrayPaintScale": [
+        {
+            "latest_idx": 23,
+            "revision_date": "2007-09-26 07:00:52 -0700"
+        }
+    ],
+    "org.jfree.chart.renderer.category.StatisticalBarRenderer": [
         {
             "latest_idx": 24,
-            "revision_date": "2009-09-15 22:49:25 -0700"
+            "revision_date": "2007-08-28 04:53:09 -0700"
         }
     ],
-    "org.jfree.chart.renderer.category.AbstractCategoryItemRenderer": [
+    "org.jfree.chart.axis.Axis": [
         {
             "latest_idx": 25,
-            "revision_date": "2010-02-09 13:23:49 -0800"
+            "revision_date": "2007-07-06 04:03:52 -0700"
         }
     ]
 }
