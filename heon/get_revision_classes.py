@@ -18,7 +18,7 @@ for file in file_list:
             revision_info.append([revision_date, classes])
 
     class_to_revisions = dict()
-    revision_info = sorted(revision_info, key=lambda x: x[0])
+    revision_info = sorted(revision_info, key=lambda x: x[0], reverse=True)
     for idx, revision in enumerate(revision_info):
         revision_date = revision[0]
         revision_classes = revision[1]
