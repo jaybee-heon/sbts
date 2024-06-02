@@ -17,8 +17,9 @@ def collect_result(fitness='cov', mutation='fdr'):
     datadir = "./data/merged_data/"
     output_path = os.path.join("./data/experiment_result/", f"f_{fitness}_m_{mutation}")
 
+    
     for pkl_file in os.listdir(datadir):
-        with open(os.path.join(datadir, pkl_file), 'rb') as f:
+        with open(os.path.join(datadir, pkl_file), 'rb') as f: # load pickle file for projects from merged_data
             data = pickle.load(f)
         project_name = os.path.splitext(pkl_file)[0]
         print(f'\nProject: {project_name}--------------------')
@@ -44,6 +45,7 @@ def collect_result(fitness='cov', mutation='fdr'):
         bitflip_res = run_nsga(test_cases, verbose=False)
         adeq_res = run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=False)
 
+        # store Result object of pymoo
         if not os.path.exists(output_path):
             os.system(f"mkdir -p {output_path}")
         with open(os.path.join(output_path, f"{project_name}_bitflip.pkl"), 'wb') as f:
