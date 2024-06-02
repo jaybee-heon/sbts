@@ -49,7 +49,7 @@ def run_nsga(test_cases, verbose=True):
         sampling=BinaryRandomSampling(),  ## 이 후에 다른 sampling 전략(coverage 높은 순서대로)을 적용해야 함.
         crossover=SBX(prob=0.9, eta=15),
         # mutation=PM(eta=20)
-        mutation=BitflipMutation(prob=0.5, prob_var=1 / len(test_cases))
+        mutation=BitflipMutation(prob=1.0, prob_var=1 / len(test_cases))
     )
 
     # Run the optimization
@@ -77,7 +77,7 @@ def run_nsga(test_cases, verbose=True):
     print("\nUsing 1/N Mutation ")
     print("Mean execution Time", mean_execution_time)
     print("Mean Fault Detection Rate", fault_detection_rate)
-
+    return res
 
     
 # Initialize the problem
@@ -119,6 +119,8 @@ def run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=True):
     print("\n Using Adequacy Score")
     print("Mean execution Time", mean_execution_time)
     print("Mean Fault Detection Rate", fault_detection_rate)
+
+    return res
 
 def get_adequacy_scores(data, scaling_method='min_max'):
     match scaling_method:
@@ -174,4 +176,5 @@ if __name__ == "__main__":
     # Calculate adequacy score
     adequacy_scores = get_adequacy_scores(fault_detections, scaling_method='std')
 
-    run_nsga(test_cases)
+    # run_nsga(test_cases)
+    run_nsga_with_adequecy(test_cases, adequacy_scores)
