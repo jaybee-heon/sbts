@@ -174,4 +174,4 @@ if __name__ == "__main__":
     # Calculate adequacy score
     adequacy_scores = get_adequacy_scores(fault_detections, scaling_method='std')
 
-    run_nsga(test_cases, adequacy_scores)
+    run_nsga(test_cases)
