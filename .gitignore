@@ -1,4 +1,5 @@
 .idea
 pymoo_to_adequacy/
+__pycache__/
 *__pycache__*
 *.pyc
