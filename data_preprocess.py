@@ -1,6 +1,9 @@
 import numpy as np
 import pandas as pd
 import json
+import pickle
+import os
+import glob
 
 # # Load JSON data
 file_path = "data/tet.json"
@@ -24,11 +27,6 @@ file_path = "data/tet.json"
 #         print(f"Table: {key}"
 #             f"\n{df}")
 #     return dataset
-
-import json
-import os
-import glob
-import pandas as pd 
 
 ### data 폴더에 있는 각 project 들에 대한 fault detection 파일을 읽어 하나의 파일로 만듦.
 def make_all_fdr():
@@ -76,12 +74,16 @@ def _rename_keys(d):
     project 별로 fdr, coverage, tet 파일을 읽어 dataframe 으로 만들고, 
     project 들의 데이터 프레임을 담은 리스트를 반환합니다. 
 '''
-def merge_fdr_coverage_tet(fdr_path, coverage_path, tet_path, save_excel=True):  
+def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=True):  
     # Load the JSON 
-    with open(fdr_path, 'r') as  file1 , open(coverage_path, 'r') as file2, open(tet_path, 'r') as file3:
-        fdr_data = json.load(file1)
-        coverage_data = json.load(file2) 
-        tet_data = json.load(file3)
+    with open(fdr_path, 'r') as f:
+        fdr_data = json.load(f)
+    with open(coverage_path, 'r') as f:
+        coverage_data = json.load(f)
+    with open(tet_path, 'r') as f:
+        tet_data = json.load(f)
+    with open(fixed_line_cov_path, 'r') as f:
+        flc_data = json.load(f)
     
     merged_data = {}
     projects = {}
@@ -90,30 +92,36 @@ def merge_fdr_coverage_tet(fdr_path, coverage_path, tet_path, save_excel=True):
     fdr_data = _rename_keys(fdr_data)
     coverage_data = _rename_keys(coverage_data)
     tet_data = _rename_keys(tet_data)
+    flc_data = _rename_keys(flc_data)
     
     fdr_keys = set(fdr_data.keys())
     coverage_keys = set(coverage_data.keys())  
     tet_keys = set(tet_data.keys())
+    flc_keys = set(flc_data.keys())
 
     ## fdr, coverage, tet 이 모두 있는 project 만 선택합니다.
-    all_keys = fdr_keys.intersection(coverage_keys).intersection(tet_keys)
+    all_keys = fdr_keys.intersection(coverage_keys).intersection(tet_keys).intersection(flc_keys)
     for key in all_keys:
         df1 = pd.DataFrame.from_dict(fdr_data.get(key, {}), orient='index').rename(columns={0: 'fdr'})
         df2 = pd.DataFrame.from_dict(coverage_data.get(key, {}), orient='index').rename(columns={0: 'coverage'})
         df3 = pd.DataFrame.from_dict(tet_data.get(key, {}), orient='index').rename(columns={0: 'tet'})
-        merged_df = pd.concat([df1, df2, df3], axis=1, join='inner')
+        df4 = pd.DataFrame.from_dict(flc_data.get(key, {}), orient='index').rename(columns={0: 'fixed_line_cov'})
+        merged_df = pd.concat([df1, df2, df3, df4], axis=1, join='inner')
         projects[key] = merged_df
 
-        if save_excel:  ## excel 로 저장하고 싶으면 저장
-            output_dir = './data/excel'
-            merged_df.to_excel(os.path.join(output_dir, f'{key}.xlsx'))
+        if save:  ## pkl file로 저장(data type preserve)
+            output_dir = './data/merged_data'
+            with open(os.path.join(output_dir, f"{key}.pkl"), 'wb') as f:
+                pickle.dump(merged_df, f)
+            # merged_df.to_excel(os.path.join(output_dir, f'{key}.xlsx'))
                 
     return projects
 
 if __name__ == "__main__":
-    make_all_fdr()  ## data/all_fdr.json 파일을 생성합니다.
+    # make_all_fdr()  ## data/all_fdr.json 파일을 생성합니다.
     
     fdr_path = "./data/all_fdr.json"
     coverage_path = "./data/all_coverage.json"
     tet_path = "./data/tet.json"
-    merge_fdr_coverage_tet(fdr_path, coverage_path, tet_path, verbose=False) ## data 폴더에 merged_*.json 파일을 생성합니다.
+    fixed_line_cov_path = "./data/coverage/fixed_line_coverage.json"
+    merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=True) ## data 폴더에 merged_*.json 파일을 생성합니다.
