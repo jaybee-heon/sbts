@@ -128,11 +128,10 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Optimize project with LLM")
-    parser.add_argument("-f", "--fitness", nargs='+', default=['cov', 'fdr'], help="List of fitness methods to use")
+    parser.add_argument("-f", "--fitness", default='cov', help="List of fitness methods to use")
     parser.add_argument("-m", "--mutations", nargs='+', default=['fdr', 'flc', 'cov', 'latest', 'all'], help="List of mutation methods to use")
     args = parser.parse_args()
 
-    for fitness in args.fitness:
-        all_ets_dict, all_fds_dict = collect_result(fitness, args.mutations)
-        for project_name in all_ets_dict:
-            plot_figure(all_ets_dict[project_name], all_fds_dict[project_name], project_name)
+    all_ets_dict, all_fds_dict = collect_result(args.fitness, args.mutations)
+    for project_name in all_ets_dict:
+        plot_figure(all_ets_dict[project_name], all_fds_dict[project_name], project_name, args.fitness)
