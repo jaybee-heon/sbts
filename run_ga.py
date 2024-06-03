@@ -9,7 +9,7 @@ from pymoo.operators.mutation.bitflip import BitflipMutation
 from pymoo.operators.mutation.am import AdequacyMutation
 from pymoo.visualization.scatter import Scatter
 from sklearn.preprocessing import MinMaxScaler
-
+from util import *
 
 # test_cases = json2PandasDf("data/tet.json")
 
@@ -77,7 +77,8 @@ def run_nsga(test_cases, verbose=True):
     print("\nUsing 1/N Mutation ")
     print("Mean execution Time", mean_execution_time)
     print("Mean Fault Detection Rate", fault_detection_rate)
-    return res
+    
+    return res, execution_times, fault_detections
 
     
 # Initialize the problem
@@ -119,10 +120,16 @@ def run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=True):
     print("\n Using Adequacy Score")
     print("Mean execution Time", mean_execution_time)
     print("Mean Fault Detection Rate", fault_detection_rate)
-
-    return res
+    
+    return res, execution_times, fault_detections
 
 def get_adequacy_scores(data, scaling_method='min_max'):
+    if isinstance(data, pd.DataFrame) or isinstance(data, pd.Series):
+        data = data.values  # Convert pandas DataFrame or Series to NumPy array
+    
+    if data.ndim == 1:
+        data = data.reshape(-1, 1) 
+        
     match scaling_method:
         case 'min_max':
             norm = min_max(data)
@@ -134,8 +141,12 @@ def get_adequacy_scores(data, scaling_method='min_max'):
     r_norm = 1 - norm
     selection_prob = norm / np.sum(norm)
     removal_prob = r_norm / np.sum(r_norm)
-    adequacy_scores = np.column_stack((selection_prob, removal_prob))
+    
 
+    avg_selection_prob = np.mean(selection_prob, axis=1)
+    avg_removal_prob = np.mean(removal_prob, axis=1)
+
+    adequacy_scores = np.column_stack((avg_selection_prob, avg_removal_prob))
     return adequacy_scores
 
 def min_max(data):

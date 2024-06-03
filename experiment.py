@@ -1,63 +1,138 @@
 import numpy as np
 import pandas as pd
-import json
-
-from data_preprocess import *
-from run_ga import *
 import os
 import pickle
 import argparse
+import matplotlib.pyplot as plt
 
-# fdr_path = "./data/all_fdr.json"
-# coverage_path = "./data/all_coverage.json"
-# tet_path = "./data/tet.json"
-# projects =  merge_all_data(fdr_path, coverage_path, tet_path, True) 
+from data_preprocess import *
+from run_ga import *
 
-def collect_result(fitness='cov', mutation='fdr'):
-    datadir = "./data/merged_data/"
-    output_path = os.path.join("./data/experiment_result/", f"f_{fitness}_m_{mutation}")
+def min_max(data):
+    return (data - np.min(data, axis=0)) / (np.ptp(data, axis=0))
 
+def standardize(data):
+    return (data - np.mean(data, axis=0)) / np.std(data, axis=0)
+
+def get_adequacy_scores(data, scaling_method='min_max'):
+    if isinstance(data, pd.DataFrame) or isinstance(data, pd.Series):
+        data = data.values  # Convert pandas DataFrame or Series to NumPy array
     
+    if data.ndim == 1:
+        data = data.reshape(-1, 1)  # Ensure data is two-dimensional if it is a single column
+
+    match scaling_method:
+        case 'min_max':
+            norm = min_max(data)
+        case 'std':
+            norm = standardize(data)
+        case _:
+            print("Warning: set scaling method")
+            norm = data
+    
+    r_norm = 1 - norm
+    selection_prob = norm / np.sum(norm, axis=0)
+    removal_prob = r_norm / np.sum(r_norm, axis=0)
+    
+    if data.shape[1] > 1:
+        # Average the probabilities across all columns if more than one column
+        avg_selection_prob = np.mean(selection_prob, axis=1)
+        avg_removal_prob = np.mean(removal_prob, axis=1)
+    else:
+        # Use the probabilities directly if only one column
+        avg_selection_prob = selection_prob.flatten()
+        avg_removal_prob = removal_prob.flatten()
+    
+    adequacy_scores = np.column_stack((avg_selection_prob, avg_removal_prob))
+    return adequacy_scores
+
+def run_bitflip(data, metric, execution_times, project_name, output_path):
+    test_cases = np.column_stack((execution_times, metric))
+    bitflip_res, exec_times, fault_detections = run_nsga(test_cases, verbose=False)
+    fault_detections_rate = fault_detections / np.max(fault_detections)
+    ets, fds = [exec_times], [fault_detections_rate]
+    return ets, fds, bitflip_res
+
+def run_adequacy(data, adequacy_metric, execution_times, project_name, output_path, mutation):
+    adequacy_scores = get_adequacy_scores(adequacy_metric)
+    test_cases = np.column_stack((execution_times, data['coverage']))
+    adeq_res, exec_times, fault_detections = run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=False)
+    fault_detections_rate = fault_detections / np.max(fault_detections)
+    ets, fds = [exec_times], [fault_detections_rate]
+    return ets, fds, adeq_res
+
+def collect_result(fitness='cov', mutations=['fdr', 'cov']):
+    datadir = "./data/merged_data/"
+    all_ets_dict = {}
+    all_fds_dict = {}
+    all_res_dict = {}
+
     for pkl_file in os.listdir(datadir):
-        with open(os.path.join(datadir, pkl_file), 'rb') as f: # load pickle file for projects from merged_data
-            data = pickle.load(f)
-        project_name = os.path.splitext(pkl_file)[0]
-        print(f'\nProject: {project_name}--------------------')
+        if pkl_file.endswith('.pkl'):
+            with open(os.path.join(datadir, pkl_file), 'rb') as f: # load pickle file for projects from merged_data
+                data = pickle.load(f)
+            project_name = os.path.splitext(pkl_file)[0]
+            output_path = os.path.join("./data/experiment_result/", f"f_{fitness}_m_{'_'.join(mutations)}")
+            print(f'\nProject: {project_name}--------------------')
 
-        # fitness에 사용할 metric
-        match fitness:
-            case 'cov':
-                metric = data['coverage']
-            case 'fdr':
-                metric = data['fdr']
+            # Metric to use for fitness
+            match fitness:
+                case 'cov':
+                    metric = data['coverage']
+                case 'fdr':
+                    metric = data['fdr']
+                # Add more cases as needed
 
-        # adequacy score에 사용할 metric
-        match mutation:
-            case 'fdr':
-                adeq_metric = data['fdr']
-            case 'flc':
-                adeq_metric = data['fixed_line_cov']
-        execution_times = data['tet']
+            execution_times = data['tet']
 
-        test_cases = np.column_stack((execution_times, metric))
-        adequacy_scores = get_adequacy_scores(adeq_metric)
+            # Run bitflip approach
+            bitflip_ets, bitflip_fds, bitflip_res = run_bitflip(data, metric, execution_times, project_name, output_path)
+            if project_name not in all_ets_dict:
+                all_ets_dict[project_name] = {}
+                all_fds_dict[project_name] = {}
+                all_res_dict[project_name] = {}
+            all_ets_dict[project_name]['bitflip'] = bitflip_ets
+            all_fds_dict[project_name]['bitflip'] = bitflip_fds
+            all_res_dict[project_name]['bitflip'] = bitflip_res
+            
+            # Run adequacy approach
+            for mutation in mutations:
+                # Metric to use for adequacy score
+                match mutation:
+                    case 'fdr':
+                        adeq_metric = data['fdr']
+                    case 'flc':
+                        adeq_metric = data['fixed_line_cov']
+                    case 'cov':
+                        adeq_metric = data['coverage']
+                    case 'latest':
+                        adeq_metric = data['latest_fixed']
+                    case 'all':
+                        adeq_metric = data.loc[:, ['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed']]
+                adequacy_ets, adequacy_fds, adeq_res = run_adequacy(data, adeq_metric, execution_times, project_name, output_path, mutation)
+                all_ets_dict[project_name][mutation] = adequacy_ets
+                all_fds_dict[project_name][mutation] = adequacy_fds
+                all_res_dict[project_name][mutation] = adeq_res
 
-        bitflip_res = run_nsga(test_cases, verbose=False)
-        adeq_res = run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=False)
+            # Save the results
+            if not os.path.exists(output_path):
+                os.makedirs(output_path)
+            with open(os.path.join(output_path, f"{project_name}_bitflip.pkl"), 'wb') as f:
+                pickle.dump(bitflip_res, f)
+            for mutation in mutations:
+                with open(os.path.join(output_path, f"{project_name}_{mutation}_adeq.pkl"), 'wb') as f:
+                    pickle.dump(all_res_dict[project_name][mutation], f)
 
-        # store Result object of pymoo
-        if not os.path.exists(output_path):
-            os.system(f"mkdir -p {output_path}")
-        with open(os.path.join(output_path, f"{project_name}_bitflip.pkl"), 'wb') as f:
-            pickle.dump(bitflip_res, f)
-        with open(os.path.join(output_path, f"{project_name}_adeq.pkl"), 'wb') as f:
-            pickle.dump(adeq_res, f)
+    return all_ets_dict, all_fds_dict
+
 
 if __name__ == "__main__":
-    # cmd example: python experiment.py -f cov -m fdr
     parser = argparse.ArgumentParser(description="Optimize project with LLM")
-    parser.add_argument("-f", dest="fitness", action="store", default='cov')
-    parser.add_argument("-m", dest="mutation", action="store", default='fdr')
+    parser.add_argument("-f", "--fitness", nargs='+', default=['cov', 'fdr'], help="List of fitness methods to use")
+    parser.add_argument("-m", "--mutations", nargs='+', default=['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed', 'all'], help="List of mutation methods to use")
     args = parser.parse_args()
 
-    collect_result(args.fitness, args.mutation)
+    for fitness in args.fitness:
+        all_ets_dict, all_fds_dict = collect_result(fitness, args.mutations)
+        for project_name in all_ets_dict:
+            plot_figure(all_ets_dict[project_name], all_fds_dict[project_name], project_name)
