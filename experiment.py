@@ -129,7 +129,7 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Optimize project with LLM")
     parser.add_argument("-f", "--fitness", nargs='+', default=['cov', 'fdr'], help="List of fitness methods to use")
-    parser.add_argument("-m", "--mutations", nargs='+', default=['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed', 'all'], help="List of mutation methods to use")
+    parser.add_argument("-m", "--mutations", nargs='+', default=['fdr', 'flc', 'cov', 'latest', 'all'], help="List of mutation methods to use")
     args = parser.parse_args()
 
     for fitness in args.fitness:
