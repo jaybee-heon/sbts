@@ -23,6 +23,7 @@ def collect_result(fitness='cov', mutation='fdr'):
             data = pickle.load(f)
         project_name = os.path.splitext(pkl_file)[0]
         print(f'\nProject: {project_name}--------------------')
+        print(f"Adequacy: {data.shape}")
 
         # fitness에 사용할 metric
         match fitness:
@@ -49,6 +50,12 @@ def collect_result(fitness='cov', mutation='fdr'):
 
         bitflip_res = run_nsga(test_cases, verbose=False)
         adeq_res = run_nsga_with_adequecy(test_cases, adequacy_scores, verbose=False)
+        print(f"Bitflip: {bitflip_res.X.shape}")
+        print(f"Bitflip: {bitflip_res.F.shape}")
+
+        print(f"Adequacy: {adeq_res.X.shape}")
+        print(f"Ad: {adeq_res.F.shape}")
+        print(f"Af: {adeq_res.F}")
 
         # store Result object of pymoo
         if not os.path.exists(output_path):

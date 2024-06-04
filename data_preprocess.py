@@ -112,7 +112,7 @@ def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path,latest
         df4 = pd.DataFrame.from_dict(flc_data.get(key, {}), orient='index').rename(columns={0: 'fixed_line_cov'})
         df5 = pd.DataFrame.from_dict(latest_fix_data.get(key, {}), orient='index').rename(columns={0: 'latest_fix'})
 
-        merged_df = pd.concat([df1, df2, df3, df4, df5], axis=1, join='inner')
+        merged_df = pd.concat([df1, df2, df3, df4, 1/df5], axis=1, join='inner')
         projects[key] = merged_df
 
         if save:  ## pkl file로 저장(data type preserve)
