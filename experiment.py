@@ -14,38 +14,6 @@ def min_max(data):
 def standardize(data):
     return (data - np.mean(data, axis=0)) / np.std(data, axis=0)
 
-def get_adequacy_scores(data, scaling_method='min_max'):
-    if isinstance(data, pd.DataFrame) or isinstance(data, pd.Series):
-        data = data.values  # Convert pandas DataFrame or Series to NumPy array
-    
-    if data.ndim == 1:
-        data = data.reshape(-1, 1)  # Ensure data is two-dimensional if it is a single column
-
-    match scaling_method:
-        case 'min_max':
-            norm = min_max(data)
-        case 'std':
-            norm = standardize(data)
-        case _:
-            print("Warning: set scaling method")
-            norm = data
-    
-    r_norm = 1 - norm
-    selection_prob = norm / np.sum(norm, axis=0)
-    removal_prob = r_norm / np.sum(r_norm, axis=0)
-    
-    if data.shape[1] > 1:
-        # Average the probabilities across all columns if more than one column
-        avg_selection_prob = np.mean(selection_prob, axis=1)
-        avg_removal_prob = np.mean(removal_prob, axis=1)
-    else:
-        # Use the probabilities directly if only one column
-        avg_selection_prob = selection_prob.flatten()
-        avg_removal_prob = removal_prob.flatten()
-    
-    adequacy_scores = np.column_stack((avg_selection_prob, avg_removal_prob))
-    return adequacy_scores
-
 def run_bitflip(data, metric, execution_times):
     test_cases = np.column_stack((execution_times, metric))
     bitflip_res, exec_times, fault_detections = run_nsga(test_cases, verbose=False)
@@ -108,8 +76,7 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
                         adeq_metric = data['coverage']
                     case 'latest':
                         adeq_metric = data['latest_fixed']
-                    case 'all':
-                        adeq_metric = data.loc[:, ['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed']]
+                   
                 adequacy_ets, adequacy_fds, adeq_res = run_adequacy(data, adeq_metric, execution_times)
                 print("after running adequacy", data.shape, adeq_res)  
                 all_ets_dict[project_name][mutation] = adequacy_ets
