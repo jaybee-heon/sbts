@@ -74,7 +74,7 @@ def _rename_keys(d):
     project 별로 fdr, coverage, tet 파일을 읽어 dataframe 으로 만들고, 
     project 들의 데이터 프레임을 담은 리스트를 반환합니다. 
 '''
-def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=True):  
+def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path,latest_fix, save=True):  
     # Load the JSON 
     with open(fdr_path, 'r') as f:
         fdr_data = json.load(f)
@@ -84,7 +84,9 @@ def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=
         tet_data = json.load(f)
     with open(fixed_line_cov_path, 'r') as f:
         flc_data = json.load(f)
-    
+    with open(latest_fix, 'r') as f:
+        latest_fix_data = json.load(f)
+        
     merged_data = {}
     projects = {}
 
@@ -93,20 +95,24 @@ def merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=
     coverage_data = _rename_keys(coverage_data)
     tet_data = _rename_keys(tet_data)
     flc_data = _rename_keys(flc_data)
+    latest_fix_data = _rename_keys(latest_fix_data)
     
     fdr_keys = set(fdr_data.keys())
     coverage_keys = set(coverage_data.keys())  
     tet_keys = set(tet_data.keys())
     flc_keys = set(flc_data.keys())
+    latest_fix_keys = set(latest_fix_data.keys())
 
     ## fdr, coverage, tet 이 모두 있는 project 만 선택합니다.
-    all_keys = fdr_keys.intersection(coverage_keys).intersection(tet_keys).intersection(flc_keys)
+    all_keys = fdr_keys.intersection(coverage_keys).intersection(tet_keys).intersection(flc_keys).intersection(latest_fix_keys)
     for key in all_keys:
         df1 = pd.DataFrame.from_dict(fdr_data.get(key, {}), orient='index').rename(columns={0: 'fdr'})
         df2 = pd.DataFrame.from_dict(coverage_data.get(key, {}), orient='index').rename(columns={0: 'coverage'})
         df3 = pd.DataFrame.from_dict(tet_data.get(key, {}), orient='index').rename(columns={0: 'tet'})
         df4 = pd.DataFrame.from_dict(flc_data.get(key, {}), orient='index').rename(columns={0: 'fixed_line_cov'})
-        merged_df = pd.concat([df1, df2, df3, df4], axis=1, join='inner')
+        df5 = pd.DataFrame.from_dict(latest_fix_data.get(key, {}), orient='index').rename(columns={0: 'latest_fix'})
+
+        merged_df = pd.concat([df1, df2, df3, df4, df5], axis=1, join='inner')
         projects[key] = merged_df
 
         if save:  ## pkl file로 저장(data type preserve)
@@ -124,4 +130,5 @@ if __name__ == "__main__":
     coverage_path = "./data/all_coverage.json"
     tet_path = "./data/tet.json"
     fixed_line_cov_path = "./data/coverage/fixed_line_coverage.json"
-    merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path, save=True) ## data 폴더에 merged_*.json 파일을 생성합니다.
+    latest_fix = "./data/all_latest_fix.json"
+    merge_all_data(fdr_path, coverage_path, tet_path, fixed_line_cov_path,latest_fix,  save=True) ## data 폴더에 merged_*.json 파일을 생성합니다.

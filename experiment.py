@@ -37,6 +37,11 @@ def collect_result(fitness='cov', mutation='fdr'):
                 adeq_metric = data['fdr']
             case 'flc':
                 adeq_metric = data['fixed_line_cov']
+            case 'cov':
+                adeq_metric = data['coverage']
+            case 'latest':
+                adeq_metric = data['latest_fix']
+                
         execution_times = data['tet']
 
         test_cases = np.column_stack((execution_times, metric))
