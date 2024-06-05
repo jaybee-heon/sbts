@@ -15,6 +15,8 @@ from util import *
 
 # Define the test case prioritization problem
 class TestCasePrioritizationProblem(ElementwiseProblem):
+    # test_cases: execution_times, metric(coverage or fdr) 2차원 배열
+    # time_budget: 5
     def __init__(self, test_cases, time_budget):
         # Two objectives: minimize execution time and maximize fault detection
         self.test_cases = test_cases
@@ -39,6 +41,7 @@ class TestCasePrioritizationProblem(ElementwiseProblem):
 
 
 # Initialize the problem
+# test_cases: execution_times, metric(coverage or fdr) 2차원 배열
 def run_nsga(test_cases, verbose=True):
     problem = TestCasePrioritizationProblem(test_cases, 5)
 
@@ -57,7 +60,10 @@ def run_nsga(test_cases, verbose=True):
                    algorithm,
                    ("n_gen", 40),
                    verbose=verbose)
-
+    
+    # print(len(res.X))
+    # print(len(res.X[0])) # 열이 테스트케이스 넘버
+    # print(res.F)
     # Output the results
     if verbose:
         print("Optimal Test Case Selections:")
@@ -74,9 +80,9 @@ def run_nsga(test_cases, verbose=True):
     fault_detections = list(map(lambda solution: np.sum(test_cases[solution.astype(bool), 1]), res.X))
     fault_detection_rate = np.mean(fault_detections)
     
-    print("\nUsing 1/N Mutation ")
-    print("Mean execution Time", mean_execution_time)
-    print("Mean Fault Detection Rate", fault_detection_rate)
+    # print("\nUsing 1/N Mutation ")
+    # print("Mean execution Time", mean_execution_time)
+    # print("Mean Fault Detection Rate", fault_detection_rate)
     
     return res, execution_times, fault_detections
 

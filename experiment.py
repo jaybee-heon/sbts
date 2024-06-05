@@ -46,9 +46,16 @@ def get_adequacy_scores(data, scaling_method='min_max'):
     adequacy_scores = np.column_stack((avg_selection_prob, avg_removal_prob))
     return adequacy_scores
 
+# data: merged_data/pid-vid.pkl, metric: data['coverage] or data['fdr], execution_times: data['tet']
 def run_bitflip(data, metric, execution_times, project_name, output_path):
+
+    # 일차원 배열 두개 받아서 각 column으로 하는 이차원 배열로
     test_cases = np.column_stack((execution_times, metric))
+    # print(test_cases)
+    
+    # nsga로 최종 선택된 결과 bitflip_res.X: 각 테스트가  
     bitflip_res, exec_times, fault_detections = run_nsga(test_cases, verbose=False)
+    print(bitflip_res.F)
     fault_detections_rate = fault_detections / np.max(fault_detections)
     ets, fds = [exec_times], [fault_detections_rate]
     return ets, fds, bitflip_res
@@ -86,42 +93,43 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
             execution_times = data['tet']
 
             # Run bitflip approach
+            # data: merged_data/pid-vid.pkl, metric: data['coverage] or data['fdr], execution_times: data['tet']
             bitflip_ets, bitflip_fds, bitflip_res = run_bitflip(data, metric, execution_times, project_name, output_path)
-            if project_name not in all_ets_dict:
-                all_ets_dict[project_name] = {}
-                all_fds_dict[project_name] = {}
-                all_res_dict[project_name] = {}
-            all_ets_dict[project_name]['bitflip'] = bitflip_ets
-            all_fds_dict[project_name]['bitflip'] = bitflip_fds
-            all_res_dict[project_name]['bitflip'] = bitflip_res
+            # if project_name not in all_ets_dict:
+            #     all_ets_dict[project_name] = {}
+            #     all_fds_dict[project_name] = {}
+            #     all_res_dict[project_name] = {}
+            # all_ets_dict[project_name]['bitflip'] = bitflip_ets
+            # all_fds_dict[project_name]['bitflip'] = bitflip_fds
+            # all_res_dict[project_name]['bitflip'] = bitflip_res
             
-            # Run adequacy approach
-            for mutation in mutations:
-                # Metric to use for adequacy score
-                match mutation:
-                    case 'fdr':
-                        adeq_metric = data['fdr']
-                    case 'flc':
-                        adeq_metric = data['fixed_line_cov']
-                    case 'cov':
-                        adeq_metric = data['coverage']
-                    case 'latest':
-                        adeq_metric = data['latest_fixed']
-                    case 'all':
-                        adeq_metric = data.loc[:, ['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed']]
-                adequacy_ets, adequacy_fds, adeq_res = run_adequacy(data, adeq_metric, execution_times, project_name, output_path, mutation)
-                all_ets_dict[project_name][mutation] = adequacy_ets
-                all_fds_dict[project_name][mutation] = adequacy_fds
-                all_res_dict[project_name][mutation] = adeq_res
+            # # Run adequacy approach
+            # for mutation in mutations:
+            #     # Metric to use for adequacy score
+            #     match mutation:
+            #         case 'fdr':
+            #             adeq_metric = data['fdr']
+            #         case 'flc':
+            #             adeq_metric = data['fixed_line_cov']
+            #         case 'cov':
+            #             adeq_metric = data['coverage']
+            #         case 'latest':
+            #             adeq_metric = data['latest_fixed']
+            #         case 'all':
+            #             adeq_metric = data.loc[:, ['fdr', 'fixed_line_cov', 'coverage', 'latest_fixed']]
+            #     adequacy_ets, adequacy_fds, adeq_res = run_adequacy(data, adeq_metric, execution_times, project_name, output_path, mutation)
+            #     all_ets_dict[project_name][mutation] = adequacy_ets
+            #     all_fds_dict[project_name][mutation] = adequacy_fds
+            #     all_res_dict[project_name][mutation] = adeq_res
 
-            # Save the results
-            if not os.path.exists(output_path):
-                os.makedirs(output_path)
-            with open(os.path.join(output_path, f"{project_name}_bitflip.pkl"), 'wb') as f:
-                pickle.dump(bitflip_res, f)
-            for mutation in mutations:
-                with open(os.path.join(output_path, f"{project_name}_{mutation}_adeq.pkl"), 'wb') as f:
-                    pickle.dump(all_res_dict[project_name][mutation], f)
+            # # Save the results
+            # if not os.path.exists(output_path):
+            #     os.makedirs(output_path)
+            # with open(os.path.join(output_path, f"{project_name}_bitflip.pkl"), 'wb') as f:
+            #     pickle.dump(bitflip_res, f)
+            # for mutation in mutations:
+            #     with open(os.path.join(output_path, f"{project_name}_{mutation}_adeq.pkl"), 'wb') as f:
+            #         pickle.dump(all_res_dict[project_name][mutation], f)
 
     return all_ets_dict, all_fds_dict
 
