@@ -48,7 +48,7 @@ if __name__ == "__main__":
     # with open(f"/root/workspace/all_classes/{pid}-{vid}/all_tests", 'r') as tf:
     with open(os.path.join(tmp_dir, "all_tests"), 'r') as tf:
         all_tests = tf.readlines()
-    num_parts = 1
+    num_parts = 4
     part_idx = args.part_idx
     print(f"{part_idx + 1}/{num_parts} is running")
     num_tests = len(all_tests)
@@ -64,13 +64,15 @@ if __name__ == "__main__":
         test_class = test_class[:-2]
         test_signature = test_class+"::"+test_method
         
+        fdr_result[pid+"_"+vid][test_signature] = []
+
         if os.path.exists(output_file):
             with open(output_file, 'r') as rf:
-                exist_data = json.load(rf)
-                if test_signature in exist_data[pid+"_"+vid]:
+                fdr_result = json.load(rf)
+                if test_signature in fdr_result[pid+"_"+vid]:
                     continue
 
-        fdr_result[pid+"_"+vid][test_signature] = []
+        
 
         # fault? bug?
         print("Measuring Bug Detection Rate...")
