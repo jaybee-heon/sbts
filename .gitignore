@@ -3,3 +3,5 @@ pymoo_to_adequacy/
 __pycache__/
 *__pycache__*
 *.pyc
+Miniconda3-latest-Linux-x86_64.sh
+bfg.jar

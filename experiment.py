@@ -69,7 +69,7 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
 
             # Run adequacy approach
             for mutation in mutations:
-                output_path = os.path.join("./data/experiment_result/", f"f_{fitness}_m_{mutation}")
+                output_path = os.path.join("./data/experiment_result/40_generation/", f"f_{fitness}_m_{mutation}")
                 # Metric to use for adequacy score
                 match mutation:
                     case 'fdr':
@@ -101,10 +101,10 @@ def collect_result(fitness='cov', mutations=['fdr', 'cov']):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Optimize project with LLM")
-    parser.add_argument("-f", "--fitness", default='cov', help="List of fitness methods to use")
+    parser.add_argument("-f", "--fitness", default='fdr', help="List of fitness methods to use")
     parser.add_argument("-m", "--mutations", nargs='+', default=['fdr', 'flc', 'cov', 'latest'], help="List of mutation methods to use")
     args = parser.parse_args()
 
     all_ets_dict, all_fds_dict = collect_result(args.fitness, args.mutations)
-    for project_name in all_ets_dict:
-        plot_figure(all_ets_dict[project_name], all_fds_dict[project_name], project_name, args.fitness)
+    # for project_name in all_ets_dict:
+        # plot_figure(all_ets_dict[project_name], all_fds_dict[project_name], project_name, args.fitness)
